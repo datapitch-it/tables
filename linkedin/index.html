@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Renderer</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .sticky-header {
+            background-color: #b2d7fc;
+            z-index: 1020;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="sticky-header sticky-top">
+        <div class="container d-flex justify-content-between align-items-center">
+            <input type="text" id="search-field" class="form-control w-75" placeholder="Search...">
+            <span id="item-count" class="badge bg-primary text-white">0 items</span>
+        </div>
+    </div>
+
+    <div class="container my-5">
+        <!-- Data Container -->
+        <div id="data-container" class="w-100 mx-auto">Loading data...</div>
+    </div>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let originalData = []; // To store original data
+        let filteredData = []; // To store filtered data
+
+        // Function to fetch and render data
+        async function fetchData() {
+            try {
+                const response = await fetch('./extracted_data.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                originalData = await response.json();
+                filteredData = [...originalData]; // Initialize filtered data
+                renderData(filteredData);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                document.getElementById('data-container').innerHTML = '<div class="alert alert-danger">Failed to load data.</div>';
+            }
+        }
+
+        // Function to render data
+        function renderData(data) {
+            const container = document.getElementById('data-container');
+            const itemCount = document.getElementById('item-count');
+
+            // Update item count
+            itemCount.textContent = `${data.length} item${data.length !== 1 ? 's' : ''}`;
+
+            // Clear and render items
+            container.innerHTML = '';
+            data.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.classList.add('data-item', 'border', 'rounded', 'p-3', 'mb-3');
+
+                // Render inline-url links if they exist
+                let inlineLinks = '';
+                if (item['inline-url'] && item['inline-url'].length > 0) {
+                    inlineLinks = `
+                        <div class="mb-2"><strong>Inline-url:</strong> 
+                        ${item['inline-url'].map(url => `<a href="${url}" target="_blank" class="text-decoration-none">${url}</a>`).join(', ')}
+                        </div>`;
+                }
+
+                // Build the HTML content conditionally
+                let content = `
+                    <div class="mb-2"><strong>Description:</strong> ${item.text || 'N/A'}</div>
+                `;
+
+                if (item.link) {
+                    content += `
+                        <div class="mb-2"><strong>Link:</strong> <a href="${item.link}" target="_blank" class="text-decoration-none">${item.link}</a></div>
+                    `;
+                }
+
+                // Render URN as a LinkedIn URL
+                if (item.urn) {
+                    const linkedInUrl = `https://www.linkedin.com/feed/update/${item.urn}/`;
+                    content += `
+                        <div class="mb-2"><strong>URN:</strong> <a href="${linkedInUrl}" target="_blank" class="text-decoration-none">${linkedInUrl}</a></div>
+                    `;
+                }
+
+                // Append inline-url if available
+                content += inlineLinks;
+
+                itemDiv.innerHTML = content;
+                container.appendChild(itemDiv);
+            });
+        }
+
+        // Function to filter data
+        function filterData(query) {
+            const lowerCaseQuery = query.toLowerCase();
+            filteredData = originalData.filter(item => {
+                return Object.values(item).some(value =>
+                    value &&
+                    (Array.isArray(value)
+                        ? value.some(subValue => subValue.toLowerCase().includes(lowerCaseQuery))
+                        : value.toString().toLowerCase().includes(lowerCaseQuery))
+                );
+            });
+            renderData(filteredData);
+        }
+
+        // Attach event listener to search field
+        document.getElementById('search-field').addEventListener('input', (event) => {
+            const query = event.target.value;
+            filterData(query);
+        });
+
+        // Initial fetch and render
+        fetchData();
+    </script>
+</body>
+</html>

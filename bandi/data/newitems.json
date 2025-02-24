@@ -1,0 +1,47 @@
+{
+    "scraping_timestamp": "2025-02-24 06:15:09",
+    "data": [
+        {
+            "deadline": "Invalid Date",
+            "title": "Immediate Needs Grant for Huntington County",
+            "description": "Community Foundation of Huntington County",
+            "link": "https://gfmd.info/fundings/immediate-needs-grant-for-huntington-county/",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Huntington County",
+                    "Tipologia Scadenza": "Open",
+                    "Stanziamento": "Up to $1,500."
+                }
+            }
+        },
+        {
+            "deadline": "2025-02-28",
+            "title": "Media Resilience Grant for Jordanian Media Outlets",
+            "description": "Free Press Unlimited (FPU)",
+            "link": "https://gfmd.info/fundings/media-resilience-grant-for-jordanian-media-outlets/",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Jordan",
+                    "Tipologia Scadenza": "Open",
+                    "Stanziamento": "€50,000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-03-27",
+            "title": "European Local Cross-border Grants for Investigative Journalism",
+            "description": "European Union",
+            "link": "https://gfmd.info/fundings/european-local-cross-border-grants-for-investigative-journalism/",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Europe",
+                    "Tipologia Scadenza": "Open",
+                    "Stanziamento": "€250,000"
+                }
+            }
+        }
+    ]
+}

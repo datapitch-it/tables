@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calls for Proposals from OnePass</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container my-4">
+        <!-- Page Title -->
+        <h1 class="text-center">Calls for Proposals from OnePass</h1>
+
+        <!-- Subtitle with scraping date -->
+        <h5 class="text-center" id="subtitle">Data scraped on [date]</h5>
+
+        <!-- Search Field -->
+        <div class="my-4">
+            <input type="text" id="search" class="form-control" placeholder="Search by keyword...">
+        </div>
+
+        <!-- Table for displaying data -->
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Tags</th>
+                    <th>Status</th>
+                    <th>Deadline</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody id="calls-table-body">
+                <!-- Data will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+
+    <!-- Custom JavaScript to load and display JSON data -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const tableBody = document.getElementById('calls-table-body');
+            const subtitle = document.getElementById('subtitle');
+            const searchField = document.getElementById('search');
+
+            // Fetch the JSON file
+            fetch('onepass-call.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Set the scraping date in the subtitle
+                    const scrapeDate = new Date();
+                    subtitle.textContent = `Data scraped on ${scrapeDate.toLocaleTimeString()} - ${scrapeDate.toLocaleDateString()}`;
+
+                    // Sort the data by deadline in ascending order
+                    const sortedData = data.sort((a, b) => {
+                        const dateA = parseDate(a.deadline);
+                        const dateB = parseDate(b.deadline);
+                        return dateA - dateB;
+                    });
+
+                    // Render the table rows with the sorted JSON data
+                    renderTable(sortedData);
+
+                    // Add search functionality
+                    searchField.addEventListener('input', function() {
+                        const searchText = searchField.value.toLowerCase();
+                        const filteredData = sortedData.filter(call => 
+                            call.title.toLowerCase().includes(searchText) || 
+                            call.description.toLowerCase().includes(searchText) ||
+                            call.tags.some(tag => tag.toLowerCase().includes(searchText))
+                        );
+                        renderTable(filteredData);
+                    });
+                })
+                .catch(error => console.error('Error loading the JSON data:', error));
+
+            // Function to render the table rows
+            function renderTable(calls) {
+                tableBody.innerHTML = '';  // Clear the table body before inserting new rows
+                calls.forEach(call => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${call.title}</td>
+                        <td>${call.description}</td>
+                        <td>${call.tags.join(', ')}</td>
+                        <td>${call.status}</td>
+                        <td>${call.deadline}</td>
+                        <td><a href="${call.url}" target="_blank">View Call</a></td>
+                    `;
+                    tableBody.appendChild(row);
+                });
+            }
+
+            // Function to parse the deadline and return a valid Date object
+            function parseDate(deadline) {
+                // Check if the deadline has a valid date or is "No deadline found"
+                if (deadline === "No deadline found") {
+                    return new Date(0);  // Return the earliest possible date for missing deadlines
+                }
+                
+                // Parse the date string (assumes the format is DD/MM/YYYY or similar)
+                const [day, month, year] = deadline.split('/').map(Number);
+                return new Date(year, month - 1, day);  // month - 1 because JavaScript months are 0-indexed
+            }
+        });
+    </script>
+</body>
+</html>
+

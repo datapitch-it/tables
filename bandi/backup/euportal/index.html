@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calls from the EU Funding and Tenders Portal</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        th {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body class="container">
+
+    <h1 class="text-center my-4">Calls from the EU Funding and Tenders Portal</h1>
+    <h2 id="subtitle" class="text-center"></h2>
+
+    <div class="mb-3">
+        <input type="text" id="filter" class="form-control" placeholder="Filter events...">
+    </div>
+    <div class="mb-3 text-center">
+        <button id="dateFilter" class="btn btn-primary">Show Events from Today On</button>
+    </div>
+    <div id="filteredCount" class="text-center mb-3"></div>
+
+    <table id="eventsTable" class="table table-bordered table-hover">
+        <thead class="table-light">
+            <tr>
+                <th>Summary</th>
+                <th>Description</th>
+                <th onclick="sortTable(2)">Start Date &#x25B2;&#x25BC;</th>
+                <th onclick="sortTable(3)">End Date &#x25B2;&#x25BC;</th>
+                <th>Topic Link</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        // Function to format date to DD-MM-YYYY
+        function formatDate(dateString) {
+            if (!dateString) return '';
+            const date = new Date(dateString);
+            const day = String(date.getDate()).padStart(2, '0');
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const year = date.getFullYear();
+            return `${day}-${month}-${year}`;
+        }
+
+        // Function to replace \n with <br>
+        function replaceNewlineWithBr(text) {
+            return text.replace(/\\n/g, '<br>');
+        }
+
+// Fetch data from the JSON file
+fetch('events.json')
+    .then(response => response.json())
+    .then(data => {
+        // Get the table body and subtitle elements
+        const tableBody = document.getElementById('eventsTable').getElementsByTagName('tbody')[0];
+        const subtitle = document.getElementById('subtitle');
+
+        // Set the subtitle with the number of events and last update date
+        const numberOfEvents = data.length;
+        const lastUpdateDate = new Date().toLocaleDateString('en-GB');
+        subtitle.textContent = `Number of events: ${numberOfEvents} | Last update: ${lastUpdateDate}`;
+
+        // Populate the table with data
+        data.forEach(event => {
+            const row = tableBody.insertRow();
+            row.insertCell(0).textContent = event.summary || '';
+            row.insertCell(1).innerHTML = replaceNewlineWithBr(event.description) || '';
+            row.insertCell(2).textContent = formatDate(event.dtstart) || '';
+            row.insertCell(3).textContent = formatDate(event.dtend) || '';
+            const topicLinkCell = row.insertCell(4);
+
+            if (event.topic_link) {
+                const link = document.createElement('a');
+                link.href = event.topic_link;
+                link.textContent = "View call";
+                link.target = '_blank';
+                topicLinkCell.appendChild(link);
+            } else {
+                topicLinkCell.textContent = '';
+            }
+        });
+
+        // Sort the table by End Date (column index 3) in ascending order by default
+        sortTable(3, 'asc');
+
+        // Set the initial filtered count
+        document.getElementById('filteredCount').textContent = `Filtered events: ${numberOfEvents}`;
+
+        // Filter functionality
+        document.getElementById('filter').addEventListener('keyup', function () {
+            const filter = this.value.toLowerCase();
+            const rows = tableBody.getElementsByTagName('tr');
+            let filteredCount = 0;
+
+            Array.from(rows).forEach(row => {
+                const cells = row.getElementsByTagName('td');
+                const match = Array.from(cells).some(cell => cell.textContent.toLowerCase().includes(filter));
+                row.style.display = match ? '' : 'none';
+                if (match) filteredCount++;
+            });
+
+            document.getElementById('filteredCount').textContent = `Filtered events: ${filteredCount}`;
+        });
+
+        // Date filter functionality
+        document.getElementById('dateFilter').addEventListener('click', function () {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const rows = tableBody.getElementsByTagName('tr');
+            let filteredCount = 0;
+
+            Array.from(rows).forEach(row => {
+                const startDateText = row.getElementsByTagName('td')[2].textContent;
+                const startDate = startDateText ? new Date(startDateText.split('-').reverse().join('-')) : null;
+
+                const match = startDate && startDate >= today;
+                row.style.display = match ? '' : 'none';
+                if (match) filteredCount++;
+            });
+
+            document.getElementById('filteredCount').textContent = `Filtered events: ${filteredCount}`;
+        });
+    })
+    .catch(error => console.error('Error fetching the JSON file:', error));
+
+// Function to sort table by date columns
+function sortTable(columnIndex, order = 'asc') {
+    const table = document.getElementById('eventsTable');
+    const tbody = table.getElementsByTagName('tbody')[0];
+    const rows = Array.from(tbody.getElementsByTagName('tr'));
+
+    // Sort rows by date
+    rows.sort((a, b) => {
+        const aText = a.getElementsByTagName('td')[columnIndex].textContent;
+        const bText = b.getElementsByTagName('td')[columnIndex].textContent;
+
+        const aDate = aText ? new Date(aText.split('-').reverse().join('-')) : new Date(0);
+        const bDate = bText ? new Date(bText.split('-').reverse().join('-')) : new Date(0);
+
+        return order === 'asc' ? aDate - bDate : bDate - aDate;
+    });
+
+    // Remove existing rows and append sorted rows
+    while (tbody.firstChild) {
+        tbody.removeChild(tbody.firstChild);
+    }
+    rows.forEach(row => tbody.appendChild(row));
+}
+
+    </script>
+
+</body>
+</html>
+
