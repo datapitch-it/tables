@@ -1725,5 +1725,388 @@
         "urn": "urn:li:activity:7267439515177295872",
         "link": "https://hackernoon.com/how-to-get-started-with-free-satellite-imagery-sentinel-landsat-cbers-and-more",
         "text": "13 tool per trovare e usare immagini satellitari, e qualche dritta per muovere i primi passi. Da salvare tra i preferiti!"
+    },
+    {
+        "urn": "urn:li:activity:7273035955576414208",
+        "text": "Sono orgogliosa di condividere la pubblicazione del Bilancio Sociale 2024 di Fondazione Deloitte, un documento che racconta le attivit\u00e0 realizzate e sostenute, i risultati raggiunti e l'impatto generato nell'ultimo esercizio fiscale.\n\n\ud83d\udccc Oltre 80 iniziative realizzate in 8 anni di attivit\u00e0, con l'obiettivo di:\n- Valorizzare e tutelare la cultura, l\u2019arte e i beni artistici.\n- Creare opportunit\u00e0 di accesso all\u2019istruzione e al lavoro per tutte e tutti.\n- Sostenere le comunit\u00e0 colpite da emergenze.\n\n\ud83c\udfa8 Rinnovato impegno a sostegno dell'arte fotografica attraverso:\n- La seconda edizione del Photo Grant, il premio fotografico internazionale di Deloitte, quest'anno dedicato al tema \"Possibilities\", e rivolto sia ad artisti affermati che a talenti emergenti under 35.\n- Il sostegno alla mostra \u201cStraordinarie\u201d, che ha raccolto oltre 100 ritratti di donne che si sono distinte in diversi ambiti professionali, promuovendo l\u2019empowerment femminile e offrendo alle giovani donne modelli di riferimento a cui ispirarsi.\n\n\ud83d\udcda Focus su istruzione e mondo del lavoro con:\n- La pubblicazione di un position paper, realizzato in collaborazione con il Programma di Politiche Pubbliche di Deloitte, che esamina la situazione delle discipline tecnico-scientifiche nel nostro Paese, evidenziando il ruolo fondamentale delle competenze STEM per affrontare le principali sfide globali.\n- Il sostegno al corso di formazione online (PCTO) \"Hacking science: professioni spaziali\", per avvicinare i giovani alle STEM attraverso strumenti didattici innovativi e modelli di riferimento capaci di trasmettere il fascino e la bellezza della scienza.\n- La realizzazione e disseminazione del documentario breve \"Un punto preciso\", che riflette sull\u2019eredit\u00e0 intellettuale di Margherita Hack, a partire dalla scultura a lei dedicata, donata da Fondazione Deloitte alla citt\u00e0 di Milano.\n\n\ud83c\udf0d Sostegno alle comunit\u00e0 tramite:\n- Interventi concreti per rispondere a cinque emergenze, in Italia e all'estero, sostenendo le comunit\u00e0 colpite da conflitti e catastrofi naturali.\n\n\ud83d\udd17 Il bilancio completo \u00e8 disponibile al seguente link: https://lnkd.in/dwKpj_P2\n\n#FondazioneDeloitte #BilancioSociale2024 #Sostenibilit\u00e0 #Arte #Istruzione #STEM #Empowerment",
+        "inline-url": [
+            "https://www.deloitte.com/it/it/about/people/social-responsibility/bilancio-sociale-2024-deloitte-italy-fondazione-deloitte.html"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7272528180308045824"
+    },
+    {
+        "urn": "urn:li:activity:7272254139345117184",
+        "text": "\ud83d\uddfa\ufe0f \ud83d\ude87 Le mappe delle metropolitane non mostrano solo percorsi, ma raccontano storie di semplificazione e design. In questo video, vediamo come appaiono davvero le linee di Berlino, New York, Shanghai e altre citt\u00e0 rispetto alle loro rappresentazioni schematiche: un esempio di come la visualizzazione pu\u00f2 trasformare la complessit\u00e0 in chiarezza.\n\nFonte: https://lnkd.in/df8GWNwJ\n\n---\n\n\ud83d\uddfa\ufe0f \ud83d\ude87Subway maps don\u2019t just show routes\u2014they tell stories of simplification and design. In this video, we see how the lines of Berlin, New York, Shanghai, and other cities actually look compared to their schematic representations\u2014a great example of how visualization can turn complexity into clarity.\n\n Source: https://lnkd.in/df8GWNwJ\n\n#maps #dataviz #design",
+        "inline-url": [
+            "https://youtube.com/shorts/EhKiCdM4Jbg?si=oh5fpZzY9FUZVVlw",
+            "https://youtube.com/shorts/EhKiCdM4Jbg?si=oh5fpZzY9FUZVVlw"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7272219755569164289",
+        "text": "Tema: Scaricare tutte le notizie da un sito di news e farsi creare un sommario quotidiano. \n\nSvolgimento: Ho scaricato tutti i titoli delle news su www.corriere.it e ho chiesto all'intelligenza artificiale di riassumermeli. \nDopo aver importunato per qualche ora in chat Andrea Borruso, mi ritrovo con un nuovo giochino tra dati, news ed llm, tutto fatto a manina. Dal un lato, \u00e8 vero, \u00e8 una cosa per nerd. Dall'altro per\u00f2 se avessi un bottone che ogni mattina mi esegue il giochino... avrei una rassegna stampa comodissima, aggiornata a quando voglio io, magari anche trasformabile in podcast. E il tutto senza passare dall'edicola! :-) \n\nI tool utilizzati sono:\n- curl per scaricare l'html dal sito del corriere\n- pup per estrarre dall'html prima i tag <a> con i titoli degli articoli, e poi solo i titoli\n- llm-datasette che \u00e8 il mio assistente AI preferito (anche se a dire il vero il mio assistente AI preferito \u00e8 sempre Borruso)"
+    },
+    {
+        "urn": "urn:li:activity:7272219624400711680",
+        "text": "\ud83c\udf84\ud835\uddd6\ud835\uddf5\ud835\uddf2 \ud835\ude00\ud835\ude02\ud835\uddf0\ud835\uddf0\ud835\uddf2\ud835\uddf1\ud835\uddf2 \ud835\uddee \ud835\uddd4\ud835\uddf9\ud835\uddf9 \ud835\udddc \ud835\uddea\ud835\uddee\ud835\uddfb\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddd6\ud835\uddf5\ud835\uddff\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddfa\ud835\uddee\ud835\ude00 \ud835\uddf6\ud835\ude00 \ud835\ude06\ud835\uddfc\ud835\ude02? \ud835\udde8\ud835\uddfb \ud835\uddf4\ud835\uddff\ud835\uddee\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddfc \ud835\uddf2 \ud835\uddf6 \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf6 \ud835\uddf0\ud835\uddf6 \ud835\uddee\ud835\uddf6\ud835\ude02\ud835\ude01\ud835\uddee\ud835\uddfb\ud835\uddfc \ud835\uddee \ud835\uddf0\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\uddff\ud835\uddf9\ud835\uddfc.\n\nOgni anno, con l\u2019avvicinarsi del Natale, All I Want for Christmas Is You di Mariah Carey si impone come il tormentone natalizio per eccellenza, anticipando sempre pi\u00f9 il suo ingresso nelle playlist.\n\nMa quest\u2019anno i dati raccontano una storia diversa: il dominio del brano nei mesi autunnali si sta riducendo.\n\nL\u2019analisi di Joe Murphy per NBC News, basata sui dati di ascolto di Last.fm dal 2005 al 2024, mette in luce due trend interessanti, evidenti anche nella data visualization qui sotto:\n\n\ud83d\udd34 Una graduale espansione degli ascolti dal solo dicembre fino a novembre e persino ottobre, iniziata nel 2010.\n\ud83d\udd34 Un calo marcato tra il 2023 e il 2024: -35% a ottobre e -22% a novembre.\n\n\ud83c\udf84 E tu, quando hai ascoltato questa canzone per la prima volta quest\u2019anno?\n\nTrovi il link all'articolo completo con tutti i dettagli nel primo commento.\n\n---\n\n\ud83c\udf84\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01\u2019\ud835\ude00 \ud835\uddf5\ud835\uddee\ud835\uddfd\ud835\uddfd\ud835\uddf2\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddfc \ud835\uddd4\ud835\uddf9\ud835\uddf9 \ud835\udddc \ud835\uddea\ud835\uddee\ud835\uddfb\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddd6\ud835\uddf5\ud835\uddff\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddfa\ud835\uddee\ud835\ude00 \ud835\uddf6\ud835\ude00 \ud835\ude06\ud835\uddfc\ud835\ude02? \ud835\uddd4 \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddf5\ud835\uddf2\ud835\uddf9\ud835\uddfd \ud835\ude02\ud835\ude00 \ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddfb\ud835\uddf1. \n\nEvery year, as Christmas approaches, All I Want for Christmas Is You by Mariah Carey dominates as the ultimate holiday hit, arriving earlier and earlier in playlists.\n\nBut this year, the data tells a different story: the song's dominance during the autumn months is slipping.\n\nJoe Murphy\u2019s analysis for NBC News, based on Last.fm listening data from 2005 to 2024, reveals two interesting trends, clearly visible in the data visualization below:\n\n\ud83d\udd34 A gradual expansion of listens from just December to November and even October, starting in 2010.\n\ud83d\udd34 A significant decline between 2023 and 2024: -35% in October and -22% in November.\n\n\ud83c\udf84 When did you hear this song for the first time this year?\n\nYou can find the link to the full article with all the details in the first comment.\n\n#dataviz #Datavisualization #christmas #Natale #MariahCarey #music #dataAnalysis"
+    },
+    {
+        "urn": "urn:li:activity:7272217413838929920",
+        "text": "On\u00a0December 17th at 2 PM CET, the next Inspiring Experiences webinar of the #DigCompHub project will be devoted to\u00a0DigitalBarometer, the initiative by the\u00a0Bavarian Research Institute for Digital Transformation (#bidt)\u00a0which analyzes the digital competences of the population in Germany and compares them with those of other EU countries. On the\u00a0event's page, you find more information and the registration form: https://lnkd.in/djBBiu8R\nSee you there!",
+        "link": "https://events.teams.microsoft.com/event/a085dd60-c369-47d9-8ad5-6a4ca6191efc@8d8b2be4-0c2e-4b10-8d42-9ef10987a89f",
+        "inline-url": [
+            "https://events.teams.microsoft.com/event/a085dd60-c369-47d9-8ad5-6a4ca6191efc@8d8b2be4-0c2e-4b10-8d42-9ef10987a89f"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7272196223753732096",
+        "text": "Arriva il chatbot AI di Reddit \n\nhttps://lnkd.in/dPn9RHUx\nhttps://lnkd.in/dNnkxaxb",
+        "link": "https://qz.com/reddit-answers-ai-chatbot-google-openai-chatgpt-search-1851716486",
+        "inline-url": [
+            "https://qz.com/reddit-answers-ai-chatbot-google-openai-chatgpt-search-1851716486",
+            "https://www.reddit.com/answers/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7271967449707675648",
+        "text": "Stiamo assumendo ! Cerchiamo un/una project manager per seguire i nostri eventi e progetti .\n\nQui tutte le informazioni: \n\nhttps://lnkd.in/dSFYd4GJ",
+        "inline-url": [
+            "https://www.digital360.it/lavora-con-noi/project-manager-sostituzione-maternita/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7271446337282351104",
+        "text": "\ud83d\udce2 L'intelligenza artificiale sta riscrivendo LinkedIn?\nUn recente studio rivela che oltre il 54% dei post lunghi in inglese su LinkedIn \u00e8 probabilmente generato dall\u2019IA. L'introduzione di strumenti di scrittura automatica ha trasformato la piattaforma in un laboratorio ideale per contenuti professionali ottimizzati.\nLinkedIn ha abbracciato l'IA, integrando strumenti di scrittura per aiutare gli utenti a creare post, aggiornare profili e scrivere messaggi diretti. Tuttavia, questa evoluzione solleva interrogativi su autenticit\u00e0 e originalit\u00e0: il confine tra contenuti generati dall\u2019uomo e dall\u2019IA \u00e8 sempre pi\u00f9 sfumato.\nLa tecnologia offre efficienza, ma anche sfide etiche. Come dovremmo bilanciare automazione e autenticit\u00e0 nel mondo professionale digitale?\n\n\ud83d\udca1 La vostra opinione conta: l\u2019IA \u00e8 uno strumento indispensabile o una minaccia per la creativit\u00e0 professionale? Condividete i vostri pensieri nei commenti!\n\n***\n\nDisclaimer: \n- questo post \u00e8 stato generato da ChatGPT4o con questo prompt: \u00abAnalizza il testo di questo articolo e scrivi in Italiano un post per linkedin che pubblicher\u00f2 sul mio profilo\u00bb, dandogli questo articolo https://lnkd.in/dHJE9G65\n\n- Questo post \u00e8 stato pubblicato perch\u00e9 ho letto la newsletter di Gianluca Diegoli, che dice di aver generato con l'AI un post che \u00e8 diventato virale, in cui analizza una ricerca in cui si dice che la met\u00e0 dei post di Linkedin siano generati con l'AI, e insomma sto sfizio me lo volevo passare anch'io.  https://lnkd.in/dq3ehHfi",
+        "inline-url": [
+            "https://www.wired.com/story/linkedin-ai-generated-influencers/",
+            "https://lettera.minimarketing.it/p/ho-creato-un-post-virale-con-ai-su-linkedin"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7271434787288989696",
+        "text": "Want Claude to more closely match how you communicate? You can now upload writing samples and Claude will automatically generate custom styles, just for you."
+    },
+    {
+        "urn": "urn:li:activity:7271433259270488064",
+        "text": "\ud83c\udf1f [Announcement] The #OpenDataEditor stable release is out today! You can download version 1.2.0 here: https://lnkd.in/dQksUNtm\n\n\ud83d\udcab ODE is our new open source app that makes working with data easier for people with little to no technical skills.\n\n\ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb Now anyone can detect errors in their tables and optimise the #datainteroperability. The latest features improved at ODE are changes to the Errors Report Panel, #AI integration, and fixes to usability. \n\n\ud83d\udce9 Available for Linux, MacOS and Windows: https://lnkd.in/dvKxHwbi\n\n\ud83d\ude4f\ud83c\udffe Thanks to the kind support of\u00a0The Patrick J. McGovern Foundation, the\u00a0\nOpen Knowledge Foundation\u00a0team spent the last 10 months working to unlock the\u00a0#FrictionlessData\u00a0standards and specifications for users unfamiliar with coding.\u00a0cc Sara Petti Patricio Del Boca Romina Colman Guergana Tzatchkova Faith Kenny Evgeny Karev\n\nThe result is an app that has the potential to democratise working with open data beyond the current circles of practitioners.\n\n\ud83d\udc99 We would like to thank the #opendata community and the #OpenKnowledgeNetwork, which helped us during the user research and testing phase, and especially Storydata\u00a0and ACIJ Asociaci\u00f3n Civil por la Igualdad y la Justicia as the official testing organisations.\n\n\ud83d\udcda A course on data publishing and good practices by\u00a0Open Knowledge Brasil\u00a0is on the way. And your feedback will play a critical role as we refine and expand ODE over time.\n\nStay tuned for updates, and feel free to share your thoughts with us!\n\n#TheTechWeWant #OpenData",
+        "inline-url": [
+            "https://blog.okfn.org/2024/12/05/announcement-open-data-editor-1-2-0-stable-version-release/",
+            "https://github.com/okfn/opendataeditor/releases/tag/v1.2.0"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7300428128215011328",
+        "text": "Davvero bellissimo il reportage di Davide Del Monte dall'AI Summit di Parigi. E sempre pi\u00f9 indispensabile il sito informativo Guerredirete.it. Credo che in generale sia la fonte in lingua italiana pi\u00f9 autorevole per me, su cybersecurity, intelligenza artificiale, spy stories di Stato (tipo Paragon). \u00c8 tutta un'altra via di fare giornalismo.",
+        "link": "https://www.guerredirete.it/laltra-faccia-dellai-summit-di-parigi/"
+    },
+    {
+        "urn": "urn:li:activity:7294789906260783104",
+        "text": "Today, we\u2019re launching the Anthropic Economic Index, a new initiative aimed at understanding AI\u2019s impact on the economy over time. In the Index\u2019s first research report, we provide a novel analysis of how AI is being used across the modern economy.\n\nWe\u2019re open-sourcing the dataset so that economists, policy experts, and others can build on our findings, and we'll publish regular updates tracking AI usage trends.\n\nLearn more here: https://lnkd.in/eYArxXym"
+    },
+    {
+        "urn": "urn:li:activity:7294669868853829634",
+        "text": "La lista - sempre aggiornata - dei 100 tool di Generative AI \nhttps://lnkd.in/dAATP5xv",
+        "inline-url": [
+            "https://www.flexos.work/ai-top-100"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7294669468926906368",
+        "text": "Proud to be (a little) part of, thanks to Davide Taibi! \ud83d\ude80"
+    },
+    {
+        "urn": "urn:li:activity:7293187267135725568",
+        "text": "La parola \"Slop\" \u00e8 stata scelta per indicare contenuti creati con l'Intelligenza Artificiale ma di bassissima qualit\u00e0. Cosa che pu\u00f2 capitare di fare a chiunque di  noi (nessun* esclus*) se abbiamo fretta e cadiamo nella tentazione di trovare una scorciatoia. Negli USA ovviamente \u00e8 gi\u00e0 un'emergenza, e le biblioteche pubbliche si stanno riempendo di Slop (SpoilerAlert: Trump non c'entra :P) \n\nhttps://lnkd.in/d2vdw2kT",
+        "link": "https://www.404media.co/ai-generated-slop-is-already-in-your-public-library-3/",
+        "inline-url": [
+            "https://www.404media.co/ai-generated-slop-is-already-in-your-public-library-3/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7292479452461043713",
+        "text": "Ultimamente nei meeting online vedo sempre pi\u00f9 spesso utenti \"sintetici\" che sfruttano l'AI per ascoltare la conversazione e creare un summary disponibile per chiunque all'interno della call. Il pi\u00f9 diffuso \u00e8 Read.ai, e lo consiglio caldamente!",
+        "link": "https://www.read.ai/it"
+    },
+    {
+        "urn": "urn:li:activity:7290288086133956608",
+        "text": "Oggi faccio lezione qui, parleremo di 15 casi d'uso dell'Intelligenza Artificiale per il giornalismo. Stamattina ho pensato: cavolo, ne avrei dovuti aggiungere altri 35!"
+    },
+    {
+        "urn": "urn:li:activity:7289663076964982785",
+        "text": "L'altro giorno ero in difficolt\u00e0: volevo un tool AI per creare una sintesi audio in italiano da un documento in italiano. NotebookLM di Google li fa solo in inglese e quindi \u00e8 un casino. \nTuttavia ho acceso la lampada per chiamare in soccorso il mio superoe, che mi ha detto. Basta che gli dici: \"Create an Italian Podcast. Do not create an English Podcast\". \nE funziona, porca miseria!  \n\nSe non hai mai usato NotebookLM: \u00e8 un tool di Google dove carichi, pdf, video youtube, o altro, e lui ti genera sia delle sintesti che una chat per navigare il documento. https://lnkd.in/eNvJxiaV",
+        "inline-url": [
+            "https://notebooklm.google.com/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7288886208414257152",
+        "text": "Dopo l'uscita degli USA e le minacce di uscire dell'Italia, Roberta Villa parla del ruolo e dei numeri dell'OMS https://lnkd.in/dABXauYi",
+        "inline-url": [
+            "https://robertavilla.substack.com/p/48-a-che-cosa-serve-loms"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7288480009013334017",
+        "text": "Siamo usciti ieri su Il Bo Live con la seconda parte di una lunga e articolata inchiesta collaborativa nella quale come FACTA.eu siamo stati coinvolti, il Forever Lobbying Project. Un progetto che parla di PFAS, in Europa, del loro impatto, dei costi ad essi associati, dei rischi a lungo termine e delle possibili azioni di contenimento e di gestione.\n\nUno sforzo internazionale che ha visto 46 giornalisti e quasi 30 newsrooms lavorare per oltre un anno per rivelare l'intenso lavoro di lobby delle aziende chimiche nei confronti dei governi e della commissione europea per evitare la messa al bando di questi \"inquinanti eterni\". Abbiamo lavorato per\u00f2 anche sulla stima dei costi previsti per eliminare i PFAS dall'ambiente e sui falsi o errati argomenti portati da molte aziende e purtroppo anche da alcuni scienziati per minimizzare la portata del danno e del rischio. \n\nSu Il Bo Live abbiamo raccolto i dati relativi ai costi reali, enormi e documentati, sostenuti dai cittadini e dai gestori delle acque per affrontare il problema dell'enorme e persistente inquinamento nella falda acquifera in Veneto associato con gli scarichi dell'azienda Miteni, attualmente sotto processo. E abbiamo guardato anche agli aspetti tecnologici: quali sono oggi le possibili strategie e tecniche di risanamento, quali gli aspetti critici? \n\nMa soprattutto, ci siamo chiesti, cosa dovremmo avere imparato da questa storia? Quali sono le sue ricadute anche politiche, oltre che etiche?",
+        "link": "http://ilbolive.unipd.it/it/news/societa/pfas-ripulire-risanare-vietare"
+    },
+    {
+        "urn": "urn:li:activity:7288457999298228224",
+        "text": "Ci vorrebbe un AI-amico",
+        "link": "https://blog.google/products/gemini/new-gemini-app-updates-android/"
+    },
+    {
+        "urn": "urn:li:activity:7288089072600829953",
+        "text": "Un gran bel lavoro di Greenpeace sull'inquinamento delle acque da PFAS. \n\nhttps://lnkd.in/d-ez9j5q",
+        "inline-url": [
+            "https://www.greenpeace.org/italy/rapporto/26152/la-prima-mappa-della-contaminazione-da-pfas-in-italia/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7287859017610072065",
+        "text": "Open tender alert!!! \ud83d\udd14 \n\nUnder the DSA, the Commission is mandated to issue a report on \"the way that this Regulation interacts with other legal acts\". We are procuring a study to reinforce our in-house work in this area. It is a short-time contract, but intensive. Feel free to share among your networks! \n\nDeadline: 24/02/2025.",
+        "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/tender-details/fe873a7c-afc4-4306-b6e7-c970e6a606ff-CN"
+    },
+    {
+        "urn": "urn:li:activity:7287385975234682881",
+        "text": "Ogni contribuente paga un grosso importo annuale in tasse per la Sanit\u00e0 (nel mio caso \u00e8 circa il 17%). \n\nRoberta Villa ci avverte per\u00f2 dicendo che: \u00abCi sono gi\u00e0 milioni di italiani senza medico di medicina generale. Entro il 2027 saranno pi\u00f9 di uno su 4\u00bb\n\nRiferimenti: \n- la Newsletter di Roberta Villa da cui \u00e8 tratto la citazione https://lnkd.in/dfsHvqeU\n- Il link dell'Agenzia delle Entrate dove chiunque pu\u00f2 verificare (dopo login) come vengono spese le tasse versate https://lnkd.in/d9EBTJcC",
+        "inline-url": [
+            "https://robertavilla.substack.com/p/47-sos-cercasi-medici-disperatamente",
+            "https://dichiarazioneprecompilata.agenziaentrate.gov.it/PrecomWeb/visualizza/destinazione-imposte"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7287019800655007744",
+        "text": "Per circa 10 anni Facebook e (un po' meno) Google hanno finanziato il fact-checking in tutto il mondo. Oggi Facebook dice basta e questa scelta rischia di depotenziare e in certi casi (temo) far chiudere le organizzazioni che se ne occupano, perch\u00e9 resteranno senza soldi. Nel link in basso c'\u00e8 una spiegazione di dettaglio.\n\nIl tutto avviene in un contesto, a livello certamente Italiano ed Europeo, in cui tanti editori e tanti giornalisti del nostro continente hanno sottovalutato enormemente questa questione (basti pensare che l'unico storico team di data journalism e fact-checking \u00e8 'Les Decodeurs' a Le Monde, che saggiamente un\u00ec le due cose e le internalizz\u00f2). \n\nIl bicchiere sarebbe per\u00f2 mezzo pieno, se all'improvviso la Commissione Europea, gli Editori Europei e la Filantropia Europea finalmente unissero le forze per difendere l'Informazione, che il vero caposaldo della democrazia.",
+        "link": "https://reutersinstitute.politics.ox.ac.uk/news/amid-war-vicious-attacks-and-political-turmoil-global-fact-checkers-fear-impact-end-metas"
+    },
+    {
+        "urn": "urn:li:activity:7286297051041067008",
+        "text": "In un mondo che sembra complicarsi tantissimo con il ritorno di Trump, c'\u00e8 una tendenza crescente verso un ecosistema digitale sempre pi\u00f9 pieno di monnezza. I principali produttori di questa monnezza, anche se c'\u00e8 l'AI, siamo in qualche modo sempre noi, ma ne siamo soprattutto i destinatari.\n\nEd Zitron, uno dei miei fari-guida, ne parla in maniera davvero inquietante nella sua monumentale newsletter. Non ci resta che \u00abcercare e saper riconoscere chi e cosa, in mezzo all\u2019inferno, non \u00e8 inferno, e farlo durare, e dargli spazio\u00bb, come dice un mio amico siculo. \n\nLe cose stanno andando di male in peggio, insomma, ma c'\u00e8 ancora una speranza, e ancora una volta dipende da noi.",
+        "link": "https://www.wheresyoured.at/the-slop-society/"
+    },
+    {
+        "urn": "urn:li:activity:7285650308335104000",
+        "text": "La classifica della \"Qualit\u00e0 della Vita\" delle donne, una novit\u00e0 de Il Sole 24 Ore, che ho scoperto da Donata Columbro \nhttps://lnkd.in/dagXG6Tv",
+        "inline-url": [
+            "https://lab24.ilsole24ore.com/qualita-della-vita-donne/#"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7285322582843633664",
+        "text": "Linkedin tutta la vita! (O almeno, per le prossime 24 ore)"
+    },
+    {
+        "urn": "urn:li:activity:7284849240546177024",
+        "text": "Come sta cambiando il mondo del lavoro secondo il report del World Economic Forum raccontato da Pasquale Popolizio. DA LEGGERE!",
+        "link": "https://ia2023.it/2025/01/11/the-future-of-jobs-report-2025/"
+    },
+    {
+        "urn": "urn:li:activity:7284229266047717376",
+        "text": "\"\ud83d\udd25Rampini dal Corriere riporta una serie di errori e inesattezze per corroborare l\u2019insopportabile retorica dell\u2019\u201cideologia\u201d nella transizione ecologica e finanche nella fisica del clima. Contrariamente a quanto dice, probabilit\u00e0 e intensit\u00e0 degli incendi sono in aumento a causa degli \u201cumanissimi\u201d cambiamenti climatici. \n\nCerto, le soluzioni passano anche da una gestione corretta della vegetazione e delle infrastrutture, ma questo non deve oscurare l\u2019obiettivo di azzeramento delle emissioni. Soprattutto dopo che il 2024 ha superato in media la temperatura di 1,5\u00b0C per la prima volta\"\n\n\ud83d\udc49l\u2019articolo di Jacopo Mengarelli",
+        "link": "https://www.scienzainrete.it/articolo/no-gli-incendi-california-non-sono-%E2%80%9Cideologici%E2%80%9D/jacopo-mengarelli/2025-01-12"
+    },
+    {
+        "urn": "urn:li:activity:7283523701092798464",
+        "text": "Condivido parola per parola"
+    },
+    {
+        "urn": "urn:li:activity:7283445326336679937",
+        "text": "Che cosa pensereste di una startup da cui se ne sono andati quasi tutti i principali dirigenti e cofondatori, che ha chiuso il 2024 con un rosso di 5 miliardi di dollari e che deve fare fronte a una marea di cause legali? La stessa startup i cui costi operativi hanno raggiunto cifre colossali non ha ancora dimostrato di avere un modello di business sostenibile e i cui progressi tecnologici stanno gi\u00e0 dando segnali di rallentamento?\n\nPur se afflitta da tutti i problemi descritti in apertura, OpenAI continua a godere di un\u2019enorme fiducia e le sue prospettive future non vengono mai messe in discussione. OpenAI \u00e8 riuscita lo scorso ottobre a raccogliere 6,6 miliardi di dollari per una valutazione da 157 miliardi di dollari. \n\nPartiamo proprio da questo aspetto: i finanziamenti. Per quanto i vari round in cui le startup riescono a raccogliere enormi quantit\u00e0 di denaro da investitori privati vengano solitamente celebrati, in alcuni casi \u00e8 anche utile porsi una domanda: perch\u00e9 la startup in questione, ovvero OpenAI, ha bisogno di raccogliere una tale mole di denaro?\n\nLa ragione \u00e8 tutta negli enormi costi sostenuti dalla societ\u00e0 guidata da Sam Altman per sviluppare i Large Language Model alla base di ChatGPT: nel 2024, OpenAI ha speso 9 miliardi di dollari incassandone 4. Significa che, in un solo anno, la societ\u00e0 di Sam Altman ha bruciato circa 5 miliardi di dollari. Il che spiegherebbe la necessit\u00e0 di raccogliere in tempi cos\u00ec brevi ulteriori e miliardari finanziamenti.\n\nNulla di tutto ci\u00f2 significa che OpenAI sia destinata alla bancarotta o che l\u2019intelligenza artificiale generativa si riveler\u00e0 un flop. Quel che invece \u00e8 strano \u00e8 che nessuno metta in discussione la situazione della societ\u00e0 di Sam Altman, dal punto di vista finanziario e non solo. \n\nIn poche parole, OpenAI \u00e8 diventata too big to fail? Ci siamo aggrappati talmente tanto alla narrazione secondo cui l\u2019intelligenza artificiale generativa cambier\u00e0 il mondo, che \u00e8 diventato impossibile anche solo immaginare che la startup simbolo di questa auspicata rivoluzione possa deludere le aspettative?\n\nE poi ci sono le situazioni caotiche interne (con continui addii di figure chiave), le prestazioni deludenti \u2013 secondo gli stessi programmatori di OpenAI \u2013 dei successori di GPT-4, il timore che la legge di scala dell\u2019intelligenza artificiale venga sostituita dalla legge dei ritorni decrescenti e parecchio altro ancora. \n\nQuesto \u00e8 solo un piccolo estratto, trovate tutto su Guerre di Rete \u2014> https://lnkd.in/dvVRuHN7",
+        "inline-url": [
+            "https://www.guerredirete.it/tutti-i-guai-di-openai/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7283052390168104961",
+        "text": "Ma quindi che possiamo fare con l'Intelligenza Artificiale? Casi d'uso e soluzioni della nostra quotidianit\u00e0 sono la risposta migliore: il ricettario dello \"chef\" Massimiliano Turazzini per capire cosa cucinare e, soprattutto, come!",
+        "link": "https://www.01net.it/category/intelligenza-artificiale/ai-cookbook/"
+    },
+    {
+        "urn": "urn:li:activity:7282682498659028992",
+        "text": "Se mi dicessero \"scegli un'unica persona da seguire e consigliare per tenersi aggiornat\u0259 sull'Intelligenza Artificiale\", direi senza ombra di dubbio Simon Willinson. La ricchezza delle informazioni che condivide e degli strumenti che crea \u00e8 impressionante. Ecco il suo sommario, meraviglioso del 2024. \nhttps://lnkd.in/dPTyXzw9",
+        "link": "https://simonw.substack.com/p/things-we-learned-about-llms-in-2024",
+        "inline-url": [
+            "https://simonw.substack.com/p/things-we-learned-about-llms-in-2024"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7282320102170017793",
+        "text": "Circa un anno fa nasceva Liberiamoli Tutti, la meravigliosa campagna per l'apertura dei dati pubblici pensata da Andrea Borruso e Davide Del Monte, sostenuta da Ondata, Info.nodes, ActionAid e Transparency, e alla quale do una mano anch'io. Ogni mese sono stati aperti e resi accessibili dati di ogni genere (dai flussi migratori alle case con presenza di amianto, dagli studenti che hanno rinunciato all'ora di religione a scuola ai finanziamenti ai partiti. I dati sono stati riusati da molte organizzazioni, come ad esempio Il Sole 24 Ore, giusto per citarne una. Un anno dopo, ecco le storie dei dati liberati: usali anche tu, sono #OpenData!",
+        "link": "https://datibenecomune.substack.com/p/liberiamoli-tutti-buon-2025"
+    },
+    {
+        "urn": "urn:li:activity:7281574529989042177",
+        "text": "Si chiama DeepSeek-v3 ed \u00e8 il - diciamo cos\u00ec - ChatGPT made in Cina. Pubblicato a Natale 2024, pare sia uno dei pi\u00f9 grandi modelli in circolazione (ben pi\u00f9 grande di OpenAI, Sonnet e altri svariati modelli e tool di Intelligenza Artificiale). \nInfo: \n- https://chat.deepseek.com/\n- https://lnkd.in/dP2KfFda",
+        "inline-url": [
+            "https://simonwillison.net/2024/Dec/25/deepseek-v3/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7281228784362541056",
+        "text": "CPJ, RSF and IJF call for the release of Italian journalist Cecilia Sala",
+        "link": "https://www.journalismfestival.com/news/cpj-rsf-ijf-cecilia-sala/"
+    },
+    {
+        "urn": "urn:li:activity:7281022411586613248",
+        "text": "New call for a PhD position connected to FUTUREDATA4EU programme, in cooperation with WIPO-UN.\nhttps://lnkd.in/d6nw-Gxz\n\nWe are looking for smart, motivated, skilled PhD candidates for challenging research. The person will be integrated into a large team devoted to achieving innovative and outstanding goals.\n\nTitle: \"Data Analytics and AI for supporting legislative assistance at WIPO: a neuro-symbolic approach\"\n\nDeadline for the submission of applications: 10 March 2025 at 2 pm CEST (Italian time).\n\n#AI,  #AkomaNtoso #LLM #AIandLaw #HyperModeLex",
+        "inline-url": [
+            "https://site.unibo.it/futuredata4eu/en/phd-program"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7281022137857957889",
+        "text": "\ud83c\udf1f\ud835\udddc \ud835\uddf4\ud835\uddff\ud835\uddee\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddf6 \"\ud835\uddee \ud835\uddf0\ud835\uddee\ud835\ude00\ud835\uddfc\" \ud835\uddf1\ud835\uddf6 \ud835\udde3\ud835\uddee\ud835\uddfc\ud835\uddf9\ud835\uddfc \ud835\uddd9\ud835\uddfc\ud835\ude05\u00a0\nConcedetemi un piccolo \ud835\ude33\ud835\ude22\ud835\ude2f\ud835\ude35 di inizio anno sui celebri (o famigerati?) grafici usati da Paolo Fox per descrivere l'andamento dei segni zodiacali. Chi mi seguiva gi\u00e0 su Twitter lo sa: questi grafici, presenti da anni sulla TV nazionale, sono ormai un appuntamento fisso dell'astrologo pi\u00f9 noto d'Italia.\n\n\u2753\ud835\udde3\ud835\uddf2\ud835\uddff\ud835\uddf0\ud835\uddf5\u00e9 \"\ud835\uddf4\ud835\uddff\ud835\uddee\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddf6 \ud835\uddee \ud835\uddf0\ud835\uddee\ud835\ude00\ud835\uddfc\"?\nSemplice: sull'asse verticale di amore, fortuna e lavoro manca completamente una scala numerica. Di conseguenza, non \u00e8 chiaro cosa rappresentino davvero le linee che salgono o scendono. Un mistero astrologico o semplicemente un caso di data visualization approssimativa?\n\nPotremmo aprire un dibattito sulla validit\u00e0 degli oroscopi (e sul senso di usare la visualizzazione dati in questo contesto), ma resta il fatto che presentare grafici con errori cos\u00ec evidenti non aiuta certo a rendere il messaggio pi\u00f9 chiaro o credibile.\n\nChe ne pensate di questi grafici? C'\u00e8 un modo migliore per raccontare l'oroscopo con i dati?\n\nGrazie a Andrea Borruso e Maurizio Napolitano per avermi ricordato l'esistenza di questi grafici.\n\n\ud83d\udd17Fonte: Rai Play (link nel primo commento)\n\n---\n\n\ud83c\udf1f\ud835\udde7\ud835\uddf5\ud835\uddf2 \"\ud835\uddff\ud835\uddee\ud835\uddfb\ud835\uddf1\ud835\uddfc\ud835\uddfa\" \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddff\ud835\ude01\ud835\ude00 \ud835\uddfc\ud835\uddf3 \ud835\udde3\ud835\uddee\ud835\uddfc\ud835\uddf9\ud835\uddfc \ud835\uddd9\ud835\uddfc\ud835\ude05\nLet me start the year with a little \ud835\ude33\ud835\ude22\ud835\ude2f\ud835\ude35 about the infamous charts used by Paolo Fox, one of Italy's most popular astrologers, to illustrate the fortunes of zodiac signs throughout the year. These charts, featured annually on national television, have become something of a tradition\u2014but not necessarily for the right reasons.\n\n\u2753\ud835\uddea\ud835\uddf5\ud835\ude06 \"\ud835\uddff\ud835\uddee\ud835\uddfb\ud835\uddf1\ud835\uddfc\ud835\uddfa\" \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddff\ud835\ude01\ud835\ude00?\nBecause the vertical axis for love, luck, and work has no numerical scale whatsoever. As a result, it's impossible to understand what the rising or falling lines are actually meant to represent. A celestial mystery or just a case of data visualization gone wrong?\n\nWe could debate the validity of horoscopes (and whether data visualization even has a place here), but it\u2019s disappointing to see such poorly designed visuals presented on public television. Errors like these undermine the clarity\u2014and perhaps even the credibility\u2014of the message being conveyed.\n\nWhat do you think of these charts? How would you visualize a horoscope more effectively?\n\nThanks to Andrea Borruso and Maurizio Napolitano for reminding me of the existence of these charts.\n\n\ud83d\udd17Source: Rai Play (link in first comment)\n\n#dataviz #datavisualization #horrorchart #oroscopo"
+    },
+    {
+        "urn": "urn:li:activity:7280861798071685121",
+        "text": "Imperdibile \"buon anno nuovo\" sugli #OpenData di Vincenzo Patruno",
+        "link": "https://www.agendadigitale.eu/cittadinanza-digitale/data-management/open-data-in-italia-si-puo-fare-di-piu-i-risultati-del-maturity-report-2024/"
+    },
+    {
+        "urn": "urn:li:activity:7278737044552507392",
+        "text": "Many teachers are skeptical about the utility of AI...\n\nHere the #UK Department for Education documented Use Cases for #GenAI in #Education - #User #Research Report\n\nThe report examines the collaboration between educational institutions and the UK Department for Education to assess the use of GenAI in automating routine educational tasks. \n\nSeveral innovative use cases for generative AI (GenAI) in education that were explored during the hackathons and proof-of-concept (PoC) development. \n\na) #LessonPlan or activity adaptor: A tool that can adapt existing lesson plans and tailor lesson activities to the specific context and needs of individual classes or students. \nb) #Feedback and revision activity generator: The PoC tool developed in this project focused on reviewing student work, providing personalized feedback, and generating tailored revision activities based on the individual student's errors and areas for improvement. \nc) #QuestionGenerator: A tool that can automatically generate graded, lesson plan-aligned questions based on information from sources such as lesson plans, objectives, and curriculum materials. \nd) #Disabilities #SupportTool: A tool designed to assist teachers in adapting lesson content to meet the specific needs of students with Special Educational Needs and Disabilities (SEND). \ne) #Parent and carer communications tool: A tool that can generate communications with parents and carers, such as school newsletters or emails about upcoming events. \nf) #PolicyGenerator: A tool that can support the generation of school policies based on submitted school characteristics, existing policy documents, and national legislation or guidance. \n\nThree Challenges Identified:\n\n- \u26a0\ufe0fModel capabilities and limitations: While GenAI models showed potential in certain tasks like generating lesson plans or activities, there were significant limitations in more complex tasks, such as accurately marking student work or generating comprehensive feedback.\n\n- \ud83d\udea8User trust and acceptance: Many teachers expressed concerns about trusting GenAI tools for tasks like providing feedback, and some were worried about becoming overly reliant on these tools.\n\n- \u23f0Need for training and guidance: Teachers reported a need for time, training, funding, and expert support to increase their knowledge and skills in using GenAI tools in their practice, as well as guidance on how to use AI safely and effectively.\n\nFive aspects to improve:\n\ni) #DataPrivacy and safety\nii) #Adoption #Reluctance\niii) #Lack of #Personalization \niv) #Accuracy of #AI \nv) #Implementation #Barriers \n\nvia Martin Ebers\nhttps://lnkd.in/ekbHKxyS\n\nSource:\nFaculty AI, National Institute of Teaching, ImpactEd Group, & Department for Education. (2024). Use Cases for Generative AI in Education: User Research Report. UK Government"
+    },
+    {
+        "urn": "urn:li:activity:7278307376850436096",
+        "text": "20 anni di Internet: da 1 a 5,4 miliardi di utenti connessi \nhttps://lnkd.in/dtRM559g",
+        "inline-url": [
+            "https://www.mckinsey.com/featured-insights/sustainable-inclusive-growth/charts/the-world-goes-online?cid=other-eml-chr-mip-mck&hlkid=ee7d25d0db0549b9bbf676a80bdd3557&hctky=9749332&hdpid=060d7c09-44a1-4c24-8ba8-ab5664938181"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7276850278522327040",
+        "text": "10 data trends per il 2025. Tutt\u0259 d'accordo? \nhttps://lnkd.in/dYASqCB7",
+        "link": "https://www.reddit.com/r/data/comments/1hfhxk5/top_10_powerful_data_trends_for_2025_and_beyond/",
+        "inline-url": [
+            "https://www.reddit.com/r/data/comments/1hfhxk5/top_10_powerful_data_trends_for_2025_and_beyond/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7276510531014787072",
+        "text": "Qualche giorno offline (ci provo!).\nE nel frattempo tanti auguri :-) \ud83c\udf85 \ud83c\udf32"
+    },
+    {
+        "urn": "urn:li:activity:7275793302640021504",
+        "text": "Quante probabilit\u00e0 ci sono che due persone che fanno il compleanno lo stesso giorno si trovino nella stessa stampa? Carinissimo paradosso del compleanno raccontato visualmente da ThePudding :-) https://lnkd.in/dC3c9BKJ",
+        "link": "https://pudding.cool/2018/04/birthday-paradox/",
+        "inline-url": [
+            "https://pudding.cool/2018/04/birthday-paradox/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7275468685635391488",
+        "text": "I dati del PNRR sono vecchi, sporchi e cattivi. Tra le pochissime fonti attendibili c'\u00e8 openpolis, che come associazione Ondata supportiamo nella richieste di accesso. Aprire questi dati permetterebbe alla cittadinanza di contribuire a monitorare la spesa e capire come lo Stato sta spendendo i nostri soldi. \nhttps://lnkd.in/dnZGKaWv",
+        "inline-url": [
+            "https://www.openpolis.it/i-dati-aggiornati-sulla-spesa-dei-fondi-pnrr-confermano-le-difficolta-e-i-ritardi/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7275415815217106944",
+        "link": "https://techcrunch.com/2024/11/27/blueskys-open-api-means-anyone-can-scrape-your-data-for-ai-training/"
+    },
+    {
+        "urn": "urn:li:activity:7275136488726540288",
+        "text": "Dataviz accessibility principles, demonstrated by the 2024 presidential election dashboards: \u00e8 un'analisi comparativa dei livelli di accessibilit\u00e0 (meglio, inaccessibilit\u00e0!) di visualizzazioni di dati! \nSuper interessante e di ispirazione!",
+        "link": "https://fossheim.io/writing/posts/2024-dataviz-a11y-elections/"
+    },
+    {
+        "urn": "urn:li:activity:7275083639489449984",
+        "text": "Solo Musk aveva puntato tutto su Trump https://lnkd.in/d65qKv4j",
+        "inline-url": [
+            "https://www.sparklinecapital.com/post/partisan-investing"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7274654165706952705",
+        "text": "\ud83c\udfc6\ud835\uddd4\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\ude01\ud835\uddf2 \ud835\uddf9\ud835\uddf2 \ud835\uddf0\ud835\uddee\ud835\uddfb\ud835\uddf1\ud835\uddf6\ud835\uddf1\ud835\uddee\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddee\ud835\uddf9\ud835\uddf9'\ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf6\ud835\ude00 \ud835\uddd5\ud835\uddf2\ud835\uddee\ud835\ude02\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\ude02\ud835\uddf9 \ud835\uddd4\ud835\ude04\ud835\uddee\ud835\uddff\ud835\uddf1\ud835\ude00 \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff0\nDa oggi \u00e8 possibile candidare data visualization pubblicate tra il 1\u00b0 settembre 2023 e il 31 dicembre 2024 per l\u2019edizione 2024 degli Information is Beautiful Awards.\nUn\u2019occasione per mettere in luce lavori che riflettono impegno e creativit\u00e0, realizzati come singoli professionisti o in team.\n\n\ud83d\udcc5 Le candidature sono aperte fino al 31 gennaio 2025.\n\n\ud83d\udd17 https://lnkd.in/d_Nvqixk\n\n---\n\n\ud83c\udfc6 \ud835\udde6\ud835\ude02\ud835\uddef\ud835\uddfa\ud835\uddf6\ud835\ude00\ud835\ude00\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddfb\ud835\uddfc\ud835\ude04 \ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddfb \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udff0 \ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddfc\ud835\uddff\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf6\ud835\ude00 \ud835\uddd5\ud835\uddf2\ud835\uddee\ud835\ude02\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\ude02\ud835\uddf9 \ud835\uddd4\ud835\ude04\ud835\uddee\ud835\uddff\ud835\uddf1\ud835\ude00\nStarting today, you can submit data visualizations published between September 1, 2023, and December 31, 2024, for the 2024 edition of the Information is Beautiful Awards.\nThis is a chance to showcase projects that demonstrate dedication and creativity, whether created individually or as part of a team.\n\n\ud83d\udcc5 Submissions are open until January 31, 2025.\n\n\ud83d\udd17 https://lnkd.in/d_Nvqixk\n\n#dataviz #datavisualization #contest #awards #infographic #design",
+        "inline-url": [
+            "https://www.informationisbeautifulawards.com/",
+            "https://www.informationisbeautifulawards.com/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7274408908130054144",
+        "text": "I dati in tempo reale sono gestibili o problematici per una testata online? Quanto \u00e8 competente la audience e quanto viene aiutata dai giornalisti, per interpretare in maniera equilibrata tutti questi dati? \nAmo tantissimo i dati, quindi non posso parlarne solo con l'Armadillo :-)"
+    },
+    {
+        "urn": "urn:li:activity:7274333861008789504",
+        "text": "I dati sugli istituti penitenziari, che finalmente sono stati liberati nell'iniziativa Liberiamoli Tutti: Andrea Borruso e Riccardo Saporiti\nhttps://lnkd.in/dgyaj-e7",
+        "link": "https://datibenecomune.substack.com/p/liberiamoli-tutti-numero-11",
+        "inline-url": [
+            "https://datibenecomune.substack.com/p/liberiamoli-tutti-numero-11"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7273035955576414208",
+        "text": "Sono orgogliosa di condividere la pubblicazione del Bilancio Sociale 2024 di Fondazione Deloitte, un documento che racconta le attivit\u00e0 realizzate e sostenute, i risultati raggiunti e l'impatto generato nell'ultimo esercizio fiscale.\n\n\ud83d\udccc Oltre 80 iniziative realizzate in 8 anni di attivit\u00e0, con l'obiettivo di:\n- Valorizzare e tutelare la cultura, l\u2019arte e i beni artistici.\n- Creare opportunit\u00e0 di accesso all\u2019istruzione e al lavoro per tutte e tutti.\n- Sostenere le comunit\u00e0 colpite da emergenze.\n\n\ud83c\udfa8 Rinnovato impegno a sostegno dell'arte fotografica attraverso:\n- La seconda edizione del Photo Grant, il premio fotografico internazionale di Deloitte, quest'anno dedicato al tema \"Possibilities\", e rivolto sia ad artisti affermati che a talenti emergenti under 35.\n- Il sostegno alla mostra \u201cStraordinarie\u201d, che ha raccolto oltre 100 ritratti di donne che si sono distinte in diversi ambiti professionali, promuovendo l\u2019empowerment femminile e offrendo alle giovani donne modelli di riferimento a cui ispirarsi.\n\n\ud83d\udcda Focus su istruzione e mondo del lavoro con:\n- La pubblicazione di un position paper, realizzato in collaborazione con il Programma di Politiche Pubbliche di Deloitte, che esamina la situazione delle discipline tecnico-scientifiche nel nostro Paese, evidenziando il ruolo fondamentale delle competenze STEM per affrontare le principali sfide globali.\n- Il sostegno al corso di formazione online (PCTO) \"Hacking science: professioni spaziali\", per avvicinare i giovani alle STEM attraverso strumenti didattici innovativi e modelli di riferimento capaci di trasmettere il fascino e la bellezza della scienza.\n- La realizzazione e disseminazione del documentario breve \"Un punto preciso\", che riflette sull\u2019eredit\u00e0 intellettuale di Margherita Hack, a partire dalla scultura a lei dedicata, donata da Fondazione Deloitte alla citt\u00e0 di Milano.\n\n\ud83c\udf0d Sostegno alle comunit\u00e0 tramite:\n- Interventi concreti per rispondere a cinque emergenze, in Italia e all'estero, sostenendo le comunit\u00e0 colpite da conflitti e catastrofi naturali.\n\n\ud83d\udd17 Il bilancio completo \u00e8 disponibile al seguente link: https://lnkd.in/dwKpj_P2\n\n#FondazioneDeloitte #BilancioSociale2024 #Sostenibilit\u00e0 #Arte #Istruzione #STEM #Empowerment",
+        "inline-url": [
+            "https://www.deloitte.com/it/it/about/people/social-responsibility/bilancio-sociale-2024-deloitte-italy-fondazione-deloitte.html"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7272528180308045824"
+    },
+    {
+        "urn": "urn:li:activity:7272254139345117184",
+        "text": "\ud83d\uddfa\ufe0f \ud83d\ude87 Le mappe delle metropolitane non mostrano solo percorsi, ma raccontano storie di semplificazione e design. In questo video, vediamo come appaiono davvero le linee di Berlino, New York, Shanghai e altre citt\u00e0 rispetto alle loro rappresentazioni schematiche: un esempio di come la visualizzazione pu\u00f2 trasformare la complessit\u00e0 in chiarezza.\n\nFonte: https://lnkd.in/df8GWNwJ\n\n---\n\n\ud83d\uddfa\ufe0f \ud83d\ude87Subway maps don\u2019t just show routes\u2014they tell stories of simplification and design. In this video, we see how the lines of Berlin, New York, Shanghai, and other cities actually look compared to their schematic representations\u2014a great example of how visualization can turn complexity into clarity.\n\n Source: https://lnkd.in/df8GWNwJ\n\n#maps #dataviz #design",
+        "inline-url": [
+            "https://youtube.com/shorts/EhKiCdM4Jbg?si=oh5fpZzY9FUZVVlw",
+            "https://youtube.com/shorts/EhKiCdM4Jbg?si=oh5fpZzY9FUZVVlw"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7272219755569164289",
+        "text": "Tema: Scaricare tutte le notizie da un sito di news e farsi creare un sommario quotidiano. \n\nSvolgimento: Ho scaricato tutti i titoli delle news su www.corriere.it e ho chiesto all'intelligenza artificiale di riassumermeli. \nDopo aver importunato per qualche ora in chat Andrea Borruso, mi ritrovo con un nuovo giochino tra dati, news ed llm, tutto fatto a manina. Dal un lato, \u00e8 vero, \u00e8 una cosa per nerd. Dall'altro per\u00f2 se avessi un bottone che ogni mattina mi esegue il giochino... avrei una rassegna stampa comodissima, aggiornata a quando voglio io, magari anche trasformabile in podcast. E il tutto senza passare dall'edicola! :-) \n\nI tool utilizzati sono:\n- curl per scaricare l'html dal sito del corriere\n- pup per estrarre dall'html prima i tag <a> con i titoli degli articoli, e poi solo i titoli\n- llm-datasette che \u00e8 il mio assistente AI preferito (anche se a dire il vero il mio assistente AI preferito \u00e8 sempre Borruso)"
+    },
+    {
+        "urn": "urn:li:activity:7272219624400711680",
+        "text": "\ud83c\udf84\ud835\uddd6\ud835\uddf5\ud835\uddf2 \ud835\ude00\ud835\ude02\ud835\uddf0\ud835\uddf0\ud835\uddf2\ud835\uddf1\ud835\uddf2 \ud835\uddee \ud835\uddd4\ud835\uddf9\ud835\uddf9 \ud835\udddc \ud835\uddea\ud835\uddee\ud835\uddfb\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddd6\ud835\uddf5\ud835\uddff\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddfa\ud835\uddee\ud835\ude00 \ud835\uddf6\ud835\ude00 \ud835\ude06\ud835\uddfc\ud835\ude02? \ud835\udde8\ud835\uddfb \ud835\uddf4\ud835\uddff\ud835\uddee\ud835\uddf3\ud835\uddf6\ud835\uddf0\ud835\uddfc \ud835\uddf2 \ud835\uddf6 \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddf6 \ud835\uddf0\ud835\uddf6 \ud835\uddee\ud835\uddf6\ud835\ude02\ud835\ude01\ud835\uddee\ud835\uddfb\ud835\uddfc \ud835\uddee \ud835\uddf0\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\uddff\ud835\uddf9\ud835\uddfc.\n\nOgni anno, con l\u2019avvicinarsi del Natale, All I Want for Christmas Is You di Mariah Carey si impone come il tormentone natalizio per eccellenza, anticipando sempre pi\u00f9 il suo ingresso nelle playlist.\n\nMa quest\u2019anno i dati raccontano una storia diversa: il dominio del brano nei mesi autunnali si sta riducendo.\n\nL\u2019analisi di Joe Murphy per NBC News, basata sui dati di ascolto di Last.fm dal 2005 al 2024, mette in luce due trend interessanti, evidenti anche nella data visualization qui sotto:\n\n\ud83d\udd34 Una graduale espansione degli ascolti dal solo dicembre fino a novembre e persino ottobre, iniziata nel 2010.\n\ud83d\udd34 Un calo marcato tra il 2023 e il 2024: -35% a ottobre e -22% a novembre.\n\n\ud83c\udf84 E tu, quando hai ascoltato questa canzone per la prima volta quest\u2019anno?\n\nTrovi il link all'articolo completo con tutti i dettagli nel primo commento.\n\n---\n\n\ud83c\udf84\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01\u2019\ud835\ude00 \ud835\uddf5\ud835\uddee\ud835\uddfd\ud835\uddfd\ud835\uddf2\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddfc \ud835\uddd4\ud835\uddf9\ud835\uddf9 \ud835\udddc \ud835\uddea\ud835\uddee\ud835\uddfb\ud835\ude01 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddd6\ud835\uddf5\ud835\uddff\ud835\uddf6\ud835\ude00\ud835\ude01\ud835\uddfa\ud835\uddee\ud835\ude00 \ud835\uddf6\ud835\ude00 \ud835\ude06\ud835\uddfc\ud835\ude02? \ud835\uddd4 \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddff\ud835\ude01 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf1\ud835\uddee\ud835\ude01\ud835\uddee \ud835\uddf5\ud835\uddf2\ud835\uddf9\ud835\uddfd \ud835\ude02\ud835\ude00 \ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddff\ud835\ude00\ud835\ude01\ud835\uddee\ud835\uddfb\ud835\uddf1. \n\nEvery year, as Christmas approaches, All I Want for Christmas Is You by Mariah Carey dominates as the ultimate holiday hit, arriving earlier and earlier in playlists.\n\nBut this year, the data tells a different story: the song's dominance during the autumn months is slipping.\n\nJoe Murphy\u2019s analysis for NBC News, based on Last.fm listening data from 2005 to 2024, reveals two interesting trends, clearly visible in the data visualization below:\n\n\ud83d\udd34 A gradual expansion of listens from just December to November and even October, starting in 2010.\n\ud83d\udd34 A significant decline between 2023 and 2024: -35% in October and -22% in November.\n\n\ud83c\udf84 When did you hear this song for the first time this year?\n\nYou can find the link to the full article with all the details in the first comment.\n\n#dataviz #Datavisualization #christmas #Natale #MariahCarey #music #dataAnalysis"
+    },
+    {
+        "urn": "urn:li:activity:7272217413838929920",
+        "text": "On\u00a0December 17th at 2 PM CET, the next Inspiring Experiences webinar of the #DigCompHub project will be devoted to\u00a0DigitalBarometer, the initiative by the\u00a0Bavarian Research Institute for Digital Transformation (#bidt)\u00a0which analyzes the digital competences of the population in Germany and compares them with those of other EU countries. On the\u00a0event's page, you find more information and the registration form: https://lnkd.in/djBBiu8R\nSee you there!",
+        "link": "https://events.teams.microsoft.com/event/a085dd60-c369-47d9-8ad5-6a4ca6191efc@8d8b2be4-0c2e-4b10-8d42-9ef10987a89f",
+        "inline-url": [
+            "https://events.teams.microsoft.com/event/a085dd60-c369-47d9-8ad5-6a4ca6191efc@8d8b2be4-0c2e-4b10-8d42-9ef10987a89f"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7272196223753732096",
+        "text": "Arriva il chatbot AI di Reddit \n\nhttps://lnkd.in/dPn9RHUx\nhttps://lnkd.in/dNnkxaxb",
+        "link": "https://qz.com/reddit-answers-ai-chatbot-google-openai-chatgpt-search-1851716486",
+        "inline-url": [
+            "https://qz.com/reddit-answers-ai-chatbot-google-openai-chatgpt-search-1851716486",
+            "https://www.reddit.com/answers/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7271967449707675648",
+        "text": "Stiamo assumendo ! Cerchiamo un/una project manager per seguire i nostri eventi e progetti .\n\nQui tutte le informazioni: \n\nhttps://lnkd.in/dSFYd4GJ",
+        "inline-url": [
+            "https://www.digital360.it/lavora-con-noi/project-manager-sostituzione-maternita/"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7271446337282351104",
+        "text": "\ud83d\udce2 L'intelligenza artificiale sta riscrivendo LinkedIn?\nUn recente studio rivela che oltre il 54% dei post lunghi in inglese su LinkedIn \u00e8 probabilmente generato dall\u2019IA. L'introduzione di strumenti di scrittura automatica ha trasformato la piattaforma in un laboratorio ideale per contenuti professionali ottimizzati.\nLinkedIn ha abbracciato l'IA, integrando strumenti di scrittura per aiutare gli utenti a creare post, aggiornare profili e scrivere messaggi diretti. Tuttavia, questa evoluzione solleva interrogativi su autenticit\u00e0 e originalit\u00e0: il confine tra contenuti generati dall\u2019uomo e dall\u2019IA \u00e8 sempre pi\u00f9 sfumato.\nLa tecnologia offre efficienza, ma anche sfide etiche. Come dovremmo bilanciare automazione e autenticit\u00e0 nel mondo professionale digitale?\n\n\ud83d\udca1 La vostra opinione conta: l\u2019IA \u00e8 uno strumento indispensabile o una minaccia per la creativit\u00e0 professionale? Condividete i vostri pensieri nei commenti!\n\n***\n\nDisclaimer: \n- questo post \u00e8 stato generato da ChatGPT4o con questo prompt: \u00abAnalizza il testo di questo articolo e scrivi in Italiano un post per linkedin che pubblicher\u00f2 sul mio profilo\u00bb, dandogli questo articolo https://lnkd.in/dHJE9G65\n\n- Questo post \u00e8 stato pubblicato perch\u00e9 ho letto la newsletter di Gianluca Diegoli, che dice di aver generato con l'AI un post che \u00e8 diventato virale, in cui analizza una ricerca in cui si dice che la met\u00e0 dei post di Linkedin siano generati con l'AI, e insomma sto sfizio me lo volevo passare anch'io.  https://lnkd.in/dq3ehHfi",
+        "inline-url": [
+            "https://www.wired.com/story/linkedin-ai-generated-influencers/",
+            "https://lettera.minimarketing.it/p/ho-creato-un-post-virale-con-ai-su-linkedin"
+        ]
+    },
+    {
+        "urn": "urn:li:activity:7271434787288989696",
+        "text": "Want Claude to more closely match how you communicate? You can now upload writing samples and Claude will automatically generate custom styles, just for you."
+    },
+    {
+        "urn": "urn:li:activity:7271433259270488064",
+        "text": "\ud83c\udf1f [Announcement] The #OpenDataEditor stable release is out today! You can download version 1.2.0 here: https://lnkd.in/dQksUNtm\n\n\ud83d\udcab ODE is our new open source app that makes working with data easier for people with little to no technical skills.\n\n\ud83d\udc69\ud83c\udffd\u200d\ud83d\udcbb Now anyone can detect errors in their tables and optimise the #datainteroperability. The latest features improved at ODE are changes to the Errors Report Panel, #AI integration, and fixes to usability. \n\n\ud83d\udce9 Available for Linux, MacOS and Windows: https://lnkd.in/dvKxHwbi\n\n\ud83d\ude4f\ud83c\udffe Thanks to the kind support of\u00a0The Patrick J. McGovern Foundation, the\u00a0\nOpen Knowledge Foundation\u00a0team spent the last 10 months working to unlock the\u00a0#FrictionlessData\u00a0standards and specifications for users unfamiliar with coding.\u00a0cc Sara Petti Patricio Del Boca Romina Colman Guergana Tzatchkova Faith Kenny Evgeny Karev\n\nThe result is an app that has the potential to democratise working with open data beyond the current circles of practitioners.\n\n\ud83d\udc99 We would like to thank the #opendata community and the #OpenKnowledgeNetwork, which helped us during the user research and testing phase, and especially Storydata\u00a0and ACIJ Asociaci\u00f3n Civil por la Igualdad y la Justicia as the official testing organisations.\n\n\ud83d\udcda A course on data publishing and good practices by\u00a0Open Knowledge Brasil\u00a0is on the way. And your feedback will play a critical role as we refine and expand ODE over time.\n\nStay tuned for updates, and feel free to share your thoughts with us!\n\n#TheTechWeWant #OpenData",
+        "inline-url": [
+            "https://blog.okfn.org/2024/12/05/announcement-open-data-editor-1-2-0-stable-version-release/",
+            "https://github.com/okfn/opendataeditor/releases/tag/v1.2.0"
+        ]
     }
 ]
