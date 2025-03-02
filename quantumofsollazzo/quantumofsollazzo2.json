@@ -1,0 +1,235 @@
+[
+  {
+    "data": "November 5, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/584-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Cellm",
+        "description": "An Excel extension that lets you use Large Language Models (LLMs) like ChatGPT in cell formulas.",
+        "url": "https://github.com/getcellm/cellm"
+      },
+      {
+        "name": "Taking a Look at Compression Algorithms",
+        "description": "Dissecting various compression algorithms, with code and illustrations.",
+        "url": "https://cefboud.github.io/posts/compression/"
+      },
+      {
+        "name": "10 Ways to Work with Large Files in Python: Effortlessly Handle Gigabytes of Data!",
+        "description": "Offers multiple strategies to efficiently process large files without exhausting memory or performance.",
+        "url": "https://blog.devgenius.io/10-ways-to-work-with-large-files-in-python-effortlessly-handle-gigabytes-of-data-aeef19bc0429"
+      }
+    ]
+  },
+  {
+    "data": "December 31, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/590-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Deep-ML",
+        "description": "Practice Machine Learning and Data Science problems",
+        "url": "https://www.deep-ml.com/problems"
+      }
+    ]
+  },
+  {
+    "data": "January 28, 2025",
+    "issue_url": "https://buttondown.com/puntofisso/archive/594-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "QGIS – An ATLAS of buildings by council",
+        "description": "Uses Atlas on QGIS and explains the steps required.",
+        "url": "https://puntofisso.net/blog/posts/qgis-atlas-buildings/"
+      },
+      {
+        "name": "Run DeepSeek R1 Locally (Reasoning LLM) – Here is how",
+        "description": "A series of AI-related YouTube tutorials.",
+        "url": "https://www.youtube.com/watch"
+      },
+      {
+        "name": "Data Viz Project",
+        "description": "Aims to make the world’s biggest library of data visualizations.",
+        "url": "https://datavizproject.com/"
+      },
+      {
+        "name": "Working with colours in R",
+        "description": "Describes different ways to define colours, how to make good choices about colour palettes, and ways to generate your own colour schemes.",
+        "url": "https://nrennie.rbind.io/blog/colours-in-r/"
+      },
+      {
+        "name": "Bruin",
+        "description": "A tool to build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Shapecatcher – Unicode character recognition",
+        "description": "A tool that allows you to draw a shape and returns the closest Unicode character.",
+        "url": "https://shapecatcher.com/"
+      }
+    ]
+  },
+  {
+    "data": "February 4, 2025",
+    "issue_url": "https://buttondown.com/puntofisso/archive/595-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Data Visualization Teaching and Learning Materials",
+        "description": "A useful list of dataviz resources.",
+        "url": "https://visualization.info/"
+      },
+      {
+        "name": "Running inference in web extensions",
+        "description": "They are shipping a new API in Firefox Nightly that will let you use our Firefox AI runtime to run offline machine learning tasks in your web extension.",
+        "url": "https://blog.mozilla.org/en/products/firefox/firefox-ai/running-inference-in-web-extensions/"
+      },
+      {
+        "name": "Cellm",
+        "description": "An Excel extension that lets you use Large Language Models (LLMs) like ChatGPT in cell formulas.",
+        "url": "https://github.com/getcellm/cellm"
+      },
+      {
+        "name": "Taking a Look at Compression Algorithms",
+        "description": "Dissecting various compression algorithms, with code and illustrations.",
+        "url": "https://cefboud.github.io/posts/compression/"
+      },
+      {
+        "name": "10 Ways to Work with Large Files in Python: Effortlessly Handle Gigabytes of Data!",
+        "description": "Offers multiple strategies to efficiently process such files without exhausting memory or performance.",
+        "url": "https://blog.devgenius.io/10-ways-to-work-with-large-files-in-python-effortlessly-handle-gigabytes-of-data-aeef19bc0429"
+      }
+    ]
+  },
+  {
+    "data": "February 11, 2025",
+    "issue_url": "https://buttondown.com/puntofisso/archive/596-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Three experiments in LLM code assist with RStudio and Positron",
+        "description": "This post will describe three experimental R packages— pal, ensure, and gander—that came out of that exploration, and the core tools underlying them.",
+        "url": "https://www.tidyverse.org/blog/2025/01/experiments-llm"
+      },
+      {
+        "name": "Recreating with D3",
+        "description": "Recreating nice interactive charts that catch his attention, using D3.",
+        "url": "https://juanchiparra.github.io/recreating-with-d3"
+      },
+      {
+        "name": "Map-making tools for sci-fi writers",
+        "description": "Maps can be an essential tool for authors.",
+        "url": "https://www.firstdraftpro.com/blog/map-making-tools-for-sci-fi-writers"
+      },
+      {
+        "name": "Matching, missing data, a quasi-experiment, and causal inference--Oh my!",
+        "description": "A project for work where the goal is to compare two non-randomized groups.",
+        "url": null
+      },
+      {
+        "name": "Large-scale Generation of Transit Maps from OpenStreetMap Data",
+        "description": "Investigate the automatic generation of transit map overlays (either geographically correct or schematic) for the entire planet from OpenStreetMap (OSM) data.",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00087041.2024.2325761"
+      },
+      {
+        "name": "gridviz",
+        "description": "A library for visualizing gridded data.",
+        "url": "https://github.com/eurostat/gridviz"
+      }
+    ]
+  },
+  {
+    "data": "February 18, 2025",
+    "issue_url": "https://buttondown.com/puntofisso/archive/597-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Simulating water over terrain",
+        "description": "You can do to simulate water the proper way.",
+        "url": "https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html"
+      },
+      {
+        "name": "ai-by-hand-excel",
+        "description": "A series of AI algorithms to try by hand in... Excel.",
+        "url": "https://github.com/ImagineAILab/ai-by-hand-excel"
+      },
+      {
+        "name": "SQL Noir",
+        "description": "Solve mysteries through SQL.",
+        "url": "https://www.sqlnoir.com/"
+      },
+      {
+        "name": "visx a collection of expressive, low-level visualization primitives for React",
+        "description": "At Airbnb, we made it a goal to unify our visualization stack across the company and in the process, we created a new project that brings together the power of D3 with the joy of React.",
+        "url": "https://airbnb.io/visx/"
+      },
+      {
+        "name": "20 Advanced Statistical Approaches Every Data Scientist Should Know",
+        "description": "We explore 20 advanced statistical approaches that every data scientist should be familiar with.",
+        "url": "https://medium.com/@sarowar.saurav10/20-advanced-statistical-approaches-every-data-scientist-should-know-ccc70ae4df28"
+      },
+      {
+        "name": "How to Train an AI Image Model on Yourself",
+        "description": "Training my own AI image model so I can generate pictures of myself that look like...",
+        "url": "https://www.coryzue.com/writing/make-ai-pictures-of-yourself/"
+      },
+      {
+        "name": "Writing My Own Dithering Algorithm in Racket",
+        "description": "How the author goes about implementing it is interesting.",
+        "url": "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"
+      },
+      {
+        "name": "Designing monochrome data visualisations",
+        "description": "This blog post discusses some tips for designing better visualisations when you're restricted to a monochrome palette.",
+        "url": "https://nrennie.rbind.io/blog/monochrome-data-visualisations/"
+      }
+    ]
+  },
+  {
+    "data": "February 25, 2025",
+    "issue_url": "https://buttondown.com/puntofisso/archive/598-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "kreuzberg",
+        "description": "A text extraction library supporting PDFs, images, office documents and more.",
+        "url": "https://github.com/Goldziher/kreuzberg"
+      },
+      {
+        "name": "Heat.js",
+        "description": "A powerful Javascript library to create custom heat maps and charts.",
+        "url": "https://www.william-troup.com/heat-js/"
+      },
+      {
+        "name": "Learning web extensions",
+        "description": "Covers all the basic information required to get started with web extension development.",
+        "url": "https://chenhuijing.com/blog/learning-web-extensions/"
+      },
+      {
+        "name": "Friends Don't Let Friends Make Bad Graphs",
+        "description": "Is going to be pretty handy to learn about (how to avoid) bad charts.",
+        "url": "https://github.com/cxli233/FriendsDontLetFriends"
+      },
+      {
+        "name": "\"A calculator app? Anyone could make that.\"",
+        "description": "Explains the coding challenge step-by-step.",
+        "url": "https://chadnauseam.com/coding/random/calculator-app"
+      },
+      {
+        "name": "An interactive guide to color & contrast",
+        "description": "A comprehensive guide for exploring and learning about the theory, science, and perception of color and contrast.",
+        "url": "https://colorandcontrast.com/"
+      },
+      {
+        "name": "Preswald",
+        "description": "Is a full-stack platform for building, deploying, and managing interactive data applications.",
+        "url": "https://github.com/StructuredLabs/preswald"
+      }
+    ]
+  },
+   {
+    "data": "June 25, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/568-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Deep-ML",
+        "description": "Practice Machine Learning and Data Science problems",
+        "url": "https://www.deep-ml.com/"
+      }
+    ]
+  }
+]

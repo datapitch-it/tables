@@ -1,0 +1,537 @@
+[
+  {
+    "data": "June 25, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/568-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "DataViz protocols",
+        "description": "An introduction to data visualization protocols for wet lab scientists",
+        "url": "https://joachimgoedhart.github.io/DataViz-protocols/"
+      },
+      {
+        "name": "Open source, experimental, and tiny tools roundup",
+        "description": "This is a list of small, free, or experimental tools that might be useful in building your game / website / interactive project. Although I’ve included ‘standards’, this list has a focus on artful tools and toys that are as fun to use as they are functional.",
+        "url": "https://tinytools.directory/"
+      },
+      {
+        "name": "12 Modern CSS One-Line Upgrades",
+        "description": "Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.",
+        "url": "https://moderncss.dev/12-modern-css-one-line-upgrades/"
+      },
+      {
+        "name": "bruin",
+        "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows... Bruin is a data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework. It works with all the major data platforms and runs on your local machine, an EC2 instance, or GitHub Actions.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Regenbogen",
+        "description": "A useful tool to see color pallets for data visualization in R, Python and beyond.",
+        "url": "https://simson.io/regenbogen/"
+      }
+    ]
+  },
+  {
+    "data": "June 18, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/567-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "SVG To Font",
+        "description": "Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font, Generator of fonts from SVG icons.",
+        "url": "https://wangchujiang.com/svgtofont/"
+      },
+      {
+        "name": "SQL Style Guide",
+        "description": "What it says on the tin.",
+        "url": "https://www.sqlstyle.guide/"
+      },
+      {
+        "name": "Reactive HTML notebooks",
+        "description": "I don't think HTML is being used enough as a platform for scientific publishing.",
+        "url": "https://maxbo.me/a-html-file-is-all-you-need.html"
+      },
+      {
+        "name": "jsontr.ee",
+        "description": "Effortlessly visualize JSON structures as interactive and dynamic tree diagrams",
+        "url": "https://github.com/xzitlou/jsontr.ee"
+      }
+    ]
+  },
+  {
+    "data": "June 11, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/566-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "kinesis.js",
+        "description": "A Javascript library to easily create complex interactive animations",
+        "url": "https://kinesisjs.com/"
+      },
+      {
+        "name": "How to Make a City Map Poster",
+        "description": "Creating a city map that balances accuracy with design can be challenging, but using the right tools makes all the difference.",
+        "url": "https://atlas.co/blog/how-to-make-a-city-map-poster/"
+      },
+      {
+        "name": "Teable",
+        "description": "The Next Gen Airtable Alternative: No-Code Postgres",
+        "url": "https://github.com/teableio/teable"
+      },
+      {
+        "name": "Diff Text",
+        "description": "A simple diff checker tool to quickly find the difference between two blocks of text.",
+        "url": "https://difftext.com/"
+      },
+      {
+        "name": "Stream data from Companies House in realtime",
+        "description": "An API that shows filings and other information in real time.",
+        "url": "https://www.api.gov.uk/ch/companies-house-streaming/"
+      },
+      {
+        "name": "7 Databases in 7 Weeks for 2025",
+        "description": "7 databases that I think are worth your time to really look into for a week or so.",
+        "url": "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/"
+      },
+      {
+        "name": "Latent Scope",
+        "description": "A tool to quickly embed, project, cluster and explore a dataset. This project is a new kind of workflow + tool for visualizing and exploring datasets through the lens of latent spaces.",
+        "url": "https://github.com/enjalot/latent-scope"
+      },
+      {
+        "name": "SQL best practices – don’t compare count(*) with 0",
+        "description": "The problem is counting.",
+        "url": "https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/"
+      }
+    ]
+  },
+  {
+    "data": "June 3, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/565-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Deep-ML",
+        "description": "Practice Machine Learning and Data Science problems",
+        "url": "https://www.deep-ml.com/problems"
+      }
+    ]
+  },
+  {
+    "data": "May 28, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/564-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "DataViz protocols",
+        "description": "An introduction to data visualization protocols for wet lab scientists",
+        "url": "https://joachimgoedhart.github.io/DataViz-protocols/"
+      },
+      {
+        "name": "Open source, experimental, and tiny tools roundup",
+        "description": "This is a list of small, free, or experimental tools that might be useful in building your game / website / interactive project. Although I’ve included ‘standards’, this list has a focus on artful tools and toys that are as fun to use as they are functional.",
+        "url": "https://tinytools.directory/"
+      },
+      {
+        "name": "12 Modern CSS One-Line Upgrades",
+        "description": "Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.",
+        "url": "https://moderncss.dev/12-modern-css-one-line-upgrades/"
+      },
+      {
+        "name": "bruin",
+        "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows... Bruin is a data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework. It works with all the major data platforms and runs on your local machine, an EC2 instance, or GitHub Actions.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Shapecatcher – Unicode character recognition",
+        "description": "A tool that allows you to draw a shape and returns the closest Unicode character.",
+        "url": "https://shapecatcher.com/"
+      }
+    ]
+  },
+  {
+    "data": "May 21, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/563-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "FFmpeg By Example",
+        "description": "A documentation website to showcase all the unique and different ways to use FFmpeg.",
+        "url": "https://ffmpegbyexample.com/"
+      },
+      {
+        "name": "The 2025 AI Engineer Reading List",
+        "description": "We picked 50 paper/models/blogs across 10 fields in AI Eng: LLMs, Benchmarks, Prompting, RAG, Agents, CodeGen, Vision, Voice, Diffusion, Finetuning. If you're starting from scratch, start here.",
+        "url": "https://www.latent.space/p/2025-papers"
+      },
+      {
+        "name": "From Default Python Line Chart to Journal-Quality Infographics",
+        "description": "Transform boring default Matplotlib line charts into stunning, customized visualizations",
+        "url": "https://towardsdatascience.com/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3"
+      },
+      {
+        "name": "Social (and other) networks in Datawrapper",
+        "description": "How to visualize networks in Datawrapper.",
+        "url": "https://blog.datawrapper.de/social-networks-datawrapper/"
+      },
+      {
+        "name": "100-languages",
+        "description": "Solving the first 100 Project Euler problems using 100 different programming languages!",
+        "url": "https://github.com/jaredkrinke/100-languages"
+      },
+      {
+        "name": "Graphical User Interface to Pick Colors in HCL Space",
+        "description": "The app visualizes colors either along the hue-chroma plane for a given luminance value or along the luminance-chroma plane for a given hue.",
+        "url": "https://wilkelab.org/SDS366/apps/bin/choose-color/"
+      }
+    ]
+  },
+  {
+    "data": "May 14, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/562-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Data Visualization Teaching and Learning Materials",
+        "description": "A useful list of dataviz resources.",
+        "url": "https://visualization.info/"
+      },
+      {
+        "name": "Running inference in web extensions",
+        "description": "Firefox is shipping a new API in Firefox Nightly that will let you use our Firefox AI runtime to run offline machine learning tasks in your web extension.",
+        "url": "https://blog.mozilla.org/en/products/firefox/firefox-ai/running-inference-in-web-extensions/"
+      },
+      {
+        "name": "Cellm",
+        "description": "Cellm is an Excel extension that lets you use Large Language Models (LLMs) like ChatGPT in cell formulas.",
+        "url": "https://github.com/getcellm/cellm"
+      },
+      {
+        "name": "Taking a Look at Compression Algorithms",
+        "description": "Dissecting various compression algorithms, with code and illustrations.",
+        "url": "https://cefboud.github.io/posts/compression/"
+      },
+      {
+        "name": "10 Ways to Work with Large Files in Python: Effortlessly Handle Gigabytes of Data!",
+        "description": "Python offers multiple strategies to efficiently process such files without exhausting memory or performance.",
+        "url": "https://blog.devgenius.io/10-ways-to-work-with-large-files-in-python-effortlessly-handle-gigabytes-of-data-aeef19bc0429"
+      }
+    ]
+  },
+  {
+    "data": "May 6, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/561-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "An Interactive Guide to Transforming JSON with jq",
+        "description": "Learn to use jq through incremental, interactive examples right in your browser.",
+        "url": "https://navendu.me/posts/jq-interactive-guide/"
+      },
+      {
+        "name": "Flourish adds data download",
+        "description": "Flourish, the data visualization tool, now allows the user to add a 'download data' link into embeddable charts.",
+        "url": "https://flourish.studio/examples/"
+      },
+      {
+        "name": "How to extract analytics from Bluesky, the new open social network",
+        "description": "We'll get analytics from Bluesky leveraging DuckDB and MotherDuck, and we'll explore the open APIs and streams so that you can build your own dashboards, tools, and visualizations.",
+        "url": "https://motherduck.com/blog/how-to-extract-analytics-from-bluesky/"
+      },
+      {
+        "name": "SQLite Studio",
+        "description": "A downloadable tool to create, edit, browse SQLite databases.",
+        "url": "https://sqlitestudio.pl/"
+      },
+      {
+        "name": "OSMnx 2.0.0",
+        "description": "Popular street network analysis Python library OSMnx has reached version 2.",
+        "url": "https://www.linkedin.com/posts/gboeing_osmnx-version-200-has-been-released-activity-7267167754892247041-jG7e"
+      },
+      {
+        "name": "Latent Scope",
+        "description": "A tool to quickly embed, project, cluster and explore a dataset. This project is a new kind of workflow + tool for visualizing and exploring datasets through the lens of latent spaces.",
+        "url": "https://github.com/enjalot/latent-scope"
+      },
+      {
+        "name": "SQL best practices – don’t compare count(*) with 0",
+        "description": "The problem is counting.",
+        "url": "https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/"
+      }
+    ]
+  },
+  {
+    "data": "April 30, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/560-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Deep-ML",
+        "description": "Practice Machine Learning and Data Science problems",
+        "url": "https://www.deep-ml.com/"
+      }
+    ]
+  },
+  {
+    "data": "April 23, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/559-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "DataViz protocols",
+        "description": "An introduction to data visualization protocols for wet lab scientists",
+        "url": "https://joachimgoedhart.github.io/DataViz-protocols/"
+      },
+      {
+        "name": "Open source, experimental, and tiny tools roundup",
+        "description": "This is a list of small, free, or experimental tools that might be useful in building your game / website / interactive project. Although I’ve included ‘standards’, this list has a focus on artful tools and toys that are as fun to use as they are functional.",
+        "url": "https://tinytools.directory/"
+      },
+      {
+        "name": "12 Modern CSS One-Line Upgrades",
+        "description": "Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.",
+        "url": "https://moderncss.dev/12-modern-css-one-line-upgrades/"
+      },
+      {
+        "name": "bruin",
+        "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows... Bruin is a data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework. It works with all the major data platforms and runs on your local machine, an EC2 instance, or GitHub Actions.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Shapecatcher – Unicode character recognition",
+        "description": "A tool that allows you to draw a shape and returns the closest Unicode character.",
+        "url": "https://shapecatcher.com/"
+      }
+    ]
+  },
+  {
+    "data": "April 16, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/558-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "QGIS – An ATLAS of buildings by council",
+        "description": "Uses Atlas on QGIS and explains the steps required.",
+        "url": "https://puntofisso.net/blog/posts/qgis-atlas-buildings/"
+      },
+      {
+        "name": "Run DeepSeek R1 Locally (Reasoning LLM) – Here is how",
+        "description": "A series of AI-related YouTube tutorials.",
+        "url": "https://www.youtube.com/watch"
+      },
+      {
+        "name": "Data Viz Project",
+        "description": "Aims to make the world’s biggest library of data visualizations.",
+        "url": "https://datavizproject.com/"
+      },
+      {
+        "name": "Working with colours in R",
+        "description": "Describes different ways to define colours, how to make good choices about colour palettes, and ways to generate your own colour schemes.",
+        "url": "https://nrennie.rbind.io/blog/colours-in-r/"
+      },
+      {
+        "name": "Bruin",
+        "description": "A tool to build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Shapecatcher – Unicode character recognition",
+        "description": "A tool that allows you to draw a shape and returns the closest Unicode character.",
+        "url": "https://shapecatcher.com/"
+      }
+    ]
+  },
+  {
+    "data": "April 1, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/578-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Deep-ML",
+        "description": "Practice Machine Learning and Data Science problems.",
+        "url": "https://www.deep-ml.com/"
+      }
+    ]
+  },
+  {
+    "data": "March 19, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/577-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "DataViz protocols",
+        "description": "An introduction to data visualization protocols for wet lab scientists",
+        "url": "https://joachimgoedhart.github.io/DataViz-protocols/"
+      },
+      {
+        "name": "Open source, experimental, and tiny tools roundup",
+        "description": "This is a list of small, free, or experimental tools that might be useful in building your game / website / interactive project. Although I’ve included ‘standards’, this list has a focus on artful tools and toys that are as fun to use as they are functional.",
+        "url": "https://tinytools.directory/"
+      },
+      {
+        "name": "12 Modern CSS One-Line Upgrades",
+        "description": "Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.",
+        "url": "https://moderncss.dev/12-modern-css-one-line-upgrades/"
+      },
+      {
+        "name": "bruin",
+        "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows... Bruin is a data pipeline tool that brings together data ingestion, data transformation with SQL & Python, and data quality into a single framework. It works with all the major data platforms and runs on your local machine, an EC2 instance, or GitHub Actions.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Shapecatcher – Unicode character recognition",
+        "description": "A tool that allows you to draw a shape and returns the closest Unicode character.",
+        "url": "https://shapecatcher.com/"
+      }
+    ]
+  },
+  {
+    "data": "March 12, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/556-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "What is geocoding?",
+        "description": "Geocoding is translating between geo coordinates (latitude, longitude) and human place descriptions (addresses, placenames, etc).",
+        "url": null
+      }
+    ]
+  },
+  {
+    "data": "March 5, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/555-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Color Buddy",
+        "description": "Color buddy is a tool for building color palettes.",
+        "url": "https://color-buddy.netlify.app/"
+      },
+      {
+        "name": "Everything I built with Claude Artifacts this week",
+        "description": "I’m a huge fan of Claude’s Artifacts feature, which lets you prompt Claude to create an interactive Single Page App (using HTML, CSS and JavaScript) and then view the result directly in the Claude interface.",
+        "url": "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
+      },
+      {
+        "name": "100 years of U.S. election results",
+        "description": "Datawrapper has released another map dataviz that can be duplicated and reused.",
+        "url": "https://app.flourish.studio/story/2663158/duplicate"
+      },
+      {
+        "name": "Alternatives to cosine similarity",
+        "description": "Cosine similarity is the recommended way to compare vectors, but what other distance functions are there? And are any of them better?",
+        "url": "https://tomhazledine.com/cosine-similarity-alternatives/"
+      },
+      {
+        "name": "Inventory of methods for comparing spatial patterns in raster data",
+        "description": "This blog post series will explain the motivation for comparing spatial patterns in raster data",
+        "url": "https://jakubnowosad.com/posts/2024-10-13-spatcomp-bp1/"
+      }
+    ]
+  },
+  {
+    "data": "February 27, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/554-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "DataViz protocols",
+        "description": "An introduction to data visualization protocols for wet lab scientists",
+        "url": "https://joachimgoedhart.github.io/DataViz-protocols/"
+      },
+      {
+        "name": "Open source, experimental, and tiny tools roundup",
+        "description": "This is a list of small, free, or experimental tools that might be useful in building your game / website / interactive project. Although I’ve included ‘standards’, this list has a focus on artful tools and toys that are as fun to use as they are functional.",
+        "url": "https://tinytools.directory/"
+      },
+      {
+        "name": "12 Modern CSS One-Line Upgrades",
+        "description": "Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.",
+        "url": "https://moderncss.dev/12-modern-css-one-line-upgrades/"
+      },
+      {
+        "name": "bruin",
+        "description": "Build data pipelines with SQL and Python, ingest data from different sources, add quality checks, and build end-to-end flows.",
+        "url": "https://github.com/bruin-data/bruin"
+      },
+      {
+        "name": "Shapecatcher – Unicode character recognition",
+        "description": "A tool that allows you to draw a shape and returns the closest Unicode character.",
+        "url": "https://shapecatcher.com/"
+      }
+    ]
+  },
+  {
+    "data": "February 20, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/553-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "What is geocoding?",
+        "description": "Geocoding is translating between geo coordinates (latitude, longitude) and human place descriptions (addresses, placenames, etc).",
+        "url": null
+      }
+    ]
+  },
+  {
+    "data": "February 13, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/552-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Advent of Code 2024 in pure SQL",
+        "description": "Here's day 11 entry but the rest are interesting too. Obviously, no surprises, as SQL is Turing-complete.",
+        "url": "https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html"
+      },
+      {
+        "name": "Unpopular Opinion: Quarto is 100x better than Jupyter Notebook",
+        "description": "Dataviz guru Yan Holtz's thoughts.",
+        "url": "https://www.linkedin.com/posts/yan-holtz-2477534a_unpopular-opinion-quarto-is-100x-better-activity-7282420672478199812-mF11"
+      },
+      {
+        "name": "The future of htmx",
+        "description": "From its creators: htmx is the New jQuery – Now, that’s a ridiculous (and arrogant) statement to make, of course, but it is an ideal that we on the htmx team are striving for.",
+        "url": "https://htmx.org/essays/future/"
+      },
+      {
+        "name": "jsontr.ee",
+        "description": "Effortlessly visualize JSON structures as interactive and dynamic tree diagrams.",
+        "url": "https://github.com/xzitlou/jsontr.ee"
+      }
+    ]
+  },
+  {
+    "data": "February 6, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/551-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "Leadership Power Tools: SQL and Statistics",
+        "description": "Covering SQL & DuckDB, then some useful statistical tools: summary stats, distributions, confidence intervals and Bayesian reasoning.",
+        "url": "https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/"
+      },
+      {
+        "name": "Collection of insane and fun facts about SQLite",
+        "description": "And many more. Some of them are truly insane, such as the fact it is maintained by 3 people who don't allow any external contribution.",
+        "url": "https://avi.im/blag/2024/sqlite-facts/"
+      },
+      {
+        "name": "Using GPS in the year 1565",
+        "description": "There’s a wonderful web app (“Allmaps Here”) that shows your GPS location on old maps.",
+        "url": "https://www.verbeeld.be/2024/11/17/using-gps-in-the-year-1565/"
+      },
+      {
+        "name": "MapMatrix",
+        "description": "A simple website allowing users to create synchronised grids of maps.",
+        "url": "https://mapmatrix.veloplanner.com/"
+      },
+      {
+        "name": "Building Game Prototypes with LÖVE",
+        "description": "Building game prototypes with LÖVE— a framework for making 2D games in Lua.",
+        "url": "https://healeycodes.com/building-game-prototypes-with-love"
+      },
+      {
+        "name": "Visualizing all my steps",
+        "description": "Writing a bit about a visualization that’s not a map. It’s the beginning of the new year (happy new year, everyone!) and I’ve been playing with data from my Fitbit tracker.",
+        "url": "https://www.letsmakeamap.com/blog/end-of-year-dataviz"
+      },
+      {
+        "name": "Describing Distributions",
+        "description": "In various data analyses, we often need to visualize distributions of various quantative varibles.",
+        "url": null
+      }
+    ]
+  },
+  {
+    "data": "January 30, 2024",
+    "issue_url": "https://buttondown.com/puntofisso/archive/550-quantum-of-sollazzo/",
+    "tools": [
+      {
+        "name": "What is geocoding?",
+        "description": "Geocoding is translating between geo coordinates (latitude, longitude) and human place descriptions (addresses, placenames, etc).",
+        "url": null
+      }
+    ]
+  }
+]

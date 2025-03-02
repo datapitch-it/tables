@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset Viewer</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS to handle visited link color and column widths -->
+    <style>
+        tr a:link {
+            font-weight: bold;
+        }
+        tr a:visited {
+            color: rgb(192, 192, 192);
+        }
+        /* Column width styles */
+        .col-deadline { width: 10%; }
+        .col-source { width: 15%; }
+        .col-title { min-width: 20%; }
+        .col-description { width: 35%; }
+        .col-tags { width: 10%; }
+        .col-link { width: 10%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center my-4">Dataset Viewer</h1>
+
+        <!-- Display total items count -->
+        <p id="itemCount">Total items displayed: 0</p>
+
+        <!-- Search input field -->
+        <input type="text" id="searchInput" class="form-control" placeholder="Search by keyword..." />
+    </div>
+    <div class="container-fluid">
+
+        <!-- Table displaying the dataset items -->
+        <table class="table table-bordered table-striped mt-3">
+            <thead>
+                <tr>
+                    <th class="col-deadline">Data</th>
+                    <th class="col-source">Issue URL</th>
+                    <th class="col-title">Tool Name</th>
+                    <th class="col-description">Tool Description</th>
+                    <th class="col-link">Tool URL</th>
+                </tr>
+            </thead>
+            <tbody id="dataTableBody">
+                <!-- Rows will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('./quantum.json')
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.getElementById('dataTableBody');
+                    let itemCount = 0;
+
+                    data.forEach(edition => {
+                        edition.tools.forEach(tool => {
+                            const row = document.createElement('tr');
+                            row.innerHTML = `
+                                <td>${edition.data}</td>
+                                <td><a href="${edition.issue_url}" target="_blank">${edition.issue_url}</a></td>
+                                <td>${tool.name}</td>
+                                <td>${tool.description}</td>
+                                <td><a href="${tool.url}" target="_blank">Tool url</a></td>
+                            `;
+                            tableBody.appendChild(row);
+                            itemCount++;
+                        });
+                    });
+
+                    document.getElementById('itemCount').textContent = `Total items displayed: ${itemCount}`;
+                })
+                .catch(error => console.error('Error loading data:', error));
+        });
+    </script>
+</body>
+</html>
