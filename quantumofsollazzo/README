@@ -1,0 +1,30 @@
+In teoria funziona così
+- lo script scraper.py va sulla pagina https://buttondown.com/puntofisso/archive della newsletter di Giuseppe Sollazzo (che si chiama "quantum of solazzo" certamente in onore del film "quantum of solace", secondo dei 5 episodi dello 007 di Daniel Craig). Da lì scarica gli url, itera per url e scarica il testo del singolo url. In output un banale txt che contiene tutte le newsletter dalla 598 alla 550, con il testo integrale + in cima l'url. Non ho messo la paginazione perché voglio salvare l'ambiente, ma mi sembra abbastanza facile.
+- lo script genera extraction.txt che contiene tutto. I testi sono separati l'uno dall'alto da un linea =*80.
+- Da qui si deve creare il json. Tuttavia ttok dice che l'intero file è di 111966 token quindi una volta passato all'llm, lui se lo pappa, ma output è piccolo perché restano pochi token
+- Per questa ragione, in maniera di certo casereccia, decidi di procedere a pezzetti banalmente dicendogli di prendere sempre da extraction le newsletter dal giorno X al giorno Y. 
+- il processo funziona, e tutte le volte gli faccio creare un file. Lo ripeto tre volte e ho i tre json quantum1, quantum2 e quantum3 in questa cartella. 
+- alla fine gli do un jq e creo quantum.json
+- l'ultimo prompt è per la creazione di index.html e li ho fatto passo passo
+
+Sembrerebbe aver funzionato.
+Attenzione: non ho estratto tutti gli url, ma solo quelli della sezione Tools & Tutorial (o almeno spero)
+
+
+#### prompt per creare il json
+
+```shell
+$ cat extraction.txt | llm -m gemini -u "Agisci come un esperto nell'estrazione di informazioni tecniche da newsletter, specializzato nell'identificazione di tool e tutorial menzionati. Per ogni newsletter fornita, estrai le informazioni *solo* dalla sezione \"Tools & tutorials\". L'input contiene '\\n' per i newline. Crea un oggetto JSON per ogni newsletter, strutturato come segue: \`\`\`json [{ \"data\": \"data della newsletter (formato: Mese Giorno, Anno)\", \"issue_url\": \"URL dell'archivio della newsletter\", \"tools\": [ { \"name\": \"Nome del tool/tutorial\", \"description\": \"Breve descrizione del tool/tutorial\", \"url\": \"URL del tool/tutorial (se disponibile, altrimenti null)\" }, { \"name\": \"Nome del tool/tutorial\", \"description\": \"Breve descrizione del tool/tutorial\", \"url\": \"URL del tool/tutorial (se disponibile, altrimenti null)\" }, // ... altri tool ] }, // ... altre newsletter ]\`\`\` Se un tool non ha un URL, imposta il valore di \"url\" a \`null\`. Assicurati che l'output sia un JSON valido con chiavi e stringhe tra virgolette doppie. Comincia dalla newsletter del February 25, 2025 e finisci con la newsletter del November 5, 2024" -o json_object true > quantumofsollazzo1.json
+```
+
+#### jq per unire i tre file json
+
+```shell
+$ jq -s '.[0] + .[1] + .[2]' quantumofsollazzo1.json quantumofsollazzo2.json quantumofsollazzo3.json > quantum.json
+```
+
+#### prompt per creare l'html
+
+```shell
+$ cat quantum.json index.html | llm "ti do in input (1) un file json che contiene dei dati strutturati, e (2) una pagina html predisposta per renderizzare dei json in una tabella html. Il mio obiettivo è creare un html personalizzato che rendirizza i dati del json che ti ho dato. Segui i seguenti passaggi: analizza il json in input, identifica la struttura dati, definisci lo schema con cui realizzare la tabella. Una volta definito, chiedimi come procedere"
+```
