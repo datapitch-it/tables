@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-02-24 06:11:01",
+    "scraping_timestamp": "2025-02-25 17:25:14",
     "data": [
         {
             "deadline": "Invalid Date",
@@ -819,24 +819,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "WACC Announces Call for Projects – Communication for All",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/wacc-announces-call-for-projects-communication-for-all/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications for Journalism Fund – Belgium",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-journalism-fund-belgium/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "WACC Announces Call for Projects – Communication for All",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/wacc-announces-call-for-projects-communication-for-all/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1143,18 +1143,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications for the Joyce Foundation’s 2021 Grants Program in United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-the-joyce-foundations-2021-grants-program-in-united-states/",
@@ -1173,6 +1161,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1263,18 +1263,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "U.S. Mission to Moldova Seeking Applications for Media Literacy Programme",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/u-s-mission-to-moldova-seeking-applications-for-media-literacy-programme/",
@@ -1293,6 +1281,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1503,30 +1503,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Southern Movement Media Fund (round 2) – United States",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "United Nations Democracy Fund Project Proposal Guidelines 15th Round Of Funding",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/united-nations-democracy-fund-project-proposal-guidelines-15th-round-of-funding/",
@@ -1569,6 +1545,30 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Southern Movement Media Fund (round 2) – United States",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
