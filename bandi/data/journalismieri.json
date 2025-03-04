@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-02-25 17:25:14",
+    "scraping_timestamp": "2025-03-02 09:19:31",
     "data": [
+        {
+            "deadline": "2025-04-01",
+            "title": "Media Innovation Europe 2.0",
+            "description": "Thomson Media",
+            "link": "https://gfmd.info/fundings/media-innovation-europe-2-0/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to EUR 5,000"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Science Misinformation Journalism Grant",
+            "description": "Pulitzer Center",
+            "link": "https://gfmd.info/fundings/science-misinformation-journalism-grant/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Funding amounts vary based on project scope"
+            }
+        },
         {
             "deadline": "Invalid Date",
             "title": "Immediate Needs Grant for Huntington County",
@@ -14,18 +38,6 @@
             }
         },
         {
-            "deadline": "2025-02-28",
-            "title": "Media Resilience Grant for Jordanian Media Outlets",
-            "description": "Free Press Unlimited (FPU)",
-            "link": "https://gfmd.info/fundings/media-resilience-grant-for-jordanian-media-outlets/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Jordan",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€50,000"
-            }
-        },
-        {
             "deadline": "2025-03-27",
             "title": "European Local Cross-border Grants for Investigative Journalism",
             "description": "European Union",
@@ -35,18 +47,6 @@
                 "Area Classification": "Europe",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€250,000"
-            }
-        },
-        {
-            "deadline": "2025-03-31",
-            "title": "2025 Democracy Commission Small Grants",
-            "description": "U.S. Embassy in North Macedonia",
-            "link": "https://gfmd.info/fundings/2025-democracy-commission-small-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Between $1,000 and $50,000 per project."
             }
         },
         {
@@ -74,18 +74,6 @@
             }
         },
         {
-            "deadline": "2025-02-28",
-            "title": "Wincott Awards 2025",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/wincott-awards-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-04-30",
             "title": "Scripps Howard Fund Journalism grant",
             "description": "Scripps Howard Fund",
@@ -110,42 +98,6 @@
             }
         },
         {
-            "deadline": "2025-02-27",
-            "title": "EU Journalism Partnerships – Funding for Media Pluralism",
-            "description": "European Union",
-            "link": "https://gfmd.info/fundings/eu-journalism-partnerships-funding-for-media-pluralism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€2.5 million per project"
-            }
-        },
-        {
-            "deadline": "2025-03-02",
-            "title": "Public Interest Journalism Funding Europe",
-            "description": "CIVITATES (The European Democracy Fund)",
-            "link": "https://gfmd.info/fundings/public-interest-journalism-funding-europe/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Australia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€160,000"
-            }
-        },
-        {
-            "deadline": "2025-02-28",
-            "title": "Apply for COP30 Editorial Grants",
-            "description": "Pulitzer Center",
-            "link": "https://gfmd.info/fundings/apply-for-cop30-editorial-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-04-04",
             "title": "NASW Peggy Girshman Idea Grants 2025",
             "description": "The National Association of Science Writers (NASW)",
@@ -167,18 +119,6 @@
                 "Area Classification": "Australia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-02-27",
-            "title": "Journalism Partnerships Grant 2025",
-            "description": "European Union",
-            "link": "https://gfmd.info/fundings/journalism-partnerships-gant-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "EUR 5.2 million"
             }
         },
         {
@@ -207,18 +147,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Civil Society Actors in the Eastern Neighborhood Countries",
-            "description": "New Democracy Fund",
-            "link": "https://gfmd.info/fundings/call-for-civil-society-actors-in-the-eastern-neighborhood-countries/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€53,000"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "AI Act Implementation Grants",
             "description": "European AI & Society Fund",
             "link": "https://gfmd.info/fundings/ai-act-implementation-grants/",
@@ -227,18 +155,6 @@
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€10,000 – €60,000"
-            }
-        },
-        {
-            "deadline": "2025-02-28",
-            "title": "CFPs: Boosting Fact-Checking Activities in Europe",
-            "description": "European Media and Information Fund",
-            "link": "https://gfmd.info/fundings/cfp-boosting-fact-checking-activities-in-europe/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to €55,000"
             }
         },
         {
@@ -254,30 +170,6 @@
             }
         },
         {
-            "deadline": "2025-02-27",
-            "title": "News – Journalism Partnerships – Collaborations",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/news-journalism-partnerships-collaborations/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€5,266,270"
-            }
-        },
-        {
-            "deadline": "2025-02-27",
-            "title": "News – Journalism Partnerships – Pluralism",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/news-journalism-partnerships-pluralism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€5,258,066"
-            }
-        },
-        {
             "deadline": "Invalid Date",
             "title": "RCDIJ Africa Fund",
             "description": "Ripples Centre for Data and Investigative Journalism",
@@ -287,18 +179,6 @@
                 "Area Classification": "Sub-Saharan Africa",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $10,000"
-            }
-        },
-        {
-            "deadline": "2025-06-15",
-            "title": "Local Partner Fund (LPF)",
-            "description": "United States Agency for International Development (USAID)",
-            "link": "https://gfmd.info/fundings/local-partner-fund-lpf/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Sub-Saharan Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to $1 million"
             }
         },
         {
@@ -314,18 +194,6 @@
             }
         },
         {
-            "deadline": "2025-06-04",
-            "title": "Media Viability Accelerator (MVA) Forward Program",
-            "description": "Internews",
-            "link": "https://gfmd.info/fundings/media-viability-accelerator-mva-forward-program/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "$25,000 - $100,000"
-            }
-        },
-        {
             "deadline": "Invalid Date",
             "title": "U.S. Local News Reporting Grants",
             "description": "Pulitzer Center",
@@ -335,18 +203,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Incident Emergency Fund – Apply Now!",
-            "description": "Digital Defenders Partnership",
-            "link": "https://gfmd.info/fundings/incident-emergency-fund-apply-now/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to €10,000"
             }
         },
         {
@@ -371,18 +227,6 @@
                 "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "up to $12 million USD"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Open Call for Proposals: Defenders in Development Policy Grants",
-            "description": "The Coalition for Human Rights in Development",
-            "link": "https://gfmd.info/fundings/open-call-for-proposals-defenders-in-development-policy-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to USD 5,000"
             }
         },
         {
@@ -419,18 +263,6 @@
                 "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Economic Hardship Reporting Project (EHRP)",
-            "description": "Economic Hardship Reporting Project (EHRP)",
-            "link": "https://gfmd.info/fundings/economic-hardship-reporting-project-ehrp/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to USD 500-10,000"
             }
         },
         {
@@ -479,18 +311,6 @@
                 "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $50,000"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Flexible Response Mechanism",
-            "description": "New Democracy Fund",
-            "link": "https://gfmd.info/fundings/flexible-response-mechanism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "DKK 400,000"
             }
         },
         {
@@ -999,24 +819,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Applications: Training for Media and Csos in Montenegro",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-training-for-media-and-csos-in-montenegro/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Internews Opens Call for Applications for Media Small Grants Pool 2021 in Indonesia",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/internews-opens-call-for-applications-for-media-small-grants-pool-2021-in-indonesia/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Asia, Pacific, and Oceania",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Applications: Training for Media and Csos in Montenegro",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-training-for-media-and-csos-in-montenegro/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1143,6 +963,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Call for Applications for the Joyce Foundation’s 2021 Grants Program in United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-the-joyce-foundations-2021-grants-program-in-united-states/",
@@ -1161,18 +993,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1227,6 +1047,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "No Region",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Call for Proposals for 2021 Park Foundation’s Grant Program – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-2021-park-foundations-grant-program-united-states/",
@@ -1245,18 +1077,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1503,6 +1323,30 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Southern Movement Media Fund (round 2) – United States",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "United Nations Democracy Fund Project Proposal Guidelines 15th Round Of Funding",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/united-nations-democracy-fund-project-proposal-guidelines-15th-round-of-funding/",
@@ -1545,30 +1389,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Southern Movement Media Fund (round 2) – United States",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }

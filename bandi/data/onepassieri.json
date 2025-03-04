@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-02-25 17:26:57",
+    "scraping_timestamp": "2025-03-02 09:21:24",
     "data": [
         {
             "deadline": "N/A",
@@ -9,19 +9,6 @@
             "custom": {
                 "tags": [
                     "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-02-28",
-            "title": "DeremCo - 2nd Open Call",
-            "description": "Supporting innovative solutions for post-use composite product management in the circular economy",
-            "link": "https://getonepass.eu/opportunities/c/deremco-2nd-open-call",
-            "custom": {
-                "tags": [
-                    "Manufacturing",
-                    "Sustainability"
                 ],
                 "status": "Open for applications"
             }
@@ -133,19 +120,6 @@
             }
         },
         {
-            "deadline": "2025-02-25",
-            "title": "Call for Pilots within the European data space for smart communities",
-            "description": "Support for the creation of new data services from the data sharing of  Sustainable and Smart Cities and Communities",
-            "link": "https://getonepass.eu/opportunities/c/call-for-pilots-within-the-european-data-space-for-smart-communities",
-            "custom": {
-                "tags": [
-                    "Government",
-                    "Smart Cities"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
             "deadline": "2025-03-13",
             "title": "dAIEDGE 2nd Open Call for Collaborative Projects",
             "description": "Supporting the collaborative development of solutions for AI at the Edge",
@@ -158,18 +132,6 @@
             }
         },
         {
-            "deadline": "2025-02-25",
-            "title": "POLREC 2nd Training Open Call on Polymer recycling",
-            "description": "Supporting the training of SME's workforce on polymer recycling",
-            "link": "https://getonepass.eu/opportunities/c/polrec-2nd-training-open-call-on-polymer-recycling",
-            "custom": {
-                "tags": [
-                    "Plastics and Rubber Manufacturing"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
             "deadline": "2025-04-01",
             "title": "NGI Mobifree 5th open call (2025-04M)",
             "description": "More ethical and human mobile software",
@@ -177,20 +139,6 @@
             "custom": {
                 "tags": [
                     "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-02-28",
-            "title": "EENergy 2nd call",
-            "description": "Improving energy efficiency of European SME",
-            "link": "https://getonepass.eu/opportunities/c/eenergy-2nd-call",
-            "custom": {
-                "tags": [
-                    "Manufacturing",
-                    "Pharmaceutical",
-                    "Water Purification"
                 ],
                 "status": "Open for applications"
             }

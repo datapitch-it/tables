@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-03-02 09:19:31",
+    "scraping_timestamp": "2025-03-04 10:31:22",
     "data": [
         {
             "deadline": "2025-04-01",
@@ -8,7 +8,7 @@
             "link": "https://gfmd.info/fundings/media-innovation-europe-2-0/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Europe",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to EUR 5,000"
             }
@@ -20,7 +20,7 @@
             "link": "https://gfmd.info/fundings/science-misinformation-journalism-grant/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Global",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Funding amounts vary based on project scope"
             }
@@ -32,7 +32,7 @@
             "link": "https://gfmd.info/fundings/immediate-needs-grant-for-huntington-county/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Huntington County",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $1,500."
             }
@@ -44,21 +44,9 @@
             "link": "https://gfmd.info/fundings/european-local-cross-border-grants-for-investigative-journalism/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Europe",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€250,000"
-            }
-        },
-        {
-            "deadline": "2025-03-03",
-            "title": "Visual and Media Arts Projects Program",
-            "description": "Toronto Arts Council",
-            "link": "https://gfmd.info/fundings/visual-and-media-arts-projects-program/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "$15,000."
             }
         },
         {
@@ -107,18 +95,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "$5,000 per project"
-            }
-        },
-        {
-            "deadline": "2025-03-04",
-            "title": "Specialist Radio Programming Grant",
-            "description": "Community Broadcasting Foundation (CBF)",
-            "link": "https://gfmd.info/fundings/specialist-radio-programming-grant/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Australia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -819,24 +795,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Internews Opens Call for Applications for Media Small Grants Pool 2021 in Indonesia",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/internews-opens-call-for-applications-for-media-small-grants-pool-2021-in-indonesia/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Asia, Pacific, and Oceania",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications: Training for Media and Csos in Montenegro",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-training-for-media-and-csos-in-montenegro/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Internews Opens Call for Applications for Media Small Grants Pool 2021 in Indonesia",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/internews-opens-call-for-applications-for-media-small-grants-pool-2021-in-indonesia/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Asia, Pacific, and Oceania",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1047,18 +1023,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Proposals for 2021 Park Foundation’s Grant Program – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-2021-park-foundations-grant-program-united-states/",
@@ -1083,6 +1047,30 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "No Region",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "U.S. Mission to Moldova Seeking Applications for Media Literacy Programme",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/u-s-mission-to-moldova-seeking-applications-for-media-literacy-programme/",
@@ -1101,18 +1089,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
