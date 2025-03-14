@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-03-05 15:15:58",
+    "scraping_timestamp": "2025-03-14 08:17:12",
     "data": [
         {
             "deadline": "N/A",
@@ -24,18 +24,6 @@
                     "Mining",
                     "Construction",
                     "Transportation"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-03-07",
-            "title": "3rd 6G-XR Open Call - Vertical Replicability enablers",
-            "description": "Supporting the replication of verticals in 6GXR",
-            "link": "https://getonepass.eu/opportunities/c/3rd-6g-xr-open-call-vertical-replicability-enablers",
-            "custom": {
-                "tags": [
-                    "No tags found"
                 ],
                 "status": "Open for applications"
             }

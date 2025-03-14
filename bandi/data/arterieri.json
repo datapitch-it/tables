@@ -1,66 +1,6 @@
 {
-    "scraping_timestamp": "2025-03-04 10:31:07",
+    "scraping_timestamp": "2025-03-05 15:13:53",
     "data": [
-        {
-            "deadline": "2025-03-04",
-            "title": "Aperto il secondo bando sui Competence Centres della partnership europea Chips JU",
-            "description": "La scadenza per partecipare al bando della partnership Chips JU è fissata al 4 marzo 2025",
-            "link": "https://first.art-er.it/news/chips-ju-secondo-bando-sui-competence-centres-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 16.000.000"
-            }
-        },
-        {
-            "deadline": "2025-03-04",
-            "title": "Rigenera 2025: al via il premio per l’innovazione architettonica e la rigenerazione urbana",
-            "description": "Fino al 4 marzo è possibile candidare opere capaci di generare valore sociale, economico e ambientale nelle città",
-            "link": "https://first.art-er.it/news/architettura-sostenibile-al-il-premio-rigenera",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-03-04",
-            "title": "Nuova call RENEWFM per progetti di energia fotovoltaica ed eolica",
-            "description": "Aperto il secondo bando transfrontaliero nell’ambito del meccanismo di finanziamento delle energie rinnovabili dell'UE",
-            "link": "https://first.art-er.it/news/renewfm-lanciato-il-secondo-bando",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 52.400.000"
-            }
-        },
-        {
-            "deadline": "2025-03-05",
-            "title": "Cybersecurity: pubblicato nuovo bando SERICS per progetti di ricerca",
-            "description": "Il bando è pubblicato nell'ambito dello Spoke 3 del partenariato esteso finanziato da fondi PNRR",
-            "link": "https://first.art-er.it/news/pubblicato-nuovo-bando-dello-spoke-3-di-serics",
-            "custom": {
-                "Topics": "PNRR - Bandi a cascata",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 852.096,21"
-            }
-        },
-        {
-            "deadline": "2025-03-05",
-            "title": "Arte, scienza e tecnologia: al via le candidature alla nuova edizione del S+T+ARTS Prize 2025",
-            "description": "Il Premio S+T+ARTS celebra l'innovazione nella tecnologia, nell'industria e nella società stimolata dalle arti",
-            "link": "https://first.art-er.it/news/arte-scienza-e-tecnologia-starts-prize",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 20.000 a premio"
-            }
-        },
         {
             "deadline": "2025-03-06",
             "title": "ERA-NET NEURON: aperto il bando per migliorare le conoscenze sulle neuroscienze del dolore",
