@@ -1,184 +1,16 @@
 {
-    "scraping_timestamp": "2025-03-05 15:13:53",
+    "scraping_timestamp": "2025-03-14 08:15:34",
     "data": [
         {
-            "deadline": "2025-03-06",
-            "title": "ERA-NET NEURON: aperto il bando per migliorare le conoscenze sulle neuroscienze del dolore",
-            "description": "Il bando finanzia progetti di ricerca che aiutino a migliorare la vita delle persone colpite dal dolore cronico e segue una procedura a due fasi",
-            "link": "https://first.art-er.it/news/era-net-neuron-aperto-bando-su-neuroscienza-del-dolore",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-03-07",
-            "title": "Amazon Sustainability Accelerator: il programma di sostenibilità cerca start-up innovative",
-            "description": "Le start-up selezionate dal Amazon Sustainability Accelerator saranno sostenute con finanziamenti e mentorship per minimizzare l'impatto ambientale",
-            "link": "https://first.art-er.it/news/amazon-sustainability-accelerator-sostegno-start-0",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 10.000 - € 12.000 per ciascuna startup"
-            }
-        },
-        {
-            "deadline": "2025-03-07",
-            "title": "Progetto 6G-XR: online la terza call per servizi e infrastrutture 6G e XR",
-            "description": "La call del progetto 6G-XR del partenariato europeo Smart Networks and Services JU finanzierà 12 progetti della durata di 6 mesi",
-            "link": "https://first.art-er.it/news/terza-call-servizi-e-infrastrutture-6g-xr",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 720.000"
-            }
-        },
-        {
-            "deadline": "2025-03-09",
-            "title": "Strategia Nazionale per lo Sviluppo Sostenibile: nuovo bando per progetti di ricerca",
-            "description": "Il bando vuole promuovere l'interazione tra il sistema ricerca e le istituzioni territoriali per attuare la Strategia Nazionale per lo Sviluppo Sostenibile",
-            "link": "https://first.art-er.it/news/strategia-nazionale-lo-sviluppo-sostenibile-nuovo-bando-progetti-di-ricerca",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 3.150.000"
-            }
-        },
-        {
-            "deadline": "2025-03-10",
-            "title": "Ambienti green e smart: pubblicato un nuovo bando del Partenariato esteso RESTART",
-            "description": "Il bando è stato pubblicato nell'ambito dello Spoke 7 e finanzia progetti di ricerca fondamentale, industriale e di sviluppo sperimentale",
-            "link": "https://first.art-er.it/news/spoke-7-ambienti-green-e-smart",
-            "custom": {
-                "Topics": "PNRR - Bandi a cascata",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 580.000"
-            }
-        },
-        {
-            "deadline": "2025-03-10",
-            "title": "Scienza partecipativa: aperte le candidature per il Prize for Citizen Science di IMPETUS",
-            "description": "Promosso dell'ambito del progetto IMPETUS, l'European Union Prize for Citizen Science premia il coinvolgimento dei cittadini nella ricerca scientifica",
-            "link": "https://first.art-er.it/news/prize-citizen-science-la-scienza-partecipativa",
-            "custom": {
-                "Topics": "Città del futuro, Talenti e competenze, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-03-10",
-            "title": "Photonics21 Innovation Award 2025: al via al premio per le idee innovative nella fotonica",
-            "description": "Il Photonics21 Innovation Award premia le idee innovative nell'ambito della fotonica con un premio di 5.000 € e formazione imprenditoriale",
-            "link": "https://first.art-er.it/news/innovation-award-2025-sostegno-della-fotonica",
+            "deadline": "2025-03-14",
+            "title": "I3-INSHAPE: aperto un nuovo bando per selezionare valutatori indipendenti",
+            "description": "I valutatori contribuiranno a supportare la crescita delle PMI europee impegnate nella tecnologia per la salute e lo sport",
+            "link": "https://first.art-er.it/news/i3-inshape-bando-selezionare-valutatori",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 5.000"
-            }
-        },
-        {
-            "deadline": "2025-03-11",
-            "title": "PNRR: nuovo bando MedITech per progetti di innovazione tecnologica",
-            "description": "Il bando finanzia progetti orientati alla sperimentazione, prototipazione e adozione di soluzioni basate sulle tecnologie abilitanti la data economy",
-            "link": "https://first.art-er.it/news/bando-meditech-su-tecnologie-di-industria-40-1",
-            "custom": {
-                "Topics": "PNRR - Bandi a cascata",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 2.000.000"
-            }
-        },
-        {
-            "deadline": "2025-03-12",
-            "title": "EIT Climate-KIC: aperta l'edizione 2025 della Sustainable Cities Mobility Challenge",
-            "description": "EIT Climate-KIC punta a favorire la transizione verso città più sostenibili e resilienti, promuovendo soluzioni innovative e replicabili in tutta Europa",
-            "link": "https://first.art-er.it/news/aperta-la-sustainable-cities-mobility-challenge-2025",
-            "custom": {
-                "Topics": "Città del futuro, Mobilità del futuro",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "fino a € 90.000 per progetto"
-            }
-        },
-        {
-            "deadline": "2025-03-12",
-            "title": "Al via la Sustainable Cities Mobility Challenge, una sfida per la mobilità sostenibile nelle città UE",
-            "description": "Le città europee invitate a proporre iniziative di mobilità sostenibile per migliorare qualità dell'aria, clima e spazi urbani verdi",
-            "link": "https://first.art-er.it/news/trasporto-verde-innovazione-un-futuro-urbano",
-            "custom": {
-                "Topics": "Città del futuro, Mobilità del futuro",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "fino a € 90.000 per progetto"
-            }
-        },
-        {
-            "deadline": "2025-03-13",
-            "title": "INNO4CFIs: al via il programma di accelerazione per PMI e startup greentech",
-            "description": "ll progetto è rivolto alle imprese di Lazio, Lombardia e Toscana",
-            "link": "https://first.art-er.it/news/acceleratore-ue-innovazioni-nel-carbon-farming",
-            "custom": {
-                "Topics": "Transizione sostenibile",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-03-13",
-            "title": "SEE BRIDGE: aperta la Open Call 2 a sostegno di PMI del settore energetico",
-            "description": "La call offre finanziamenti a PMI per supportare la transizione verde e digitale, con focus su energia e sostenibilità",
-            "link": "https://first.art-er.it/news/see-bridge-open-call-2-finanziamenti-pmi-verdi",
-            "custom": {
-                "Topics": "Cascade funding, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 77.977"
-            }
-        },
-        {
-            "deadline": "2025-03-13",
-            "title": "IMPETUS: al via il bando a sostegno di progetti innovativi di Citizen Science",
-            "description": "Il progetto europeo IMPETUS finanzia proposte innovative promuovendo la scienza partecipativa per comunità sostenibili e inclusive tramite il Citizen Science Accelerator",
-            "link": "https://first.art-er.it/news/impetus-finanziamenti-la-citizen-science",
-            "custom": {
-                "Topics": "Città del futuro, Talenti e competenze, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 920.000"
-            }
-        },
-        {
-            "deadline": "2025-03-13",
-            "title": "Eurostars-3 Call 8: aperto il nuovo bando transnazionale per PMI innovative",
-            "description": "Il bando sostiene le PMI che mirano a collaborare a livello internazionale, promuovendo al contempo la crescita sostenibile e l’innovazione tecnologica",
-            "link": "https://first.art-er.it/news/bando-transnazionale-progetti-di-rs-collaborativi-0",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 70.963.833"
-            }
-        },
-        {
-            "deadline": "2025-03-13",
-            "title": "EP PerMed: aperti due nuovi bandi per soluzioni all'avanguardia nella medicina personalizzata",
-            "description": "Con i programmi Fast Track and Venture Creator, EP PerMed cerca progetti per accelerare lo sviluppo, la convalida e la disponibilità sul mercato di innovazioni nella medicina personalizzata",
-            "link": "https://first.art-er.it/news/aperte-call-innovazioni-la-medicina-su-misura",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 400.000"
+                "Stanziamento": "€ 200 per ciascuna proposta valutata"
             }
         },
         {
@@ -259,7 +91,7 @@
             "description": "Il progetto Women TechEU offre supporto mirato per imprenditrici di start-up nel deep-tech, promuovendo l'inclusività nella leadership e nell'innovazione in Europa",
             "link": "https://first.art-er.it/news/sostegno-imprenditrici-deep-tech-bando-women-techeu-1",
             "custom": {
-                "Topics": "Deep tech",
+                "Topics": "Deep tech, Gender equality",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 75.000 per ciascuna startup"
@@ -275,18 +107,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 500.000"
-            }
-        },
-        {
-            "deadline": "2025-03-18",
-            "title": "Energia e materie prime: bando MASE per progetti di ricerca, sviluppo e innovazione tecnologica",
-            "description": "I progetti dovranno contribuire all'integrazione delle energie rinnovabili nel sistema energetico, al miglioramento della produzione di idrogeno verde e allo sviluppo di soluzioni innovative",
-            "link": "https://first.art-er.it/news/sostegno-progetti-innovativi-energie-rinnovabili",
-            "custom": {
-                "Topics": "Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 21.000.000"
             }
         },
         {
@@ -386,6 +206,30 @@
             }
         },
         {
+            "deadline": "2025-03-26",
+            "title": "Moda: bando di selezione di un'azienda per modelli di business sostenibili",
+            "description": "Il progetto Just Fashion seleziona una PMI da supportare nella sua transizione verso modelli aziendali sostenibili",
+            "link": "https://first.art-er.it/news/bando-la-selezione-di-unazienda-nel-settore-della-moda",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 100.000"
+            }
+        },
+        {
+            "deadline": "2025-03-26",
+            "title": "Mobilità urbana: bando della città di Torino per testare progetti pilota innovativi",
+            "description": "Il bando si rivolge a Startup e PMI con soluzioni innovative basate su tecnologie e servizi CCAM (Connected, Cooperative and Automated Mobility)",
+            "link": "https://first.art-er.it/news/call-testing-del-progetto-tomove-la-mobilita",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€70.000 per candidatura singola€160.000 per candidatura in partenariato"
+            }
+        },
+        {
             "deadline": "2025-03-27",
             "title": "Tecnologie energetiche sostenibili: al via la prima Joint Call Africa-UE",
             "description": "La partnership UE-Africa LEAP-SE 2025 ha l'obiettivo di sviluppare energia sostenibile come fonte di energia per il continente africano",
@@ -411,6 +255,30 @@
         },
         {
             "deadline": "2025-03-28",
+            "title": "Fondazione Cariplo: aperto un bando per sostenere i giovani ricercatori italiani",
+            "description": "Enti pubblici o privati no profit attivi nella ricerca scientifica potranno candidare progetti guidati da un giovane ricercatore con un titolo di dottorato",
+            "link": "https://first.art-er.it/news/bando-giovani-ricercatori-della-fondazione-cariplo",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.350.000"
+            }
+        },
+        {
+            "deadline": "2025-03-28",
+            "title": "Al via Impact Award, un riconoscimento per l’innovazione sociale e ambientale",
+            "description": "Le imprese vincitrici dell’Impact Award riceveranno visibilità e formazione per amplificare il loro contributo alla sostenibilità",
+            "link": "https://first.art-er.it/news/impact-award-premio-le-imprese-impatto-sociale",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-03-28",
             "title": "Mission4Water: aperta la prima open call per ridurre l'inquinamento idrico nella regione adriatico-ionica",
             "description": "Il termine ultimo per partecipare al bando del progetto Mission4Water, finanziato dal programma Interreg IPA-ADRION, è il 28 marzo 2025",
             "link": "https://first.art-er.it/news/mission4water-aperta-la-prima-open-call",
@@ -419,6 +287,42 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-03-28",
+            "title": "Energia e materie prime: bando MASE per progetti di ricerca, sviluppo e innovazione tecnologica",
+            "description": "I progetti dovranno contribuire all'integrazione delle energie rinnovabili nel sistema energetico, al miglioramento della produzione di idrogeno verde e allo sviluppo di soluzioni innovative",
+            "link": "https://first.art-er.it/news/sostegno-progetti-innovativi-energie-rinnovabili",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 21.000.000"
+            }
+        },
+        {
+            "deadline": "2025-03-31",
+            "title": "Space Meetings Veneto: online il bando per il servizio di “Networking & Innovation” del Cluster Nazionale Aerospazio",
+            "description": "Il Cluster allestirà uno stand per organizzare incontri B2B mirati e faciliterà altre azioni di networking e matchmaking a livello nazionale e internazionale",
+            "link": "https://first.art-er.it/news/space-meetings-veneto-online-il-bando-il-servizio-di-networking-innovation-del-cluster",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-03-31",
+            "title": "PNRR: 300 milioni per il trasferimento dei dati delle PA Centrali al Polo Strategico Nazionale",
+            "description": "Il bando è aperto fino al 31 marzo 2025 e offre 300 milioni di euro per migrare dati e servizi verso il PSN",
+            "link": "https://first.art-er.it/news/pnrr-300-milioni-migrazione-delle-pa-al-psn",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 300.000.000"
             }
         },
         {
@@ -439,7 +343,7 @@
             "description": "Il programma è stato progettato per supportare le imprenditrici del settore tecnologico nella loro espansione verso il mercato europeo",
             "link": "https://first.art-er.it/news/supernovas-apre-alle-startup-tech-guidate-da-donne",
             "custom": {
-                "Topics": "",
+                "Topics": "Gender equality",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
@@ -467,6 +371,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 10.000 per progetto selezionato"
+            }
+        },
+        {
+            "deadline": "2025-04-01",
+            "title": "EDCTP Prizes 2025: aperte le candidature",
+            "description": "I premi riconoscono individui e team di ricerca eccezionali provenienti da Africa ed Europa che hanno ottenuto risultati significativi nel loro campo",
+            "link": "https://first.art-er.it/news/edctp-prizes-2025-aperte-le-candidature",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -511,7 +427,7 @@
             "description": "EIT Jumpstarter cerca innovatori in ambiti quali materie prime, sanità, agroalimentare, energia, mobilità urbana, produzione e New European Bauhaus, entro il 2 aprile 2025",
             "link": "https://first.art-er.it/news/eit-raw-materials-candidature-jumpstarter-2025",
             "custom": {
-                "Topics": "",
+                "Topics": "NEB - New European Bauhaus",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
@@ -559,10 +475,34 @@
             "description": "Il bando mira a promuovere il settore moda e arredamento, sostenendo nuove tecnologie e cooperazione europea",
             "link": "https://first.art-er.it/news/ue-nuovi-fondi-innovazione-nelle-pmi-creative",
             "custom": {
-                "Topics": "",
+                "Topics": "Industrie creative",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 4.500.000"
+            }
+        },
+        {
+            "deadline": "2025-04-04",
+            "title": "Transizione ecologica: bando per soluzioni innovative in risposta a sfide dei territori",
+            "description": "Aperte le candidature per innovazioni che rispondano alle sfide individuate nel territorio dell'Emilia-Romagna nell'ambito del progetto ECOSISTER",
+            "link": "https://first.art-er.it/news/lanciato-il-bando-soluzioni-innovative-ecologiche",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 2.100,00"
+            }
+        },
+        {
+            "deadline": "2025-04-04",
+            "title": "C4T GROUNDWORK: aperto il bando per l'assistenza agli investimenti della Politica di Coesione",
+            "description": "Il programma C4T GROUNDWORK offre supporto alle autorità pubbliche europee per accelerare la transizione sostenibile con strategie, monitoraggio e finanziamenti",
+            "link": "https://first.art-er.it/news/c4t-groundwork-bando-assistenza-agli-investimenti",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -747,6 +687,18 @@
         },
         {
             "deadline": "2025-04-15",
+            "title": "CNR: prima Call di accesso ai servizi di \"ELIXIRxNextGenIT\"",
+            "description": "I servizi della piattaforma supportano la ricerca biomedica e biotecnologica attraverso l’uso di tecnologie avanzate e soluzioni di big data",
+            "link": "https://first.art-er.it/news/cnr-call-accesso-ai-servizi-di-elixirxnextgenit",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-04-15",
             "title": "EIT Digital: aperte le candidature per il bando \"SPIN: Rise 2025\"",
             "description": "La call intende selezionare più partner per gestire diversi programmi SPIN: Rise nel 2025, ognuno dei quali si concentrerà su un'area di interesse",
             "link": "https://first.art-er.it/news/eit-digital-bando-spinrise-2025",
@@ -779,6 +731,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-04-21",
+            "title": "Scienza e tecnologia quantistica: nuovo bando PNRR per progetti di ricerca e sviluppo",
+            "description": "Il bando è finanziato nell'ambito dello Spoke 9 del Partenariato Esteso NQSTI finanziato con fondi PNRR",
+            "link": "https://first.art-er.it/news/bando-pnrr-nellambito-della-tecnologia-quantistica-2",
+            "custom": {
+                "Topics": "PNRR - Bandi a cascata, Quantum",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 250.000"
             }
         },
         {
@@ -831,6 +795,18 @@
         },
         {
             "deadline": "2025-04-24",
+            "title": "AUTOASSESS Open Call: soluzioni tecnologiche innovative per il settore marittimo",
+            "description": "Il bando offre finanziamenti per tecnologie, come i droni, utilizzabili in ambito marittimo e resterà aperto fino al 24 aprile 2025",
+            "link": "https://first.art-er.it/news/autoassess-finanziamenti-soluzioni-tech-marittime",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 100.000"
+            }
+        },
+        {
+            "deadline": "2025-04-24",
             "title": "Tecnologie innovative green: pubblicati due nuovi bandi Innovation Fund",
             "description": "La Commissione stanzia 4,6 miliardi di euro per promuovere le tecnologie a zero emissioni nette, la produzione di celle di batterie per veicoli elettrici e di idrogeno rinnovabile",
             "link": "https://first.art-er.it/news/innovfund-bando-2024-tecnologie-pulite-0",
@@ -878,6 +854,42 @@
             }
         },
         {
+            "deadline": "2025-04-27",
+            "title": "Open science: lanciato il bando RDA TIGER Cascade Grant",
+            "description": "Lo scopo è quello di sostenere l'adozione e l'implementazione di soluzioni innovative nella gestione dei dati di ricerca",
+            "link": "https://first.art-er.it/news/open-science-bando-rda-tiger-cascade-grant",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 50.000"
+            }
+        },
+        {
+            "deadline": "2025-04-28",
+            "title": "Emilia-Romagna: nuovo bando per il sostegno della transizione digitale delle imprese regionali",
+            "description": "La domanda per il bando di digitalizzazione di micro, piccole e medie imprese potrà essere trasmessa dal 15 aprile 2025 al 28 aprile 2025",
+            "link": "https://first.art-er.it/news/rer-bando-digitalizzazione-delle-imprese-regionali",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 25.000.000"
+            }
+        },
+        {
+            "deadline": "2025-04-29",
+            "title": "Sustainable Blue Economy: aperto un bando per l'accesso alle infrastrutture di ricerca",
+            "description": "ll bando sarà aperto fino al 29 aprile e si concentra sull'accesso alle infrastrutture di sette Paesi",
+            "link": "https://first.art-er.it/news/bando-laccesso-alle-infrastrutture-blue-economy-0",
+            "custom": {
+                "Topics": "Blue Economy",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-04-29",
             "title": "Innovative Health Initiative: pubblicata la call 9 a sostegno di progetti di ricerca",
             "description": "Lo scopo della call è di rispondere a bisogni di salute pubblica non soddisfatti, con effetti rilevanti su società, economia e scienza",
@@ -899,6 +911,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 35.000.000"
+            }
+        },
+        {
+            "deadline": "2025-04-30",
+            "title": "Cooperazione scientifica: al via il bando per progetti di ricerca scientifici congiunti tra Italia e Israele",
+            "description": "Il termine ultimo per la presentazione dei progetti è fissato al 30 aprile 2025",
+            "link": "https://first.art-er.it/news/italia-israele-bando-scientifico-2025",
+            "custom": {
+                "Topics": "Cooperazione internazionale",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 800.000"
+            }
+        },
+        {
+            "deadline": "2025-04-30",
+            "title": "PIANOFORTE: lanciata la terza call transnazionale per progetti di ricerca nel campo della radioprotezione",
+            "description": "Il partenariato mira a promuovere l'innovazione nel campo della radioprotezione a vantaggio di una migliore protezione della popolazione, dei pazienti, dei lavoratori e dell'ambiente",
+            "link": "https://first.art-er.it/news/pianoforte-lanciata-la-terza-call-transnazionale",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 8.190.000"
             }
         },
         {
@@ -938,6 +974,42 @@
             }
         },
         {
+            "deadline": "2025-05-02",
+            "title": "MSCA: prima call del progetto Nextstep per dottorati sulle sfide globali di sostenibilità e innovazione",
+            "description": "I ricercatori saranno coinvolti in progetti avanzati nei settori della fisica, della scienza dei materiali, di chimica, biochimica e ingegneria",
+            "link": "https://first.art-er.it/news/call-18-dottorati-msca-sulle-sfide-di-sostenibilita",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-05-05",
+            "title": "Aperta l'open call del progetto JARVIS a sostegno dell'innovazione industriale",
+            "description": "La call finanzierà PMI e startup per sviluppare soluzioni di robotica avanzata e Intelligenza Artificiale e resterà aperta fino al 5 maggio 2025",
+            "link": "https://first.art-er.it/news/jarvis-call-soluzioni-industriali-di-robotica-e-ia",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.040.000"
+            }
+        },
+        {
+            "deadline": "2025-05-05",
+            "title": "NEBA Alliance: aperta la open call per i Cascade Grants",
+            "description": "Il bando è aperto fino al 5 maggio e ha l'obiettivo di espandere la sua rete e offrire nuove opportunità formative e regionali",
+            "link": "https://first.art-er.it/news/neba-alliance-open-call-i-cascade-grants-2025",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 100.000"
+            }
+        },
+        {
             "deadline": "2025-05-05",
             "title": "ESA: aperto il bando 'Commercial Applications of Space Weather Data'",
             "description": "L'ESA mette a disposizione 200mila euro per studi di fattibilità su servizi commerciali che utilizzano i dati metereologici spaziali",
@@ -947,6 +1019,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 200.000"
+            }
+        },
+        {
+            "deadline": "2025-05-06",
+            "title": "EIT Food Fast Track to Market 2025: al via il bando per accelerare l’innovazione alimentare",
+            "description": "Il programma mira a finanziare aziende che sviluppano soluzioni innovative per un sistema alimentare più sano e sostenibile",
+            "link": "https://first.art-er.it/news/eit-food-lancia-il-fast-track-market-2025",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 2.000.000"
             }
         },
         {
@@ -1010,10 +1094,82 @@
             }
         },
         {
+            "deadline": "2025-05-14",
+            "title": "SOPRANO: aperto bando per l’innovazione nella robotica industriale",
+            "description": "Il bando è dedicato a PMI e startup operanti nel settore della robotica industriale per sviluppare nuovi dimostratori o migliorare un dimostratore esistente che supporta scenari Multi-Human Multi-Robot (MH-MR)",
+            "link": "https://first.art-er.it/news/aperta-la-call-soprano-innovazioni-nella-robotica",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.880.000"
+            }
+        },
+        {
+            "deadline": "2025-05-14",
+            "title": "WE-RISE: al via la prima call per start-up femminili nei settori GreenTech, AgriTech e ClimateTech",
+            "description": "Il progetto WE-RISE mira a rafforzare la presenza sul mercato delle start-up femminili nel settore dell'ecosostenibilità, fornendo risorse, connessioni e competenze",
+            "link": "https://first.art-er.it/news/we-rise-al-la-prima-call-start-femminili",
+            "custom": {
+                "Topics": "Cascade funding, Gender equality",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 600.000"
+            }
+        },
+        {
+            "deadline": "2025-05-14",
+            "title": "Open science: al via il secondo bando del consorzio OSCARS",
+            "description": "L'obiettivo della call è sostenere i ricercatori impegnati nello svolgimento o nello sviluppo di ricerca sugli open data",
+            "link": "https://first.art-er.it/news/open-science-bando-oscar",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 2.980.665"
+            }
+        },
+        {
+            "deadline": "2025-05-15",
+            "title": "ECHOES Cascading Grants: nuovo bando per la digitalizzazione del patrimonio culturale europeo",
+            "description": "Il bando mira a supportare le organizzazioni del patrimonio culturale (CHI) nella raccolta e condivisione di dataset destinati al Cultural Heritage Cloud",
+            "link": "https://first.art-er.it/news/echoes-cascading-grants",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 60.000 per progetto"
+            }
+        },
+        {
+            "deadline": "2025-05-15",
+            "title": "Idrogeno: nuovo bando PNRR per progetti di ricerca",
+            "description": "Il bando finanzia progetti di ricerca industriale e sviluppo sperimentale presentati da imprese, anche congiuntamente tra loro o con organismi di ricerca",
+            "link": "https://first.art-er.it/news/bando-progetti-di-ricerca-e-sviluppo-sullidrogeno",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
             "deadline": "2025-05-20",
             "title": "REGIOSTARS Awards 2025: aperte le candidature",
             "description": "Un premio per i progetti di sviluppo regionale più innovativi finanziati dai fondi della politica di coesione europea",
             "link": "https://first.art-er.it/news/regiostars-awards-al-le-candidature-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-05-21",
+            "title": "Aperto il Bando Galileo 2026: finanziamenti per la ricerca tra Italia e Francia",
+            "description": "Lo scopo è quello di finanziare progetti di ricerca congiunti tra Italia e Francia, favorendo lo scambio di conoscenze e la mobilità tra ricercatori dei due Paesi",
+            "link": "https://first.art-er.it/news/bando-galileo-2026",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
@@ -1071,6 +1227,18 @@
         },
         {
             "deadline": "2025-05-30",
+            "title": "Al via le candidature per la European Capital of Smart Tourism e il Green Pioneer 2026",
+            "description": "Le città europee sono invitate a presentare le loro pratiche innovative nel turismo smart e sostenibile per diventare modelli di riferimento nel panorama turistico europeo",
+            "link": "https://first.art-er.it/news/premi-la-capitale-del-turismo-smart-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-05-30",
             "title": "RER: nuovo bando per promuovere collaborazioni con enti di ricerca e atenei esteri",
             "description": "Il bando finanzia studi di fattibilità per attività, collaborazioni e insediamenti di università e istituti di ricerca esteri in Emilia-Romagna",
             "link": "https://first.art-er.it/news/bando-rer-collaborazioni-con-atenei-esteri",
@@ -1091,6 +1259,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A sportello",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-06-04",
+            "title": "EuroHPC JU: nuovo bando per la cooperazione internazionale sull'intelligenza artificiale",
+            "description": "La scadenza per partecipare è fissata al 4 giugno 2025",
+            "link": "https://first.art-er.it/news/eurohpc-ju-cooperazione-internazionale-su-ai",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.500.000"
             }
         },
         {
@@ -1171,7 +1351,7 @@
             "description": "Il programma sostiene le startup che hanno come obiettivo quello di crescere nei settori deeptech e innovazione digitale",
             "link": "https://first.art-er.it/news/eit-digital-lancia-mentorme-startup-innovative",
             "custom": {
-                "Topics": "Deep tech",
+                "Topics": "Deep tech, Start-up in Europa",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "N/A"
@@ -1187,6 +1367,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 101.820.000"
+            }
+        },
+        {
+            "deadline": "2025-06-27",
+            "title": "Expo Osaka 2025: lanciato il bando dedicato all’internazionalizzazione dell'Emilia-Romagna",
+            "description": "L’iniziativa rientra nell’ambito delle politiche regionali per l’internazionalizzazione delle imprese",
+            "link": "https://first.art-er.it/news/rer-al-il-bando-expo-osaka-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 80.000"
             }
         },
         {
@@ -1299,6 +1491,18 @@
         },
         {
             "deadline": "2025-09-17",
+            "title": "Semiconduttori: al via i bandi 2025 della partnership europea Chips JU",
+            "description": "La partnership europea Chips JU ha lanciato le nuove call 2025 nell'ambito dei semiconduttori con scadenze multiple",
+            "link": "https://first.art-er.it/news/chips-ju-al-le-nuove-call-2025-sui-semiconduttori",
+            "custom": {
+                "Topics": "Artificial Intelligence, Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-17",
             "title": "CBE JU: i bandi per il settore della bioeconomia circolare in apertura nel 2025",
             "description": "Con 13 temi prioritari, CBE JU mira a promuovere soluzioni bio-based e circolari, supportando la transizione ecologica e la creazione di posti di lavoro",
             "link": "https://first.art-er.it/news/opportunita-di-finanziamento-cbe-ju-la-bioeconomia",
@@ -1319,6 +1523,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 30.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "ER2Digit: nuovi servizi per le Pubbliche Amministrazioni",
+            "description": "Sono stati pubblicati due nuovi bandi relativi ai servizi offerti dal'EDIH ER2Digit per le pubbliche amministrazioni dell'Emilia-Romagna",
+            "link": "https://first.art-er.it/news/servizi-le-pa-nuovi-avvisi-delledih-er2digit",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "€ 55.000"
             }
         },
         {
@@ -1499,6 +1715,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "ER2Digit: servizi di trasformazione digitale per le PMI",
+            "description": "L'European Digital Innovation Hub offre una serie di servizi innovativi dedicati alle imprese con sede o unità operativa in Emilia-Romagna",
+            "link": "https://first.art-er.it/news/servizi-er2digit-trasformazione-digitale-pmi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "€ 200.000"
             }
         },
         {
@@ -1707,11 +1935,11 @@
         },
         {
             "deadline": "",
-            "title": "Sustainable Blue Economy: annunciato un bando per l'accesso alle infrastrutture di ricerca",
-            "description": "ll bando sarà aperto dal 28 febbraio e si concentra sull'accesso alle infrastrutture di sette Paesi",
-            "link": "https://first.art-er.it/news/bando-laccesso-alle-infrastrutture-blue-economy",
+            "title": "Clean Energy Transition Partnership: annunciata la Joint Call 2025",
+            "description": "La CETPartnership sostiene progetti innovativi che mirano a promuovere la transizione energetica verde",
+            "link": "https://first.art-er.it/news/clean-energy-transition-partnership-annunciata-la-joint-call-2025",
             "custom": {
-                "Topics": "Blue Economy",
+                "Topics": "Transizione sostenibile",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "N/A",
                 "Stanziamento": "N/A"
