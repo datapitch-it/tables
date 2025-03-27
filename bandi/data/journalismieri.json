@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-03-14 08:15:40",
+    "scraping_timestamp": "2025-03-22 21:51:51",
     "data": [
+        {
+            "deadline": "Invalid Date",
+            "title": "Conflict Reporting Grant",
+            "description": "Pulitzer Center",
+            "link": "https://gfmd.info/fundings/conflict-reporting-grant/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Funding is determined on a case-by-case"
+            }
+        },
         {
             "deadline": "2025-04-14",
             "title": "Media Studies Grant 2025",
@@ -83,18 +95,6 @@
                 "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€250,000"
-            }
-        },
-        {
-            "deadline": "2025-03-14",
-            "title": "Media Freedom Hub 2025",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/media-freedom-hub-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "EUR 2,940,000"
             }
         },
         {
@@ -1131,6 +1131,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Undp Announces Call for Proposals to Conduct Civic Education Awareness",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-announces-call-for-proposals-to-conduct-civic-education-awareness/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Usaid-maputo Announces Call for Proposal to Strengthen Investigative Journalism",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/usaid-maputo-announces-call-for-proposal-to-strengthen-investigative-journalism/",
@@ -1146,18 +1158,6 @@
             "title": "Unesco Calls for Proposal to Support Production Of Documentaries on Access to Information on Migration",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/unesco-calls-for-proposal-to-support-production-of-documentaries-on-access-to-information-on-migration/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Sub-Saharan Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Undp Announces Call for Proposals to Conduct Civic Education Awareness",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-announces-call-for-proposals-to-conduct-civic-education-awareness/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Sub-Saharan Africa",
@@ -1311,6 +1311,30 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Usaid’s Bmap 3rd Media Innovation Lab: Reporting Ethically During a Pandemic",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/usaids-bmap-3rd-media-innovation-lab-reporting-ethically-during-a-pandemic/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "National Geographic COVID-19 Emergency Fund for Journalists",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/national-geographic-covid-19-emergency-fund-for-journalists/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Southern Movement Media Fund (round 2) – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
@@ -1350,30 +1374,6 @@
             "title": "Osce: Call for Proposal for Impact Of Artificial Intelligence on Freedom Of Expression",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/osce-call-for-proposal-for-impact-of-artificial-intelligence-on-freedom-of-expression/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Usaid’s Bmap 3rd Media Innovation Lab: Reporting Ethically During a Pandemic",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/usaids-bmap-3rd-media-innovation-lab-reporting-ethically-during-a-pandemic/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "National Geographic COVID-19 Emergency Fund for Journalists",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/national-geographic-covid-19-emergency-fund-for-journalists/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",

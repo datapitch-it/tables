@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-03-14 08:17:12",
+    "scraping_timestamp": "2025-03-19 07:06:17",
     "data": [
         {
             "deadline": "N/A",
@@ -14,21 +14,6 @@
             }
         },
         {
-            "deadline": "2025-03-13",
-            "title": "SEEBRIDGE 2nd open call for SE SMEs in Energy Intensive Industries",
-            "description": "Supporting the digital and green transition of social economy SMEs operating in energy intensive industries",
-            "link": "https://getonepass.eu/opportunities/c/seebridge-2nd-open-call-for-se-smes-in-energy-intensive-industries",
-            "custom": {
-                "tags": [
-                    "Manufacturing",
-                    "Mining",
-                    "Construction",
-                    "Transportation"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
             "deadline": "2025-04-01",
             "title": "NGI TALER 5th open call (2025-04T)",
             "description": "Privacy-preserving digital payments",
@@ -36,22 +21,6 @@
             "custom": {
                 "tags": [
                     "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-03-14",
-            "title": "POLREC 2nd Networking Open Call for Polymer Recycling Industries",
-            "description": "Support for the internationalisation strategy of the European Polymer Recycling Industries",
-            "link": "https://getonepass.eu/opportunities/c/polrec-2nd-networking-open-call-for-polymer-recycling-industries",
-            "custom": {
-                "tags": [
-                    "Transportation",
-                    "Mobility",
-                    "Construction",
-                    "Renewable Energy",
-                    "Electronics"
                 ],
                 "status": "Open for applications"
             }
@@ -100,18 +69,6 @@
             "title": "PoliRuralPlus Mobilise Call",
             "description": "Fostering Rural Attractiveness and Integration through AI-Driven Hackathons",
             "link": "https://getonepass.eu/opportunities/c/poliruralplus-mobilise-call",
-            "custom": {
-                "tags": [
-                    "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-03-13",
-            "title": "dAIEDGE 2nd Open Call for Collaborative Projects",
-            "description": "Supporting the collaborative development of solutions for AI at the Edge",
-            "link": "https://getonepass.eu/opportunities/c/daiedge-2nd-open-call-for-collaborative-projects",
             "custom": {
                 "tags": [
                     "No tags found"
