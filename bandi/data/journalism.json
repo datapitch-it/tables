@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-03-27 08:44:04",
+    "scraping_timestamp": "2025-03-31 12:15:54",
     "data": [
+        {
+            "deadline": "2025-06-06",
+            "title": "New Media Incubator",
+            "description": "International Press Institute",
+            "link": "https://gfmd.info/fundings/new-media-incubator-2/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Funding is provided through a core grant scheme"
+            }
+        },
         {
             "deadline": "Invalid Date",
             "title": "Press Forward South Florida Initiative",
@@ -11,18 +23,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "$3 million"
-            }
-        },
-        {
-            "deadline": "2025-03-26",
-            "title": "Global Democracy Coalition Emergency Support Fund",
-            "description": "Global Democracy Coalition (GDC)",
-            "link": "https://gfmd.info/fundings/global-democracy-coalition-emergency-support-fund/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "A total of EUR 50,000 EUR"
             }
         },
         {
@@ -107,18 +107,6 @@
                 "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $1,500."
-            }
-        },
-        {
-            "deadline": "2025-03-27",
-            "title": "European Local Cross-border Grants for Investigative Journalism",
-            "description": "European Union",
-            "link": "https://gfmd.info/fundings/european-local-cross-border-grants-for-investigative-journalism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€250,000"
             }
         },
         {
@@ -975,18 +963,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Proposals for Stories on the Destructions Of the Amazon in Pandemic Times",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-proposals-for-stories-on-the-destructions-of-the-amazon-in-pandemic-times/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
@@ -1005,6 +981,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Proposals for Stories on the Destructions Of the Amazon in Pandemic Times",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-proposals-for-stories-on-the-destructions-of-the-amazon-in-pandemic-times/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1095,18 +1083,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "U.S. Mission to Moldova Seeking Applications for Media Literacy Programme",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/u-s-mission-to-moldova-seeking-applications-for-media-literacy-programme/",
@@ -1125,6 +1101,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
