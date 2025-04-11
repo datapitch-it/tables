@@ -24,7 +24,7 @@ def check_and_rename_file(file_path):
 start_time = time.time()
 
 # Set up WebDriver using WebDriver Manager
-driver = webdriver.Chrome(service=Service(ChromeDriverManager(version="136.0.7097.0").install()))
+driver = webdriver.Chrome(service=Service())
 
 # New source URL
 base_url = "https://getonepass.eu/search/opportunities?refinementList%5Btype%5D%5B0%5D=equity-free&refinementList%5Bstatus%5D%5B0%5D=Open%20for%20applications&sortBy=prod_dates_desc"
