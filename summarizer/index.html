@@ -86,7 +86,7 @@
 
             data.forEach(item => {
                 const row = document.createElement('tr');
-                const sourceName = item.source_name === "N/A" ? item.source_url : item.source_name;
+                const sourceName = item.source_name // === "N/A" ? item.source_url : item.source_name;
                 row.innerHTML = `
                     <td><a href="${item.source_url}" target="_blank">${sourceName}</a></td>
                     <td>${item.source_generated_summary}</td>
