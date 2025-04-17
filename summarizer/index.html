@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dataset Viewer</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS to handle visited link color and column widths -->
+    <style>
+        tr a:link {
+            font-weight: bold;
+        }
+        tr a:visited {
+            color: rgb(192, 192, 192);
+        }
+        /* Column width styles */
+        .col-source { width: 20%; }
+        .col-summary { width: 80%; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center my-4">Dataset Viewer</h1>
+        <!-- Display total items count -->
+        <p id="itemCount">Total items displayed: 0</p>
+        <!-- Search input field -->
+        <input type="text" id="searchInput" class="form-control" placeholder="Search by keyword..." />
+    </div>
+    <div class="container-fluid">
+        <!-- Table displaying the dataset items -->
+        <table class="table table-bordered table-striped mt-3">
+            <thead>
+                <tr>
+                    <th class="col-source">Source</th>
+                    <th class="col-summary">Generated Summary</th>
+                </tr>
+            </thead>
+            <tbody id="dataTableBody">
+                <!-- Rows will be inserted here by JavaScript -->
+            </tbody>
+        </table>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        let originalData = [];
+        let filteredData = [];
+
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('./items.json')
+                .then(response => response.json())
+                .then(data => {
+                    originalData = data;
+                    filteredData = data;
+                    renderData(data);
+                })
+                .catch(error => console.error('Error loading data:', error));
+
+            // Attach event listener to search field
+            document.getElementById('searchInput').addEventListener('input', (event) => {
+                const query = event.target.value;
+                filterData(query);
+            });
+        });
+
+        // Function to filter data
+        function filterData(query) {
+            const lowerCaseQuery = query.toLowerCase();
+            filteredData = originalData.filter(item => {
+                return Object.values(item).some(value =>
+                    value &&
+                    (Array.isArray(value)
+                        ? value.some(subValue => subValue.toLowerCase().includes(lowerCaseQuery))
+                        : value.toString().toLowerCase().includes(lowerCaseQuery))
+                );
+            });
+            renderData(filteredData);
+        }
+
+        // Function to render data
+        function renderData(data) {
+            const tableBody = document.getElementById('dataTableBody');
+            tableBody.innerHTML = ''; // Clear existing rows
+            let itemCount = 0;
+
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                const sourceName = item.source_name === "N/A" ? item.source_url : item.source_name;
+                row.innerHTML = `
+                    <td><a href="${item.source_url}" target="_blank">${sourceName}</a></td>
+                    <td>${item.source_generated_summary}</td>
+                `;
+                tableBody.appendChild(row);
+                itemCount++;
+            });
+
+            document.getElementById('itemCount').textContent = `Total items displayed: ${itemCount}`;
+        }
+    </script>
+</body>
+</html>
