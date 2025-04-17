@@ -1,86 +1,11 @@
 {
-    "scraping_timestamp": "2025-03-22 21:53:28",
+    "scraping_timestamp": "2025-04-11 18:16:33",
     "data": [
         {
             "deadline": "N/A",
             "title": "INGENIOUS Training Grants",
             "description": "Training for Energy Intensive Industries",
             "link": "https://getonepass.eu/opportunities/c/ingenious-training-grants",
-            "custom": {
-                "tags": [
-                    "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-04-01",
-            "title": "NGI TALER 5th open call (2025-04T)",
-            "description": "Privacy-preserving digital payments",
-            "link": "https://getonepass.eu/opportunities/c/ngi-taler-5th-open-call-2025-04t",
-            "custom": {
-                "tags": [
-                    "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-03-31",
-            "title": "Open Call to increase the number of Rural-Urban Enablers available to end-users",
-            "description": "Fueling the growth trajectory of digital solutions for Rural-Urban synergies",
-            "link": "https://getonepass.eu/opportunities/c/open-call-to-increase-the-number-of-rural-urban-enablers-available-to-end-users",
-            "custom": {
-                "tags": [
-                    "Government",
-                    "Public Services (excluding education)",
-                    "Sustainability"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-04-01",
-            "title": "NGI Fediversity open call (2025-04F)",
-            "description": "Creating the hosting stack of the future",
-            "link": "https://getonepass.eu/opportunities/c/ngi-fediversity-open-call-2025-04f",
-            "custom": {
-                "tags": [
-                    "Next Generation Internet"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-04-03",
-            "title": "PartArt4OW First Call",
-            "description": "Fostering Ocean Literacy through Art",
-            "link": "https://getonepass.eu/opportunities/c/partart4ow-first-call",
-            "custom": {
-                "tags": [
-                    "Natural Resources",
-                    "Art"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-03-31",
-            "title": "PoliRuralPlus Mobilise Call",
-            "description": "Fostering Rural Attractiveness and Integration through AI-Driven Hackathons",
-            "link": "https://getonepass.eu/opportunities/c/poliruralplus-mobilise-call",
-            "custom": {
-                "tags": [
-                    "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-04-01",
-            "title": "NGI Mobifree 5th open call (2025-04M)",
-            "description": "More ethical and human mobile software",
-            "link": "https://getonepass.eu/opportunities/c/ngi-mobifree-5th-open-call-2025-04m",
             "custom": {
                 "tags": [
                     "No tags found"

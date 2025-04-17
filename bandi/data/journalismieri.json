@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-04-03 19:52:40",
+    "scraping_timestamp": "2025-04-11 18:07:34",
     "data": [
+        {
+            "deadline": "2025-04-14",
+            "title": "Special Funding Opportunity for USAID-Terminated Projects",
+            "description": "The University of Chicago",
+            "link": "https://gfmd.info/fundings/special-funding-opportunity-for-usaid-terminated-projects/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to $200,000"
+            }
+        },
         {
             "deadline": "2025-06-06",
             "title": "New Media Incubator",
@@ -95,30 +107,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "$15,000 per college"
-            }
-        },
-        {
-            "deadline": "2025-04-03",
-            "title": "Funding for Environmental Journalism",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/funding-for-environmental-journalism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€400,000 per application round."
-            }
-        },
-        {
-            "deadline": "2025-04-04",
-            "title": "NASW Peggy Girshman Idea Grants 2025",
-            "description": "The National Association of Science Writers (NASW)",
-            "link": "https://gfmd.info/fundings/nasw-peggy-girshman-idea-grants-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "$5,000 per project"
             }
         },
         {
@@ -639,24 +627,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Everyday Projects Announces Call for Applications for Photography Grant Programme",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/everyday-projects-announces-call-for-applications-for-photography-grant-programme/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Proposals for Congo Basin Rainforest Journalism Fund",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-congo-basin-rainforest-journalism-fund/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Everyday Projects Announces Call for Applications for Photography Grant Programme",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/everyday-projects-announces-call-for-applications-for-photography-grant-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -939,6 +927,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Call for Applications for the Joyce Foundation’s 2021 Grants Program in United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-the-joyce-foundations-2021-grants-program-in-united-states/",
@@ -963,12 +963,12 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
+            "title": "Submit Applications for Solutions Journalism Network Grant Program",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
+            "link": "https://gfmd.info/fundings/submit-applications-for-solutions-journalism-network-grant-program/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -981,18 +981,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Submit Applications for Solutions Journalism Network Grant Program",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/submit-applications-for-solutions-journalism-network-grant-program/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1263,6 +1251,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Call for Applications for Innovative Media for Peace, Social Cohesion and Reconciliation in Turkey, Middle EST and North Africa",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-for-innovative-media-for-peace-social-cohesion-and-reconciliation-in-turkey-middle-est-and-north-africa/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Inclusive Media, Cohesive Society – Call for Proposal",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/inclusive-media-cohesive-society-call-for-proposal/",
@@ -1281,30 +1281,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Sub-Saharan Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "United Nations Democracy Fund Project Proposal Guidelines 15th Round Of Funding",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/united-nations-democracy-fund-project-proposal-guidelines-15th-round-of-funding/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1353,6 +1329,30 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "United Nations Democracy Fund Project Proposal Guidelines 15th Round Of Funding",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/united-nations-democracy-fund-project-proposal-guidelines-15th-round-of-funding/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
