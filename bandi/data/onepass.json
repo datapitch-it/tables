@@ -1,29 +1,4 @@
 {
-    "scraping_timestamp": "2025-04-17 13:44:13",
-    "data": [
-        {
-            "deadline": "N/A",
-            "title": "INGENIOUS Training Grants",
-            "description": "Training for Energy Intensive Industries",
-            "link": "https://getonepass.eu/opportunities/c/ingenious-training-grants",
-            "custom": {
-                "tags": [
-                    "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        },
-        {
-            "deadline": "2025-06-30",
-            "title": "Financial support, advice and assistance to Ukrainian SMEs planning to integrate into the EU Single Market",
-            "description": "Business Bridge - Ukraine-Ready4EU: Call for applications 2024-1",
-            "link": "https://getonepass.eu/opportunities/c/financial-support-advice-and-assistance-to-ukrainian-smes-planning-to-integrate-into-the-eu-single-market",
-            "custom": {
-                "tags": [
-                    "No tags found"
-                ],
-                "status": "Open for applications"
-            }
-        }
-    ]
+    "scraping_timestamp": "2025-04-24 07:23:30",
+    "data": []
 }

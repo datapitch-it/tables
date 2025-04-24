@@ -1,6 +1,54 @@
 {
-    "scraping_timestamp": "2025-04-17 13:42:07",
+    "scraping_timestamp": "2025-04-24 07:21:52",
     "data": [
+        {
+            "deadline": "Invalid Date",
+            "title": "Amplify Kenya Grants for Independent Media Innovation",
+            "description": "Media Development Investment Fund (MDIF)",
+            "link": "https://gfmd.info/fundings/amplify-kenya-grants-for-independent-media-innovation/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "$10,000"
+            }
+        },
+        {
+            "deadline": "2025-06-01",
+            "title": "Visegrad+ Grants for Democratic Transformation",
+            "description": "Visegard Fund",
+            "link": "https://gfmd.info/fundings/visegrad-grants-for-democratic-transformation/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": ": Grants cover up to 100% of the project budget"
+            }
+        },
+        {
+            "deadline": "2025-06-02",
+            "title": "MENA Scholarship Programme (MSP)",
+            "description": "RNTC Media Training Centre",
+            "link": "https://gfmd.info/fundings/mena-scholarship-programme-msp/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Middle East and North Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Fully funded scholarships"
+            }
+        },
+        {
+            "deadline": "2026-02-27",
+            "title": "EMIF SAFE Initiative",
+            "description": "European University Institute",
+            "link": "https://gfmd.info/fundings/emif-safe-initiative/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€150,000"
+            }
+        },
         {
             "deadline": "2025-06-18",
             "title": "Audience-Engaged Journalism Grants",
@@ -651,30 +699,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Ipmf Opens Call for Proposals for Digital Equity Fund & Community Voices 2021",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/ipmf-opens-call-for-proposals-for-digital-equity-fund-community-voices-2021/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Panama Call for Proposals: Open Societies, COVID-19 Response, and Climate Change & Biodiversity",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/panama-call-for-proposals-open-societies-covid-19-response-and-climate-change-biodiversity/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "BIRN Albania Opens Call for Applications for Investigative Journalism on Justice System",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/birn-albania-opens-call-for-applications-for-investigative-journalism-on-justice-system/",
@@ -690,6 +714,30 @@
             "title": "Pulitzer Center Announces Call for Applications for Amazon Rainforest Journalism Fund",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/pulitzer-center-announces-call-for-applications-for-amazon-rainforest-journalism-fund/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Latin America and the Caribbean",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Ipmf Opens Call for Proposals for Digital Equity Fund & Community Voices 2021",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/ipmf-opens-call-for-proposals-for-digital-equity-fund-community-voices-2021/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Panama Call for Proposals: Open Societies, COVID-19 Response, and Climate Change & Biodiversity",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/panama-call-for-proposals-open-societies-covid-19-response-and-climate-change-biodiversity/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -999,18 +1047,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Proposals for 2021 Park Foundation’s Grant Program – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-2021-park-foundations-grant-program-united-states/",
@@ -1029,6 +1065,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
