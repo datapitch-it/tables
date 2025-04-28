@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-04-24 07:21:52",
+    "scraping_timestamp": "2025-04-28 18:51:57",
     "data": [
         {
             "deadline": "Invalid Date",
@@ -22,7 +22,7 @@
                 "Topics": "N/A",
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
-                "Stanziamento": ": Grants cover up to 100% of the project budget"
+                "Stanziamento": "Grants cover up to 100% of the project budget"
             }
         },
         {
@@ -39,8 +39,8 @@
         },
         {
             "deadline": "2026-02-27",
-            "title": "EMIF SAFE Initiative",
-            "description": "European University Institute",
+            "title": "European Media and Information Fund (EMIF) SAFE Initiative",
+            "description": "European Media and Information Fund",
             "link": "https://gfmd.info/fundings/emif-safe-initiative/",
             "custom": {
                 "Topics": "N/A",
@@ -963,6 +963,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Call for Proposals for Stories on the Destructions Of the Amazon in Pandemic Times",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-proposals-for-stories-on-the-destructions-of-the-amazon-in-pandemic-times/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
@@ -981,18 +993,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Call for Proposals for Stories on the Destructions Of the Amazon in Pandemic Times",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-proposals-for-stories-on-the-destructions-of-the-amazon-in-pandemic-times/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1275,9 +1275,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Applications Open for Mediafutures Support",
+            "title": "Call for Applications for Innovative Media for Peace, Social Cohesion and Reconciliation in Turkey, Middle EST and North Africa",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/applications-open-for-mediafutures-support/",
+            "link": "https://gfmd.info/fundings/call-for-applications-for-innovative-media-for-peace-social-cohesion-and-reconciliation-in-turkey-middle-est-and-north-africa/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
@@ -1287,9 +1287,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Applications for Innovative Media for Peace, Social Cohesion and Reconciliation in Turkey, Middle EST and North Africa",
+            "title": "Applications Open for Mediafutures Support",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-for-innovative-media-for-peace-social-cohesion-and-reconciliation-in-turkey-middle-est-and-north-africa/",
+            "link": "https://gfmd.info/fundings/applications-open-for-mediafutures-support/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
