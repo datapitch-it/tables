@@ -1,90 +1,6 @@
 {
-    "scraping_timestamp": "2025-04-30 12:01:54",
+    "scraping_timestamp": "2025-05-02 09:10:22",
     "data": [
-        {
-            "deadline": "2025-04-30",
-            "title": "Aperta la Call della Commissione Europea per entrare nell’Expert Group on Clusters",
-            "description": "Il termine ultimo per partecipare è fissato al 30 aprile 2025",
-            "link": "https://first.art-er.it/news/expert-group-clusters-aperto-bando-esperti",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "BlueTech Competition: scuole europee in gara per l’innovazione blu",
-            "description": "Gli studenti sono invitati a ideare prototipi, modelli o prodotti biotecnologici che facilitino il monitoraggio degli ecosistemi acquatici o promuovano l’uso sostenibile delle risorse idriche",
-            "link": "https://first.art-er.it/news/bluetech-competition-sfida-scuole-europee",
-            "custom": {
-                "Topics": "Blue Economy",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "PIANOFORTE: lanciata la terza call transnazionale per progetti di ricerca nel campo della radioprotezione",
-            "description": "Il partenariato mira a promuovere l'innovazione nel campo della radioprotezione a vantaggio di una migliore protezione della popolazione, dei pazienti, dei lavoratori e dell'ambiente",
-            "link": "https://first.art-er.it/news/pianoforte-lanciata-la-terza-call-transnazionale",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 8.190.000"
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "Economia circolare: al via la seconda open call del progetto Up2Circ per sostenere le PMI",
-            "description": "Il bando finanzierà 40 progetti per convalidare l’adozione di modelli di business circolari e implementare azioni concrete verso prodotti, processi e servizi circolari",
-            "link": "https://first.art-er.it/news/al-la-seconda-open-call-del-progetto-up2circ",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.020.000fino a 15.000 euro per progetti di piccola scalafino a 50.000 euro per progetti di larga scala"
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "Einstein Foundation Award 2025: aperte le candidature",
-            "description": "Un riconoscimento per ricercatori, istituzioni e ricercatori a inizio carriera. La scadenza per inviare le candidature è il 30 aprile",
-            "link": "https://first.art-er.it/news/einstein-foundation-award-2025-aperte-le-candidature",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 350.000"
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "RER: pubblicato bando per progetti di promozione del sistema produttivo regionale sui mercati esteri 2024-2025",
-            "description": "Il nuovo bando regionale supporta le PMI emiliano-romagnole per espandere le loro attività all'estero, in preparazione all'Expo Osaka 2025",
-            "link": "https://first.art-er.it/news/verso-expo-osaka-2025-bando-sostegno-delle-pmi",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.760.000"
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "Italia-USA: bando congiunto per il finanziamento di progetti di ricerca nel settore dell’AI",
-            "description": "Sono ammissibili al finanziamento interventi di ricerca fondamentale, di ricerca industriale e di sviluppo sperimentale",
-            "link": "https://first.art-er.it/news/intelligenza-artificiale-aperto-bando-da-mur-e-nsf",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
         {
             "deadline": "2025-05-02",
             "title": "PNRR: 150 Milioni per la Digitalizzazione delle Pubbliche Amministrazioni Centrali",
@@ -531,6 +447,18 @@
         },
         {
             "deadline": "2025-05-25",
+            "title": "AI Hub: aperta la call artistica per immaginare il futuro industriale dell’Africa con l’AI",
+            "description": "Le proposte possono essere inviate entro il 25 maggio per sostenere la crescita industriale e la sostenibilità in Africa",
+            "link": "https://first.art-er.it/news/ai-hub-call-ia-il-futuro-industriale-dellafrica",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-05-25",
             "title": "EWA: aperta la call 2025 per le imprenditrici nel settore agroalimentare",
             "description": "La call del programma Empowering Women in Agrifood offre formazione, mentorship e finanziamenti alle imprenditrici del settore agroalimentare per sviluppare le loro startup",
             "link": "https://first.art-er.it/news/imprenditorialita-femminile-nuovo-bando-eit-food-0",
@@ -587,6 +515,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 32.000.000"
+            }
+        },
+        {
+            "deadline": "2025-05-28",
+            "title": "Innovazione nei materiali da costruzione: aperta l'Open Call di Exploit4InnoMat",
+            "description": "Il bando selezionerà proposte su materiali avanzati e multifunzionali per l’involucro edilizio che contribuiscano all’efficienza energetica e alla sostenibilità",
+            "link": "https://first.art-er.it/news/aperta-la-open-call-di-exploit4innomat",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -734,6 +674,18 @@
             }
         },
         {
+            "deadline": "2025-06-09",
+            "title": "ESA: aperto il bando per proposte sulle tecnologie spaziali per l'ambito assicurativo",
+            "description": "Il bando ESA si rivolge a progetti interessati a sviluppare servizi che integrano soluzioni tecnologiche spaziali nel settore delle assicurazioni",
+            "link": "https://first.art-er.it/news/aperto-il-bando-esa-il-settore-assicurativo",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 75.000"
+            }
+        },
+        {
             "deadline": "2025-06-10",
             "title": "MIMIT: Contratti di sviluppo per filiere produttive strategiche",
             "description": "Si aprirà l'8 aprile lo sportello per presentare domanda per i fondi dedicati alla competitività e alla resilienza delle filiere produttive considerate strategiche",
@@ -779,6 +731,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 75.000"
+            }
+        },
+        {
+            "deadline": "2025-06-16",
+            "title": "Premio NEB Emilia-Romagna 2025 per progetti culturali di rigenerazione urbana",
+            "description": "Candidature aperte fino al 16 giugno per progetti nuovi o consolidati che valorizzano spazi urbani dismessi in Emilia-Romagna",
+            "link": "https://first.art-er.it/news/premio-neb-emilia-romagna-2025-la-cultura",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 4.000 per il vincitore della categoria NUOVI PROGETTI€ 2.000 per il vincitore della categoria PROGETTI CONSOLIDATI"
             }
         },
         {
@@ -1619,6 +1583,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 1.000.000.000"
+            }
+        },
+        {
+            "deadline": "2026-07-31",
+            "title": "Colmare il divario tra ricerca e impresa: l'EIC mette in campo l'iniziativa InnoNext",
+            "description": "Lo European Innovation Council promuove la collaborazione tra i migliori talenti accademici e le start-up europee attraverso tirocini interamente finanziati",
+            "link": "https://first.art-er.it/news/colmare-il-divario-tra-ricerca-e-impresa-leic-mette-campo-liniziativa-innonext",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
