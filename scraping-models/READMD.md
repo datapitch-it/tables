@@ -1,4 +1,6 @@
 Il file 'scrape.sh' esegue un loop dello stesso prompt (_scarica i dati da questi sito_) usando vari modelli di Gemini: 
+
+```
 models=(
     "gemini-pro"
     "gemini-1.5-pro-latest"
@@ -20,6 +22,7 @@ models=(
     "gemini-2.0-flash-lite"
     "gemini-2.5-pro-exp-03-25"
 )
+```
 
 Il file analisi.md evidenzia le principali caratteristiche e differenze tra i vari output, in base ai modelli usati.
 
