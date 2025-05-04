@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-04-30 12:01:59",
+    "scraping_timestamp": "2025-05-02 09:10:37",
     "data": [
+        {
+            "deadline": "Invalid Date",
+            "title": "Journalism Support Fund",
+            "description": "Abraji",
+            "link": "https://gfmd.info/fundings/journalism-support-fund/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Latin America and the Caribbean",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Between BRL 75,000 and BRL 150,000 per year,"
+            }
+        },
         {
             "deadline": "Invalid Date",
             "title": "Amplify Kenya Grants for Independent Media Innovation",
@@ -131,18 +143,6 @@
                 "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $1,500."
-            }
-        },
-        {
-            "deadline": "2025-04-30",
-            "title": "Scripps Howard Fund Journalism grant",
-            "description": "Scripps Howard Fund",
-            "link": "https://gfmd.info/fundings/scripps-howard-fund-journalism-grant/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "$15,000 per college"
             }
         },
         {
@@ -615,9 +615,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
+            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
+            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -627,9 +627,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
+            "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
+            "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -663,24 +663,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Everyday Projects Announces Call for Applications for Photography Grant Programme",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/everyday-projects-announces-call-for-applications-for-photography-grant-programme/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Proposals for Congo Basin Rainforest Journalism Fund",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-congo-basin-rainforest-journalism-fund/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Everyday Projects Announces Call for Applications for Photography Grant Programme",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/everyday-projects-announces-call-for-applications-for-photography-grant-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -723,9 +723,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Panama Call for Proposals: Open Societies, COVID-19 Response, and Climate Change & Biodiversity",
+            "title": "Pulitzer Center Announces Call for Applications for Amazon Rainforest Journalism Fund",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/panama-call-for-proposals-open-societies-covid-19-response-and-climate-change-biodiversity/",
+            "link": "https://gfmd.info/fundings/pulitzer-center-announces-call-for-applications-for-amazon-rainforest-journalism-fund/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -735,12 +735,12 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "BIRN Albania Opens Call for Applications for Investigative Journalism on Justice System",
+            "title": "Ipmf Opens Call for Proposals for Digital Equity Fund & Community Voices 2021",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/birn-albania-opens-call-for-applications-for-investigative-journalism-on-justice-system/",
+            "link": "https://gfmd.info/fundings/ipmf-opens-call-for-proposals-for-digital-equity-fund-community-voices-2021/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }

@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-05-02 09:10:37",
+    "scraping_timestamp": "2025-05-04 12:08:21",
     "data": [
+        {
+            "deadline": "2026-02-27",
+            "title": "SAFE Fund",
+            "description": "European Media and Information Fund",
+            "link": "https://gfmd.info/fundings/safe-fund/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€150,000 (pilot phase)"
+            }
+        },
         {
             "deadline": "Invalid Date",
             "title": "Journalism Support Fund",
@@ -615,18 +627,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
@@ -639,12 +639,12 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Applications for Journalism Fund – Belgium",
+            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-for-journalism-fund-belgium/",
+            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Area Classification": "Latin America and the Caribbean",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -657,6 +657,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Applications for Journalism Fund – Belgium",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-for-journalism-fund-belgium/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -723,24 +735,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Pulitzer Center Announces Call for Applications for Amazon Rainforest Journalism Fund",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/pulitzer-center-announces-call-for-applications-for-amazon-rainforest-journalism-fund/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Ipmf Opens Call for Proposals for Digital Equity Fund & Community Voices 2021",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/ipmf-opens-call-for-proposals-for-digital-equity-fund-community-voices-2021/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Panama Call for Proposals: Open Societies, COVID-19 Response, and Climate Change & Biodiversity",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/panama-call-for-proposals-open-societies-covid-19-response-and-climate-change-biodiversity/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Latin America and the Caribbean",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -819,24 +831,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Applications: Training for Media and Csos in Montenegro",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-applications-training-for-media-and-csos-in-montenegro/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Internews Opens Call for Applications for Media Small Grants Pool 2021 in Indonesia",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/internews-opens-call-for-applications-for-media-small-grants-pool-2021-in-indonesia/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Asia, Pacific, and Oceania",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Call for Applications: Training for Media and Csos in Montenegro",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/call-for-applications-training-for-media-and-csos-in-montenegro/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1323,18 +1335,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Southern Movement Media Fund (round 2) – United States",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
@@ -1389,6 +1389,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Southern Movement Media Fund (round 2) – United States",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
