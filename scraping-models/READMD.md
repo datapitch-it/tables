@@ -26,3 +26,4 @@ models=(
 
 Il file analisi.md evidenzia le principali caratteristiche e differenze tra i vari output, in base ai modelli usati.
 
+Ho raccontato l'esperimento anche su [Substack](https://nelsonmau.substack.com/p/fare-scraping-dallo-stesso-sito-ma)
