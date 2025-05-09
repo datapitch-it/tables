@@ -1,90 +1,6 @@
 {
-    "scraping_timestamp": "2025-05-04 12:08:14",
+    "scraping_timestamp": "2025-05-06 04:33:04",
     "data": [
-        {
-            "deadline": "2025-05-04",
-            "title": "Telecomunicazioni del futuro: via al programma di accelerazione INSPIRE per soluzioni innovative",
-            "description": "Il bando è stato pubblicato nell'ambito dello Spoke 2 del Partenariato esteso RESTART e si rivolge a startup e team imprenditoriali",
-            "link": "https://first.art-er.it/news/call-inspire-2025-startup-innovative",
-            "custom": {
-                "Topics": "PNRR - Bandi a cascata",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-05-04",
-            "title": "SocialFare: al via il nuovo bando “Planet Foundamentals” per startup a impatto sociale",
-            "description": "Il bando, con scadenza il 4 maggio 2025, ha lo scopo di selezionare e accelerare startup in grado di proporre soluzioni innovative e sostenibili",
-            "link": "https://first.art-er.it/news/socialfare-call-aperta-startup-impatto-sociale",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-05-05",
-            "title": "Autoproduzione di energia da fonti rinnovabili nelle PMI: pubblicato il bando MIMIT",
-            "description": "La misura del Ministero prevede incentivi per impianti solari fotovoltaici o mini eolici e sistemi di accumulo dell’energia e per l’autoconsumo differito",
-            "link": "https://first.art-er.it/news/mimit-autoproduzione-di-energia-da-fonti-rinnovabili-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 320.000.000"
-            }
-        },
-        {
-            "deadline": "2025-05-05",
-            "title": "NEBA Alliance: al via il bando per finanziamenti alla formazione e all’innovazione sostenibile",
-            "description": "Il bando mira a rafforzare la rete europea di formazione nel settore edilizio",
-            "link": "https://first.art-er.it/news/bando-rafforzare-la-rete-ue-nel-settore-edilizio",
-            "custom": {
-                "Topics": "Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-05-05",
-            "title": "Aperta l'open call del progetto JARVIS a sostegno dell'innovazione industriale",
-            "description": "La call finanzierà PMI e startup per sviluppare soluzioni di robotica avanzata e Intelligenza Artificiale e resterà aperta fino al 5 maggio 2025",
-            "link": "https://first.art-er.it/news/jarvis-call-soluzioni-industriali-di-robotica-e-ia",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.040.000"
-            }
-        },
-        {
-            "deadline": "2025-05-05",
-            "title": "NEBA Alliance: aperta la open call per i Cascade Grants",
-            "description": "Il bando è aperto fino al 5 maggio e ha l'obiettivo di espandere la sua rete e offrire nuove opportunità formative e regionali",
-            "link": "https://first.art-er.it/news/neba-alliance-open-call-i-cascade-grants-2025",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 100.000"
-            }
-        },
-        {
-            "deadline": "2025-05-05",
-            "title": "ESA: aperto il bando 'Commercial Applications of Space Weather Data'",
-            "description": "L'ESA mette a disposizione 200mila euro per studi di fattibilità su servizi commerciali che utilizzano i dati metereologici spaziali",
-            "link": "https://first.art-er.it/news/esa-bando-studi-di-fattibilita-su-space-weather",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 200.000"
-            }
-        },
         {
             "deadline": "2025-05-06",
             "title": "EIT Food Fast Track to Market 2025: al via il bando per accelerare l’innovazione alimentare",
@@ -1191,14 +1107,14 @@
         },
         {
             "deadline": "2025-09-23",
-            "title": "Programma LIFE: aperti i bandi 2025",
-            "description": "Pubblicati i nuovi bandi a sostegno di progetti nei settori dell'ambiente e dell'azione per il clima, per un budget complessivo di oltre 578 milioni di euro",
+            "title": "Programma LIFE: pubblicati i bandi 2025",
+            "description": "I nuovi bandi sostengono progetti nei settori dell'ambiente e dell'azione per il clima, per un budget complessivo di oltre 578 milioni di euro",
             "link": "https://first.art-er.it/news/life-bandi-2025",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 578,1 milioni"
+                "Stanziamento": "€ 578.100.000"
             }
         },
         {
@@ -1347,8 +1263,8 @@
         },
         {
             "deadline": "2025-11-27",
-            "title": "Interreg Central Europe: disponibile l'anteprima della call di capitalizzazione",
-            "description": "Il 29 settembre verrà aperto l’ultimo bando del programma Interreg Central Europe che finanzia progetti strategici di capitalizzazione",
+            "title": "Interreg Central Europe: disponibile l'anteprima della futura call di capitalizzazione",
+            "description": "Il 29 settembre verrà aperto l’ultimo bando del programma che finanzia progetti strategici di capitalizzazione",
             "link": "https://first.art-er.it/news/interreg-central-europe-preview-call-capitalizzazione",
             "custom": {
                 "Topics": "N/A",
