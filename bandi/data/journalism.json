@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-05-12 10:11:43",
+    "scraping_timestamp": "2025-05-17 18:19:06",
     "data": [
+        {
+            "deadline": "2025-05-20",
+            "title": "Call for Proposals: Porticus Inclusion Fund Consultancy",
+            "description": "Porticus",
+            "link": "https://gfmd.info/fundings/call-for-proposals-porticus-inclusion-fund-consultancy/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "EUR 300,000"
+            }
+        },
         {
             "deadline": "2026-02-27",
             "title": "SAFE Fund",
@@ -1335,6 +1347,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Southern Movement Media Fund (round 2) – United States",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Call for Applications: Supporting Independent Media in Eu Southern Neighbourhood",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-supporting-independent-media-in-eu-southern-neighbourhood/",
@@ -1389,18 +1413,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Southern Movement Media Fund (round 2) – United States",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
