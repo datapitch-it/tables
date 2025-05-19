@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-05-17 18:18:59",
+    "scraping_timestamp": "2025-05-19 21:15:56",
     "data": [
-        {
-            "deadline": "2025-05-19",
-            "title": "Mobilità sostenibile: al via la MOST Mobility Challenge 2025 per startup",
-            "description": "Il bando vuole incentivare l’innovazione e l’adozione di nuove tecnologie nel settore, attraverso il finanziamento e l’accelerazione delle startup selezionate",
-            "link": "https://first.art-er.it/news/mobility-challenge-2025-bando-mobilita-sostenibile",
-            "custom": {
-                "Topics": "Mobilità del futuro, PNRR - Bandi a cascata",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 3.000.000"
-            }
-        },
-        {
-            "deadline": "2025-05-19",
-            "title": "European Innovation Council: candidature aperte per entrare a far parte del Consiglio",
-            "description": "La Commissione Europea ha lanciato un bando per selezionare membri dell'EIC Board, con focus su tecnologie disruptive e startup",
-            "link": "https://first.art-er.it/news/eic-board-2025-aperte-le-candidature",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-05-20",
             "title": "Uffici di trasferimento tecnologico: nuovo bando MIMIT per progetti di potenziamento e capacity building",
@@ -651,18 +627,6 @@
         },
         {
             "deadline": "2025-06-30",
-            "title": "Progetto AIRISE: al via la quinta open call a sostegno dell’innovazione digitale",
-            "description": "AIRISE sostiene la transizione digitale e green delle imprese manifatturiere europee con servizi tecnici personalizzati e finanziamenti diretti",
-            "link": "https://first.art-er.it/news/tecnologie-avanzate-bando-la-digitalizzazione",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 540.000"
-            }
-        },
-        {
-            "deadline": "2025-06-30",
             "title": "Interreg IPA ADRION: aperta la seconda Call for proposals",
             "description": "Il bando finanzia progetti di cooperazione territoriale transnazionale per affrontare sfide comuni nell'area adriatico-ionica",
             "link": "https://first.art-er.it/news/interreg-ipa-adrion-seconda-call-proposals",
@@ -724,7 +688,7 @@
         {
             "deadline": "2025-07-06",
             "title": "Al via il bando Q2Scale rivolto alle startup europee nei settori Automotive e Fintech",
-            "description": "Il bando aperto è fino al 6 luglio e a supporto di startup pronte a scalare offrendo servizi di mentoring, PoC e accesso ai mercati internazionali",
+            "description": "Aperto fino al 6 luglio, il bando supporta startup pronte a scalare, offrendo servizi di mentoring, PoC e accesso ai mercati internazionali",
             "link": "https://first.art-er.it/news/q2scale-bando-settori-automotive-e-fintech",
             "custom": {
                 "Topics": "Cascade funding, Mobilità del futuro",
@@ -815,6 +779,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "Sezione 1: €2.700.000Sezione 2: €1.500.000"
+            }
+        },
+        {
+            "deadline": "2025-07-16",
+            "title": "Progetto AIRISE: al via la quinta open call a sostegno dell’innovazione digitale",
+            "description": "AIRISE sostiene la transizione digitale e green delle imprese manifatturiere europee con servizi tecnici personalizzati e finanziamenti diretti",
+            "link": "https://first.art-er.it/news/tecnologie-avanzate-bando-la-digitalizzazione",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 800.000"
             }
         },
         {
