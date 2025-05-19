@@ -46,6 +46,15 @@ function mapItem(item, datasetName) {
                 deadline: item['deadline'] || custom['dtstart'] || 'N/A',
                 source: 'euportal'
             };
+        case 'invitalia':
+            return {
+                title: item['title'] || 'N/A',
+                description: item['description'] || 'N/A',
+                link: item['link'] || '#',
+                tags: custom['Topics'] ? custom['Topics'].split(', ') : [],
+                deadline: item['deadline'] || 'N/A',
+                source: 'invitalia'
+            };
         case 'onepass':
             return {
                 title: item['title'] || 'N/A',
@@ -229,6 +238,7 @@ Promise.all([
     loadDataset('./data/arter.json', 'data', 'arter'),
     loadDataset('./data/eucall-rss.json', 'data', 'eucall'),
     loadDataset('./data/euportal.json', 'data', 'euportal'),
+    loadDataset('./data/invitalia.json', 'data', 'invitalia'),
     loadDataset('./data/onepass.json', 'data', 'onepass'),
     loadDataset('./data/inpa.json', 'data', 'inpa'),
     loadDataset('./data/eugrants.json', 'data', 'eugrants'),
