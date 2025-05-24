@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-05-20 17:00:46",
+    "scraping_timestamp": "2025-05-22 09:54:00",
     "data": [
-        {
-            "deadline": "2025-05-21",
-            "title": "EIT Digital lancia SpeedLauncher 2025: nuove opportunità per l’innovazione digitale europea",
-            "description": "L’iniziativa si inserisce nel quadro del programma EIT Digital Innovation Factory, che da anni favorisce la crescita di imprese ad alto potenziale tecnologico in Europa",
-            "link": "https://first.art-er.it/news/eit-digital-lancia-speedlauncher-2025-startup",
-            "custom": {
-                "Topics": "Artificial Intelligence, Città del futuro, Deep tech",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "75.000 €"
-            }
-        },
-        {
-            "deadline": "2025-05-21",
-            "title": "Aperto il Bando Galileo 2026: finanziamenti per la ricerca tra Italia e Francia",
-            "description": "Lo scopo è quello di finanziare progetti di ricerca congiunti tra Italia e Francia, favorendo lo scambio di conoscenze e la mobilità tra ricercatori dei due Paesi",
-            "link": "https://first.art-er.it/news/bando-galileo-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-05-21",
-            "title": "Bando 2025 EIC Pathfinder Open di Horizon Europe: supporto per la ricerca o lo sviluppo di tecnologie emergenti",
-            "description": "Il bando offre sostegno ai team di ricerca per l'esplorazione di idee audaci per tecnologie radicalmente innovative",
-            "link": "https://first.art-er.it/news/bando-2025-eic-pathfinder-open-di-horizon-europe",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 142.000.000"
-            }
-        },
         {
             "deadline": "2025-05-23",
             "title": "Open Innovation@IP4FVG: call per il futuro tecnologico delle imprese",
@@ -255,9 +219,9 @@
         },
         {
             "deadline": "2025-06-03",
-            "title": "Salute: pubblicato nuovo bando 2025 di Horizon Europe",
-            "description": "Il bando sostiene due partnership di Horizon Europe in ambito salute",
-            "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-2025-di-horizon-europe",
+            "title": "Salute: pubblicato nuovo bando di Horizon Europe",
+            "description": "Il bando HORIZON-HLTH-2025-02 sostiene due partnership di Horizon Europe in ambito salute",
+            "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
@@ -959,6 +923,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-16",
+            "title": "Salute: pubblicato nuovo bando di Horizon Europe",
+            "description": "Il bando HORIZON-HLTH-2025-03-two-stage è pubblicato nel Work Programme Salute di Horizon Europe e contiene 5 topic",
+            "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe-1",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 210.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-16",
+            "title": "Salute: pubblicato nuovo bando di Horizon Europe",
+            "description": "Il bando HORIZON-HLTH-2025-01 è pubblicato nel Work Programme Salute di Horizon Europe e contiene 13 topic",
+            "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 486.000.000"
             }
         },
         {
@@ -1763,18 +1751,6 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "A sportello",
                 "Stanziamento": "€ 400.000.000"
-            }
-        },
-        {
-            "deadline": "",
-            "title": "Pubblicato il nuovo bando \"Investimenti sostenibili 4.0\" per le PMI del Mezzogiorno",
-            "description": "Il bando finanzierà progetti per la sostenibilità e il risparmio energetico e per favorire la transizione tecnologica e digitale tramite l'utilizzo di tecnologie abilitanti",
-            "link": "https://first.art-er.it/news/nuovo-bando-pmi-fondi-tecnologia-e-ambiente-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "€ 300.488.426,61"
             }
         },
         {
