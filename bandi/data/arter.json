@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-05-27 17:49:24",
+    "scraping_timestamp": "2025-05-29 10:13:51",
     "data": [
-        {
-            "deadline": "2025-05-28",
-            "title": "Innovazione nei materiali da costruzione: aperta l'Open Call di Exploit4InnoMat",
-            "description": "Il bando selezionerà proposte su materiali avanzati e multifunzionali per l’involucro edilizio che contribuiscano all’efficienza energetica e alla sostenibilità",
-            "link": "https://first.art-er.it/news/aperta-la-open-call-di-exploit4innomat",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-05-30",
             "title": "Al via il bando dell'iniziativa DARE dedicato alle tecnologie digitali per la prevenzione del diabete",
@@ -83,30 +71,6 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 21.000"
-            }
-        },
-        {
-            "deadline": "2025-05-31",
-            "title": "Potenziamento delle Infrastrutture di Ricerca pubbliche che operano in ambito S3 finalizzato all’avanzamento tecnologico delle imprese",
-            "description": "L'avviso è pubblicato nell'ambito del Programma Nazionale Ricerca Innovazione e competitività per la transizione verde e digitale 2021-2027 ed è dedicato ad azioni con impatto sulle Regioni meno sviluppate",
-            "link": "https://first.art-er.it/news/potenziamento-delle-infrastrutture-di-ricerca-pubbliche-che-operano-ambito-s3-finalizzato",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 178.781.978"
-            }
-        },
-        {
-            "deadline": "2025-05-31",
-            "title": "Iniziative per filiere strategiche, per la messa in rete di forme di aggregazione tra i soggetti della ricerca e per lo sviluppo competenze per la specializzazione intelligente, la transizione industriale e l’imprenditorialità",
-            "description": "L'avviso è pubblicato nell'ambito del Programma Nazionale Ricerca Innovazione e competitività per la transizione verde e digitale 2021-2027 ed è dedicato ad azioni con impatto sulle Regioni meno sviluppate",
-            "link": "https://first.art-er.it/news/iniziative-filiere-strategiche-la-messa-rete-di-forme-di-aggregazione-tra-i-soggetti-della",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -549,6 +513,30 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-06-30",
+            "title": "Potenziamento delle Infrastrutture di Ricerca pubbliche che operano in ambito S3 finalizzato all’avanzamento tecnologico delle imprese",
+            "description": "L'avviso è pubblicato nell'ambito del Programma Nazionale Ricerca Innovazione e competitività per la transizione verde e digitale 2021-2027 ed è dedicato ad azioni con impatto sulle Regioni meno sviluppate",
+            "link": "https://first.art-er.it/news/potenziamento-delle-infrastrutture-di-ricerca-pubbliche-che-operano-ambito-s3-finalizzato",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 178.781.978"
+            }
+        },
+        {
+            "deadline": "2025-06-30",
+            "title": "Iniziative per filiere strategiche, per la messa in rete di forme di aggregazione tra i soggetti della ricerca e per lo sviluppo competenze per la specializzazione intelligente, la transizione industriale e l’imprenditorialità",
+            "description": "L'avviso è pubblicato nell'ambito del Programma Nazionale Ricerca Innovazione e competitività per la transizione verde e digitale 2021-2027 ed è dedicato ad azioni con impatto sulle Regioni meno sviluppate",
+            "link": "https://first.art-er.it/news/iniziative-filiere-strategiche-la-messa-rete-di-forme-di-aggregazione-tra-i-soggetti-della",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
             }

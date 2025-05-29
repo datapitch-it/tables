@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-05-26 08:07:18",
+    "scraping_timestamp": "2025-05-27 17:49:31",
     "data": [
-        {
-            "deadline": "2025-05-20",
-            "title": "Call for Proposals: Porticus Inclusion Fund Consultancy",
-            "description": "Porticus",
-            "link": "https://gfmd.info/fundings/call-for-proposals-porticus-inclusion-fund-consultancy/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Sub-Saharan Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "EUR 300,000"
-            }
-        },
         {
             "deadline": "2026-02-27",
             "title": "SAFE Fund",
@@ -663,24 +651,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "WACC Announces Call for Projects – Communication for All",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/wacc-announces-call-for-projects-communication-for-all/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications for Journalism Fund – Belgium",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-journalism-fund-belgium/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "WACC Announces Call for Projects – Communication for All",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/wacc-announces-call-for-projects-communication-for-all/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -843,24 +831,24 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Internews Opens Call for Applications for Media Small Grants Pool 2021 in Indonesia",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/internews-opens-call-for-applications-for-media-small-grants-pool-2021-in-indonesia/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Asia, Pacific, and Oceania",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications: Training for Media and Csos in Montenegro",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-training-for-media-and-csos-in-montenegro/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Internews Opens Call for Applications for Media Small Grants Pool 2021 in Indonesia",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/internews-opens-call-for-applications-for-media-small-grants-pool-2021-in-indonesia/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Asia, Pacific, and Oceania",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
@@ -1437,6 +1425,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Media Freedom Rapid Response Emergency Support",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/media-freedom-rapid-response-emergency-support/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
