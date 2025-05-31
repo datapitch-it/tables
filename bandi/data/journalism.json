@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-05-29 10:13:58",
+    "scraping_timestamp": "2025-05-31 18:49:31",
     "data": [
+        {
+            "deadline": "2025-09-02",
+            "title": "Strengthen Fact-Checking and Disinformation Response",
+            "description": "European Commission",
+            "link": "https://gfmd.info/fundings/strengthen-fact-checking-and-disinformation-response/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€ 47 million"
+            }
+        },
+        {
+            "deadline": "2025-06-13",
+            "title": "EU Funding for Pan-European Media Reporting",
+            "description": "European Commission",
+            "link": "https://gfmd.info/fundings/eu-funding-for-pan-european-media-reporting/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€13.5 million"
+            }
+        },
         {
             "deadline": "2026-02-27",
             "title": "SAFE Fund",
@@ -975,18 +999,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Applications for the Joyce Foundation’s 2021 Grants Program in United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-the-joyce-foundations-2021-grants-program-in-united-states/",
@@ -1005,6 +1017,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
