@@ -1,90 +1,6 @@
 {
-    "scraping_timestamp": "2025-05-29 10:13:51",
+    "scraping_timestamp": "2025-05-31 18:49:24",
     "data": [
-        {
-            "deadline": "2025-05-30",
-            "title": "Al via il bando dell'iniziativa DARE dedicato alle tecnologie digitali per la prevenzione del diabete",
-            "description": "Il bando finanzia progetti per prevenire il diabete di tipo 2 tramite l'uso di Intelligenza Artificiale, big data e Internet of Things",
-            "link": "https://first.art-er.it/news/finanziamenti-il-diabete-al-bando-dare-spoke-3",
-            "custom": {
-                "Topics": "Artificial Intelligence, PNRR - Bandi a cascata",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.270.747,22"
-            }
-        },
-        {
-            "deadline": "2025-05-30",
-            "title": "Tecnologie emergenti e digitalizzazione: aperto il bando Easy SMACT per l’innovazione delle imprese",
-            "description": "SMACT mette a disposizione 1 milione di euro per supportare le imprese italiane nell’adozione di tecnologie digitali avanzate",
-            "link": "https://first.art-er.it/news/tecnologie-e-digitale-le-imprese-call-easy-smact",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
-        {
-            "deadline": "2025-05-30",
-            "title": "Al via le candidature per la European Capital of Smart Tourism e il Green Pioneer 2026",
-            "description": "Le città europee sono invitate a presentare le loro pratiche innovative nel turismo smart e sostenibile per diventare modelli di riferimento nel panorama turistico europeo",
-            "link": "https://first.art-er.it/news/premi-la-capitale-del-turismo-smart-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-05-30",
-            "title": "RER: nuovo bando per promuovere collaborazioni con enti di ricerca e atenei esteri",
-            "description": "Il bando finanzia studi di fattibilità per attività, collaborazioni e insediamenti di università e istituti di ricerca esteri in Emilia-Romagna",
-            "link": "https://first.art-er.it/news/bando-rer-collaborazioni-con-atenei-esteri",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-05-31",
-            "title": "Nuove Idee Nuove Imprese: aperte le iscrizioni per l'edizione 2025",
-            "description": "Business Plan Competition tra idee imprenditoriali innovative con lo scopo di diffondere e sostenere la cultura dell’innovazione",
-            "link": "https://first.art-er.it/news/nuove-idee-nuove-imprese",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 21.000"
-            }
-        },
-        {
-            "deadline": "2025-05-31",
-            "title": "Nuove Idee Nuove Imprese: aperta la call 2025 per idee imprenditoriali innovative",
-            "description": "Il programma offre formazione e premi in denaro",
-            "link": "https://first.art-er.it/news/online-bando-nuove-idee-nuove-imprese-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 21.000"
-            }
-        },
-        {
-            "deadline": "2025-05-31",
-            "title": "Al via il bando per il supporto ai piani per la transizione sostenibile delle PMI",
-            "description": "Il bando mira a identificare e coinvolgere PMI di tutti i settori per aiutarle a sviluppare i loro piani di transizione sostenibile e favorire l'attrazione degli investimenti",
-            "link": "https://first.art-er.it/news/bando-piani-transizione-sostenibile-delle-pmi",
-            "custom": {
-                "Topics": "Cascade funding, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-06-01",
             "title": "Next Generation Internet: pubblicati nuovi bandi per l'internet del futuro",
@@ -459,6 +375,18 @@
         },
         {
             "deadline": "2025-06-30",
+            "title": "Aperte le candidature per il Premio Sviluppo Sostenibile 2025",
+            "description": "Il Premio mira a valorizzare progetti innovativi per l’ambiente con visibilità, mentoring e percorsi di accelerazione",
+            "link": "https://first.art-er.it/news/al-il-premio-sviluppo-sostenibile-2025",
+            "custom": {
+                "Topics": "Start-up in Europa, Transizione sostenibile",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-06-30",
             "title": "Premio Bernardo Nobile 2025: aperte le candidature alla 20° edizione",
             "description": "Premio annuale volto a valorizzare studi e metodologie innovative per l’analisi di dati e informazioni inerenti alla proprietà intellettuale o a tematiche di rilevanza tecnologica, geopolitica o sociale",
             "link": "https://first.art-er.it/news/20deg-edizione-premio-bernardo-nobile",
@@ -590,6 +518,18 @@
             }
         },
         {
+            "deadline": "2025-07-04",
+            "title": "Materie prime critiche: lanciato il bando PNRR per progetti di ricerca e sviluppo",
+            "description": "Il bando vuole promuovere un approvvigionamento sostenibile, circolare e sicuro delle materie prime critiche",
+            "link": "https://first.art-er.it/news/pnrr-al-il-bando-progetti-su-materie-prime",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 24.000.000"
+            }
+        },
+        {
             "deadline": "2025-07-06",
             "title": "Al via il bando Q2Scale rivolto alle startup europee nei settori Automotive e Fintech",
             "description": "Aperto fino al 6 luglio, il bando supporta startup pronte a scalare, offrendo servizi di mentoring, PoC e accesso ai mercati internazionali",
@@ -659,6 +599,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 39.000.000"
+            }
+        },
+        {
+            "deadline": "2025-07-10",
+            "title": "Fast Track 2025: aperto il bando per accelerare l’ingresso sul mercato di soluzioni innovative",
+            "description": "L’iniziativa è destinata a progetti e start-up già finanziati da EIT RawMaterials nel 2025, con l’obiettivo di fornire un sostegno supplementare per completare il percorso verso la commercializzazione",
+            "link": "https://first.art-er.it/news/eit-rawmaterials-lanciato-il-bando-fast-track-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 8.000.000"
             }
         },
         {
@@ -807,7 +759,7 @@
         },
         {
             "deadline": "2025-09-02",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
+            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 02-2025 (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-02 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 18 topic",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-0",
             "custom": {
@@ -819,7 +771,7 @@
         },
         {
             "deadline": "2025-09-02",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
+            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 01-2025 (2-stage) (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-01-Two-Stage è inclusa nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe",
             "custom": {
@@ -879,7 +831,7 @@
         },
         {
             "deadline": "2025-09-04",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
+            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 05-2025 (2-stage) (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-05-Two-Stage è inclusa nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-3",
             "custom": {
@@ -891,7 +843,7 @@
         },
         {
             "deadline": "2025-09-04",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
+            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 04-2025 (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-04 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 21 topic",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-2",
             "custom": {
@@ -903,7 +855,7 @@
         },
         {
             "deadline": "2025-09-04",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
+            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 03-2025 (2-stage) (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-03-Two-Stage è inclusa nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-1",
             "custom": {
@@ -911,6 +863,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 7.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-08",
+            "title": "Il Consiglio della Ricerca in Estonia (ETAG) lancia il bando Mobilitas 3.0",
+            "description": "Il bando è aperto fino all'8 settembre 2025 a progetti di ricerca post-doc che hanno ricevuto il Seal of Excellence MSCA e intendono trasferire la loro attività di ricerca in Estonia",
+            "link": "https://first.art-er.it/news/bando-etag-mobilitas-30-progetti-post-doc-msca",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 76.000"
             }
         },
         {
@@ -975,18 +939,6 @@
         },
         {
             "deadline": "2025-09-16",
-            "title": "Salute: aperti ufficialmente due nuovi bandi di Horizon Europe",
-            "description": "I bandi HORIZON-HLTH-2025-01 e HORIZON-HLTH-2025-03-two-stage pubblicati nel nuovo Work Programme Salute di Horizon Europe contengono complessivamente 18 topic",
-            "link": "https://first.art-er.it/news/salute-pubblicati-due-nuovi-bandi-di-horizon-europe",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "€ 486.000.000 -  € 210.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
             "title": "Azioni Marie Skłodowska-Curie: nuovo bando a favore dei ricercatori ucraini",
             "description": "L'iniziativa MSCA4Ukraine sostiene dottorandi e ricercatori post-doc ucraini sfollati per aiutarli a proseguire la propria attività scientifica in condizioni di sicurezza",
             "link": "https://first.art-er.it/news/msca-pubblicato-nuovo-bando-ricercatori-ucraini",
@@ -999,7 +951,7 @@
         },
         {
             "deadline": "2025-09-16",
-            "title": "Salute: pubblicato nuovo bando di Horizon Europe",
+            "title": "Salute: pubblicato il bando Cluster 1 - Health (Two stage - 2025) di Horizon Europe",
             "description": "Il bando HORIZON-HLTH-2025-03-two-stage è pubblicato nel Work Programme Salute di Horizon Europe e contiene 5 topic",
             "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe-1",
             "custom": {
@@ -1011,7 +963,7 @@
         },
         {
             "deadline": "2025-09-16",
-            "title": "Salute: pubblicato nuovo bando di Horizon Europe",
+            "title": "Salute: pubblicato il bando Cluster 1 - Health (Single stage - 2025) di Horizon Europe",
             "description": "Il bando HORIZON-HLTH-2025-01 è pubblicato nel Work Programme Salute di Horizon Europe e contiene 13 topic",
             "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe-0",
             "custom": {
@@ -1167,6 +1119,18 @@
         },
         {
             "deadline": "2025-09-23",
+            "title": "Digitale, industria, spazio: pubblicato il bando INDUSTRY di Horizon Europe",
+            "description": "Il bando HORIZON-CL4-2025-01: INDUSTRY è pubblicato nel Work Programme di Horizon Europe dedicato a digitale, industria, spazio e contiene 28 topic",
+            "link": "https://first.art-er.it/news/digitale-industria-spazio-nuovo-bando-di-horizon-eu",
+            "custom": {
+                "Topics": "Artificial Intelligence, Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "539 milioni di euro"
+            }
+        },
+        {
+            "deadline": "2025-09-23",
             "title": "Programma LIFE: pubblicati i bandi 2025",
             "description": "I nuovi bandi sostengono progetti nei settori dell'ambiente e dell'azione per il clima, per un budget complessivo di oltre 578 milioni di euro",
             "link": "https://first.art-er.it/news/life-bandi-2025",
@@ -1179,21 +1143,9 @@
         },
         {
             "deadline": "2025-09-24",
-            "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: pubblicati i nuovi bandi 2025 di Horizon Europe",
-            "description": "Aperti 5 nuovi bandi compresi nel programma di lavoro di Horizon Europe dedicato ai temi dell'Alimentazione, bioeconomia, risorse naturali, agricoltura e ambiente",
-            "link": "https://first.art-er.it/news/food-nuovi-bandi-di-horizon-europe-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-24",
-            "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: pubblicato nuovo bando di Horizon Europe",
+            "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: pubblicato il bando Cluster 6 Call 03 - single stage di Horizon Europe",
             "description": "La call HORIZON-CL6-2025-03 è pubblicata nel Work Programme Food, Bioeconomy, Natural Resources, Agriculture and Environment 2025 di Horizone Europe e include 14 topic",
-            "link": "https://first.art-er.it/news/food-bioeconomy-natural-resources-agriculture-and-environment-pubblicato-nuovo-bando-di-1",
+            "link": "https://first.art-er.it/news/food-bando-cluster-6-call-03-single-stage-di-heu",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
@@ -1203,19 +1155,7 @@
         },
         {
             "deadline": "2025-09-24",
-            "title": "Clima, energia, mobilità: pubblicati i nuovi bandi 2025 di Horizon Europe",
-            "description": "Aperti 6 nuovi bandi compresi nel programma di lavoro di Horizon Europe dedicato a clima, energia e mobilità",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovi-bandi-di-horizon-europe-0",
-            "custom": {
-                "Topics": "Mobilità del futuro, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-24",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
+            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 06-2025 (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-06 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 7 topic",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-4",
             "custom": {
@@ -1226,15 +1166,15 @@
             }
         },
         {
-            "deadline": "2025-09-24",
-            "title": "Clima, energia, mobilità: pubblicato nuovo bando di Horizon Europe",
-            "description": "La call HORIZON-CL5-2025-06 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 7 topic",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-5",
+            "deadline": "2025-09-25",
+            "title": "Digitale, industria, spazio: pubblicato il bando SPACE-HADEA di Horizon Europe",
+            "description": "Il bando HORIZON-CL4-2025-02 è pubblicato nel Work Programme di Horizon Europe dedicato a digitale, industria, spazio e contiene 20 topic",
+            "link": "https://first.art-er.it/news/digitale-industria-spazio-nuovo-bando-di-horizon-eu-1",
             "custom": {
-                "Topics": "N/A",
+                "Topics": "Artificial Intelligence, Deep tech",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 139.000.000"
+                "Stanziamento": "139 milioni di euro"
             }
         },
         {
@@ -1319,6 +1259,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 634.000.000"
+            }
+        },
+        {
+            "deadline": "2025-10-07",
+            "title": "Innovazione nello Spazio: al via il premio per soluzioni di lancio rivoluzionarie",
+            "description": "L’iniziativa punta a rafforzare la competitività strategica dell’Europa nel settore spaziale",
+            "link": "https://first.art-er.it/news/al-il-bando-europeo-soluzioni-spaziali",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 5.000.000"
             }
         },
         {
@@ -1606,7 +1558,7 @@
                 "Topics": "N/A",
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "N/A",
-                "Stanziamento": "€ 200.000"
+                "Stanziamento": "€ 320.000"
             }
         },
         {
@@ -1715,6 +1667,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Digitale, industria, spazio: pubblicato il bando INDUSTRY two-stage di Horizon Europe",
+            "description": "Il bando HORIZON-CL4-2025-05-two-stage è pubblicato nel Work Programme di Horizon Europe dedicato a digitale, industria, spazio e contiene 6 topic",
+            "link": "https://first.art-er.it/news/digitale-industria-spazio-nuovo-bando-di-horizon-eu-0",
+            "custom": {
+                "Topics": "Artificial Intelligence, Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "161 milioni di euro"
             }
         },
         {
