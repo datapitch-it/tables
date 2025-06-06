@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-05 15:34:39",
+    "scraping_timestamp": "2025-06-06 16:16:43",
     "data": [
-        {
-            "deadline": "2025-06-06",
-            "title": "Spazio e sostenibilità: aperto il bando per promuovere l'uso efficiente di idrogeno verde",
-            "description": "Il bando di gara intende sostenere studi di fattibilità per servizi che si basino sulla tecnologia spaziale correlata all'uso di idrogeno verde",
-            "link": "https://first.art-er.it/news/bando-esa-promuovere-luso-di-idrogeno-verde-0",
-            "custom": {
-                "Topics": "Città del futuro, Mobilità del futuro, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "fino a € 200.000 per ogni studio"
-            }
-        },
         {
             "deadline": "2025-06-09",
             "title": "ESA: aperto il bando per proposte sulle tecnologie spaziali per l'ambito assicurativo",
@@ -608,6 +596,18 @@
             "link": "https://first.art-er.it/news/premio-2025-linnovazione-responsabile-rer",
             "custom": {
                 "Topics": "",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-31",
+            "title": "Aperto il bando ACCELERO per PMI e startup innovative in Puglia",
+            "description": "Il bando offre alle imprese selezionate un percorso di coaching dedicato alla preparazione di una proposta competitiva per l’EIC Accelerator",
+            "link": "https://first.art-er.it/news/aperto-il-bando-accelero-pmi-e-startup",
+            "custom": {
+                "Topics": "Deep tech",
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"

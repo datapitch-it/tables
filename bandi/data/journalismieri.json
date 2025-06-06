@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-06-01 13:16:28",
+    "scraping_timestamp": "2025-06-05 15:34:47",
     "data": [
+        {
+            "deadline": "2025-08-04",
+            "title": "Journalism Science Alliance Grants",
+            "description": "European Journalism Centre (EJC)",
+            "link": "https://gfmd.info/fundings/journalism-science-alliance-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Grants of €10,000, €20,000, and €50,000"
+            }
+        },
         {
             "deadline": "2025-09-02",
             "title": "Strengthen Fact-Checking and Disinformation Response",
@@ -59,30 +71,6 @@
                 "Area Classification": "Sub-Saharan Africa",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "$10,000"
-            }
-        },
-        {
-            "deadline": "2025-06-01",
-            "title": "Visegrad+ Grants for Democratic Transformation",
-            "description": "Visegard Fund",
-            "link": "https://gfmd.info/fundings/visegrad-grants-for-democratic-transformation/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Grants cover up to 100% of the project budget"
-            }
-        },
-        {
-            "deadline": "2025-06-02",
-            "title": "MENA Scholarship Programme (MSP)",
-            "description": "RNTC Media Training Centre",
-            "link": "https://gfmd.info/fundings/mena-scholarship-programme-msp/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Middle East and North Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Fully funded scholarships"
             }
         },
         {
@@ -651,9 +639,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
+            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
+            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -663,9 +651,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
+            "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
+            "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -999,6 +987,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Call for Applications for the Joyce Foundation’s 2021 Grants Program in United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-applications-for-the-joyce-foundations-2021-grants-program-in-united-states/",
@@ -1017,18 +1017,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Undp Opens Call for Applications – Small Grants for Local Csos in Moldova",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-opens-call-for-applications-small-grants-for-local-csos-in-moldova/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
