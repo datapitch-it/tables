@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-06-05 15:34:47",
+    "scraping_timestamp": "2025-06-06 16:16:48",
     "data": [
         {
             "deadline": "2025-08-04",
@@ -1437,18 +1437,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Media Freedom Rapid Response Emergency Support",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/media-freedom-rapid-response-emergency-support/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
