@@ -82,6 +82,15 @@ function mapItem(item, datasetName) {
                 deadline: item['deadline'] || 'N/A',
                 source: 'journalism'
             };
+        case 'lombardia':
+            return {
+                title: item['title'] || 'N/A',
+                description: item['description'] || 'N/A',
+                link: item['link'] || '#',
+                tags: [], // journalism data has no tags
+                deadline: item['deadline'] || 'N/A',
+                source: 'lombardia'
+            };
         case 'newitems':
             return {
                 title: item['title'] || 'N/A',
@@ -243,5 +252,6 @@ Promise.all([
     loadDataset('./data/inpa.json', 'data', 'inpa'),
     loadDataset('./data/eugrants.json', 'data', 'eugrants'),
     loadDataset('./data/journalism.json', 'data', 'journalism'),
+    loadDataset('./data/regione_lombardia.json', 'data', 'lombardia'),
     loadDataset('./data/newitems.json', 'data', 'newitems') // Newitems dataset loader
 ]).then(displaySortedItems);
