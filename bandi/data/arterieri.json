@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-07 18:35:04",
+    "scraping_timestamp": "2025-06-10 06:32:11",
     "data": [
-        {
-            "deadline": "2025-06-09",
-            "title": "ESA: aperto il bando per proposte sulle tecnologie spaziali per l'ambito assicurativo",
-            "description": "Il bando ESA si rivolge a progetti interessati a sviluppare servizi che integrano soluzioni tecnologiche spaziali nel settore delle assicurazioni",
-            "link": "https://first.art-er.it/news/aperto-il-bando-esa-il-settore-assicurativo",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 75.000"
-            }
-        },
         {
             "deadline": "2025-06-10",
             "title": "MIMIT: Contratti di sviluppo per filiere produttive strategiche",

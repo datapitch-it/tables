@@ -165,7 +165,7 @@ def save_json(data, path):
     logging.info(f"Dati salvati in {path}")
 
 # Esecuzione principale
-output_path = "./data/invitalia.json"
+output_path = "../data/invitalia.json"
 check_and_rename_file(output_path)
 
 all_incentivi = []
