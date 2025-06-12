@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-06-10 06:36:49",
+    "scraping_timestamp": "2025-06-12 08:54:26",
     "data": [
         {
             "deadline": "2025-08-04",
@@ -95,18 +95,6 @@
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to €8,000"
-            }
-        },
-        {
-            "deadline": "2025-06-06",
-            "title": "New Media Incubator",
-            "description": "International Press Institute",
-            "link": "https://gfmd.info/fundings/new-media-incubator-2/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Funding is provided through a core grant scheme"
             }
         },
         {
@@ -543,18 +531,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Australia’s Cyber and Critical Tech Cooperation Program",
-            "description": "Australian Government",
-            "link": "https://gfmd.info/fundings/australias-cyber-and-critical-tech-cooperation-program/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Asia, Pacific, and Oceania",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "AUD 8,600,000 to 11,900,000"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Gender Equality Grants Programme",
             "description": "Pulitzer Center",
             "link": "https://gfmd.info/fundings/gender-equality-grants/",
@@ -639,9 +615,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
+            "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
+            "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -651,9 +627,9 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Call for Proposals Supporting Open Societies & Climate Change & Biodiversity",
+            "title": "British Embassy San Jose 2021/2022 : Call for Bids",
             "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/british-embassy-guatemala-call-for-proposals-supporting-open-societies-climate-change-biodiversity/",
+            "link": "https://gfmd.info/fundings/british-embassy-san-jose-2021-2022-call-for-bids/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Latin America and the Caribbean",
@@ -1167,18 +1143,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Undp Announces Call for Proposals to Conduct Civic Education Awareness",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/undp-announces-call-for-proposals-to-conduct-civic-education-awareness/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Sub-Saharan Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Usaid-maputo Announces Call for Proposal to Strengthen Investigative Journalism",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/usaid-maputo-announces-call-for-proposal-to-strengthen-investigative-journalism/",
@@ -1194,6 +1158,18 @@
             "title": "Unesco Calls for Proposal to Support Production Of Documentaries on Access to Information on Migration",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/unesco-calls-for-proposal-to-support-production-of-documentaries-on-access-to-information-on-migration/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Undp Announces Call for Proposals to Conduct Civic Education Awareness",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/undp-announces-call-for-proposals-to-conduct-civic-education-awareness/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Sub-Saharan Africa",
@@ -1347,6 +1323,30 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Usaid’s Bmap 3rd Media Innovation Lab: Reporting Ethically During a Pandemic",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/usaids-bmap-3rd-media-innovation-lab-reporting-ethically-during-a-pandemic/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "National Geographic COVID-19 Emergency Fund for Journalists",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/national-geographic-covid-19-emergency-fund-for-journalists/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Southern Movement Media Fund (round 2) – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
@@ -1395,30 +1395,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Usaid’s Bmap 3rd Media Innovation Lab: Reporting Ethically During a Pandemic",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/usaids-bmap-3rd-media-innovation-lab-reporting-ethically-during-a-pandemic/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "National Geographic COVID-19 Emergency Fund for Journalists",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/national-geographic-covid-19-emergency-fund-for-journalists/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "People in Need: Call for Selection Of Regional Civil Society Organisations (georgia)",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/people-in-need-call-for-selection-of-regional-civil-society-organisations-georgia/",
@@ -1437,6 +1413,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Media Freedom Rapid Response Emergency Support",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/media-freedom-rapid-response-emergency-support/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "No Region",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }

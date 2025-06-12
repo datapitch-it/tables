@@ -87,7 +87,7 @@ function mapItem(item, datasetName) {
                 title: item['title'] || 'N/A',
                 description: item['description'] || 'N/A',
                 link: item['link'] || '#',
-                tags: [], // journalism data has no tags
+                tags: [], // lomardy data has no tags
                 deadline: item['deadline'] || 'N/A',
                 source: 'lombardia'
             };
