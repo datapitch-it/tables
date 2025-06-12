@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-10 06:36:48",
+    "scraping_timestamp": "2025-06-12 08:54:28",
     "data": [
-        {
-            "deadline": "2025-06-10",
-            "title": "MIMIT: Contratti di sviluppo per filiere produttive strategiche",
-            "description": "Si aprirà l'8 aprile lo sportello per presentare domanda per i fondi dedicati alla competitività e alla resilienza delle filiere produttive considerate strategiche",
-            "link": "https://first.art-er.it/news/contratti-di-sviluppo-filiere-produttive-bando-pnrr-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "€ 500.000.000"
-            }
-        },
-        {
-            "deadline": "2025-06-11",
-            "title": "European Digital Connectivity Awards: aperte le candidature per l'edizione 2025",
-            "description": "Saranno premiati i progetti che contribuiscono attivamente al conseguimento degli obiettivi di connettività stabiliti nel quadro del Decennio Digitale 2030",
-            "link": "https://first.art-er.it/news/european-digital-connectivity-awards-2025",
-            "custom": {
-                "Topics": "Cooperazione internazionale",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-06-12",
             "title": "Transizione energetica: al via il bando MASE per bioidrogeno e biocarburanti",
@@ -1691,18 +1667,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 1.000.000.000"
-            }
-        },
-        {
-            "deadline": "2026-03-12",
-            "title": "Clean Energy Transition Partnership: annunciata la Joint Call 2025",
-            "description": "La CETPartnership sostiene progetti innovativi che mirano a promuovere la transizione energetica verde",
-            "link": "https://first.art-er.it/news/clean-energy-transition-partnership-annunciata-la-joint-call-2025",
-            "custom": {
-                "Topics": "Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "N/A"
             }
         },
         {
