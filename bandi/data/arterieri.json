@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-12 08:54:28",
+    "scraping_timestamp": "2025-06-12 16:36:50",
     "data": [
-        {
-            "deadline": "2025-06-12",
-            "title": "Transizione energetica: al via il bando MASE per bioidrogeno e biocarburanti",
-            "description": "Il bando intende finanziare progetti per produrre carburanti verdi a sostegno di sviluppo sostenibile e innovazione energetica",
-            "link": "https://first.art-er.it/news/bando-mase-bioidrogeno-e-green-fuel",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 12.000.000"
-            }
-        },
-        {
-            "deadline": "2025-06-12",
-            "title": "MASTER XR: aperta la seconda call per la creazione di contenuti educativi innovativi",
-            "description": "Il bando è aperto fino al 12 giugno 2025 e si concentra sull'intersezione tra robotica e XR, con l'obiettivo di creare ambienti sicuri e interattivi per l'insegnamento della robotica industriale",
-            "link": "https://first.art-er.it/news/master-bando-contenuti-educativi-tecnologia-xr",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€100.000"
-            }
-        },
         {
             "deadline": "2025-06-13",
             "title": "Aperta la call per le residenze artistiche di S+T+ARTS AQUA MOTION",
@@ -47,6 +23,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 75.000"
+            }
+        },
+        {
+            "deadline": "2025-06-16",
+            "title": "Intelligenza Artificiale e Industria 4.0: aperta la selezione per quattro borse di ricerca",
+            "description": "L’Università di Bologna apre 4 borse di ricerca per un progetto su Intelligenza Artificiale e rilevamento anomalie industriali, con scadenza 16 giugno 2025",
+            "link": "https://first.art-er.it/news/progetto-safe-selezione-unibo-4-borse-di-ricerca",
+            "custom": {
+                "Topics": "Artificial Intelligence, PNRR - Bandi a cascata",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 14.259,96 per borsa"
             }
         },
         {
@@ -179,6 +167,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-06-23",
+            "title": "Aperto il bando Premio TOP of the PID 2025",
+            "description": "Il premio selezionerà progetti innovativi che utilizzano l'Intelligenza Artificiale (IA) e le tecnologie 4.0",
+            "link": "https://first.art-er.it/news/premio-top-pid-2025-aperte-le-candidature",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Fino a € 5.000"
             }
         },
         {
@@ -398,6 +398,18 @@
             }
         },
         {
+            "deadline": "2025-07-05",
+            "title": "AI Future Creators Awards: Fondazione FAIR promuove la crescita di startup tecnologiche dell'ecosistema",
+            "description": "Aperta fino al 5 luglio 2025, la call sostiene la trasformazione di idee innovative in imprese deep tech nel campo dell’Intelligenza artificiale",
+            "link": "https://first.art-er.it/news/aperte-le-candidature-lai-future-creators-award",
+            "custom": {
+                "Topics": "Artificial Intelligence, PNRR - Bandi a cascata",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-07-06",
             "title": "Al via il bando Q2Scale rivolto alle startup europee nei settori Automotive e Fintech",
             "description": "Aperto fino al 6 luglio, il bando supporta startup pronte a scalare, offrendo servizi di mentoring, PoC e accesso ai mercati internazionali",
@@ -506,6 +518,54 @@
             }
         },
         {
+            "deadline": "2025-07-14",
+            "title": "EIC: al via il Global Business Expansion Programme a sostegno di internazionalizzazione e innovazione",
+            "description": "Il programma sostiene le imprese deep tech europee nell’espansione verso Americhe, Asia e Pacifico con servizi su misura",
+            "link": "https://first.art-er.it/news/internazionalizzazione-bando-eic-pmi-deep-tech",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 2.300.000"
+            }
+        },
+        {
+            "deadline": "2025-07-14",
+            "title": "Italia–Argentina: aperto il bando per progetti congiunti di ricerca scientifica e tecnologica",
+            "description": "L’iniziativa sostiene scambi di ricercatori tra enti italiani e argentini per rafforzare la cooperazione scientifica tra i due Paesi",
+            "link": "https://first.art-er.it/news/bando-italia-argentina-ricerca-congiunta-2026-27",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-15",
+            "title": "Al via l’edizione 2025 degli European Digital Skills Awards",
+            "description": "Candidature aperte fino al 15 luglio per premiare i migliori progetti europei dedicati allo sviluppo delle competenze digitali",
+            "link": "https://first.art-er.it/news/al-ledizione-degli-european-digital-skills-awards",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-15",
+            "title": "Apertura le candidature al Gruppo di Esperti ESIR4",
+            "description": "L'iniziativa mira a costituire un panel di esperti che fornirà consulenza strategica ai servizi della Commissione europea in merito alle politiche per la ricerca e l’innovazione",
+            "link": "https://first.art-er.it/news/apertura-le-candidature-al-gruppo-di-esperti-esir4",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-07-15",
             "title": "Emilia-Romagna: nuovo bando per sostenere la transizione digitale delle imprese regionali",
             "description": "Il bando sostiene attività che promuovono la digitalizzazione del tessuto produttivo locale",
@@ -563,6 +623,18 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-30",
+            "title": "Semiconduttori: aperto nuovo bando della partnership europea Chips JU",
+            "description": "La partnership europea Chips JU ha aperto un call per i semiconduttori con scadenza 30 luglio 2025, nell'ambito dell'iniziativa Chips for Europe",
+            "link": "https://first.art-er.it/news/chips-ju-nuova-call-2025-sui-semiconduttori",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "5.000.000 Euro"
             }
         },
         {
@@ -638,6 +710,42 @@
             }
         },
         {
+            "deadline": "2025-08-05",
+            "title": "Al via la quinta Open Call REINFORCING per una digitalizzazione responsabile",
+            "description": "L’iniziativa intende sostenere organizzazioni pubbliche e private nel promuovere un cambiamento strutturale nei propri processi di sviluppo tecnologico",
+            "link": "https://first.art-er.it/news/digitalizzazione-responsabile-alla-call-reinforcing",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 720.000"
+            }
+        },
+        {
+            "deadline": "2025-08-11",
+            "title": "The DeepTechers: bando per formazione e networking verso ecosistemi deep-tech sostenibili",
+            "description": "Un programma intensivo per professionisti dell’innovazione interessati a collaborazioni Europa–Israele nel campo del deep tech",
+            "link": "https://first.art-er.it/news/deeptechers-call-che-rafforza-ecosistemi-deep-tech",
+            "custom": {
+                "Topics": "Cascade funding, Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 15.000"
+            }
+        },
+        {
+            "deadline": "2025-08-12",
+            "title": "XR2Industry: aperta la terza call per testare casi d’uso di realtà estesa in ambito industriale",
+            "description": "L'obiettivo del bando - aperto fino al 12 agosto 2025 - è promuovere sperimentazioni concrete di soluzioni XR in ambito industriale",
+            "link": "https://first.art-er.it/news/progetto-xr2industry-aperta-3a-call-su-realta-estesa",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-08-12",
             "title": "Italia–Israele: al via il bando per progetti congiunti per tecnologie sostenibili e cambiamento climatico",
             "description": "Il bando ha l'obiettivo di rafforzare le relazioni scientifiche e industriali tra Italia e Israele in settori cruciali per il futuro del Mediterraneo",
@@ -659,6 +767,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€12 810 000,00"
+            }
+        },
+        {
+            "deadline": "2025-08-21",
+            "title": "Open Horizons: aperta la prima call per startup deep-tech guidate da donne",
+            "description": "L’obiettivo è promuovere la collaborazione tra startup e grandi imprese europee, facilitando l’accesso al mercato e rafforzando il potenziale di crescita e investimento delle giovani realtà imprenditoriali femminili",
+            "link": "https://first.art-er.it/news/open-horizons-aperta-la-prima-call",
+            "custom": {
+                "Topics": "Cascade funding, Deep tech, Gender equality",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 335.000"
             }
         },
         {
@@ -815,6 +935,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 7.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-08",
+            "title": "3DOP: secondo cutoff della call per PMI nel settore della stampa 3D",
+            "description": "Il bando mira ad accelerare la transizione digitale e la competitività delle PMI manifatturiere attraverso l’innovazione nella stampa 3D",
+            "link": "https://first.art-er.it/news/servizi-3d-pmi-secondo-cutoff-call-3dop",
+            "custom": {
+                "Topics": "Industrie creative",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1250,6 +1382,18 @@
             }
         },
         {
+            "deadline": "2025-10-02",
+            "title": "Digitale, industria, spazio: pubblicati due bandi DIGITAL di Horizon Europe",
+            "description": "I due bandi Digital sono stati pubblicati nel Work Programme di Horizon Europe dedicato a digitale, industria, spazio contengono complessivamente 28 topic per un budget di oltre 530 milioni di euro",
+            "link": "https://first.art-er.it/news/digitale-aperti-due-nuovi-bandi-di-horizon-europe",
+            "custom": {
+                "Topics": "Artificial Intelligence, Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 536.000.000"
+            }
+        },
+        {
             "deadline": "2025-10-07",
             "title": "Innovazione nello Spazio: al via il premio per soluzioni di lancio rivoluzionarie",
             "description": "L’iniziativa punta a rafforzare la competitività strategica dell’Europa nel settore spaziale",
@@ -1259,6 +1403,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 5.000.000"
+            }
+        },
+        {
+            "deadline": "2025-10-08",
+            "title": "MSCA: pubblicato un nuovo bando a supporto di partenariati di ricerca tra Brasile e UE",
+            "description": "L'iniziativa si inserisce nell’ambito del bando MSCA Staff Exchanges 2025 ed ha l'obiettivo di rafforzare la cooperazione internazionale tra il Brasile e l’Unione europea",
+            "link": "https://first.art-er.it/news/msca-partenariati-di-ricerca-tra-brasile-e-ue-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1359,6 +1515,18 @@
         },
         {
             "deadline": "2025-11-12",
+            "title": "Sicurezza civile per la società: pubblicato il bando 2025 di Horizon Europe",
+            "description": "Il bando HORIZON-CL3-2025-01 è pubblicato nel Work Programme Sicurezza civile per la società 2025 di Horizon Europe e contiene 19 topic",
+            "link": "https://first.art-er.it/news/horizon-europe-aperta-la-call-sicurezza-civile-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-12",
             "title": "New European Bauhaus Facility: il bando 2025 di Horizon Europe",
             "description": "Il bando \"A research agenda for a beautiful, inclusive and sustainable transformation of neighbourhoods\" finanzia sia progetti che dimostrano soluzioni innovative sia attività di ricerca fondamentale",
             "link": "https://first.art-er.it/news/new-european-bauhaus-facility-call-2025-di-heu",
@@ -1403,6 +1571,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "tra € 250.000 e € 750.000 per proposta all'anno € 30.000.000 complessivi per i progetti singoli"
+            }
+        },
+        {
+            "deadline": "2025-11-18",
+            "title": "EIC Pre-Accelerator: al via il bando per startup nei paesi Widening",
+            "description": "L’EIC Pre-Accelerator mira a rafforzare la competitività delle regioni meno sviluppate dell’UE, promuovendo l’innovazione delle startup in settori strategici",
+            "link": "https://first.art-er.it/news/eic-pre-accelerator-call-startup-deep-tech-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
             }
         },
         {
@@ -1487,6 +1667,18 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 220.000"
+            }
+        },
+        {
+            "deadline": "2025-12-05",
+            "title": "QuantERA Call 2025: annunciato il nuovo bando sulle tecnologie quantistiche",
+            "description": "L'annuncio ufficiale del bando è previsto per il 4 settembre 2025",
+            "link": "https://first.art-er.it/news/quantera-call-2025-annunciato-il-nuovo-bando",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1635,6 +1827,18 @@
         },
         {
             "deadline": "2026-01-20",
+            "title": "EuroHPC JU: nuovo bando per rafforzare la leadership europea nel calcolo ad alte prestazioni",
+            "description": "Lo scopo della call aperta fino al 20 gennaio 2026 è potenziare l’ecosistema europeo HPC tramite centri di eccellenza e codici di riferimento, per applicazioni scientifiche e industriali ad alte prestazioni in settori chiave",
+            "link": "https://first.art-er.it/news/nuovo-bando-eurohpc-su-calcolo-ad-alte-prestazioni",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 60.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-20",
             "title": "Missions: i bandi 2025 di Horizon Europe",
             "description": "Aperti 8 nuovi bandi dedicati alle cinque Missioni di Horizon Europe per sostenere la loro attuazione anche in sinergia con altri strumenti di Horizon Europe e altri finanziamenti",
             "link": "https://first.art-er.it/news/missions-le-call-2025-di-horizon-europe",
@@ -1667,6 +1871,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 1.000.000.000"
+            }
+        },
+        {
+            "deadline": "2026-03-12",
+            "title": "Clean Energy Transition Partnership: aperta la Joint Call 2025",
+            "description": "La partnership sostiene progetti innovativi che mirano a promuovere la transizione energetica verde",
+            "link": "https://first.art-er.it/news/clean-energy-transition-partnership-aperta-la-joint-call-2025",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 80.000.000"
             }
         },
         {
