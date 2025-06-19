@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-18 08:11:07",
+    "scraping_timestamp": "2025-06-19 08:24:36",
     "data": [
-        {
-            "deadline": "2025-06-18",
-            "title": "Aperte le candidature per l'EU Award for Gender Equality Champions",
-            "description": "Università e centri di ricerca possono candidarsi al premio europeo per l’uguaglianza di genere entro il 18 giugno 2025",
-            "link": "https://first.art-er.it/news/aperte-le-candidature-ai-gender-equality-awards",
-            "custom": {
-                "Topics": "Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 400.000"
-            }
-        },
-        {
-            "deadline": "2025-06-18",
-            "title": "EIC: aperte le candidature per il premio Capitale europea dell'innovazione 2025",
-            "description": "Il premio riconoscerà il contributo delle città per lo sviluppo di ecosistemi locali di innovazione",
-            "link": "https://first.art-er.it/news/eic-capitale-europea-dellinnovazione-2025",
-            "custom": {
-                "Topics": "Città del futuro",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-06-19",
             "title": "Investimenti produttivi e progetti di ricerca e sviluppo nell'ambito della piattaforma per le tecnologie strategiche STEP",
@@ -1107,6 +1083,18 @@
         },
         {
             "deadline": "2025-09-18",
+            "title": "MUR: dal PNRR 50 milioni di euro per portare giovani ricercatori di eccellenza in Italia",
+            "description": "Il bando si rivolge a vincitori dei bandi ERC Starting Grants o ERC Consolidator Grants interessati a trasferire in Italia le proprie attività di ricerca di frontiera",
+            "link": "https://first.art-er.it/news/mur-arrivo-dal-pnrr-50-mln-giovani-ricercatori",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "€ 50.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-18",
             "title": "CBE JU: aperti i bandi 2025 per il settore della bioeconomia circolare",
             "description": "Con 13 temi prioritari e un budget di 172 milioni di euro, CBE JU mira a promuovere soluzioni bio-based e circolari, supportando la transizione ecologica e la creazione di posti di lavoro",
             "link": "https://first.art-er.it/news/opportunita-di-finanziamento-cbe-ju-la-bioeconomia-0",
@@ -1419,6 +1407,18 @@
         },
         {
             "deadline": "2025-11-12",
+            "title": "Sicurezza civile per la società: pubblicato il bando ECCC 2025 di Horizon Europe",
+            "description": "Il bando HORIZON-CL3-2025-02-CS-ECCC è pubblicato nel Work Programme Sicurezza Civile per la Società 2025 di Horizon Europe e contiene 6 topic dedicati al European Cybersecurity Competence Center",
+            "link": "https://first.art-er.it/news/horizon-europe-aperta-call-sicurezza-civile-eccc-2025",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 90.550.000"
+            }
+        },
+        {
+            "deadline": "2025-11-12",
             "title": "Sicurezza civile per la società: pubblicato il bando 2025 di Horizon Europe",
             "description": "Il bando HORIZON-CL3-2025-01 è pubblicato nel Work Programme Sicurezza civile per la società 2025 di Horizon Europe e contiene 19 topic",
             "link": "https://first.art-er.it/news/horizon-europe-aperta-la-call-sicurezza-civile-2025",
@@ -1426,7 +1426,7 @@
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
+                "Stanziamento": "€ 156.000.000"
             }
         },
         {

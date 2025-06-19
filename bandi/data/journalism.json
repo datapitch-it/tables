@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-06-18 08:13:06",
+    "scraping_timestamp": "2025-06-19 08:26:33",
     "data": [
         {
             "deadline": "2025-08-04",
@@ -71,18 +71,6 @@
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€150,000"
-            }
-        },
-        {
-            "deadline": "2025-06-18",
-            "title": "Audience-Engaged Journalism Grants",
-            "description": "Balkan Investigative Reporting Network (BIRN)",
-            "link": "https://gfmd.info/fundings/audience-engaged-journalism-grants-4/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to €8,000"
             }
         },
         {
@@ -639,6 +627,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "No Region",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Call for Proposals for 2021 Park Foundation’s Grant Program – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-2021-park-foundations-grant-program-united-states/",
@@ -663,30 +663,6 @@
         },
         {
             "deadline": "Invalid Date",
-            "title": "Drl Call for Proposals: Reducing Corruption in Angola",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "U.S. Mission to Moldova Opens Media Sustainability Competition",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/u-s-mission-to-moldova-opens-media-sustainability-competition/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
             "title": "Call for Proposals for Jfj 2021 Investigative Grant Programme",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/call-for-proposals-for-jfj-2021-investigative-grant-programme/",
@@ -702,6 +678,18 @@
             "title": "U.S. Mission to Moldova Seeking Applications for Media Literacy Programme",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/u-s-mission-to-moldova-seeking-applications-for-media-literacy-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "U.S. Mission to Moldova Opens Media Sustainability Competition",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/u-s-mission-to-moldova-opens-media-sustainability-competition/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
@@ -915,6 +903,18 @@
         },
         {
             "deadline": "Invalid Date",
+            "title": "National Geographic COVID-19 Emergency Fund for Journalists",
+            "description": "No Organisation",
+            "link": "https://gfmd.info/fundings/national-geographic-covid-19-emergency-fund-for-journalists/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
             "title": "Southern Movement Media Fund (round 2) – United States",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/southern-movement-media-fund-round-2-united-states/",
@@ -969,18 +969,6 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "National Geographic COVID-19 Emergency Fund for Journalists",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/national-geographic-covid-19-emergency-fund-for-journalists/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
