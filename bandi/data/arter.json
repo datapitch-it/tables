@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-22 06:52:31",
+    "scraping_timestamp": "2025-06-24 02:52:41",
     "data": [
-        {
-            "deadline": "2025-06-23",
-            "title": "Aperto il bando Premio TOP of the PID 2025",
-            "description": "Il premio selezionerà progetti innovativi che utilizzano l'Intelligenza Artificiale (IA) e le tecnologie 4.0",
-            "link": "https://first.art-er.it/news/premio-top-pid-2025-aperte-le-candidature",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "Fino a € 5.000"
-            }
-        },
-        {
-            "deadline": "2025-06-23",
-            "title": "VR Health Champions 2025: al via la selezione di PMI innovative nel settore sanitario XR",
-            "description": "Il bando finanzia soluzioni innovative per rivoluzionare la sanità con tecnologie immersive, dalla chirurgia in realtà aumentata alla terapia cognitiva in realtà virtuale",
-            "link": "https://first.art-er.it/news/vr-health-champions-2025-lancia-la-call-pmi",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 200.000"
-            }
-        },
         {
             "deadline": "2025-06-24",
             "title": "Horizon Europe: bando MSCA COFUND 2025",
