@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-24 02:52:41",
+    "scraping_timestamp": "2025-06-25 13:06:42",
     "data": [
-        {
-            "deadline": "2025-06-24",
-            "title": "Horizon Europe: bando MSCA COFUND 2025",
-            "description": "Il bando finanzia programmi di dottorato nuovi o esistenti e programmi di borse post-doc a livello nazionale, regionale o internazionale",
-            "link": "https://first.art-er.it/news/horizon-europe-bando-msca-cofund-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 101.820.000"
-            }
-        },
         {
             "deadline": "2025-06-27",
             "title": "Al via la 9° Call di StandICT.eu 2026, dedicata agli esperti della standardizzazione digitale",
@@ -1071,6 +1059,18 @@
         },
         {
             "deadline": "2025-09-23",
+            "title": "Mobilità urbana sostenibile: nuovo bando EIT per soluzioni innovative",
+            "description": "Il bando finanzia lo sviluppo di soluzioni ad alto impatto che affrontino le sfide più pressanti della mobilità urbana",
+            "link": "https://first.art-er.it/news/mobilita-urbana-eit-lancia-bando-soluzioni-green",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "€ 60.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-23",
             "title": "Programma LIFE: pubblicati i bandi 2025",
             "description": "I nuovi bandi sostengono progetti nei settori dell'ambiente e dell'azione per il clima, per un budget complessivo di oltre 578 milioni di euro",
             "link": "https://first.art-er.it/news/life-bandi-2025-0",
@@ -1420,7 +1420,7 @@
         {
             "deadline": "2025-11-12",
             "title": "Sicurezza civile per la società: pubblicato il bando ECCC 2025 di Horizon Europe",
-            "description": "Il bando HORIZON-CL3-2025-02-CS-ECCC è pubblicato nel Work Programme Sicurezza Civile per la Società 2025 di Horizon Europe e contiene 6 topic dedicati al European Cybersecurity Competence Center",
+            "description": "Il bando HORIZON-CL3-2025-02-CS-ECCC è pubblicato nel Work Programme Sicurezza Civile per la Società 2025 di Horizon Europe e contiene 6 topic dedicati all'European Cybersecurity Competence Center",
             "link": "https://first.art-er.it/news/horizon-europe-aperta-call-sicurezza-civile-eccc-2025",
             "custom": {
                 "Topics": "",
