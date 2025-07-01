@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-06-25 13:06:42",
+    "scraping_timestamp": "2025-06-27 19:25:59",
     "data": [
-        {
-            "deadline": "2025-06-27",
-            "title": "Al via la 9° Call di StandICT.eu 2026, dedicata agli esperti della standardizzazione digitale",
-            "description": "L'iniziativa mira a rafforzare le competenze di standardizzazione per quanto riguarda le norme tecniche ICT dell'ecosistema europeo",
-            "link": "https://first.art-er.it/news/nona-open-call-standicteu-la-standardizzazione-ict",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 325.000"
-            }
-        },
-        {
-            "deadline": "2025-06-27",
-            "title": "ECOSISTER: al via il bando per candidarsi a risolvere le sfide di 34 aziende dell'Emilia-Romagna",
-            "description": "Il programma vuole individuare solutori provenienti dalla ricerca e dal settore industriale per avviare progetti pilota e collaborazioni per la risoluzione di specifiche esigenze aziendali",
-            "link": "https://first.art-er.it/news/call-4-solvers-ioip-2025-innovatori-e-ricercatori",
-            "custom": {
-                "Topics": "PNRR - Bandi a cascata, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-06-27",
-            "title": "Expo Osaka 2025: lanciato il bando dedicato all’internazionalizzazione dell'Emilia-Romagna",
-            "description": "L’iniziativa rientra nell’ambito delle politiche regionali per l’internazionalizzazione delle imprese",
-            "link": "https://first.art-er.it/news/rer-al-il-bando-expo-osaka-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 80.000"
-            }
-        },
         {
             "deadline": "2025-06-30",
             "title": "Aperte le candidature per il Premio Sviluppo Sostenibile 2025",
@@ -447,6 +411,18 @@
         },
         {
             "deadline": "2025-07-31",
+            "title": "Aperta la call MSCA-FYM per una pubblicazione scientifica dedicata al pubblico giovane",
+            "description": "Il bando ha lo scopo di promuovere la divulgazione scientifica tra i più giovani attraverso contributi di ricercatori MSCA",
+            "link": "https://first.art-er.it/news/msca-call-raccontare-la-scienza-ai-ragazzi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-31",
             "title": "Aperto il bando ACCELERO per PMI e startup innovative in Puglia",
             "description": "Il bando offre alle imprese selezionate un percorso di coaching dedicato alla preparazione di una proposta competitiva per l’EIC Accelerator",
             "link": "https://first.art-er.it/news/aperto-il-bando-accelero-pmi-e-startup",
@@ -566,6 +542,18 @@
             }
         },
         {
+            "deadline": "2025-08-18",
+            "title": "Digitalizzazione dell’energia: aperto il bando TUS DigiWind per borse di studio europee",
+            "description": "L'obiettivo è fornire formazione nei settori della transizione energetica digitale, rafforzando le competenze avanzate dei ricercatori",
+            "link": "https://first.art-er.it/news/call-formazione-nella-digitalizzazione-dellenergia",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 144.000"
+            }
+        },
+        {
             "deadline": "2025-08-20",
             "title": "Pathways2Resilience: nuovo bando per azioni locali di adattamento climatico",
             "description": "La seconda call del progetto P2R finanzierà 61 regioni o comunità europee per sviluppare piani locali di adattamento climatico",
@@ -587,6 +575,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 335.000"
+            }
+        },
+        {
+            "deadline": "2025-08-24",
+            "title": "Al via due nuovi bandi per rafforzare il monitoraggio ambientale per i cambiamenti climatici e le foreste europee",
+            "description": "I bandi mirano a costruire una rete europea integrata di osservazione forestale, capace di unire dati ecologici sul campo e strumenti tecnologici di nuova generazione",
+            "link": "https://first.art-er.it/news/due-nuovi-bandi-su-cambiamenti-climatici-e-foreste",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 145.000 per G-03-2025€ 145.000 per G-04-2025"
             }
         },
         {
@@ -951,6 +951,18 @@
         },
         {
             "deadline": "2025-09-17",
+            "title": "Annunciata l'apertura del \"Bando Voucher Digitali - Anno 2025\"",
+            "description": "Contributi fino a 10.000 euro per progetti di digitalizzazione e transizione ecologica delle micro, piccole e medie imprese locali",
+            "link": "https://first.art-er.it/news/annunciato-il-bando-voucher-digitali-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 600.000"
+            }
+        },
+        {
+            "deadline": "2025-09-17",
             "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: pubblicato nuovo bando di Horizon Europe",
             "description": "La call HORIZON-CL6-2025-01 è pubblicata nel Work Programme Food, Bioeconomy, Natural Resources, Agriculture and Environment 2025 di Horizone Europe e include 32 topic",
             "link": "https://first.art-er.it/news/food-bioeconomy-natural-resources-agriculture-and-environment-pubblicato-nuovo-bando-di",
@@ -1063,7 +1075,7 @@
             "description": "Il bando finanzia lo sviluppo di soluzioni ad alto impatto che affrontino le sfide più pressanti della mobilità urbana",
             "link": "https://first.art-er.it/news/mobilita-urbana-eit-lancia-bando-soluzioni-green",
             "custom": {
-                "Topics": "Cascade funding",
+                "Topics": "Cascade funding, Città del futuro",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 60.000.000"
@@ -1151,6 +1163,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "139 milioni di euro"
+            }
+        },
+        {
+            "deadline": "2025-09-29",
+            "title": "Metrologia: al via la Fase 2 del bando 2025 per progetti di ricerca",
+            "description": "Il bando finanzierà progetti di ricerca all'avanguardia per soluzioni efficaci a sfide tecnologiche e sociali",
+            "link": "https://first.art-er.it/news/euramet-bando-ricerca-collaborativa-fase-2",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1247,6 +1271,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 634.000.000"
+            }
+        },
+        {
+            "deadline": "2025-10-02",
+            "title": "L’UE lancia un bando per promuovere l'Intelligenza Artificiale generativa in Africa",
+            "description": "Fino al 2 ottobre 2025, è possibile candidarsi al bando per finanziare soluzioni di IA generativa a supporto di agricoltura, sanità, infrastrutture e competenze digitali in Africa",
+            "link": "https://first.art-er.it/news/lue-lancia-un-bando-promuovere-lintelligenza-artificiale-generativa-africa",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 5.000.000"
             }
         },
         {
@@ -1355,6 +1391,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-10-16",
+            "title": "Comunicazione quantistica: tre nuovi bandi nell'ambito dell'iniziativa EuroQCI",
+            "description": "I tre bandi mirano a sviluppare e standardizzare le tecnologie quantistiche, fondamentali per l’autonomia e la sicurezza delle reti digitali europee",
+            "link": "https://first.art-er.it/news/euroqci-bandi-reti-quantistiche-sicure-e-integrate",
+            "custom": {
+                "Topics": "Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 36.000.000"
             }
         },
         {

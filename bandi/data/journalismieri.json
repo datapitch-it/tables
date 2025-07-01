@@ -1,6 +1,54 @@
 {
-    "scraping_timestamp": "2025-06-25 13:08:46",
+    "scraping_timestamp": "2025-06-27 19:27:49",
     "data": [
+        {
+            "deadline": "2025-07-15",
+            "title": "CEI SEEMO Award",
+            "description": "South East Europe Media Organisation (SEEMO)",
+            "link": "https://gfmd.info/fundings/cei-seemo-award/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to €4,000"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Mercantil Journalism Award 2025",
+            "description": "Mercantil Bank",
+            "link": "https://gfmd.info/fundings/mercantil-journalism-award-2025/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Latin America and the Caribbean",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "R$80,000.00"
+            }
+        },
+        {
+            "deadline": "2025-07-06",
+            "title": "Helen Darbishire Fund for Civil Society 2025–27",
+            "description": "The Open Government Partnership",
+            "link": "https://gfmd.info/fundings/helen-darbishire-fund-for-civil-society-2025-27/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-10",
+            "title": "Travel and Reporting Grants for Visegrad Journalists",
+            "description": "Balkan Investigative Reporting Network (BIRN)",
+            "link": "https://gfmd.info/fundings/travel-and-reporting-grants-for-visegrad-journalists/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€2,500 grant"
+            }
+        },
         {
             "deadline": "2025-08-04",
             "title": "Journalism Science Alliance Grants",
@@ -294,18 +342,6 @@
             "title": "Drl Call for Proposals: Reducing Corruption in Angola",
             "description": "No Organisation",
             "link": "https://gfmd.info/fundings/drl-call-for-proposals-reducing-corruption-in-angola/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-06-20",
-            "title": "Call for Proposal for Ocean Story Grants 2021",
-            "description": "No Organisation",
-            "link": "https://gfmd.info/fundings/call-for-proposal-for-ocean-story-grants-2021/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "No Region",
