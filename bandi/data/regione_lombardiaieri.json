@@ -1,6 +1,42 @@
 {
-    "scraping_timestamp": "2025-06-27 19:28:06",
+    "scraping_timestamp": "2025-07-01 08:32:11",
     "data": [
+        {
+            "deadline": "2026-06-30 15:00",
+            "title": "Rafforza&Innova",
+            "description": "Il Bando promuove  progetti di trasferimento di tecnologie e soluzioni innovative che prevedono la collaborazione tra PMI e Organismi di Ricerca (OdR), in qualità di fornitori di servizi avanzati alle imprese in risposta ai loro fabbisogni di ricerca e innovazione (R&I).",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/rafforza-innova-RLF12025044783",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-08-29 12:00",
+            "title": "Rinaturalizzazione suoli degradati o in via di degrado",
+            "description": "Contributi agli Enti locali per la realizzazione di interventi di rinaturalizzazione dei suoli degradati o in via di degrado, in ambito urbano e periurbano, in attuazione al DM Ambiente n. 2 del 2 gennaio 2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/promozione-territorio/rinaturalizzazione-suoli-degradati-via-degrado-RLZ12025045543",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-31 17:00",
+            "title": "INTERVENTI PER L’INCLUSIONE ATTIVA DELLE PERSONE DI MAGGIORE E MINORE ETA' SOTTOPOSTE A PROVVEDIMENTI DELL’AUTORITÀ GIUDIZIARIA E LORO FAMIGLIE – 2025/2028",
+            "description": "AVVISO PUBBLICO \"PIANI TERRITORIALI INTEGRATI PER L’INCLUSIONE SOCIALE DELLE PERSONE DI MAGGIORE E MINORE ETÀ SOTTOPOSTE A PROVVEDIMENTI DELL’AUTORITÀ GIUDIZIARIA AI SENSI DELL’ART. 2 DELLA LEGGE REGIONALE N. 25 DEL 24 NOVEMBRE 2017\" A VALERE SUL PR FSE+ 2021-2027 (PRIORITA' 3 INCLUSIONE SOCIALE ESO 4.8 AZIONE H.1)",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/interventi-l-inclusione-attiva-persone-maggiore-monore-eta-sottoposte-provvedimenti-autorit-giudiziaria-loro-famiglie-2025-2028-RLD12025046484",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-07-15 16:00",
             "title": "Criteri per definizione e determinazione Servizi  Ambientali erogati dai Consorzi Forestali - anno 2025",
@@ -206,18 +242,6 @@
             }
         },
         {
-            "deadline": "2025-06-30 16:00",
-            "title": "Relazione annuale 2025 delle Comunità Montane (riferita all'annualità 2024)",
-            "description": "Procedura informatizzata per l’accesso e il caricamento della Relazione annuale delle Comunità Montane, da presentare entro il 30 giugno di ogni anno (con riferimento all’annualità precedente).",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/finanza-locale/relazione-annuale-2025-comunit-montane-riferita-annualit-2024-RLV12025046943",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "N/A",
             "title": "Enti Erogatori a.s. 2025 - 2026 Inclusione scolastica per studenti con disabilità sensoriale",
             "description": "N/A",
@@ -302,18 +326,6 @@
             }
         },
         {
-            "deadline": "2025-06-30 17:00",
-            "title": "Avviso Pubblico per l'approvazione dell'offerta formativa di Istruzione Tecnica Superiore (ITS) da avviare nell'a.f. 2025/26",
-            "description": "Il presente Avviso descrive le indicazioni per l’approvazione dell’offerta formativa ITS delle Fondazioni ITS Academy attive sul territorio regionale lombardo per l’anno formativo 2025/2026. I percorsi approvati potranno essere visualizzati sul sito www.its.regione.lombardia.it",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/avviso-pubblico-l-approvazione-offerta-formativa-istruzione-tecnica-superiore-its-avviare-f-2025-26-RLW12025044204",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-09-30 16:00",
             "title": "PSN/PAC 2023-2027 “ACA16 - Conservazione agro biodiversità - banche del germoplasma” - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRA16. Dotazione finanziaria di € 2.000.000,00. Domande dal 30 maggio al 30 settembre 2025. Possono partecipare: soggetti pubblici e/o privati che operano nel campo della ricerca di comprovata esperienza nelle azioni da finanziare; fondazioni pubbliche e private e altri enti pubblici di comprovata capacità nel settore della conservazione della biodiversità agraria.\nTali soggetti possono presentare domanda singolarmente o in aggregazione da costituirsi, in caso di finanziamento della domanda, nella forma giuridica dell’Associazione Temporanea di Scopo (ATS).",
@@ -330,18 +342,6 @@
             "title": "Percorsi IeFP in apprendistato, erogati dagli enti di formazione accreditati sezione A dell'Albo regionale – Anno Formativo 2024/2025 (Risorse PNRR)",
             "description": "Avviso pubblico per la realizzazione dei percorsi di apprendistato di primo livello, finalizzati all'acquisizione di qualifica e diploma d'Istruzione e Formazione Professionale, a valere sulle risorse del PNRR (Missione 5 “Inclusione e coesione”, Componente 1 “Politiche per il Lavoro”, Investimento 1.4 “Sistema Duale”, finanziato dall’Unione europea – Next Generation EU).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-iefp-apprendistato-erogati-enti-formazione-accreditati-sezione-albo-regionale-anno-formativo-2024-2025-risorse-pnrr-RLW12024039629",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-06-30 16:00",
-            "title": "MANIFESTAZIONE DI INTERESSE PER LA SPONSORIZZAZIONE DEL 6° FORUM REGIONALE PER LO SVILUPPO SOSTENIBILE: TRANSIZIONE CLIMATICA",
-            "description": "La manifestazione di interesse è finalizzata alla presentazione di proposte di sponsorizzazione per il Sesto Forum Regionale per lo Sviluppo Sostenibile. L’evento sarà l'occasione per lanciare azioni e innovazioni esemplari, confrontarsi e condividere una visione comune di futuro nonché idee utili per l’attuazione delle policy regionali per accelerare la transizione verso la sostenibilità.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/manifestazione-d-interesse-sponsorizzazione-6-forum-regionale-sviluppo-sostenibile-transizione-climatica-RLT12025046543",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -594,18 +594,6 @@
             "title": "PSN/PAC 2023-2027 “Agricoltura biologica” - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO TRLOM-11.1-11.2. Dotazione finanziaria di € 375.000,00. Domande dal 21 marzo al 15 luglio 2025 (dopo ulteriore proroga). Possono partecipare: gli imprenditori agricoli che risultano essere “agricoltore in attività” (art. 4 DM 23/12/2022), iscritti all’elenco nazionale operatori biologici.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-agricoltura-biologica-sviluppo-rurale-bando-2025-RLM12025045143",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-06-30 17:00",
-            "title": "Azione di sostegno e contrasto alla povertà (azione L.1)",
-            "description": "Misura rivolta ad ALER e Comuni individuati con il bando RLH12024036924 \"FINANZIAMENTO DI MODELLI DI SERVIZI TERRITORIALI INTEGRATI PER L’ATTIVAZIONE SOCIALE E IL POTENZIAMENTO DI SERVIZI DI ACCOMPAGNAMENTO ALL’ABITARE DI PERSONE IN CONDIZIONI DI VULNERABILITÀ - Decreto 14325 del 27-09-2024\" \n\nlinea 2 – Azione di sostegno e contrasto alla povertà (azione L.1) finalizzata all’erogazione di un contributo di solidarietà volto a sostenere gli inquilini in\ndifficoltà socioeconomica, anche a causa dell’aumento dei costi energetici.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/percorsi-accompagnamento-inquilini-servizi-abitativi-pubblici-emergenza-energetica-azione-sostegno-contrasto-povert-RLH12023036203",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -894,6 +882,18 @@
             "title": "Avviso pubblico per soggetti abilitati alla vendita di veicoli a basso impatto ambientale",
             "description": "Avviso pubblico per l’individuazione dei soggetti abilitati alla vendita di veicoli a basso impatto ambientale incentivati nell’ambito delle misure regionali da attuarsi nel triennio 2025/2026/2027",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/trasporti-infrastrutture/mobilita-trasporti-sostenibili/avviso-pubblico-soggetti-abilitati-vendita-veicoli-basso-impatto-ambientale-RLT12024043424",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-25 17:00",
+            "title": "Interventi per il sostegno di allievi con disabilità frequentanti i percorsi triennali/quadriennali/di quarto anno (IeFP) - a.f. 2024/2025",
+            "description": "Dalle ore 12.00 del 30 giugno 2025 alle ore 17.00 del 25 settembre 2025 è possibile effettuare le rendicontazioni delle doti ed inviare le relative Richieste di Liquidazione.\n\nCon Decreto n. 10264 del 5 luglio 2024, e s.m.i., è stato approvato l’Avviso per la realizzazione dell’offerta formativa dei Percorsi di istruzione e formazione professionale (IeFP) - anno formativo 2024/2025. L'obiettivo dell'Avviso è quello di promuovere l’apprendimento per tutti e l’accessibilità alle persone con disabilità.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/interventi-sostegno-allievi-disabilit-frequentanti-percorsi-triennali-quadriennali-quarto-anno-iefp-f-2024-2025-RLW12024040845",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1226,9 +1226,9 @@
             }
         },
         {
-            "deadline": "2026-04-10 17:00",
+            "deadline": "2026-09-25 17:00",
             "title": "Percorsi di Istruzione e Formazione Professionale (IeFP) finanziati a valere sul Budget Duale IeFP – a.f. 2024/2025",
-            "description": "Con Decreto n. 10264 del 5 luglio 2024 è stato approvato l’Avviso pubblico per la realizzazione dell’offerta formativa dei Percorsi di Istruzione e Formazione Professionale (IeFP) - anno formativo 2024/2025, in attuazione della Delibera di programmazione n. 2419/2024.",
+            "description": "Dalle ore 12.00 del 30 giugno 2025 alle ore 17.00 del 25 settembre 2025 è possibile effettuare le rendicontazioni delle doti ed inviare le relative Richieste di Liquidazione.\n\nCon Decreto n. 10264 del 5 luglio 2024 è stato approvato l’Avviso pubblico per la realizzazione dell’offerta formativa dei Percorsi di Istruzione e Formazione Professionale (IeFP) - anno formativo 2024/2025, in attuazione della Delibera di programmazione n. 2419/2024.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/percorsi-istruzione-e-formazione-professionale-iefp-finanziati-valere-budget-duale-iefp-f-2024-2025-RLE12024039823",
             "custom": {
                 "Topics": "N/A",
@@ -2583,9 +2583,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "INTERVENTI PER L’INCLUSIONE ATTIVA DELLE PERSONE DI MAGGIORE E MINORE ETA' SOTTOPOSTE A PROVVEDIMENTI DELL’AUTORITÀ GIUDIZIARIA E LORO FAMIGLIE – 2025/2028",
-            "description": "AVVISO PUBBLICO \"PIANI TERRITORIALI INTEGRATI PER L’INCLUSIONE SOCIALE DELLE PERSONE DI MAGGIORE E MINORE ETÀ SOTTOPOSTE A PROVVEDIMENTI DELL’AUTORITÀ GIUDIZIARIA AI SENSI DELL’ART. 2 DELLA LEGGE REGIONALE N. 25 DEL 24 NOVEMBRE 2017\" A VALERE SUL PR FSE+ 2021-2027 (PRIORITA' 3 INCLUSIONE SOCIALE ESO 4.8 AZIONE H.1)",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/interventi-l-inclusione-attiva-persone-maggiore-monore-eta-sottoposte-provvedimenti-autorit-giudiziaria-loro-famiglie-2025-2028-RLD12025046484",
+            "title": "Interventi di ripristino attivo nei Siti Natura 2000",
+            "description": "Finanziamenti in conto capitale a fondo perduto per la realizzazione di interventi di ripristino attivo di habitat e habitat di specie nelle ZSC e nei SIC",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/interventi-ripristino-attivo-siti-natura-2000-RLZ12025047003",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2595,9 +2595,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Rinaturalizzazione suoli degradati o in via di degrado",
-            "description": "Contributi agli Enti locali per la realizzazione di interventi di rinaturalizzazione dei suoli degradati o in via di degrado, in ambito urbano e periurbano, in attuazione al DM Ambiente n. 2 del 2 gennaio 2025.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/promozione-territorio/rinaturalizzazione-suoli-degradati-via-degrado-RLZ12025045543",
+            "title": "Screening per il tumore al polmone",
+            "description": "Regione Lombardia, con DGR n. XII/3697 del 20/12/2024, ha stabilito di avviare un programma pilota per valutare l’efficacia dello screening per il tumore al polmone, in linea con il Piano Oncologico Nazionale 2023-2027. L'obiettivo della presente manifestazione di interesse è creare una rete regionale, garantendo accesso e qualità. Le strutture aderenti dovranno rispettare standard definiti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/salute-benessere/promozione-salute/screening-tumore-polmone-RLG12025046703",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2607,9 +2607,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Rafforza&Innova",
-            "description": "Il Bando promuove  progetti di trasferimento di tecnologie e soluzioni innovative che prevedono la collaborazione tra PMI e Organismi di Ricerca (OdR), in qualità di fornitori di servizi avanzati alle imprese in risposta ai loro fabbisogni di ricerca e innovazione (R&I).",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/rafforza-innova-RLF12025044783",
+            "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
+            "description": "Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

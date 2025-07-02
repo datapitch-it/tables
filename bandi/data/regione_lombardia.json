@@ -1,6 +1,42 @@
 {
-    "scraping_timestamp": "2025-07-01 08:32:11",
+    "scraping_timestamp": "2025-07-02 05:17:14",
     "data": [
+        {
+            "deadline": "2025-07-31 12:00",
+            "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
+            "description": "Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-22 16:00",
+            "title": "Screening per il tumore al polmone",
+            "description": "Regione Lombardia, con DGR n. XII/3697 del 20/12/2024, ha stabilito di avviare un programma pilota per valutare l’efficacia dello screening per il tumore al polmone, in linea con il Piano Oncologico Nazionale 2023-2027. L'obiettivo della presente manifestazione di interesse è creare una rete regionale, garantendo accesso e qualità. Le strutture aderenti dovranno rispettare standard definiti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/salute-benessere/promozione-salute/screening-tumore-polmone-RLG12025046703",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-08-07 17:00",
+            "title": "Interventi di ripristino attivo nei Siti Natura 2000",
+            "description": "Finanziamenti in conto capitale a fondo perduto per la realizzazione di interventi di ripristino attivo di habitat e habitat di specie nelle ZSC e nei SIC",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/interventi-ripristino-attivo-siti-natura-2000-RLZ12025047003",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2026-06-30 15:00",
             "title": "Rafforza&Innova",
@@ -422,18 +458,6 @@
             }
         },
         {
-            "deadline": "2025-07-01 16:00",
-            "title": "PSN/PAC 2023-2027 “Impianti forestazione/imboschimento e sistemi agroforestali su terreni agricoli” - Sviluppo Rurale/bando 2025",
-            "description": "INTERVENTO SRD05.2) impianti di arboricoltura a ciclo breve o medio-lungo su superfici agricole. Dotazione finanziaria di € 1.400.000,00. Domande dal 7 maggio al 1° luglio 2025. Possono partecipare: proprietari/possessori privati e loro associazioni, nonché altri soggetti ed enti di diritto privato e loro associazioni, titolari della conduzione di superfici agricole.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-impianti-forestazione-imboschimento-sistemi-agroforestali-terreni-agricoli-sviluppo-rurale-bando-2025-RLM12025045423",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-12-31 11:00",
             "title": "CONTRIBUTI PER LA PARTECIPAZIONE DELLE MPMI A FIERE INTERNAZIONALI IN FORMA AGGREGATA",
             "description": "La Misura prevede agevolazioni sotto forma di contributi a fondo perduto per le MPMI, con sede operativa attiva in Lombardia al momento dell’erogazione del contributo, che intendono sviluppare e consolidare la propria posizione sul mercato internazionale tramite la partecipazione in forma aggregata alle manifestazioni fieristiche di livello internazionale indicate all’art. B.2.a del bando",
@@ -686,10 +710,34 @@
             }
         },
         {
+            "deadline": "N/A",
+            "title": "Rete IA SIREG Rendicontazione AUDIT",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/rete-ia-sireg-rendicontazione-audit-relativi-follow-up-RLA12024043484",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-12-31 12:00",
             "title": "Rete IA SIREG Piani annuali di AUDIT",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/rete-ia-sireg-piani-annuali-audit-RLA12024043483",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Rete IA SIREG Rendicontazione Follow UP",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/archivio-follow-up-RLA12024043485",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2583,45 +2631,21 @@
         },
         {
             "deadline": "N/A",
-            "title": "Interventi di ripristino attivo nei Siti Natura 2000",
-            "description": "Finanziamenti in conto capitale a fondo perduto per la realizzazione di interventi di ripristino attivo di habitat e habitat di specie nelle ZSC e nei SIC",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/interventi-ripristino-attivo-siti-natura-2000-RLZ12025047003",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Screening per il tumore al polmone",
-            "description": "Regione Lombardia, con DGR n. XII/3697 del 20/12/2024, ha stabilito di avviare un programma pilota per valutare l’efficacia dello screening per il tumore al polmone, in linea con il Piano Oncologico Nazionale 2023-2027. L'obiettivo della presente manifestazione di interesse è creare una rete regionale, garantendo accesso e qualità. Le strutture aderenti dovranno rispettare standard definiti.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/salute-benessere/promozione-salute/screening-tumore-polmone-RLG12025046703",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
-            "description": "Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Fondo per la capitalizzazione delle cooperative lombarde - Sportello 2025",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/fondo-capitalizzazione-cooperative-lombarde-sportello-2025-RLO12025046643",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° ottobre 2025 - 31 marzo 2026",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-ottobre-2025-31-marzo-2026-RLAV2025047123",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2694,6 +2718,18 @@
             "title": "PSN/PAC 2023-2027 “Investimenti produttivi forestali - Ammodernamenti e miglioramenti\" - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRD15 - Azione SRD15.2. Dotazione finanziaria di € 4.000.000,00. Domande dal 12 settembre al 27 novembre 2025. Possono partecipare: PMI iscritte nel registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580 della Camera di \ncommercio territorialmente competente, che esercitano un’attività economica nel settore della selvicoltura e delle utilizzazioni forestali, nella gestione, difesa e tutela del territorio, nonché nel settore della prima trasformazione e commercializzazione (non industriale) dei prodotti legnosi del bosco.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-produttivi-forestali-ammodernamenti-miglioramenti-sviluppo-rurale-bando-2025-RLM12025047383",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Modulo Duale-GOL per l’AF 2025/2026: finanziamento dei percorsi di terza e quarta annualità e di IV Anno del sistema regionale IeFP",
+            "description": "L’Avviso Modulo Duale – GOL, approvato con Decreto n. 8833 del 20 giugno 2025, è destinato alla realizzazione dei percorsi di Istruzione e Formazione Professionale per gli alunni di terza e quarta annualità e  di IV anno – anno formativo 2025/2026.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/avviso-pubblico-realizzazione-offerta-formativa-percorsi-terza-quarta-annualit-id-iv-anno-sistema-regionale-istruzione-formazione-professionale-iefp-f-2025-2026-RLW12025046503",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
