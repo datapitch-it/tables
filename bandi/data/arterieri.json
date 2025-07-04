@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-07-01 08:29:50",
+    "scraping_timestamp": "2025-07-02 05:15:12",
     "data": [
-        {
-            "deadline": "2025-07-01",
-            "title": "INNO4CFIs: al via il programma di accelerazione per PMI e startup greentech",
-            "description": "ll bando del programma di ambito green tech è rivolto alle imprese di Lazio, Lombardia e Toscana e accetta candidature entro il 1° luglio 2025",
-            "link": "https://first.art-er.it/news/inno4cfis-acceleratore-innovare-il-carbon-farming",
-            "custom": {
-                "Topics": "Transizione sostenibile",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-01",
-            "title": "Al via le Candidature per il \"Battery Young Researcher Award\"",
-            "description": "Le candidature sono aperte fino al 1° luglio 2025 e i vincitori avranno l'opportunità di presentare la loro ricerca durante i Battery Innovation Days",
-            "link": "https://first.art-er.it/news/battery-young-researcher-award-aperte-le-candidature",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.000"
-            }
-        },
-        {
-            "deadline": "2025-07-01",
-            "title": "eu-LISA apre le candidature per il programma di tirocinio “Women in IT”",
-            "description": "Il termine ultimo per partecipare è fissato al 1° luglio 2025 e l'obiettivo è promuovere la partecipazione femminile nel campo delle tecnologie dell’informazione",
-            "link": "https://first.art-er.it/news/eu-lisa-aperte-le-candidature-di-women-it",
-            "custom": {
-                "Topics": "Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-07-04",
             "title": "Materie prime critiche: lanciato il bando PNRR per progetti di ricerca e sviluppo",

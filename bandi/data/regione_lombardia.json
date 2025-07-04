@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-07-02 05:17:14",
+    "scraping_timestamp": "2025-07-04 08:47:41",
     "data": [
+        {
+            "deadline": "N/A",
+            "title": "Fondo per la capitalizzazione delle cooperative lombarde - Sportello 2025",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/fondo-capitalizzazione-cooperative-lombarde-sportello-2025-RLO12025046643",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-07-31 12:00",
             "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
@@ -99,9 +111,9 @@
         },
         {
             "deadline": "2025-08-06 17:00",
-            "title": "Giovani SMART Terza edizione",
-            "description": "Il bando è finalizzato a sviluppare interventi integrati che possano rispondano in modo efficace alle esigenze ed ai bisogni dei giovani, sostenendo azioni ed iniziative per la socializzazione e l'aggregazione, per il contrasto al disagio giovanile ed il supporto alla fragilità, per la valorizzazione del talento giovanile.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/giovani-smart-terza-edizione-RLAN2025047363",
+            "title": "Giovani SMART - Supportiamo il potenziale giovanile",
+            "description": "Il bando è finalizzato a sviluppare interventi integrati che possano rispondere in modo efficace alle esigenze ed ai bisogni dei giovani, sostenendo azioni ed iniziative per la socializzazione e l'aggregazione, per il contrasto al disagio giovanile ed il supporto alla fragilità, per la valorizzazione del talento giovanile.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/giovani-smart-supportiamo-potenziale-giovanile-RLAN2025047363",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -138,18 +150,6 @@
             "title": "Percorsi di Istruzione e Formazione Professionale (IeFP ) III anno - anno formativo 2024/2025 - PR FSE+ 2021-2027",
             "description": "Con Decreto n. 10264 del 5 luglio 2024, e s.m.i., è stato approvato l’Avviso per la realizzazione dell’offerta formativa dei Percorsi di istruzione e formazione professionale (IeFP – III anni) - anno formativo 2024/2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/percorsi-istruzione-formazione-professionale-iefp-iii-anno-anno-formativo-2024-2025-pr-fse-2021-2027-RLW12024040843",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-03 12:00",
-            "title": "Concessione per asportazione di materiale litoide derivante dall'evento alluvionale del 28/07/2022 delle aree di deposito demaniale nel territorio comunale di Losine (BS) - N. 1 ambito (LOTTO A) - V Procedura a trattativa con canone ridotto",
-            "description": "Assegnazione della concessione per asportazione di materiale litoide derivate dall'evento alluvionale del 28/07/2022 dalle aree di deposito demaniale, localizzate in Comune di Losine (BS) - Lotto A, mediante II procedura ad evidenza pubblica con trattativa mediante negoziazione, con canone ridotto.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/difesa-suolo/concessione-asportazione-materiale-litoide-derivante-evento-alluvionale-28-07-2022-aree-deposito-demaniale-territorio-comunale-losine-bs-n-1-ambito-lotto-v-procedura-trattativa-canone-ridotto-RLV12025047284",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1670,6 +1670,18 @@
             }
         },
         {
+            "deadline": "2026-10-30 23:59",
+            "title": "Valorizzazione componente manageriale del capitale umano",
+            "description": "Avviso pubblico a valere sul Programma Regionale Lombardia FSE+ 2021-2027, per la valorizzazione delle competenze manageriali di lavoratrici e lavoratori fuoriusciti dal mercato del lavoro o coinvolti nei processi di reinserimento del lavoro.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/valorizzazione-componente-manageriale-capitale-umano-RLW12023031908",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "N/A",
             "title": "Servizi di dosimetria del gas radon",
             "description": "MANIFESTAZIONE DI INTERESSE per l’iscrizione nell’Elenco Regionale dei soggetti che svolgono attività di servizio di dosimetria del gas radon istituito nelle more del riconoscimento di idoneità di cui all’ art. 155 comma 3 del D.Lgs.n.101/2020 e s.m.i..",
@@ -2631,18 +2643,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Fondo per la capitalizzazione delle cooperative lombarde - Sportello 2025",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/fondo-capitalizzazione-cooperative-lombarde-sportello-2025-RLO12025046643",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° ottobre 2025 - 31 marzo 2026",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-ottobre-2025-31-marzo-2026-RLAV2025047123",
@@ -2655,8 +2655,20 @@
         },
         {
             "deadline": "N/A",
-            "title": "Avviso per il finanziamento di percorsi di formazione mirata all’ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS)",
-            "description": "L'iniziativa, rivolta a disoccupati, prevede il finanziamento di percorsi formativi abilitanti e regolamentati per l'ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS).",
+            "title": "Sostegno a manifestazioni sportive sul territorio lombardo periodo 1° ottobre 2025 – 30 giugno 2026",
+            "description": "Presentazione domande manifestazioni  realizzate nel 1° trimestre  (1° ottobre 2025 - 31 dicembre 2025)  dalle ore 10:00 del 09/07/2025 alle ore 16:00 del 30/07/2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-manifestazioni-sportive-territorio-lombardo-periodo-1-ottobre-2025-30-giugno-2026-RLAV2025047263",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Finanziamento di percorsi di formazione mirata all’ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS)",
+            "description": "L' iniziativa, rivolta a disoccupati, prevede il finanziamento di percorsi formativi, abilitanti e regolamentati, per l'ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-formazione-abilitanti-regolamentati-l-ottenimento-qualifiche-ausiliario-socio-assistenziale-asa-operatore-socio-sanitario-oss-RLW12025044883",
             "custom": {
                 "Topics": "N/A",
@@ -2670,6 +2682,18 @@
             "title": "PSN/PAC 2023-2027 \"Sostegno ad azioni pilota e di collaudo dell'innovazione\" - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRG08. Dotazione finanziaria di € 6.000.000,00. Domande dal 15 luglio al 17 novembre 2025. Possono partecipare: imprese in forma singola e/o associata del settore agricolo e della filiera agroalimentare con sede operativa in Lombardia; associazioni di produttori agricoli o agroindustriali con sede operativa in Lombardia; organizzazioni interprofessionali di imprese agricole/agroindustriali riconosciute con sede operativa in Lombardia; enti di ricerca pubblici e privati e imprese operanti nel settore della ricerca; soggetti erogatori di consulenza; Consorzi di tutela dei prodotti di qualità con sede operativa in \nLombardia; Distretti del Cibo (distretti rurali, i distretti agroalimentari di qualità e i distretti di filiera) e i Distretti Biologici con sede operativa in Lombardia; Imprese operanti nel settore di servizi e mezzi tecnici, inclusa la digitalizzazione per il settore agricolo.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-sostegno-ad-azioni-pilota-collaudo-innovazione-sviluppo-rurale-bando-2025-RLM12025046963",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "MANIFESTAZIONE DI INTERESSE PER LA PRESENTAZIONE DI CANDIDATURE DI GIOVANI ARTISTI LOMBARDI NEL SETTORE MUSICALE",
+            "description": "Un'opportunità rivolta a giovani interpreti, autori di testi e compositori tra i 18 e 36 anni, residenti in Lombardia,  per intraprendere un percorso di perfezionamento musicale presso il Centro Europeo di Toscolano (C.E.T.), fondato e diretto dal maestro Mogol",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/manifestazione-interesse-presentazione-candidature-giovani-artisti-lombardi-settore-musicale-RLL12025047643",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2706,6 +2730,18 @@
             "title": "Misure a sostegno per allevamenti zootecnici in area montane",
             "description": "Per interventi di costruzione, ristrutturazione, ammodernamento, recupero e manutenzione straordinaria impianti e servizi e forniture – anno 2025. Dotazione finanziaria: pari a 800.000,00 euro sull’esercizio finanziario 2025 e 1.200.000,00 euro sull’esercizio finanziario 2026. Domande dal 18 agosto al 12 settembre 2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/misure-sostegno-allevamenti-zootecnici-area-montane-RLM12025047163",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Ri.circo.lo. C&D - Risorse circolari in Lombardia per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare. Edizione dedicata alle filiere della costruzione e demolizione e delle bonifiche di siti contaminati",
+            "description": "La misura è relativa ad azioni di simbiosi industriale, prevenzione della produzione rifiuti, riciclaggio e valorizzazione dei materiali nelle filiere della costruzione e demolizione e delle bonifiche di siti contaminati.\n\nI rifiuti da costruzione e demolizione, compresi i terreni provenienti da siti contaminati, sono quantitativamente molto rilevanti, rappresentando circa il 40% della produzione totale di rifiuti speciali in tutti i contesti.\nI rifiuti prodotti dalle operazioni di bonifica dei terreni (in particolare il codice EER 191302) sono tra i principali rifiuti che vengono conferiti nelle discariche per rifiuti inerti.\n\nPer le filiere della produzione di materiali per l’edilizia e del recupero dei rifiuti da costruzione e demolizione vi è necessità di ottenere materiali riciclati di qualità da valorizzare per un loro più ampio utilizzo in sostituzione di materiale vergine. Il bando riguarda tutte le tipologie di prodotti e materiali di tali filiere, non solo i c.d. “rifiuti inerti”.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/ri-circo-c-d-risorse-circolari-lombardia-sostegno-pmi-lombarde-sviluppo-azioni-economia-circolare-edizione-dedicata-filiere-costruzione-demolizione-bonifiche-siti-contaminati-RLT12025047563",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
