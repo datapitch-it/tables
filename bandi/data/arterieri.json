@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-07-02 05:15:12",
+    "scraping_timestamp": "2025-07-04 08:45:34",
     "data": [
         {
             "deadline": "2025-07-04",
@@ -107,6 +107,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 8.000.000"
+            }
+        },
+        {
+            "deadline": "2025-07-10",
+            "title": "Sviluppo urbano: IURC apre le candidature a città e regioni UE",
+            "description": "Il programma sostiene la cooperazione tra città e regioni dell'UE e dell'Asia, Australia, America Latina e Caraibi",
+            "link": "https://first.art-er.it/news/citta-e-regioni-ue-verso-nuove-alleanze-globali-iurc",
+            "custom": {
+                "Topics": "Cooperazione internazionale",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -249,6 +261,18 @@
             "custom": {
                 "Topics": "",
                 "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-28",
+            "title": "Virtual Human Twins: parte il bando per il Project Support Office",
+            "description": "La Commissione Europea cerca partner per gestire la piattaforma avanzata dedicata agli avatar digitali in sanità",
+            "link": "https://first.art-er.it/news/virtual-human-twins-bando-il-pso",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
             }
@@ -495,6 +519,18 @@
         },
         {
             "deadline": "2025-09-02",
+            "title": "TASTE: sostegno all’innovazione sostenibile nel turismo alimentare",
+            "description": "Un bando europeo da 750.000 euro per PMI del turismo nei settori sostenibilità, digitale e resilienza",
+            "link": "https://first.art-er.it/news/taste-bando-progetti-su-turismo-alimentare",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 750.000"
+            }
+        },
+        {
+            "deadline": "2025-09-02",
             "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 02-2025 (WP 2025) di Horizon Europe",
             "description": "La call HORIZON-CL5-2025-02 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 18 topic",
             "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-0",
@@ -635,6 +671,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 300.000"
+            }
+        },
+        {
+            "deadline": "2025-09-10",
+            "title": "Mobilità urbana sostenibile: aperto il bando RIS Education per il triennio 2026–2028",
+            "description": "Il bando sostiene iniziative educative e formative incentrate su innovazione, imprenditorialità e mobilità urbana",
+            "link": "https://first.art-er.it/news/bando-eit-formare-competenze-nella-mobilita-urbana",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.250.000"
+            }
+        },
+        {
+            "deadline": "2025-09-10",
+            "title": "EIT Urban Mobility: al via la Call Master School e I&E Fellowship 2026 per progetti educativi innovativi",
+            "description": "La Call punta a colmare il divario di competenze nell'ambito della mobilità urbana attraverso lo sviluppo di un'offerta formativa avanzata di alta qualità",
+            "link": "https://first.art-er.it/news/eit-urban-mobility-aperta-call-2026-leducazione",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.220.000"
             }
         },
         {
@@ -1214,6 +1274,18 @@
             }
         },
         {
+            "deadline": "2025-10-09",
+            "title": "ESA: in apertura un nuovo bando sulle tecnologie spaziali per il monitoraggio dei materiali pericolosi",
+            "description": "ESA stanzia fino a 75.000 euro per progetti innovativi che usano dati satellitari nel monitoraggio dei materiali pericolosi",
+            "link": "https://first.art-er.it/news/esa-finanzia-soluzioni-hi-tech-sicurezza-ambientale-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-10-10",
             "title": "ESA: aperto il bando per soluzioni satellitari per la sostenibilità di eventi sportivi e di massa",
             "description": "Il bando mira a promuovere l'adozione di tecnologie satellitari innovative per migliorare la sostenibilità di eventi sportivi e di massa",
@@ -1247,6 +1319,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-10-16",
+            "title": "CEF Digital: 20 milioni per piattaforme digitali operative nei settori energia e trasporti",
+            "description": "Il bando sostiene progetti che realizzino infrastrutture digitali transfrontaliere sicure, resilienti e basate sull’intelligenza artificiale",
+            "link": "https://first.art-er.it/news/bando-cef-su-operational-digital-platforms",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
             }
         },
         {
@@ -1715,6 +1799,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "161 milioni di euro"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "DUT Call 2025: dal 1° settembre il bando europeo per progetti di ricerca e innovazione sulla transizione urbana sostenibile",
+            "description": "L’obiettivo è accelerare la trasformazione delle aree urbane in spazi climaticamente neutri, inclusivi e intelligenti",
+            "link": "https://first.art-er.it/news/dut-call-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
             }
         },
         {

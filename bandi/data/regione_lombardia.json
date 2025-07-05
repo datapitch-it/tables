@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-07-04 08:47:41",
+    "scraping_timestamp": "2025-07-05 11:56:40",
     "data": [
         {
             "deadline": "N/A",
@@ -126,18 +126,6 @@
             "title": "OCM Vino - Promozione del vino sui mercati dei Paesi terzi - campagna 2025/2026",
             "description": "Avviso per la presentazione dei progetti campagna 2025/2026. Modalità operative e procedurali per l’attuazione della misura promozione del vino sui mercati dei paesi terzi. Domande a partire dal giorno della pubblicazione sul BURL (prevista per il 25 giugno 2025) e sino alle ore 12.00 di lunedì 21 luglio 2025. Quota regionale per i contributi ai progetti pari a € 2.502.744,41.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/ocm-vino-promozione-vino-mercati-paesi-terzi-campagna-2025-2026-RLM12025047063",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-04 23:59",
-            "title": "Partecipazione alla cabina di regia di cui all’art. 7 della l.r. 4/2025 da parte di soggetti esterni all’amministrazione regionale",
-            "description": "Acquisizione di manifestazioni d'interesse per la partecipazione alla Cabina di regia per la prevenzione, il contrasto e la\ncomposizione delle crisi da sovraindebitamento",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/finanza-locale/partecipazione-cabina-regia-cui-art-7-l-r-4-2025-parte-soggetti-esterni-amministrazione-regionale-RLAM2025047443",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -446,6 +434,18 @@
             }
         },
         {
+            "deadline": "2025-11-30 17:00",
+            "title": "Sistema Informativo per la gestione e il monitoraggio delle attività connesse al Piano Regionale di Potenziamento dei Centri per l’Impiego (M5C1 – Investimento 1.1. Potenziamento CPI)",
+            "description": "Il bando gestisce le proposte di intervento per il Piano di potenziamento dei Centri per l’impiego. Province e Città Metropolitana di Milano possono inviare le proposte e la documentazione richiesta.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/sistema-informativo-gestione-monitoraggio-rendicontazione-attivit-connesse-piano-regionale-potenziamento-centri-l-impiego-m5c1-investimento-1-1-potenziamento-centri-l-impiego-RLW12022028703",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-08-08 12:00",
             "title": "SEED PA - Sostenibilità ed Efficienza Energetica degli EDifici pubblici",
             "description": "Promuovere la riqualificazione energetica profonda e il miglioramento della sostenibilità degli edifici pubblici e servizi abitativi lombardi, integrare risparmio energetico e valorizzazione del patrimonio, aumentare la resilienza ai cambiamenti climatici. \n\nSono gli obiettivi del Bando SEED PA (Sostenibilità ed Efficienza Energetica degli EDifici Pubblici) di cui Regione Lombardia ha approvato i criteri con dgr n.3741 del 30 dicembre 2024, in linea con gli obiettivi di decarbonizzazione del Programma Regionale di Sviluppo Sostenibile.\nLa dotazione finanziaria complessiva è pari a € 33.850.000,00 derivanti dai fondi PR FESR 2021- 27.\n\nGli interventi ammissibili riguardano opere di efficientamento energetico del sistema involucro e impianti tecnologici, mirate al raggiungimento degli standard più elevati di prestazione energetica ed emissiva, che interessino interi fabbricati ad uso pubblico e interi fabbricati destinati a Servizi Abitativi Pubblici (SAP). La proprietà dei fabbricati deve essere esclusiva dei soggetti beneficiari. \n\nGli edifici dovranno essere certificabili ai sensi della normativa sulla certificazione energetica degli edifici sia nelle condizioni pre sia post intervento.",
@@ -473,7 +473,7 @@
             "deadline": "N/A",
             "title": "Attività Integrative Comunitarie AIC - PR FSE+ 2021/27",
             "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/attivit-integrative-comunitarie-aic-pr-fse-2021-27-RLW12025044423",
+            "link": "https://www.bandi.regione.lombardia.ithttps://fse.regione.lombardia.it/it/pc2127/prlombardiafse2021-2027",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1562,7 +1562,7 @@
             }
         },
         {
-            "deadline": "2025-07-15 12:00",
+            "deadline": "2025-10-31 12:00",
             "title": "Brevetti 2023",
             "description": "Il bando sostiene l'ottenimento di nuovi brevetti europei e internazionali o estensioni degli stessi a livello europeo o internazionale relativamente a invenzioni industriali.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/brevetti-2023-RLF12023035064",
@@ -2643,6 +2643,18 @@
         },
         {
             "deadline": "N/A",
+            "title": "Bando per il finanziamento di progetti per adeguamento strutturale e tecnologico di sale destinate ad attività di spettacolo – art. 42 c. 1, lett. c), l.r. 25/2016",
+            "description": "Il bando, finanziato dal Programma Operativo Complementare 2014-2020 (POC) di Regione Lombardia, supporta le micro, piccole e medie imprese nel settore dello spettacolo localizzate in Lombardia con gli obiettivi di sostenere gli investimenti finalizzati alla crescita e alla competitività di sale destinate ad attività di spettacolo (teatri, cinema, cineteatri, auditorium musicali, sale polivalenti con prevalente attività di spettacolo) e riqualificare le sedi di spettacolo mediante la ristrutturazione e l’adeguamento strutturale e tecnologico, anche attraverso l’acquisto e l’installazione di arredi, macchinari e/o attrezzature.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/bando-finanziamento-progetti-adeguamento-strutturale-tecnologico-sale-destinate-ad-attivita-spettacolo-art-42-c-1-lett-c-l-r-25-2016-RLL12025046443",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° ottobre 2025 - 31 marzo 2026",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-ottobre-2025-31-marzo-2026-RLAV2025047123",
@@ -2667,7 +2679,7 @@
         },
         {
             "deadline": "N/A",
-            "title": "Finanziamento di percorsi di formazione mirata all’ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS)",
+            "title": "Finanziamento corsi di formazione mirata all’ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS)",
             "description": "L' iniziativa, rivolta a disoccupati, prevede il finanziamento di percorsi formativi, abilitanti e regolamentati, per l'ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-formazione-abilitanti-regolamentati-l-ottenimento-qualifiche-ausiliario-socio-assistenziale-asa-operatore-socio-sanitario-oss-RLW12025044883",
             "custom": {
