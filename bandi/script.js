@@ -3,6 +3,9 @@ let allItems = [];
 let displayedItems = []; // Separate array to handle the currently displayed (filtered) items
 let scrapingTimestamps = {}; // To store the scraping_timestamp for each dataset
 
+// Variabile per tenere traccia dell'ordinamento della scadenza (true = ascendente, false = discendente)
+let isDeadlineSortAscending = true; 
+
 // Function to map item keys based on the dataset
 function mapItem(item, datasetName) {
     // Extract `custom` object fields for general usage
@@ -111,10 +114,34 @@ function isDateFromTodayOnward(deadline) {
         return false;
     }
 
-    const today = new Date().setHours(0, 0, 0, 0); 
-    const deadlineDate = new Date(deadline).setHours(0, 0, 0, 0);
+    const today = new Date();
+    today.setHours(0, 0, 0, 0); // Reset to the beginning of today
+
+    const deadlineDate = new Date(deadline);
+    deadlineDate.setHours(0, 0, 0, 0); // Reset to the beginning of the deadline day
 
     return deadlineDate >= today;
+}
+
+// Funzione per verificare se la data di scadenza è entro i prossimi 30 giorni (inclusi oggi)
+function isWithinNext30Days(deadline) {
+    if (!deadline || deadline === 'N/A') {
+        return false; // Items with invalid/N/A deadlines do not fall into this category
+    }
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0); // Reset to the beginning of today
+
+    const deadlineDate = new Date(deadline);
+    deadlineDate.setHours(0, 0, 0, 0); // Reset to the beginning of the deadline day
+
+    // Calculate the date 30 days from now
+    const thirtyDaysFromNow = new Date(today);
+    thirtyDaysFromNow.setDate(today.getDate() + 30);
+    thirtyDaysFromNow.setHours(0, 0, 0, 0);
+
+    // An item is within the next 30 days if its deadline is from today up to (and including) thirtyDaysFromNow
+    return deadlineDate >= today && deadlineDate <= thirtyDaysFromNow;
 }
 
 // Function to load data from a JSON file, filter by date, and add to the global array
@@ -165,46 +192,120 @@ function displayScrapingTimestamps() {
     document.getElementById('scrapingTimestamps').textContent = timestampText;
 }
 
-// Function to sort and display all items in the table
-function displaySortedItems() {
-    // Sort all items by deadline in ascending order
-    allItems.sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
+// Funzione per applicare l'ordinamento corrente e visualizzare gli item
+// Questa funzione opera su `displayedItems`
+function applyCurrentSortAndDisplay() {
+    // Ordina gli elementi attualmente visualizzati (displayedItems)
+    displayedItems.sort((a, b) => {
+        const dateA = a.deadline === 'N/A' ? new Date('9999-12-31') : new Date(a.deadline); // Treat N/A as very far in the future
+        const dateB = b.deadline === 'N/A' ? new Date('9999-12-31') : new Date(b.deadline);
 
-    // Display the sorted items
-    displayedItems = [...allItems]; // Copy sorted items to displayedItems
+        // Applica l'ordinamento in base a isDeadlineSortAscending
+        return isDeadlineSortAscending ? (dateA - dateB) : (dateB - dateA);
+    });
+
     displayItems(displayedItems);
     displayScrapingTimestamps(); // Display the scraping timestamps after loading
 }
 
-// Filter function to search by keywords and by source
-function filterItems(keyword, sourceFilter) {
+// Funzione per filtrare gli item per parola chiave, fonte e scadenza
+function filterItems(keyword, sourceFilter, deadlineFilter) {
     keyword = keyword.toLowerCase();
 
-    const filteredItems = allItems.filter(item => 
-        (item.title.toLowerCase().includes(keyword) ||
-        item.description.toLowerCase().includes(keyword) ||
-        item.source.toLowerCase().includes(keyword) ||
-        item.tags.some(tag => tag.toLowerCase().includes(keyword))) &&
-        (sourceFilter === 'all' ? item.source !== 'newitems' : item.source === sourceFilter)
-    );
+    // Filtra sempre da allItems, per poi applicare l'ordinamento
+    const tempFilteredItems = allItems.filter(item => {
+        const matchesKeyword = (
+            item.title.toLowerCase().includes(keyword) ||
+            item.description.toLowerCase().includes(keyword) ||
+            item.source.toLowerCase().includes(keyword) ||
+            item.tags.some(tag => tag.toLowerCase().includes(keyword))
+        );
 
-    displayedItems = filteredItems;
-    displayItems(displayedItems);
+        const matchesSource = (
+            sourceFilter === 'all' ? item.source !== 'newitems' : item.source === sourceFilter
+        );
+
+        let matchesDeadline = true; // By default, the item matches the deadline filter
+
+        if (deadlineFilter === 'next30days') {
+            matchesDeadline = isWithinNext30Days(item.deadline);
+        } else if (deadlineFilter === 'beyond30days') {
+            matchesDeadline = !isWithinNext30Days(item.deadline) && isDateFromTodayOnward(item.deadline);
+        }
+        // If deadlineFilter is 'all' or not specified, matchesDeadline remains true
+
+        return matchesKeyword && matchesSource && matchesDeadline;
+    });
+
+    // Assegna il risultato del filtro a displayedItems
+    displayedItems = tempFilteredItems;
+    
+    // Ora applica l'ordinamento e visualizza
+    applyCurrentSortAndDisplay();
 }
 
-// Attach an event listener to the search input field
-document.getElementById('searchInput').addEventListener('input', function() {
-    const keyword = this.value;
+// Funzione helper per aggiornare tutti i filtri
+// Aggiunto un parametro per sapere da quale filtro è stata invocata la funzione
+function updateFilters(invokingFilter = null) {
+    const keyword = document.getElementById('searchInput').value;
     const sourceFilter = document.getElementById('sourceFilter').value;
-    filterItems(keyword, sourceFilter);
+    
+    // Recupera il valore del filtro scadenza corrente per la logica dei bottoni
+    let deadlineFilter = 'all'; // Valore di default
+    const currentActiveDeadlineButton = document.querySelector('.btn-group button.active');
+    if (currentActiveDeadlineButton && currentActiveDeadlineButton.dataset.deadlineFilter) {
+        deadlineFilter = currentActiveDeadlineButton.dataset.deadlineFilter;
+    }
+
+    // Se l'invocazione viene da un bottone di filtro scadenza, aggiorna il valore
+    if (['all', 'next30days', 'beyond30days'].includes(invokingFilter)) {
+        deadlineFilter = invokingFilter;
+    }
+
+    // Applica i filtri
+    filterItems(keyword, sourceFilter, deadlineFilter);
+
+    // Gestisci le classi 'active' per i bottoni del filtro scadenza
+    document.querySelectorAll('.btn-group button').forEach(button => {
+        if (button.dataset.deadlineFilter === deadlineFilter) {
+            button.classList.add('active');
+        } else {
+            button.classList.remove('active');
+        }
+    });
+}
+
+// Attach event listener to the search input field
+document.getElementById('searchInput').addEventListener('input', () => updateFilters());
+
+// Attach event listener to the source filter dropdown
+document.getElementById('sourceFilter').addEventListener('change', () => updateFilters());
+
+// Attach event listeners to the new deadline filter buttons
+document.getElementById('filterAllDeadlines').addEventListener('click', () => updateFilters('all'));
+document.getElementById('filterNext30Days').addEventListener('click', () => updateFilters('next30days'));
+document.getElementById('filterBeyond30Days').addEventListener('click', () => updateFilters('beyond30days'));
+
+// Event listener per il pulsante toggle di ordinamento della scadenza
+document.getElementById('sortDeadlineToggle').addEventListener('click', () => {
+    isDeadlineSortAscending = !isDeadlineSortAscending; // Inverti la direzione
+    const sortButton = document.getElementById('sortDeadlineToggle');
+    
+    // Aggiorna il testo e la classe CSS del pulsante
+    if (isDeadlineSortAscending) {
+        sortButton.textContent = 'Deadline Ordine: Crescente';
+        sortButton.classList.remove('desc');
+        sortButton.classList.add('asc');
+    } else {
+        sortButton.textContent = 'Deadline Ordine: Decrescente';
+        sortButton.classList.remove('asc');
+        sortButton.classList.add('desc');
+    }
+    
+    // Riapplica l'ordinamento e la visualizzazione con la nuova direzione
+    applyCurrentSortAndDisplay();
 });
 
-// Attach an event listener to the source filter dropdown
-document.getElementById('sourceFilter').addEventListener('change', function() {
-    const sourceFilter = this.value;
-    const keyword = document.getElementById('searchInput').value;
-    filterItems(keyword, sourceFilter);
-});
 
 // Function to convert filtered data to CSV format
 function convertToCSV(items) {
@@ -254,4 +355,7 @@ Promise.all([
     loadDataset('./data/journalism.json', 'data', 'journalism'),
     loadDataset('./data/regione_lombardia.json', 'data', 'lombardia'),
     loadDataset('./data/newitems.json', 'data', 'newitems') // Newitems dataset loader
-]).then(displaySortedItems);
+]).then(() => {
+    // Dopo aver caricato tutti i dati, inizializza i filtri (che a loro volta chiameranno l'ordinamento iniziale)
+    updateFilters('all'); // Imposta il filtro scadenza predefinito su 'all'
+});
