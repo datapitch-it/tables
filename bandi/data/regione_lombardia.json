@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-07-05 11:56:40",
+    "scraping_timestamp": "2025-07-08 06:53:11",
     "data": [
+        {
+            "deadline": "2025-09-25 16:00",
+            "title": "Bando per il finanziamento di progetti per adeguamento strutturale e tecnologico di sale destinate ad attività di spettacolo – art. 42 c. 1, lett. c), l.r. 25/2016",
+            "description": "Il bando, finanziato dal Programma Operativo Complementare 2014-2020 (POC) di Regione Lombardia, supporta le micro, piccole e medie imprese nel settore dello spettacolo localizzate in Lombardia con gli obiettivi di sostenere gli investimenti finalizzati alla crescita e alla competitività di sale destinate ad attività di spettacolo (teatri, cinema, cineteatri, auditorium musicali, sale polivalenti con prevalente attività di spettacolo) e riqualificare le sedi di spettacolo mediante la ristrutturazione e l’adeguamento strutturale e tecnologico, anche attraverso l’acquisto e l’installazione di arredi, macchinari e/o attrezzature.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/bando-finanziamento-progetti-adeguamento-strutturale-tecnologico-sale-destinate-ad-attivita-spettacolo-art-42-c-1-lett-c-l-r-25-2016-RLL12025046443",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "N/A",
             "title": "Fondo per la capitalizzazione delle cooperative lombarde - Sportello 2025",
@@ -266,34 +278,22 @@
             }
         },
         {
+            "deadline": "2025-07-14 23:59",
+            "title": "Relazione annuale 2025 delle Comunità Montane (riferita all'annualità 2024)",
+            "description": "Procedura informatizzata per l’accesso e il caricamento della Relazione annuale delle Comunità Montane, da presentare entro il 30 giugno di ogni anno (con riferimento all’annualità precedente).",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/finanza-locale/relazione-annuale-2025-comunit-montane-riferita-annualit-2024-RLV12025046943",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "N/A",
             "title": "Enti Erogatori a.s. 2025 - 2026 Inclusione scolastica per studenti con disabilità sensoriale",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/anno-scolastico-2025-2026-inclusione-educativa-scolastica-disabilit-sensoriale-enti-erogatori-RLD12025046323",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-07 12:00",
-            "title": "MANIFESTAZIONE DI INTERESSE PER LA SPONSORIZZAZIONE DELLA “GIORNATA DELLA RICERCA 2025”",
-            "description": "Regione Lombardia intende individuare partner strategici, attraverso sponsorizzazioni mirate, che contribuiscano alla realizzazione della Giornata della Ricerca edizione 2025. \nLa Giornata della Ricerca, istituita con la legge regionale 29/2016 e intitolata alla memoria di Umberto Veronesi, è considerata uno degli eventi di punta di Regione Lombardia. Ogni anno mira a raccontare e premiare l’eccellenza scientifica.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca/manifestazione-interesse-sponsorizzazione-giornata-ricerca-2025-RLF12025045443",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-07 17:00",
-            "title": "Avviso pubblico per la selezione di nuovi progetti di Istruzione e Formazione Tecnica Superiore (IFTS) da realizzare nell'anno formativo 2025/2026",
-            "description": "In data 29 maggio 2025 è stato approvato l’Avviso Pubblico per la selezione di nuovi progetti di Istruzione e Formazione Tecnica Superiore (IFTS), da realizzare nell’a.f. 2025/2026, in attuazione della D.g.r  n. 4301 del 30 aprile 2025, con riferimento alla priorità: 2. Istruzione e Formazione – ES04.6 - Azione f.2. Sostegno ai percorsi di istruzione post-secondaria del PR Lombardia FSE+ 2021-2027.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/approvazione-avviso-pubblico-selezione-nuovi-progetti-istruzione-formazione-tecnica-superiore-ifts-realizzare-f-2025-2026-attuazione-dgr-n-4301-30-04-2025-riferimento-priorit-2-istruzione-formazione-es04-6-azione-f-2-sostegno-percorsi-istruzione-post-secondaria-pr-lombardia-fse-2021-2027-RLW12025044226",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1132,7 +1132,7 @@
         {
             "deadline": "2025-07-31 17:00",
             "title": "Apprendistato di primo livello per l’acquisizione di un titolo di studio (art. 43 del D.Lgs. 81/2015) - AF 2024/2025 - risorse NON PNRR",
-            "description": "L'avviso è momentaneamente chiuso per esuarimento risorse. Sarà nuovamente possibile presentare domande di partecipazione dalle ore 10 del 13 maggio 2025. Avviso pubblico per la realizzazione di un'offerta formativa in apprendistato di primo livello, finalizzata all'acquisizione di un titolo di studio (Art. 43 del D.Lgs 81/2015) - Anno fornativo 2024/2025.",
+            "description": "L'avviso è chiuso per esaurimento delle risorse.  I percorsi in apprendistato di primo livello avviati a partire dal 1 giugno 2025 possono avvalersi del nuovo bando dedicato, relativo all’anno formativo 2025/2026, di prossima pubblicazione.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/apprendistato-primo-livello-l-acquisizione-titolo-studio-art-43-d-lgs-81-2015-af-2024-2025-risorse-non-pnrr-RLW12024039627",
             "custom": {
                 "Topics": "N/A",
@@ -2643,18 +2643,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Bando per il finanziamento di progetti per adeguamento strutturale e tecnologico di sale destinate ad attività di spettacolo – art. 42 c. 1, lett. c), l.r. 25/2016",
-            "description": "Il bando, finanziato dal Programma Operativo Complementare 2014-2020 (POC) di Regione Lombardia, supporta le micro, piccole e medie imprese nel settore dello spettacolo localizzate in Lombardia con gli obiettivi di sostenere gli investimenti finalizzati alla crescita e alla competitività di sale destinate ad attività di spettacolo (teatri, cinema, cineteatri, auditorium musicali, sale polivalenti con prevalente attività di spettacolo) e riqualificare le sedi di spettacolo mediante la ristrutturazione e l’adeguamento strutturale e tecnologico, anche attraverso l’acquisto e l’installazione di arredi, macchinari e/o attrezzature.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/bando-finanziamento-progetti-adeguamento-strutturale-tecnologico-sale-destinate-ad-attivita-spettacolo-art-42-c-1-lett-c-l-r-25-2016-RLL12025046443",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° ottobre 2025 - 31 marzo 2026",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-ottobre-2025-31-marzo-2026-RLAV2025047123",
@@ -2742,6 +2730,18 @@
             "title": "Misure a sostegno per allevamenti zootecnici in area montane",
             "description": "Per interventi di costruzione, ristrutturazione, ammodernamento, recupero e manutenzione straordinaria impianti e servizi e forniture – anno 2025. Dotazione finanziaria: pari a 800.000,00 euro sull’esercizio finanziario 2025 e 1.200.000,00 euro sull’esercizio finanziario 2026. Domande dal 18 agosto al 12 settembre 2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/misure-sostegno-allevamenti-zootecnici-area-montane-RLM12025047163",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agricole - bando 2025",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/azione-regionale-volta-riduzione-emissioni-prodotte-attivit-agricole-bando-2025-RLM12025047923",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
