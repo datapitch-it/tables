@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dataset Viewer</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Load Tailwind CSS for placeholder styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         tr a:link {
             font-weight: bold;
@@ -49,6 +51,52 @@
         .card-body .card-title:hover {
             text-decoration: underline; /* Aggiunge la sottolineatura al passaggio del mouse */
         }
+
+        /* --- Placeholder Effect CSS (Copied from loading-placeholder immersive) --- */
+        @keyframes shimmer {
+            0% {
+                background-position: -468px 0;
+            }
+            100% {
+                background-position: 468px 0;
+            }
+        }
+
+        .shimmer-effect {
+            /* Darker colors for the shimmer effect */
+            background: #e0e0e0; /* Base background color */
+            background-image: linear-gradient(to right, #e0e0e0 0%, #d0d0d0 20%, #e0e0e0 40%, #e0e0e0 100%);
+            background-repeat: no-repeat;
+            background-size: 800px 100%;
+            animation: shimmer 1.2s infinite linear;
+            border-radius: 0.5rem;
+        }
+
+        .shimmer-image {
+            height: 128px;
+            width: 100%;
+        }
+
+        .shimmer-title {
+            height: 24px;
+            width: 70%;
+        }
+
+        .shimmer-text {
+            height: 16px;
+            width: 100%;
+        }
+
+        .shimmer-text-short {
+            height: 16px;
+            width: 80%;
+        }
+
+        /* Set Inter font for the entire body */
+        body {
+            font-family: "Inter", sans-serif;
+        }
+        /* --- End Placeholder Effect CSS --- */
     </style>
 </head>
 <body>
@@ -93,7 +141,23 @@
     </div>
     <div class="">
         <div id="dataContainer">
-            <!-- Table view -->
+            <!-- Loading Placeholder (initially visible) -->
+            <div id="loadingPlaceholder" class="container">
+                <br>
+                <div class="row">
+                    <!-- Single placeholder card -->
+                    <div class="col-12 mb-4">
+                        <div class="w-full bg-white shadow-lg rounded-lg overflow-hidden p-6">
+                            <div class="shimmer-effect shimmer-image mb-4"></div>
+                            <div class="shimmer-effect shimmer-title mb-3"></div>
+                            <div class="shimmer-effect shimmer-text mb-2"></div>
+                            <div class="shimmer-effect shimmer-text mb-2"></div>
+                            <div class="shimmer-effect shimmer-text-short"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Table view (initially hidden) -->
              <div class="container-fluid"></div>
                 <table class="table table-bordered table-striped mt-3 d-none" id="tableView">
                     <thead>
@@ -104,15 +168,15 @@
                             <th class="col-link">Link</th>
                             <th class="col-description">Description</th>
                             <th class="col-tags">Tags</th>
-                        </tr>  
+                        </tr>
                     </thead>
                     <tbody id="dataTableBody"></tbody>
                 </table>
             </div>
-            <!-- Card view -->
+            <!-- Card view (initially hidden) -->
              <div class="container">
                 <br>
-                <div id="cardView" class="row">
+                <div id="cardView" class="row d-none">
                     <!-- Cards will be dynamically inserted here -->
                 </div>
             </div>

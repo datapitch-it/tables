@@ -5,6 +5,29 @@ let scrapingTimestamps = {}; // To store the scraping_timestamp for each dataset
 // Variabile per tenere traccia dell'ordinamento della scadenza (true = ascendente, false = discendente)
 let isDeadlineSortAscending = true;
 
+// Function to toggle the visibility of the loading placeholder
+function toggleLoadingPlaceholder(show) {
+    const loadingPlaceholder = document.getElementById('loadingPlaceholder');
+    const tableView = document.getElementById('tableView');
+    const cardView = document.getElementById('cardView');
+
+    if (loadingPlaceholder) {
+        if (show) {
+            loadingPlaceholder.classList.remove('d-none'); // Show the placeholder
+            tableView.classList.add('d-none'); // Hide table view
+            cardView.classList.add('d-none');   // Hide card view
+        } else {
+            loadingPlaceholder.classList.add('d-none'); // Hide the placeholder
+            // Show the appropriate content container based on the active view button
+            if (document.getElementById('viewCards').classList.contains('active')) {
+                cardView.classList.remove('d-none');
+            } else {
+                tableView.classList.remove('d-none');
+            }
+        }
+    }
+}
+
 // Funzione per troncare il testo a una lunghezza massima specificata, aggiungendo puntini
 // Nota: questa funzione non è più usata per il troncamento della descrizione nelle card con il "Leggi tutto",
 // ma è mantenuta per completezza se volessi usarla altrove nel tuo codice.
@@ -295,6 +318,8 @@ function applyCurrentSortAndDisplay() {
     });
 
     // Check the current view and display items accordingly
+    // This part is now handled by toggleLoadingPlaceholder(false) when data is loaded
+    // and by the view switch buttons.
     if (document.getElementById('tableView').classList.contains('d-none')) {
         displayCards(displayedItems);
     } else {
@@ -345,7 +370,7 @@ function updateFilters(invokingFilter = null) {
 
     // Recupera il valore del filtro scadenza corrente per la logica dei bottoni
     let deadlineFilter = 'all'; // Valore di default
-    const currentActiveDeadlineButton = document.querySelector('.btn-group button.active');
+    const currentActiveDeadlineButton = document.querySelector('.btn-group button.active[data-deadline-filter]');
     if (currentActiveDeadlineButton && currentActiveDeadlineButton.dataset.deadlineFilter) {
         deadlineFilter = currentActiveDeadlineButton.dataset.deadlineFilter;
     }
@@ -356,7 +381,7 @@ function updateFilters(invokingFilter = null) {
     // Applica i filtri
     filterItems(keyword, sourceFilter, deadlineFilter);
     // Gestisci le classi 'active' per i bottoni del filtro scadenza
-    document.querySelectorAll('.btn-group button').forEach(button => {
+    document.querySelectorAll('.btn-group button[data-deadline-filter]').forEach(button => {
         if (button.dataset.deadlineFilter === deadlineFilter) {
             button.classList.add('active');
         } else {
@@ -446,6 +471,10 @@ document.getElementById('viewCards').addEventListener('click', () => {
     applyCurrentSortAndDisplay(); // Re-render with current filters and sort
 });
 
+// --- Initial data loading and placeholder management ---
+// Show placeholder before loading data
+toggleLoadingPlaceholder(true);
+
 // Load all datasets, including newitems, then display sorted items
 Promise.all([
     loadDataset('./data/arter.json', 'data', 'arter'),
@@ -462,11 +491,10 @@ Promise.all([
     // After loading all data, initialize filters (which in turn will call initial sorting)
     updateFilters('all'); // Set the default deadline filter to 'all'
 
-    // Set default view to Card View and activate the button
-    document.getElementById('tableView').classList.add('d-none'); // Hide table view
-    document.getElementById('cardView').classList.remove('d-none'); // Show card view
-    document.getElementById('viewTable').classList.remove('active'); // Deactivate table button
-    document.getElementById('viewCards').classList.add('active'); // Activate card button
-
-    applyCurrentSortAndDisplay(); // Ensure cards are displayed with current sorting and count
+    // Hide placeholder after data is loaded and displayed
+    toggleLoadingPlaceholder(false);
+}).catch(error => {
+    console.error("Failed to load all datasets:", error);
+    // In case of an error, still hide the placeholder to show something
+    toggleLoadingPlaceholder(false);
 });
