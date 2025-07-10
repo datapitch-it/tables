@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-07-08 06:53:11",
+    "scraping_timestamp": "2025-07-09 09:09:00",
     "data": [
         {
             "deadline": "2025-09-25 16:00",
@@ -366,18 +366,6 @@
             "title": "Percorsi IeFP in apprendistato, erogati dagli enti di formazione accreditati sezione A dell'Albo regionale – Anno Formativo 2024/2025 (Risorse PNRR)",
             "description": "Avviso pubblico per la realizzazione dei percorsi di apprendistato di primo livello, finalizzati all'acquisizione di qualifica e diploma d'Istruzione e Formazione Professionale, a valere sulle risorse del PNRR (Missione 5 “Inclusione e coesione”, Componente 1 “Politiche per il Lavoro”, Investimento 1.4 “Sistema Duale”, finanziato dall’Unione europea – Next Generation EU).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-iefp-apprendistato-erogati-enti-formazione-accreditati-sezione-albo-regionale-anno-formativo-2024-2025-risorse-pnrr-RLW12024039629",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-08 12:00",
-            "title": "DIRITTO AL CIBO-2025/2027",
-            "description": "L’Avviso sostiene le attività di recupero e distribuzione delle eccedenze alimentati realizzate dagli Enti del Terzo Settore in possesso dei requisiti richiesti, a favore di persone che non riescono ad accedere ad alimenti sufficienti, sicuri e nutrienti tali da garantire un equilibrio alimentare e una vita sana, in particolare gruppi vulnerabili di popolazione che hanno perso o ridotto in modo significativo la loro capacità reddituale.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/diritto-cibo-2025-2027-RLD12025046403",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2667,6 +2655,18 @@
         },
         {
             "deadline": "N/A",
+            "title": "RICERCA DI SPONSOR PER MANIFESTAZIONI FIERISTICHE ED EVENTI DI PROMOZIONE TURISTICA",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/turismo-tempo-libero/ricerca-sponsor-fiere-ed-eventi-promozione-turistica-RLP12025047583",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "Finanziamento corsi di formazione mirata all’ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS)",
             "description": "L' iniziativa, rivolta a disoccupati, prevede il finanziamento di percorsi formativi, abilitanti e regolamentati, per l'ottenimento delle qualifiche di Ausiliario socioassistenziale (ASA) e di Operatore sociosanitario (OSS).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-formazione-abilitanti-regolamentati-l-ottenimento-qualifiche-ausiliario-socio-assistenziale-asa-operatore-socio-sanitario-oss-RLW12025044883",
@@ -2751,18 +2751,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Ri.circo.lo. C&D - Risorse circolari in Lombardia per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare. Edizione dedicata alle filiere della costruzione e demolizione e delle bonifiche di siti contaminati",
-            "description": "La misura è relativa ad azioni di simbiosi industriale, prevenzione della produzione rifiuti, riciclaggio e valorizzazione dei materiali nelle filiere della costruzione e demolizione e delle bonifiche di siti contaminati.\n\nI rifiuti da costruzione e demolizione, compresi i terreni provenienti da siti contaminati, sono quantitativamente molto rilevanti, rappresentando circa il 40% della produzione totale di rifiuti speciali in tutti i contesti.\nI rifiuti prodotti dalle operazioni di bonifica dei terreni (in particolare il codice EER 191302) sono tra i principali rifiuti che vengono conferiti nelle discariche per rifiuti inerti.\n\nPer le filiere della produzione di materiali per l’edilizia e del recupero dei rifiuti da costruzione e demolizione vi è necessità di ottenere materiali riciclati di qualità da valorizzare per un loro più ampio utilizzo in sostituzione di materiale vergine. Il bando riguarda tutte le tipologie di prodotti e materiali di tali filiere, non solo i c.d. “rifiuti inerti”.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/ri-circo-c-d-risorse-circolari-lombardia-sostegno-pmi-lombarde-sviluppo-azioni-economia-circolare-edizione-dedicata-filiere-costruzione-demolizione-bonifiche-siti-contaminati-RLT12025047563",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "PSN/PAC 2023-2027 “Investimenti produttivi forestali - Ammodernamenti e miglioramenti\" - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRD15 - Azione SRD15.2. Dotazione finanziaria di € 4.000.000,00. Domande dal 12 settembre al 27 novembre 2025. Possono partecipare: PMI iscritte nel registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580 della Camera di \ncommercio territorialmente competente, che esercitano un’attività economica nel settore della selvicoltura e delle utilizzazioni forestali, nella gestione, difesa e tutela del territorio, nonché nel settore della prima trasformazione e commercializzazione (non industriale) dei prodotti legnosi del bosco.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-produttivi-forestali-ammodernamenti-miglioramenti-sviluppo-rurale-bando-2025-RLM12025047383",
@@ -2778,6 +2766,30 @@
             "title": "Modulo Duale-GOL per l’AF 2025/2026: finanziamento dei percorsi di terza e quarta annualità e di IV Anno del sistema regionale IeFP",
             "description": "L’Avviso Modulo Duale – GOL, approvato con Decreto n. 8833 del 20 giugno 2025, è destinato alla realizzazione dei percorsi di Istruzione e Formazione Professionale per gli alunni di terza e quarta annualità e  di IV anno – anno formativo 2025/2026.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/avviso-pubblico-realizzazione-offerta-formativa-percorsi-terza-quarta-annualit-id-iv-anno-sistema-regionale-istruzione-formazione-professionale-iefp-f-2025-2026-RLW12025046503",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Ri.circo.lo. C&D - Risorse circolari in Lombardia per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare. Edizione dedicata alle filiere della costruzione e demolizione e delle bonifiche di siti contaminati",
+            "description": "La misura è relativa ad azioni di simbiosi industriale, prevenzione della produzione rifiuti, riciclaggio e valorizzazione dei materiali nelle filiere della costruzione e demolizione e delle bonifiche di siti contaminati.\n\nI rifiuti da costruzione e demolizione, compresi i terreni provenienti da siti contaminati, sono quantitativamente molto rilevanti, rappresentando circa il 40% della produzione totale di rifiuti speciali in tutti i contesti.\nI rifiuti prodotti dalle operazioni di bonifica dei terreni (in particolare il codice EER 191302) sono tra i principali rifiuti che vengono conferiti nelle discariche per rifiuti inerti.\n\nPer le filiere della produzione di materiali per l’edilizia e del recupero dei rifiuti da costruzione e demolizione vi è necessità di ottenere materiali riciclati di qualità da valorizzare per un loro più ampio utilizzo in sostituzione di materiale vergine. Il bando riguarda tutte le tipologie di prodotti e materiali di tali filiere, non solo i c.d. “rifiuti inerti”.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/ri-circo-c-d-risorse-circolari-lombardia-sostegno-pmi-lombarde-sviluppo-azioni-economia-circolare-edizione-dedicata-filiere-costruzione-demolizione-bonifiche-siti-contaminati-RLT12025047563",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PROMOZIONE DI PROGETTI E/O PERCORSI FORMATIVI NEL SISTEMA UNIVERSITARIO LOMBARDO SULLE TEMATICHE DI PREVENZIONE E CONTRASTO ALLA VIOLENZA CONTRO LE DONNE - 2025/2026",
+            "description": "Il bando è finalizzato a sostenere il Sistema Universitario Lombardo nella attivazione, sensibilizzazione e promozione di percorsi formativi sul tema della violenza contro le donne per migliorare la capacità di riconoscere il fenomeno in tutte le sue forme, promuovere la parità tra i sessi superando gli stereotipi culturali, costruire un sistema di competenze multidisciplinari utili alla prevenzione e al contrasto della violenza contro le donne. DD.G.R. N. 4555/2025 E N. 4591/2025",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/promozione-progetti-percorsi-formativi-sistema-universitario-lombardo-tematiche-prevenzione-contrasto-violenza-contro-donne-2025-2026-RLD12025047663",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

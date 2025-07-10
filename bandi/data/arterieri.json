@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-07-08 06:51:01",
+    "scraping_timestamp": "2025-07-09 09:06:55",
     "data": [
-        {
-            "deadline": "2025-07-08",
-            "title": "Interreg Italia-Croazia: 3° invito a presentare proposte",
-            "description": "Il bando mette a disposizione oltre 34 milioni di euro per finanziare tematiche e azioni non trattate nei bandi precedenti",
-            "link": "https://first.art-er.it/news/interreg-italia-croazia-3deg-bando",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 34.759.000"
-            }
-        },
-        {
-            "deadline": "2025-07-08",
-            "title": "Lombardia è Ricerca: al via il bando 2025 su diagnostica precoce e medicina preventiva",
-            "description": "Candidature aperte fino all'8 luglio per il Premio da 1 milione di euro su diagnostica precoce e medicina preventiva",
-            "link": "https://first.art-er.it/news/al-il-bando-lombardia-e-ricerca-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
         {
             "deadline": "2025-07-09",
             "title": "EuroHPC: nuovo bando per la creazione di AI Factory Antennas in Europa",
@@ -311,6 +287,18 @@
                 "Area Classification": "Italia",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 5.000"
+            }
+        },
+        {
+            "deadline": "2025-08-01",
+            "title": "Materie prime critiche: bando PNRR per progetti di ricerca e sviluppo",
+            "description": "Il bando vuole promuovere un approvvigionamento sostenibile, circolare e sicuro delle materie prime critiche",
+            "link": "https://first.art-er.it/news/pnrr-al-il-bando-progetti-su-materie-prime",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 24.000.000"
             }
         },
         {
@@ -1067,6 +1055,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 30.000 per singolo progetto"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Autoproduzione di energia da fonti rinnovabili nelle PMI: aperto il secondo sportello MIMIT",
+            "description": "La misura del Ministero prevede incentivi per impianti solari fotovoltaici o mini eolici e sistemi di accumulo dell’energia e per l’autoconsumo differito",
+            "link": "https://first.art-er.it/news/mimit-autoproduzione-di-energia-da-fonti-rinnovabili-1",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 178.668.093"
             }
         },
         {

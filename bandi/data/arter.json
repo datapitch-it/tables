@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-07-09 09:06:55",
+    "scraping_timestamp": "2025-07-10 05:04:22",
     "data": [
-        {
-            "deadline": "2025-07-09",
-            "title": "EuroHPC: nuovo bando per la creazione di AI Factory Antennas in Europa",
-            "description": "Il bando sostiene startup e PMI per creare AI Factory Antennas che rafforzeranno l'accesso all'AI e al supercalcolo in tutta Europa",
-            "link": "https://first.art-er.it/news/eurohpc-bando-la-creazione-di-ai-factory-antennas",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 70.000.000"
-            }
-        },
-        {
-            "deadline": "2025-07-09",
-            "title": "Agroecologia: lanciata la seconda open call del partenariato AGROECOLOGY",
-            "description": "L'obiettivo del bando è quello di finanziare progetti di R&I che affrontino la transizione verso l’agroecologia nel contesto dei sistemi di agricoltura convenzionale e biologica",
-            "link": "https://first.art-er.it/news/agroecologia-2deg-bando-del-partenariato-agroecology",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 25 000 000,00"
-            }
-        },
-        {
-            "deadline": "2025-07-09",
-            "title": "Al via il bando FutureFoodS per un futuro sostenibile dei sistemi alimentari",
-            "description": "Il budget della call ammonta a € 39.000.000 ed è prevista una scadenza a due fasi: 15 gennaio e 9 luglio 2025",
-            "link": "https://first.art-er.it/news/bando-futurefoods-sistemi-alimentari-sostenibili",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 39.000.000"
-            }
-        },
         {
             "deadline": "2025-07-10",
             "title": "Fast Track 2025: aperto il bando per accelerare l’ingresso sul mercato di soluzioni innovative",
@@ -1287,18 +1251,6 @@
         },
         {
             "deadline": "2025-10-16",
-            "title": "CEF Digital: 20 milioni per piattaforme digitali operative nei settori energia e trasporti",
-            "description": "Il bando sostiene progetti che realizzino infrastrutture digitali transfrontaliere sicure, resilienti e basate sull’intelligenza artificiale",
-            "link": "https://first.art-er.it/news/bando-cef-su-operational-digital-platforms",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 20.000.000"
-            }
-        },
-        {
-            "deadline": "2025-10-16",
             "title": "Comunicazione quantistica: tre nuovi bandi nell'ambito dell'iniziativa EuroQCI",
             "description": "I tre bandi mirano a sviluppare e standardizzare le tecnologie quantistiche, fondamentali per l’autonomia e la sicurezza delle reti digitali europee",
             "link": "https://first.art-er.it/news/euroqci-bandi-reti-quantistiche-sicure-e-integrate",
@@ -1511,18 +1463,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 500.000 - € 2.500.000"
-            }
-        },
-        {
-            "deadline": "2025-11-30",
-            "title": "Semiconduttori: in arrivo i nuovi bandi della partnership europea Chips JU",
-            "description": "La partnership europea Chips JU ha annunciato tra giugno e luglio il lancio delle nuove call 2025 nell'ambito dei semiconduttori con scadenze multiple",
-            "link": "https://first.art-er.it/news/chips-ju-arrivo-nuove-call-2025-sui-semiconduttori",
-            "custom": {
-                "Topics": "Artificial Intelligence, Deep tech",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -1751,6 +1691,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 80.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-13",
+            "title": "Water4All: in arrivo il nuovo bando “Acqua e Salute\"",
+            "description": "Il MUR stanzia 2 milioni di euro per sostenere la partecipazione italiana al bando",
+            "link": "https://first.art-er.it/news/ricerca-idrica-238-milioni-progetti-transnazionali",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 2.000.000"
             }
         },
         {
