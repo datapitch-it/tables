@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-07-09 09:09:00",
+    "scraping_timestamp": "2025-07-10 05:06:37",
     "data": [
+        {
+            "deadline": "2025-07-30 16:00",
+            "title": "Sostegno a manifestazioni sportive sul territorio lombardo periodo 1° ottobre 2025 – 30 giugno 2026",
+            "description": "Presentazione domande manifestazioni  realizzate nel 1° trimestre  (1° ottobre 2025 - 31 dicembre 2025)  dalle ore 10:00 del 09/07/2025 alle ore 16:00 del 30/07/2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-manifestazioni-sportive-territorio-lombardo-periodo-1-ottobre-2025-30-giugno-2026-RLAV2025047263",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-07-30 16:00",
+            "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° ottobre 2025 - 31 marzo 2026",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-ottobre-2025-31-marzo-2026-RLAV2025047123",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-09-25 16:00",
             "title": "Bando per il finanziamento di progetti per adeguamento strutturale e tecnologico di sale destinate ad attività di spettacolo – art. 42 c. 1, lett. c), l.r. 25/2016",
@@ -102,18 +126,6 @@
             "title": "Criteri per definizione e determinazione Servizi  Ambientali erogati dai Consorzi Forestali - anno 2025",
             "description": "Risorse disponibili: 846.914,60. Domande dal 26 giugno al 15 luglio 2025. Possono partecipare: i 23 Consorzi forestali riconosciuti dalla Regione Lombardia ai sensi dell’art. 56 l.r. 31/2008 e sede esterna alla Provincia di Sondrio.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/criteri-definizione-determinazione-servizi-ambientali-erogati-consorzi-forestali-anno-2025-RLM12025047523",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-09 16:30",
-            "title": "Next – Laboratorio di idee per la produzione e programmazione dello spettacolo lombardo – Edizione 2025/2026” – Linee A e C",
-            "description": "Il progetto “Next – Laboratorio delle idee per la produzione e programmazione dello spettacolo lombardo – Edizione 2025/2026” è promosso da Regione Lombardia – D.G. Cultura, con la collaborazione di AGIS Lombarda in qualità di ente attuatore, al fine di incentivare la produzione e la distribuzione di spettacoli e sostenere la programmazione delle sedi di spettacolo sul territorio.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/next-laboratorio-idee-produzione-programmazione-spettacolo-lombardo-anno-2025-linee-c-RLL12025046923",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2631,30 +2643,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° ottobre 2025 - 31 marzo 2026",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-ottobre-2025-31-marzo-2026-RLAV2025047123",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Sostegno a manifestazioni sportive sul territorio lombardo periodo 1° ottobre 2025 – 30 giugno 2026",
-            "description": "Presentazione domande manifestazioni  realizzate nel 1° trimestre  (1° ottobre 2025 - 31 dicembre 2025)  dalle ore 10:00 del 09/07/2025 alle ore 16:00 del 30/07/2025.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-manifestazioni-sportive-territorio-lombardo-periodo-1-ottobre-2025-30-giugno-2026-RLAV2025047263",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "RICERCA DI SPONSOR PER MANIFESTAZIONI FIERISTICHE ED EVENTI DI PROMOZIONE TURISTICA",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/turismo-tempo-libero/ricerca-sponsor-fiere-ed-eventi-promozione-turistica-RLP12025047583",
@@ -2682,6 +2670,18 @@
             "title": "PSN/PAC 2023-2027 \"Sostegno ad azioni pilota e di collaudo dell'innovazione\" - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRG08. Dotazione finanziaria di € 6.000.000,00. Domande dal 15 luglio al 17 novembre 2025. Possono partecipare: imprese in forma singola e/o associata del settore agricolo e della filiera agroalimentare con sede operativa in Lombardia; associazioni di produttori agricoli o agroindustriali con sede operativa in Lombardia; organizzazioni interprofessionali di imprese agricole/agroindustriali riconosciute con sede operativa in Lombardia; enti di ricerca pubblici e privati e imprese operanti nel settore della ricerca; soggetti erogatori di consulenza; Consorzi di tutela dei prodotti di qualità con sede operativa in \nLombardia; Distretti del Cibo (distretti rurali, i distretti agroalimentari di qualità e i distretti di filiera) e i Distretti Biologici con sede operativa in Lombardia; Imprese operanti nel settore di servizi e mezzi tecnici, inclusa la digitalizzazione per il settore agricolo.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-sostegno-ad-azioni-pilota-collaudo-innovazione-sviluppo-rurale-bando-2025-RLM12025046963",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PSN/PAC 2023-2027 \"Formazione degli imprenditori agricoli, degli addetti alle imprese operanti nei settori agricoltura, zootecnia, industrie alimentari, e degli altri soggetti privati e pubblici funzionali allo sviluppo delle aree rurali\" - Sviluppo Rurale/bando 2025",
+            "description": "INTERVENTO SRH03. Dotazione finanziaria di € 600.000,00. Domande dal: 15 luglio 2025 - 15 settembre 2025; 10 novembre 2025 – 22 dicembre 2025; 16 febbraio 2026 – 12 marzo 2026; 15 maggio 2026 – 25 giugno 2026. Possono partecipare: enti di formazione accreditati.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-formazione-imprenditori-agricoli-addetti-imprese-operanti-settori-agricoltura-zootecnia-industrie-alimentari-altri-soggetti-privati-pubblici-funzionali-sviluppo-aree-rurali-sviluppo-rurale-bando-2025-RLM12025048003",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

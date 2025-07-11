@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-07-10 05:04:22",
+    "scraping_timestamp": "2025-07-11 07:12:07",
     "data": [
-        {
-            "deadline": "2025-07-10",
-            "title": "Fast Track 2025: aperto il bando per accelerare l’ingresso sul mercato di soluzioni innovative",
-            "description": "L’iniziativa è destinata a progetti e start-up già finanziati da EIT RawMaterials nel 2025, con l’obiettivo di fornire un sostegno supplementare per completare il percorso verso la commercializzazione",
-            "link": "https://first.art-er.it/news/eit-rawmaterials-lanciato-il-bando-fast-track-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 8.000.000"
-            }
-        },
-        {
-            "deadline": "2025-07-10",
-            "title": "Sviluppo urbano: IURC apre le candidature a città e regioni UE",
-            "description": "Il programma sostiene la cooperazione tra città e regioni dell'UE e dell'Asia, Australia, America Latina e Caraibi",
-            "link": "https://first.art-er.it/news/citta-e-regioni-ue-verso-nuove-alleanze-globali-iurc",
-            "custom": {
-                "Topics": "Cooperazione internazionale",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-10",
-            "title": "EIT Food: aperta la sesta finestra del bando 'Impact Funding Framework'",
-            "description": "Fino al 10 luglio 2025 è possibile candidarsi alla sesta finestra del bando europeo dedicato a progetti per un sistema alimentare più sano, equo e sostenibile",
-            "link": "https://first.art-er.it/news/eit-food-sesta-finestra-di-impact-funding-framework",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
         {
             "deadline": "2025-07-11",
             "title": "EIT Culture & Creativity: al via le call 2025 per l’accelerazione delle imprese culturali e creative",
@@ -272,6 +236,18 @@
             "link": "https://first.art-er.it/news/friend-cci-call-sulle-imprese-culturali-e-creative",
             "custom": {
                 "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Italia-Corea del Sud: aperto il nuovo bando per progetti di ricerca congiunti",
+            "description": "Il bando finanzia progetti di ricerca scientifica e tecnologica tra enti dei due paesi e su specifici ambiti tematici",
+            "link": "https://first.art-er.it/news/nuovo-bando-di-ricerca-congiunta-italia-corea",
+            "custom": {
+                "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
@@ -635,6 +611,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 8.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-11",
+            "title": "Progetto AID4SME: nuovo bando per soluzioni di Intelligenza Artificiale e data-driven delle PMI",
+            "description": "Aperta la prima call AID4SME per finanziare progetti basati su Intelligenza Artificiale e tecnologie data-driven",
+            "link": "https://first.art-er.it/news/aid4sme-bandi-soluzioni-ai-e-data-driven-delle-pmi",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 150.000 a progetto"
             }
         },
         {
@@ -1023,6 +1011,30 @@
         },
         {
             "deadline": "2025-09-30",
+            "title": "Aperto il bando DEEPACT: supporto a startup e PMI Deep Tech per i bandi EIC Accelerator e EIC STEP Up di Horizon Europe",
+            "description": "Il programma DEEPACT (High Impact ACTion to Accelerate DEEP Tech Ecosystems) della Fondazione LINKS mira a migliorare la capacità del territorio di attrarre finanziamenti competitivi per l'innovazione \"Deep Tech\"",
+            "link": "https://first.art-er.it/news/aperto-il-bando-deepact-startup-e-pmi-deep-tech",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "EIT Culture & Creativity: aperta la call per finanziare formazione avanzata",
+            "description": "Aperta la call EIT Culture & Creativity 2025 per sostenere moduli formativi innovativi nei settori culturali e creativi",
+            "link": "https://first.art-er.it/news/eit-culture-creativity-apre-la-call-master-e-phd",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 275.000"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
             "title": "Autoproduzione di energia da fonti rinnovabili nelle PMI: aperto il secondo sportello MIMIT",
             "description": "La misura del Ministero prevede incentivi per impianti solari fotovoltaici o mini eolici e sistemi di accumulo dell’energia e per l’autoconsumo differito",
             "link": "https://first.art-er.it/news/mimit-autoproduzione-di-energia-da-fonti-rinnovabili-1",
@@ -1226,6 +1238,18 @@
             }
         },
         {
+            "deadline": "2025-10-14",
+            "title": "Horizon Europe: bando ERC Starting Grants 2026",
+            "description": "C'è tempo fino al prossimo 14 ottobre per partecipare agli ERC Starting Grants, pensati per supportare ricercatori eccellenti ed emergenti nella fase della carriera di avvio delle proprie attività di ricerca indipendenti",
+            "link": "https://first.art-er.it/news/erc-pubblicato-il-bando-erc-starting-grants-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 705.100.000"
+            }
+        },
+        {
             "deadline": "2025-10-15",
             "title": "European Innovation Ecosystems (EIE): i bandi 2025 di Horizon Europe",
             "description": "Aperti 2 nuovi bandi EIE che mirano a creare ed espandere ecosistemi dell'innovazione più connessi, inclusivi ed efficienti, che sostengano la scalabilità delle imprese e stimolino l'innovazione",
@@ -1307,6 +1331,18 @@
                 "Area Classification": "Italia",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-05",
+            "title": "Horizon Europe: bando ERC Synergy Grants 2026",
+            "description": "Gli ERC Synergy Grants sono pensati per supportare la ricerca collaborativa d'avanguardia, in grado di dare risultati scientifici innovativi o anche imprevedibili",
+            "link": "https://first.art-er.it/news/erc-pubblicato-il-bando-erc-synergy-grants-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 500.000.000"
             }
         },
         {
@@ -1415,6 +1451,18 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 38.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-20",
+            "title": "Chips JU: aperte nuove call nell'ambito tecnologico dei semiconduttori",
+            "description": "La partnership europea Chips JU ha aperto nuovi bandi legati alla produzione e alla ricerca sui semiconduttori",
+            "link": "https://first.art-er.it/news/partnership-europea-chips-ju-nuovi-bandi-aperti",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cooperazione internazionale, Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1535,6 +1583,42 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "da € 10.000.000 a 30.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Grant e Consortium Agreement di un progetto europeo di innovazione digitale: i servizi di consulenza di ER2Digit",
+            "description": "ER2Digit offre alle PMI dell'Emilia-Romagna due servizi di consulenza dedicati alla revisione dei due importanti documenti, con l'obiettivo di tutelare gli interessi dell'impresa",
+            "link": "https://first.art-er.it/news/grant-e-consortium-agreement-di-un-progetto-europeo-di-innovazione-digitale-i-servizi-di",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding, Deep tech, Quantum",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Budget di una proposta progettuale di innovazione digitale: il servizio di consulenza di ER2Digit",
+            "description": "ER2Digit offre alle PMI dell'Emilia-Romagna un servizio di consulenza dedicato a revisionare il budget di una proposta progettuale in risposta ad un bando europeo",
+            "link": "https://first.art-er.it/news/budget-di-un-progetto-eu-il-servizio-di-consulenza-di-er2digit",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding, Deep tech, Quantum",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Opportunità di finanziamento per innovazioni digitiali di PMI: i servizi di consulenza di ER2Digit",
+            "description": "ER2Digit offre una serie di servizi combinati per supportare le PMI dell'Emilia-Romagna ad accedere alle opportunità di finanziamento europee",
+            "link": "https://first.art-er.it/news/finanziamento-eu-digitale-i-servizi-di-er2digit",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding, Deep tech, Quantum",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1667,6 +1751,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 270.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-12",
+            "title": "Mobilità urbana sostenibile: bando EIT per corsi di formazione professionale",
+            "description": "Il programma UMX dell'EIT Urban Mobility punta a formare oltre 50.000 professionisti della mobilità entro il 2027, integrando enti pubblici, imprese, università e organizzazioni del terzo settore",
+            "link": "https://first.art-er.it/news/bando-umx-fondi-innovazione-e-formazione-urbana",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 4.000.000"
             }
         },
         {
