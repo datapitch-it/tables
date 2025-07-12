@@ -1,6 +1,42 @@
 {
-    "scraping_timestamp": "2025-07-11 07:14:10",
+    "scraping_timestamp": "2025-07-12 06:05:34",
     "data": [
+        {
+            "deadline": "2025-09-16",
+            "title": "HORIZON Call",
+            "description": "European Commission",
+            "link": "https://gfmd.info/fundings/horizon-call/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "3000000 to 3500000 EUR"
+            }
+        },
+        {
+            "deadline": "2025-09-17",
+            "title": "European Mini-Slate Development Support",
+            "description": "European Commission",
+            "link": "https://gfmd.info/fundings/european-mini-slate-development-support/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "EUR 5,500,000"
+            }
+        },
+        {
+            "deadline": "2025-10-31",
+            "title": "Media Project Funding in Vienna",
+            "description": "Vienna Business Agency",
+            "link": "https://gfmd.info/fundings/media-project-funding-in-vienna/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "EUR 100,000 per project"
+            }
+        },
         {
             "deadline": "2025-09-16",
             "title": "Fighting against disinformation",
@@ -59,30 +95,6 @@
                 "Area Classification": "Latin America and the Caribbean",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "R$80,000.00"
-            }
-        },
-        {
-            "deadline": "2025-07-06",
-            "title": "Helen Darbishire Fund for Civil Society 2025–27",
-            "description": "The Open Government Partnership",
-            "link": "https://gfmd.info/fundings/helen-darbishire-fund-for-civil-society-2025-27/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-07-10",
-            "title": "Travel and Reporting Grants for Visegrad Journalists",
-            "description": "Balkan Investigative Reporting Network (BIRN)",
-            "link": "https://gfmd.info/fundings/travel-and-reporting-grants-for-visegrad-journalists/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€2,500 grant"
             }
         },
         {
@@ -167,18 +179,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€80,000 allocated per round."
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Immediate Needs Grant for Huntington County",
-            "description": "Community Foundation of Huntington County",
-            "link": "https://gfmd.info/fundings/immediate-needs-grant-for-huntington-county/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "No Region",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to $1,500."
             }
         },
         {
