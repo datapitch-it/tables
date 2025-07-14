@@ -1,30 +1,58 @@
 {
-    "scraping_timestamp": "2025-07-12 18:04:18",
+    "scraping_timestamp": "2025-07-14 07:03:05",
     "data": [
         {
-            "deadline": "2025-07-22",
-            "title": "AVVISO PUBBLICO INCARICHI DI LAVORO AUTONOMO \"AREA INTERNA ALTO SANGRO - VALLE DEL SAGITTARIO",
-            "description": "<p><a>AVVISO PUBBLICO PER IL CONFERIMENTO DI N. 5 INCARICHI DI LAVORO AUTONOMO, EX ART. 7 COMMI 6 E 6-BIS DEL D.LGS. N. 165/2001 E S.M.I., PER LA COSTITUZIONE DEL GRUPPO DI LAVORO PROFESSIONALE \"UFFICIO UNICO COALIZIONE TERRITORIALE\" PER LE ATTIVITA’ DI PROGETTAZIONE E SUPPORTO ALLA PREPARAZIONE E GESTIONE DELLE STRATEGIE TERRITORIALI 2021/2027 DELLE AREE INTERNE DELLA REGIONE ABRUZZO - AREA INTERNA “ALTO SANGRO – VALLE DEL SAGITTARIO” – PROGRAMMA REGIONALE ABRUZZO FESR 2021/2027 – AZIONE 5.1.1 / AZIONE 5.2.1 – CUP C35D24000050009.</a></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0305f1b4d8e1402c8a92b3efd4d36601",
+            "deadline": "N/A",
+            "title": "Smart&Start Italia",
+            "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2025-07-28",
-            "title": "Comune di Torrioni - Avviso pubblico di selezione comparativa ex art. 110 co. 1 TUEL - Un incarico a tempo determinato 18 ore settimanali ex Cat D - Area Contabile (EQ)",
-            "description": "<p>&nbsp;Avviso pubblico di selezione comparativa ex art. 110 co. 1 TUEL - Un incarico a tempo determinato 18 ore settimanali &nbsp;ex Cat D &nbsp;- Area Contabile &nbsp;(EQ)</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6142cc26e63045b1bbd3f1336bbc396b",
+            "deadline": "2018-01-15",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Imprenditoria femminile",
+            "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Nuovo ecobonus - L’incentivo per la mobilità sostenibile",
+            "description": "Una risposta concreta per una mobilità più sostenibile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/nuovo-ecobonus-lincentivo-la-mobilita-sostenibile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
                 }
             }
@@ -33,7 +61,7 @@
             "deadline": "N/A",
             "title": "PNC Sisma - NEXT APPENNINO",
             "description": "Programma per il rilancio economico e sociale delle Regioni del Centro Italia colpite dai terremoti del 2009 e del 2016",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -47,49 +75,7 @@
             "deadline": "2024-07-01",
             "title": "Laboratorio per l'Imprenditorialità",
             "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-09-15",
-            "title": "Accedere",
-            "description": "Il Programma per l’ingresso dei soggetti svantaggiati nel mercato del lavoro",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-05-06",
-            "title": "Imprese Borghi",
-            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-12-21",
-            "title": "SmartMoney Capo III",
-            "description": "L’incentivo che supporta gli investimenti nel capitale di rischio delle startup",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-iii?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -101,107 +87,9 @@
         },
         {
             "deadline": "2024-12-31",
-            "title": "SmartMoney Capo II",
-            "description": "L’incentivo per le startup innovative che si preparano al lancio sul mercato",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-ii?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2017-11-07",
-            "title": "Italia Economia Sociale",
-            "description": "La misura finanzia investimenti ad alto impatto sociale e culturale sostenibili sul piano ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/italia-economia-sociale",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2016-09-15",
-            "title": "Cultura Crea",
-            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-05-21",
-            "title": "Investimenti per le imprese boschive e della lavorazione del legno",
-            "description": "Incentivi per favorire l'innovazione tecnologica nell'industria della lavorazione del legno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-le-imprese-boschive-e-della-lavorazione-del-legno",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2022-11-17",
-            "title": "Sviluppo della logistica agroalimentare",
-            "description": "L'incentivo per innovare la logistica e ridurre l'impatto ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sviluppo-della-logistica-agroalimentare",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2017-04-11",
-            "title": "Agevolazioni per le imprese confiscate o sequestrate alla criminalità",
-            "description": "Finanziamenti a tasso zero per le imprese confiscate o sequestrate alla criminalità organizzata",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/agevolazioni-le-imprese-confiscate-o-sequestrate-alla-criminalita",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-01-31",
-            "title": "Investimenti nel settore tessile, moda e accessori",
-            "description": "L’incentivo per favorire la transizione ecologica e digitale delle imprese",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nel-settore-tessile-moda-e-accessori",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-06-15",
-            "title": "SELFIEmployment",
-            "description": "Prestiti a tasso zero per giovani, donne e disoccupati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/selfiemployment?from=/per-chi-vuole-fare-impresa/incentivi",
+            "title": "Tessile, Moda e Accessori",
+            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
