@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-07-16 06:35:55",
+    "scraping_timestamp": "2025-07-17 06:54:48",
     "data": [
-        {
-            "deadline": "2025-07-16",
-            "title": "Aperto un bando per progetti faro su comunità energetiche nei Balcani",
-            "description": "Il bando offre assistenza tecnica e fondi fino a 200mila euro di contributo",
-            "link": "https://first.art-er.it/news/bando-ue-comunita-energetiche-nei-balcani",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "fino a € 200.000"
-            }
-        },
-        {
-            "deadline": "2025-07-16",
-            "title": "Progetto AIRISE: al via la quinta open call a sostegno dell’innovazione digitale",
-            "description": "AIRISE sostiene la transizione digitale e green delle imprese manifatturiere europee con servizi tecnici personalizzati e finanziamenti diretti",
-            "link": "https://first.art-er.it/news/tecnologie-avanzate-bando-la-digitalizzazione",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 800.000"
-            }
-        },
         {
             "deadline": "2025-07-25",
             "title": "Al via l’undicesima edizione del Premio Innovatori Responsabili 2025",
