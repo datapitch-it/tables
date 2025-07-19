@@ -261,7 +261,7 @@ function displayCards(items) {
             <div class="card">
                 <div class="card-body">
                     <h6 class="card-subtitle mb-2 text-muted">DEADLINE: ${item.deadline} | SOURCE: ${item.source}</h6>
-                    <a href="${item.link}" class="card-title" target="_blank"><h5 class="text-primary">${item.title}</h5></a>
+                    <a href="${item.link}" class="card-title" target="_blank"><h5>${item.title}</h5></a>
                     ${descriptionContentHtml}
                     <p class="card-text"><small class="text-muted">${item.tags.join(', ') || 'N/A'}</small></p>
                 </div>

@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-07-17 06:54:48",
+    "scraping_timestamp": "2025-07-19 05:46:34",
     "data": [
         {
             "deadline": "2025-07-25",
@@ -363,6 +363,18 @@
         },
         {
             "deadline": "2025-09-04",
+            "title": "Eurostars-3 Call 9: aperto il nuovo bando transnazionale per PMI innovative",
+            "description": "Il bando sostiene le PMI che mirano a collaborare a livello internazionale, promuovendo al contempo la crescita sostenibile e l’innovazione tecnologica",
+            "link": "https://first.art-er.it/news/bando-transnazionale-progetti-di-rs-collaborativi-1",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-04",
             "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: i bandi two stage 2025 di Horizon Europe",
             "description": "Aperti 2 bandi two stage Food sui temi dell'Alimentazione, bioeconomia, risorse naturali, agricoltura e ambiente",
             "link": "https://first.art-er.it/news/food-le-call-2025-two-stage-di-horizon-europe",
@@ -410,6 +422,18 @@
             }
         },
         {
+            "deadline": "2025-09-05",
+            "title": "BIND 4.0: al via la 10ª edizione del programma di accelerazione per startup innovative",
+            "description": "Candidature aperte fino al 5 settembre 2025 per progetti ad alto impatto tecnologico nei settori Industry 4.0, salute, energia, sostenibilità e food",
+            "link": "https://first.art-er.it/news/bind-40-al-la-10a-edizione-del-programma",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-09-08",
             "title": "3DOP: secondo cutoff della call per PMI nel settore della stampa 3D",
             "description": "Il bando mira ad accelerare la transizione digitale e la competitività delle PMI manifatturiere attraverso l’innovazione nella stampa 3D",
@@ -443,6 +467,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 300.000"
+            }
+        },
+        {
+            "deadline": "2025-09-10",
+            "title": "6G-PATH: aperta la seconda call per l’innovazione tecnologica nei settori strategici",
+            "description": "La nuova call 6G-PATH seleziona progetti per testare tecnologie oltre il 5G su piattaforme europee dedicate ai settori strategici",
+            "link": "https://first.art-er.it/news/6g-path-lanciata-la-seconda-open-call-del-progetto",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 60.000 per application"
             }
         },
         {
@@ -770,6 +806,18 @@
             }
         },
         {
+            "deadline": "2025-09-22",
+            "title": "Mobile responsive launch systems: nuovo bando UE per rafforzare l’autonomia spaziale europea",
+            "description": "Il bando ha lo scopo di sviluppare studi per sistemi di lancio mobili e reattivi a scopo di difesa e sicurezza",
+            "link": "https://first.art-er.it/news/bando-sistemi-di-lancio-spaziale-mobili-e-reattivi",
+            "custom": {
+                "Topics": "Difesa UE",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.950.000"
+            }
+        },
+        {
             "deadline": "2025-09-23",
             "title": "Mobilità urbana sostenibile: nuovo bando EIT per soluzioni innovative",
             "description": "Il bando finanzia lo sviluppo di soluzioni ad alto impatto che affrontino le sfide più pressanti della mobilità urbana",
@@ -887,6 +935,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 30.000 per singolo progetto"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Bando congiunto Italia-Tunisia per ricerca e formazione",
+            "description": "Al via la Joint Call 2025: 500.000 euro per promuovere cooperazione scientifica e accademica tra i due Paesi",
+            "link": "https://first.art-er.it/news/bando-congiunto-italia-tunisia",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 500.000"
             }
         },
         {
@@ -1011,6 +1071,18 @@
         },
         {
             "deadline": "2025-10-02",
+            "title": "EuroHPC JU: pubblicati due bandi su competenze e reti per il calcolo ad alte prestazioni",
+            "description": "Pubblicati due bandi per rafforzare le competenze in ambito HPC e potenziare i Centri Nazionali di Competenza in Europa",
+            "link": "https://first.art-er.it/news/eurohpc-ju-aperti-due-bandi-su-competenze-e-reti-hpc",
+            "custom": {
+                "Topics": "Talenti e competenze",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Il bando Horizon Europe: €1.000.000Il bando Digital Europe: € 42.000.000"
+            }
+        },
+        {
+            "deadline": "2025-10-02",
             "title": "L’UE lancia un bando per promuovere l'Intelligenza Artificiale generativa in Africa",
             "description": "Fino al 2 ottobre 2025, è possibile candidarsi al bando per finanziare soluzioni di IA generativa a supporto di agricoltura, sanità, infrastrutture e competenze digitali in Africa",
             "link": "https://first.art-er.it/news/lue-lancia-un-bando-promuovere-lintelligenza-artificiale-generativa-africa",
@@ -1115,6 +1187,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-10-12",
+            "title": "FORWARDS: nuovo bando per il coinvolgimento attivo dei cittadini nella gestione forestale climatica",
+            "description": "Il bando a cascata del progetto FORWARDS sostiene iniziative partecipative nel campo della Climate-Smart Forestry (CSF) e della restaurazione forestale.",
+            "link": "https://first.art-er.it/news/coinvolgimento-civico-e-foreste-aperto-nuovo-bando",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 123.750"
             }
         },
         {
@@ -1726,6 +1810,18 @@
                 "Topics": "Deep tech",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2027-03-15",
+            "title": "Spazio: aperte due manifestazioni di interesse per esperimenti innovativi in orbita",
+            "description": "L'Unione europea cerca progetti per sperimentazioni innovative in orbita",
+            "link": "https://first.art-er.it/news/manifestazioni-di-interesse-innovazioni-orbita",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "N/A"
             }
         },
