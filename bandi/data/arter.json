@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-07-23 11:28:28",
+    "scraping_timestamp": "2025-07-25 13:08:38",
     "data": [
         {
             "deadline": "2025-07-25",
@@ -191,6 +191,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 300.000 per progetto"
+            }
+        },
+        {
+            "deadline": "2025-08-15",
+            "title": "Single European Sky: aperta la call per esperti sulla dimensione umana",
+            "description": "La Commissione cerca nuovi membri per contribuire all’evoluzione tecnica e operativa del Cielo Unico Europeo con un focus sulla dimensione umana",
+            "link": "https://first.art-er.it/news/call-ue-esperti-sul-cielo-unico-europeo",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -459,6 +471,18 @@
         },
         {
             "deadline": "2025-09-09",
+            "title": "EIC Community and Ecosystem Partnership Programme: aperto il bando di gara",
+            "description": "Il programma EIC Ecosystem Partnerships and Co-Investment Support è stato lanciato nel 2022 dallo European Innovation Council di Horizon Europe con l’obiettivo di offrire servizi specialistici ai beneficiari EIC",
+            "link": "https://first.art-er.it/news/eic-community-and-ecosystem-partnership-bando-di-gara",
+            "custom": {
+                "Topics": "Gender equality",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 7.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-09",
             "title": "EP PerMed: aperta la Education call per lo sviluppo di corsi online sulla medicina personalizzata",
             "description": "L'obiettivo è di supportare la realizzazione di contenuti formativi di alta qualità rivolti ai professionisti del settore sanitario",
             "link": "https://first.art-er.it/news/ep-permed-bando-lo-sviluppo-di-corsi-online",
@@ -602,6 +626,18 @@
             }
         },
         {
+            "deadline": "2025-09-15",
+            "title": "MANTRA: aperti due bandi per PMI manifatturiere e tecnologiche",
+            "description": "Il progetto MANTRA seleziona 50 PMI manifatturiere e un pool di imprese tecnologiche per progetti pilota di trasformazione digitale e sostenibile",
+            "link": "https://first.art-er.it/news/aperti-due-bandi-mantra-pmi-manifatturiere-e-tech",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 50.000"
+            }
+        },
+        {
             "deadline": "2025-09-16",
             "title": "Azioni Marie Skłodowska-Curie: nuovo bando a favore dei ricercatori ucraini",
             "description": "L'iniziativa MSCA4Ukraine sostiene dottorandi e ricercatori post-doc ucraini sfollati per aiutarli a proseguire la propria attività scientifica in condizioni di sicurezza",
@@ -683,6 +719,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 254.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-17",
+            "title": "EURL: aperta la call per il laboratorio di riferimento UE sui virus respiratori",
+            "description": "La Commissione europea cerca nuovi Laboratori di riferimento dell’Unione europea (EURL) di eccellenza per rafforzare il monitoraggio e la risposta alle minacce sanitarie transfrontaliere",
+            "link": "https://first.art-er.it/news/nuovi-eurl-la-salute-pubblica-al-la-selezione",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -887,6 +935,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 139.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-25",
+            "title": "POLREC Awards 2025: al via il premio per PMI innovative nel riciclo dei polimeri",
+            "description": "Il bando ha lo scopo di riconoscere l’eccellenza delle PMI europee attive nel riciclo dei polimeri nelle categorie innovazione, formazione e internazionalizzazione",
+            "link": "https://first.art-er.it/news/polrec-awards-2025-premi-il-riciclo-dei-polimeri",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 6.000"
             }
         },
         {
@@ -1274,6 +1334,18 @@
             }
         },
         {
+            "deadline": "2025-10-29",
+            "title": "Bando 2025 EIC Pathfinder di Horizon Europe: supporto per la ricerca o lo sviluppo di tecnologie emergenti rivoluzionarie",
+            "description": "Quattro sfide strategiche per sviluppare tecnologie dirompenti in agricoltura, sanità, robotica ed economia circolare",
+            "link": "https://first.art-er.it/news/bando-2025-eic-pathfinder-di-horizon-europe",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 120.000.000"
+            }
+        },
+        {
             "deadline": "2025-10-31",
             "title": "ESA: al via una nuova call per rafforzare la resilienza costiera al cambiamento climatico",
             "description": "Fino al 31 ottobre le imprese possono candidarsi alla call ESA per sviluppare soluzioni innovative per la resilienza costiera",
@@ -1439,6 +1511,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-26",
+            "title": "EIC: al via il bando dedicato alle startup deep-tech ucraine",
+            "description": "Lo European Innovation Council (EIC) ha aperto un bando per PMI e startup ucraine, con focus su tecnologie innovative e accesso facilitato all’EIC Accelerator",
+            "link": "https://first.art-er.it/news/eic-bando-startup-ucraine-deep-tech",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
             }
         },
         {
