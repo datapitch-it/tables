@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-07-23 11:30:54",
+    "scraping_timestamp": "2025-07-25 13:11:10",
     "data": [
+        {
+            "deadline": "2025-09-30 23:59",
+            "title": "Accesso contributi regionali per le associazioni qualificate di pescatori dilettanti  ricreative anno 2025",
+            "description": "Disposizioni attuative presentazione domande. Possono accedere al finanziamento programmi da realizzarsi sul territorio regionale, con \nl’esclusione della provincia di Sondrio. I beneficiari sono le Associazioni qualificate di pescatori dilettanti ricreative. Dotazione finanziaria pari a  € 200.000,00.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/pesca/accesso-contributi-regionali-associazioni-qualificate-pescatori-dilettanti-ricreative-anno-2025-RLM12025048483",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-04-17 17:00",
+            "title": "Percorsi di Istruzione e Formazione professionale (IeFP) finanziati a valere sul Budget Duale IeFP – a.f. 2025/2026",
+            "description": "L’Avviso approvato con Decreto n. 9578 del 7 luglio 2025 ha l’obiettivo di realizzare e finanziare percorsi e progetti del sistema regionale di Istruzione e Formazione Professionale che garantiscono esperienze formative di qualità fortemente integrate con il mondo delle imprese. Lo scopo è di contrastare la dispersione scolastica, promuovere l’occupabilità dei giovani, rafforzare la competitività del sistema economico regionale, sostenere gli studenti più fragili e vulnerabili.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-istruzione-formazione-professionale-iefp-finanziati-valere-budget-duale-iefp-f-2025-2026-RLW12025047603",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-09-23 12:00",
             "title": "AVVISO NON COMPETITIVO ARTT. 37-40 L.R. 1/2008 - ANNO 2025",
@@ -1778,18 +1802,6 @@
             }
         },
         {
-            "deadline": "2025-07-31 17:00",
-            "title": "Formazione continua 2023 - Voucher aziendali",
-            "description": "AVVISO PUBBLICO PER L’ASSEGNAZIONE DI VOUCHER AZIENDALI A CATALOGO PER INTERVENTI DI FORMAZIONE CONTINUA A VALERE SUL PROGRAMMA REGIONALE LOMBARDIA FSE+ 2021-2027 - SECONDA EDIZIONE.\n\nL'Organismo Intermedio per il bando è Unioncamere Lombardia.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/formazione-continua-2023-voucher-aziendali-RLW12023032783",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-12-31 12:00",
             "title": "Dote Unica Lavoro - Quinta fase",
             "description": "Avviso pubblico Dote Unica Lavoro - Quinta fase. Azione complementare al programma GOL, in attuazione della DGR n. XI/7724 del 28/12/2022. PR FSE+ 2021/2027",
@@ -1850,10 +1862,10 @@
             }
         },
         {
-            "deadline": "N/A",
+            "deadline": "2025-07-31 23:59",
             "title": "Patrocinio Consiglio regionale",
             "description": "Concessione di patrocini da parte del Consiglio regionale, ai sensi dell’articolo 12 della l.r. n. 5/2007, per iniziative di particolare interesse e rilievo regionale",
-            "link": "https://www.bandi.regione.lombardia.ithttp://www.consiglio.regione.lombardia.it/wps/portal/crl/home/per-il-cittadino/patrocini",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/finanza-locale/patrocinio-consiglio-regionale-CRLA2018006082",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2727,9 +2739,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Percorsi di Istruzione e Formazione professionale (IeFP) finanziati a valere sul Budget Duale IeFP – a.f. 2025/2026",
-            "description": "L’Avviso approvato con Decreto n. 9578 del 7 luglio 2025 ha l’obiettivo di realizzare e finanziare percorsi e progetti del sistema regionale di Istruzione e Formazione Professionale che garantiscono esperienze formative di qualità fortemente integrate con il mondo delle imprese. Lo scopo è di contrastare la dispersione scolastica, promuovere l’occupabilità dei giovani, rafforzare la competitività del sistema economico regionale, sostenere gli studenti più fragili e vulnerabili.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/percorsi-istruzione-formazione-professionale-iefp-finanziati-valere-budget-duale-iefp-f-2025-2026-RLW12025047603",
+            "title": "Rendicontazione delle spese di prima emergenza sostenute dagli Enti locali in conseguenza di eventi calamitosi naturali occorsi sul territorio della Regione Lombardia nel corso degli anni 2024 e 2025",
+            "description": "Rendicontazione delle spese di prima emergenza sostenute dagli Enti locali per fronteggiare le emergenze conseguenti a eventi calamitosi naturali degli anni 2024 e 2025, con riferimento ai criteri fissati dalla D.G.R. 22 luglio 2025 - n. XII/4773 e ai contenuti del successivo D.D.U.O. n. 10490 del 23 luglio 2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/rendicontazione-spese-prima-emergenza-sostenute-enti-locali-conseguenza-eventi-calamitosi-naturali-occorsi-territorio-regione-lombardia-corso-anni-2024-2025-RLY12025046704",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2838,6 +2850,18 @@
             "title": "Investimenti - Linea Impresa efficiente",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/investimenti-linea-impresa-efficiente-RLO12025046583",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PSN/PAC 2023-2027 \"Investimenti non produttivi agricoli con finalità ambientale\" - Azione 1 - finalità 1.8 e 1.9",
+            "description": "INTERVENTO SRD04. Dotazione finanziaria di € 5.000.000,00. Domande dal 26 settembre al 22 dicembre 2025. Possono partecipare: enti gestori del territorio pubblici o privati, anche associati, in particolare: Comuni, Province, Comunità Montane, Enti parco, Soggetti gestori delle Aree Natura 2000.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-non-produttivi-agricoli-finalit-ambientale-azione-1-finalit-1-8-1-9-RLM12025048503",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
