@@ -1,11 +1,11 @@
 {
-    "scraping_timestamp": "2025-07-28 17:05:52",
+    "scraping_timestamp": "2025-08-03 06:52:31",
     "data": [
         {
-            "deadline": "2025-08-07",
-            "title": "AVVISO DI INDIZIONE DI UNA PROCEDURA DI STABILIZZAZIONE, PREVIO COLLOQUIO SELETTIVO, AI SENSI DELL’ART. 3, COMMA 5 (CONVERTITO CON MODIFICAZIONE DALLA L. 21 GIUGNO 2023, N.74), PER L’ASSUNZIONE DI N. 1 UNITÀ DI PERSONALE CON PROFILO PROFESSIONALE DI COLLABORATORE \"AUSILIARIO DEL TRAFFICO\" – AREA DEGLI OPERATORI ESPERTI, A TEMPO PIENO E INDETERMINATO",
-            "description": "<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Times New Roman','serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">AVVISO DI INDIZIONE DI UNA PROCEDURA DI STABILIZZAZIONE, PREVIO COLLOQUIO SELETTIVO, AI SENSI DELL’ART. 3, COMMA 5 (CONVERTITO CON MODIFICAZIONE DALLA L. 21 GIUGNO 2023, N.74), PER L’ASSUNZIONE DI N. 1 UNITÀ DI PERSONALE CON PROFILO PROFESSIONALE DI COLLABORATORE \"AUSILIARIO DEL TRAFFICO\" – AREA DEGLI OPERATORI ESPERTI, A TEMPO PIENO E INDETERMINATO</span></strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ced611d8987148599490cc4b35d9effb",
+            "deadline": "2025-10-31 18:00",
+            "title": "Invito ai Fondi Paritetici Interprofessionali e Bilaterali a presentare manifestazioni di interesse",
+            "description": "Invito pubblico alla presentazione di manifestazioni di interesse per la sottoscrizione di uno Schema di Protocollo di Intesa Quadro tra Regione Lombardia e i Fondi Paritetici Interprofessionali e Bilaterali, finalizzato alla realizzazione congiunta di attività formative e politiche attive del lavoro sul territorio regionale.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/invito-fondi-paritetici-interprofessionali-bilaterali-presentare-manifestazioni-interesse-RLW12025048843",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -16,52 +16,669 @@
             }
         },
         {
-            "deadline": "2018-01-15",
-            "title": "Resto al Sud",
-            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
+            "deadline": "2025-10-02 16:30",
+            "title": "INVITO PER LA PRESENTAZIONE DI PROGETTI DI RESIDENZE ARTISTICHE DI SPETTACOLO DAL VIVO PER IL TRIENNIO 2025/2027 AI SENSI DELL’ART. DELL’ART. 47 DEL D.M. 23 DICEMBRE 2024 REP. 463 – CENTRO DI RESIDENZA",
+            "description": "In relazione a quanto previsto dall’Intesa e dall’Accordo interregionale, Regione Lombardia intende individuare per il triennio 2025/2027 n. 1 Centro di Residenza sul proprio territorio, così come definito al punto A.3 dell’Invito per la presentazione di progetti di residenze artistiche di spettacolo dal vivo ai sensi dell’art. 47 del D.M. 23 dicembre 2024 rep. 463. L’esito della selezione potrà quindi prevedere, in caso positivo, una sola assegnazione come Centro di residenza.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/invito-presentazione-progetti-residenze-artistiche-spettacolo-vivo-triennio-2025-2027-sensi-art-43-d-m-27-luglio-2017-n-332-centro-residenza-RLL12025045203",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-02 16:30",
+            "title": "INVITO PER LA PRESENTAZIONE DI PROGETTI DI RESIDENZE ARTISTICHE DI SPETTACOLO DAL VIVO PER IL TRIENNIO 2025/2027 AI SENSI DELL’ART. DELL’ART. 47 DEL D.M. 23 DICEMBRE 2024 REP. 463 – ARTISTI NEI TERRITORI",
+            "description": "Con il presente Avviso si intendono sostenere le attività di residenze artistiche di spettacolo dal vivo, individuando per il triennio 2025/2027 n. 5 progetti di Artisti nei territori in Lombardia.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/invito-presentazione-progetti-residenze-artistiche-spettacolo-vivo-triennio-2025-2027-sensi-art-43-d-m-27-luglio-2017-n-332-artisti-territori-RLL12025045223",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-15 16:00",
+            "title": "Carta del Turista - Soluzioni digitali",
+            "description": "Apre la manifestazione di interesse volta a individuare soluzioni digitali e soggetti partner per realizzare la Carta del turista, senza oneri a carico di Regione Lombardia, in applicazione della DGR 20 maggio 2024 n.2372.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/turismo-tempo-libero/avviso-manifestazione-interesse-fine-individuare-soluzioni-digitali-soggetti-partner-carta-turista-applicazione-dgr-20-maggio-2024-n-2372-RLP12025046803",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-15 16:00",
+            "title": "Impianti innovativi a biomassa -  Incentivi per la sostituzione degli impianti termici civili più inquinanti con impianti a biomassa a basse emissioni - PMI",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/fonti-energia-rinnovabili/impianti-innovativi-biomassa-incentivi-sostituzione-impianti-termici-civili-pi-inquinanti-impianti-biomassa-basse-emissioni-pmi-RLT12024039685",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-15 16:00",
+            "title": "Impianti innovativi a biomassa -  Incentivi per la sostituzione degli impianti termici civili più inquinanti con impianti a biomassa a basse emissioni -Cittadini",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/fonti-energia-rinnovabili/impianti-innovativi-biomassa-incentivi-sostituzione-impianti-termici-civili-pi-inquinanti-impianti-biomassa-basse-emissioni-cittadini-RLT12024039684",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
             "deadline": "N/A",
-            "title": "Imprenditoria femminile",
-            "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile",
+            "title": "AVVIO PROCEDURA MANIFESTAZIONE DI INTERESSE E RELATIVE DISPOSIZIONI PER LA COSTITUZIONE DELLA COMMISSIONE REGIONALE D’ESAME PER ASPIRANTI GUARDIE ECOLOGICHE (RIF. ART. 5 DELLA L.R. 28 FEBBRAIO 2005, N. 9 «NUOVA DISCIPLINA DEL SERVIZIO VOLONTARIO DI VIGILANZA ECOLOGICA»)",
+            "description": "L’attività della commissione è quella di valutare l’idoneità tecnica delle aspiranti guardie ecologiche volontarie (GEV) attraverso un esame orale rivolto ai cittadini e alle cittadine che hanno partecipato al corso di formazione organizzato dagli enti organizzatori del servizio di vigilanza ecologica.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/avvio-procedura-manifestazione-interesse-relative-disposizioni-costituzione-commissione-regionale-d-esame-aspiranti-guardie-ecologiche-rif-art-5-l-r-28-febbraio-2005-n-9-nuova-disciplina-servizio-volontario-vigilanza-ecologica-RLZ12025048823",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2021-05-19",
-            "title": "ON - Oltre Nuove imprese a tasso zero",
-            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
             "deadline": "N/A",
-            "title": "Beni strumentali - Nuova Sabatini",
-            "description": "Sostiene l’acquisto di nuovi macchinari, impianti e attrezzature",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini",
+            "title": "Inclusione attiva e situazione socio-lavorativa persone con disabilità",
+            "description": "Avviso pubblico per il finanziamento di progetti di inclusione attiva per l’integrazione socio-lavorativa nell’ambito dei progetti di vita indipendente e inclusione delle persone con disabilità per le annualità 2026/2028",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/inclusione-attiva-situazione-socio-lavorativa-disabili-RLD12025047023",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PSN/PAC 2023-2027 - \"Impianti forestazione/Imboschimento di terreni non agricoli\" - Sviluppo Rurale/bando 2025",
+            "description": "INTERVENTO SRD10 - Azione SRD10.2) impianti di arboricoltura a ciclo breve o medio-lungo su superfici non agricole. Dotazione finanziaria: € 570.000,00. Domande dal 26 settembre al 13 novembre 2025. Possono partecipare: proprietari/possessori privati e loro associazioni, nonché altri soggetti ed enti di diritto privato e loro associazioni, titolari della conduzione di superfici non agricole.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-impianti-forestazione-imboschimento-terreni-non-agricoli-sviluppo-rurale-bando-2025-RLM12025048863",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Fondo sociale europeo plus 2021-2027 Priorità 4 Occupazione Giovanile – ZERONEET – Reti di opportunità per l’inserimento occupazionale e le competenze",
+            "description": "BANDO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI INTEGRATI DI RIATTIVAZIONE E INSERIMENTO LAVORATIVO DEI GIOVANI NEET \" ZERONEET - RETI DI OPPORTUNITA’ PER L’INSERIMENTO OCCUPAZIONALE E LE COMPETENZE” D.G.R. N. XII/ 4612 DEL 23/06/2025 (PRIORITA’ 4 OCCUPAZIONE GIOVANI – ESO 4.1 – AZIONE a.4. - PR FSE+ 2021-2027)",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/fondo-sociale-europeo-plus-2021-2027-priorit-4-occupazione-giovanile-zeroneet-reti-opportunit-l-inserimento-occupazionale-competenze-RLW12025046063",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Ri.Circo.Lo.  per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare. Edizione dedicata alla prevenzione e riciclaggio dei rifiuti alimentari",
+            "description": "La misura Ri.Circo.Lo., edizione dedicata alla prevenzione e riciclaggio dei rifiuti alimentari, in attuazione dell’azione 2.6.2 del PR FESR 2021 – 27, promuove azioni di economia circolare da parte delle PMI lombarde, attraverso l’erogazione di finanziamenti pubblici nella forma di contributo a fondo perduto, al fine di agire in più ambiti della filiera alimentare, prevenendo i residui di produzione, sviluppando modifiche migliorative alle linee produttive e favorendo progetti che riducano la quantità degli sprechi alimentari e ne incrementino il riciclaggio, in coerenza con le indicazioni del vigente Programma Regionale di Gestione dei Rifiuti e gli sviluppi dei lavori del tavolo “spreco alimentare” dell’Osservatorio regionale per il Clima, l’Economia Circolare e la Transizione Ecologica.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/prevenzione-riciclaggio-rifiuti-alimentari-RLT12025048723",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-16",
+            "title": "UNIVERSITA' DEL SALENTO: Procedura comparativa per Titoli n. 1 incarico di prestazione di lavoro autonomo in qualità di Esperto dell’analisi quantitativa e qualitativa di documenti testuali in ambito politico, profilo Medio Oriente e Nord, per le esigenze del Progetto Prin dal titolo \"Questioning the EU. Politicisation, representation, and agenda setting in the European Parliament (EUQuest",
+            "description": "<p>DSUS-Avviso pubblico di procedura comparativa per Titoli per il conferimento di n. 1 incarico di prestazione di lavoro autonomo in qualità di Esperto dell’analisi quantitativa e qualitativa di documenti testuali in ambito politico, profilo Medio Oriente e Nord, per le esigenze del Progetto Prin dal titolo \"Questioning the EU. Politicisation, representation, and agenda setting in the European Parliament (EUQuest) - Federico Russo</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=eedec213988d42d3b253aee157faeb28",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-18",
+            "title": "PROCEDURA PER IL CONFERIMENTO DI N.1 CONTRATTO DI COLLABORAZIONE AUTONOMA DI N. 1 ESPERTO IN GESTIONE, RENDICONTAZIONE E CONTROLLO – PROFILO FA JUNIOR",
+            "description": "<p>L’Amministrazione Comunale di Misterbianco intende conferire n. 1 incarico di collaborazione professionale, FA/ Funzionario esperto Amministrativo – profilo JUNIOR per l’attuazione degli interventi riguardanti il PNRR, con conferimento ad un incarico di lavoro di natura autonoma per un periodo dalla sottoscrizione eventuale del contratto e fino al 30.11.2026, a mezzo di valutazione comparativa, ai sensi dell’art. 7, comma 6 del D.lgs. n. 165/2001 e dell’art. 11, comma 2, della legge n. 79 del 29 giugno 2022, di conversione del Decreto Legge n. 36 del 30 aprile 2022, a titolarità del Comune di Misterbianco.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6eb9b695773544dd93fc463e24483b15",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-20",
+            "title": "Avviso di procedura comparativa per la formazione di un elenco di idonei da utilizzarsi per il conferimento di incarichi libero professionali di infermiere presso i servizi di Asp Opus Civium",
+            "description": "<p>Avviso di procedura comparativa per la formazione di un elenco di idonei da utilizzarsi per il conferimento di incarichi libero professionali di infermiere presso i servizi di Asp Opus Civium</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5555700e2ac84d4195a5f04508c22d99",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-19",
+            "title": "Avviso di procedura di valutazione comparativa per un incarico di esperto per redazione critica dei testi - Progetto PRIN 2022 PNRR - Pierres Errantes",
+            "description": "<p>Procedura di valutazione comparativa per titoli e colloquio per l’affidamento di un incarico di lavoro autonomo ad un esperto di provata competenza per attività di “Schedatura e selezione critica di reperti scultorei e architettonici di epoca romana e medievale rinvenuti in contesti di reimpiego a Milano e nell’ager di Milano” finalizzate della revisione redazionale e critica dei testi scientifici da pubblicare nel sito web Pierreserrantes e negli atti del convegno omonimo, e da finanziarsi con i fondi del medesimo progetto.\n <br>\n L’attività concorre al raggiungimento del Milestone 5 del progetto PRIN 2022 PNRR Pierres errantes. Stones' journeys from Antiquity to the Middle Ages, from the Eastern Mediterranean to the Alps, CUP D53D23021310001.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c10f2eb9034740acbd3ea9d1a821ace8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-31",
+            "title": "Manifestazione di Interesse per la formazione di un elenco di Esperti per la composizione della Commissione Esaminatrice nonchè di Segretario",
+            "description": "<p>MANIFESTAZIONE DI INTERESSE PER LA FORMAZIONE DI UN ELENCO DI ESPERTI PER LA COMPOSIZIONE DELLA COMMISSIONE ESAMINATRICE (N.1 PRESIDENTE EFFETTIVO, N.2 COMPONENTI EFFETTIVI E RISPETTIVI SUPPLENTI) NONCHÉ PER IL REPERIMENTO DI UN SEGRETARIO EFFETTIVO E SUPPLENTE PER IL BANDO DI CONCORSO PUBBLICO INDETTO DALL’ODCEC DI FOGGIA</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=902e589415f84945aa0e24f8a19ba1dc",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-18",
+            "title": "AVVISO PUBBLICO FINALIZZATO AL REPERIMENTO DI CANDIDATURE A COMPONENTE DEL NUCLEO DI VALUTAZIONE IN COMPOSIZIONE MONOCRATICA DEL COMUNE DI MATINO PER IL TRIENNIO 2025/2027",
+            "description": "<h1><strong><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-ansi-language: IT;\">AVVISO PUBBLICO </span></strong><strong><span style=\"font-size: 11.0pt; line-height: 104%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: black; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">FINALIZZATO AL REPERIMENTO DI CANDIDATURE A COMPONENTE DEL NUCLEO DI VALUTAZIONE IN COMPOSIZIONE<span style=\"mso-spacerun: yes;\">&nbsp; </span>MONOCRATICA DEL COMUNE DI MATINO PER IL TRIENNIO 2025/2027 </span></strong></h1>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d4a6bf5d22c345559acf53ff7e88831c",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-30",
+            "title": "UNIVERSITA' DEL SALENTO: n. 1 incarico \"Esperto in gestione amministrativo-contabile di progetti di mobilità Erasmus+”",
+            "description": "<p><span style=\"font-size: 12.0pt; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">Procedura comparativa, per titoli e colloquio, per l’affidamento di n. 1 contratto di lavoro autonomo occasionale a supporto delle attività amministrative del Progetto n. 2024-1-IT02 finanziato a valere sull’azione KA131-HED-000224384 del Programma Erasmus+ 2021-2027, così come deliberato dal Consiglio di Amministrazione nella seduta del 26/06/2025 (delibera n. 129/2025) - Profilo professionale: “Esperto in gestione amministrativo-contabile di progetti di mobilità Erasmus+”.</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">PROFILO PROFESSIONALE</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Esperto in gestione amministrativo-contabile di progetti di mobilità Erasmus+</span><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">ATTIVITA DA SVOLGERE</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">La risorsa si occuperà di supportare le attività amministrative del progetto n. 2024-1-IT02-KA131-HED-000224384 finanziato a valere sull’azione KA131-HED del programma Erasmus+ 2021-2027 (call 2024) ed in particolare di:</span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">•gestione amministrativo-contabile della mobilità docenti e personale tecnico-amministrativo (dalla predisposizione del bando alla rendicontazione dei fondi)</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">REQUISITI RICHIESTI PER L’AMMISSIONE</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\"><span style=\"mso-list: Ignore;\">1)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Possesso di uno dei seguenti titoli di studio:</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">•<span style=\"mso-tab-count: 1;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Diploma di laurea del vecchio ordinamento conseguita secondo gli ordinamenti didattici previgenti al D.M. 509/99;</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">•<span style=\"mso-tab-count: 1;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Laurea Specialistica (LS) conseguita ai sensi del DM 3 novembre 1999, n. 509;</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">•<span style=\"mso-tab-count: 1;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Laurea Magistrale (LM) conseguita ai sensi del DM 22 ottobre 2004, n. 270;</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">•<span style=\"mso-tab-count: 1;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Laurea Magistrale a ciclo unico.</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\"><span style=\"mso-list: Ignore;\">2)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">voto di laurea non inferiore a 95/110</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">I requisiti di ammissione devono essere posseduti, a pena di esclusione, alla data di presentazione della domanda.</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">MODALITA DI SELEZIONE</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Valutazione comparativa per titoli e colloquio</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Titoli valutabili (max 60/100 punti)</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Colloquio (max 40/100 punti)</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Il colloquio, oltre ad approfondire le competenze già acquisite dal/dalla candidato/a, sarà volto a valutare le conoscenze sulle tematiche attinenti il profilo professionale ed in particolare:</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">- conoscenza delle caratteristiche del Programma Erasmus</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Punteggio minimo per l’idoneità: 70/100 punti (con almeno 40/100 punti nei titoli e 30/100 punti nel colloquio)</span></strong></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">RESPONSABILE DELL’ESECUZIONE DELL’INCARICO</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Avv. Eliana Teresa GENNARO – Capo Ufficio Mobilità internazionale docenti e personale</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">DURATA DELL’INCARICO</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">L’incarico avrà durata di n. 12 mesi, per un impegno orario indicativo quantificabile in circa 900 ore.</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong><strong><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">LUOGO DI SVOLGIMENTO DELL’INCARICO</span></strong></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">L’incarico dovrà essere espletato presso la sede dell’Ufficio Mobilità internazionale docenti e personale dell’Università del Salento.</span></p>\n<p>Per tutti gli ulteriori dettagli in ordine ai requisiti di accesso, alla valutazione dei titoli e alla modalità di compilazione della domanda, si rimanda al Bando di selezione di cui al D.D. n. 521 del 30.07.2025.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e7508aae626b45ea8cfd2a55bd752597",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-20",
+            "title": "SELEZIONE PER TITOLI E COLLOQUIO PER LA FORMAZIONE DI UNA LONG LIST AI FINI DELL’AFFIDAMENTO DI N. 1 (UNO) INCARICO PROFESSIONALE DI PSICOLOGO NELL'AMBITO DEI SERVIZI SOCIO-ASSISTENZIALI DEI COMUNI DI CAMPOMAGGIORE E DI CASTELMEZZANO",
+            "description": "<p>Il presente avviso pubblico è&nbsp; finalizzato al conferimento di n. 1 (uno) incarico professionale di psicologo. L’incarico avra per oggetto una prestazione di lavoro autonomo, di natura occasionale ai sensi&nbsp;dell’art. 2222 ss. Cod. Civ., senza vincolo di subordinazione, da svolgersi nel rispetto delle direttive fornite dal Responsabile del Servizio competente. &nbsp;\n <br>\n La figura professionale sarà selezionata ai sensi dell’art. 7 co. 6 del D.Lgs. 165 del 30 marzo 2001, dell’art.&nbsp;n. 46 del D.L. 112/2008, convertito in Legge n. 133/2008, sulla base della valutazione del curriculum professionale, volto ad accertare adeguata ed elevata capacita professionale nel settore di che trattasi in&nbsp;quanto figura professionale non reperibile all’interno dell’Ente, per esigenze qualificate e temporanee&nbsp;cui non e &nbsp;possibile far fronte con personale in servizio. &nbsp;\n <br>\n Nei confronti del Professionista incaricato troverà applicazione il Codice di Comportamento dei dipendenti collaboratori e consulenti dei Comuni di Campomaggiore e Castelmezzano.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0cfb9e146e4543b1b8e8f91e22046c28",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-07",
+            "title": "Avviso 0296/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “C.R.E.S.C.I.T.A. Coinvolg. Risorse umane per l'Effic. lo Svil. e la Collabor. Integrata Tra Amministraz. POC al PON 2014-2020 Asse 1 Ob. specifico 1.2 Azione 1.2.3” di cui alla Convenzione del 28/05/2025 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 25032 Ro 31 - CUP J59B24000090001",
+            "description": "<p>AVVISO N.2025/0296</p> \n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “C.R.E.S.C.I.T.A. Coinvolg. Risorse umane per l'Effic. lo Svil. e la Collabor. Integrata Tra Amministraz. POC al PON 2014-2020 Asse 1 Ob. specifico 1.2 Azione 1.2.3” di cui alla Convenzione del 28/05/2025 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 25032 Ro 31 - CUP J59B24000090001</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “C.R.E.S.C.I.T.A. Coinvolg. Risorse umane per l'Effic. lo Svil. e la Collabor. Integrata Tra Amministraz. POC al PON 2014-2020 Asse 1 Ob. specifico 1.2 Azione 1.2.3 ”, n.1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i.</p> \n<p>Requisiti Specifici<br>- Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in analisi del comportamento organizzativo nelle PA, metodologie di valutazione e sperimentazioni sul campo;<br>- Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=70720d098a0f456bad93324e593b5cf1",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-07",
+            "title": "Avviso 0295/2025 per la selezione di n. 2 risorse (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “C.R.E.S.C.I.T.A. Coinvolg. Risorse umane per l'Effic. lo Svil. e la Collabor. Integrata Tra Amministraz. POC al PON 2014-2020 Asse 1 Ob. specifico 1.2 Azione 1.2.3”di cui alla Convenzione del 28/05/2025 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA- RA 25032 Ro 31- CUP J59B24000090001",
+            "description": "<p>Avviso per la selezione di n. 2 risorse (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “C.R.E.S.C.I.T.A. Coinvolg. Risorse umane per l'Effic. lo Svil. e la Collabor. Integrata Tra Amministraz. POC al PON 2014-2020 Asse 1 Ob. specifico 1.2 Azione 1.2.3”di cui alla Convenzione del 28/05/2025 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA- RA 25032 Ro 31- CUP J59B24000090001</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “C.R.E.S.C.I.T.A. Coinvolg. Risorse umane per l'Effic. lo Svil. e la Collabor. Integrata Tra Amministraz. POC al PON 2014-2020 Asse 1 Ob. specifico 1.2 Azione 1.2.3 ”, n.2 risorse da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p><strong>Requisiti Specifici</strong></p> \n<p><br>- Livello di seniority: oltre 7 anni fino a 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in materia di Comportamenti di Cittadinanza Organizzativa (OCB) e di nudging nelle PA;<br>- Titolo di studio: Laurea specialistica;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5ed04aa1515f4b4ca1b7edc2ede159bf",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-07",
+            "title": "Avviso 0293/2025 per la selezione di n. 1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Ricostruisci Abruzzo 2 a seguito degli eventi sismici del 6 aprile 2009” di cui alla Convenzione del 17/04/2025 stipulata tra STRUTTURA DI MISSIONE - PCM e il Formez PA - RA 25018 Ro 17 - CUP D51J25000110001",
+            "description": "<p>AVVISO N. 2025/0293</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Ricostruisci Abruzzo 2 a seguito degli eventi sismici del 6 aprile 2009” di cui alla Convenzione del 17/04/2025 stipulata tra STRUTTURA DI MISSIONE - PCM e il Formez PA - RA 25018 Ro 17 - CUP D51J25000110001</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Ricostruisci Abruzzo 2 a seguito degli eventi sismici del 6 aprile 2009 ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: oltre 7 anni fino a 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in materia di procedure amministrative delle pubbliche amministrazioni;&nbsp;\n <br>\n - Titolo di studio: Laurea specialistica in giurisprudenza o equipollenti ex lege.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9b59e22686e243d08fd8f9a1d78a1603",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-07",
+            "title": "Avviso 0277/2025 per la selezione di n. 1 risorsa (oltre 5 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “La gestione strategica delle risorse umane per creare Valore Pubblico-PNRR ... e finanziato dall’Unione europea – Next Generation EU” di cui alla Convenzione del 24/07/2023 stipulata tra DFP e il Formez PA - RA 23025 Na 4/D - CUP D89I23000600006",
+            "description": "<p>Avviso 0277/2025</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 5 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “La gestione strategica delle risorse umane per creare Valore Pubblico-PNRR Sub Riforma 2.3.1-Riforma del mercato del lavoro della PA - Linea D a valere sulle risorse PNRR Missione 1 “Digitalizzazione, innovazione, competitività, cultura e turismo”, Componente 1 “Digitalizzazione, innovazione e sicurezza nella PA”, Riforma 2.3 “Competenze e Carriere”, Subriforma 2.3.1 “Riforma del mercato del lavoro della PA” e finanziato dall’Unione europea – Next Generation EU” di cui alla Convenzione del 24/07/2023 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 23025 Na 4/D - CUP D89I23000600006</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “La gestione strategica delle risorse umane per creare Valore Pubblico-PNRR Sub Riforma 2.3.1-Riforma del mercato del lavoro della PA - Linea D a valere sulle risorse PNRR Missione 1 “Digitalizzazione, innovazione, competitività, cultura e turismo”, Componente 1 “Digitalizzazione, innovazione e sicurezza nella PA”, Riforma 2.3 “Competenze e Carriere”, Sub-riforma 2.3.1 “Riforma del mercato del lavoro della PA” e finanziato dall’Unione europea – Next Generation EU”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- oltre 5 anni fino a 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in redazione di contenuti multimediali;<br>- Titolo di studio: Laurea triennale in scienze della comunicazione (L-20) ed equipollenti ex-lege.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ac486bb796f54c8c90859bc48d39cc56",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-18",
+            "title": "Bando per docenti esterni",
+            "description": "<p>Bando per docenti esterni&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0d4ef5d36c1644f9b3630a990422efe7",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-15",
+            "title": "AVVISO DI SELEZIONE ISPRA_rm/16/2025 PER N. 1 INCARICO DI LAVORO AUTONOMO AI SENSI DELL’ART. 7, COMMA 6 DEL D.LGS. 165/2001",
+            "description": "<p><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;\"><span style=\"mso-list: Ignore;\">1.<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;\">È indetta una procedura comparativa per l’affidamento di <strong>n. 1 incarico di lavoro autonomo, ai sensi dell’art. 7 comma 6 del D.lgs. 165/2001</strong>, senza alcun vincolo di subordinazione, per<strong> l’espletamento delle attività, di natura temporanea ed altamente qualificata, <span style=\"mso-bookmark: _Hlk198030804;\">nell’ambito del Progetto “Accordo Operativo in attuazione del Decreto Legislativo 13 ottobre 2010, n. 190 di recepimento della Direttiva 2008/56/CE (Direttiva Quadro sulla Strategia Marina)” – cod. “X0SM0002” con scadenza prevista il 31/12/2026)</span><span style=\"mso-bookmark: _Hlk198030804;\">, </span></strong><span style=\"mso-bookmark: _Hlk198030804;\"><span style=\"mso-bidi-font-weight: bold;\">co</span>n le risorse economiche ivi individuate, ai sensi del Regolamento recante la “Disciplina per il conferimento di incarichi di collaborazione a norma dell’art. 7, comma 6, del decreto legislativo 165/2001”, approvato con disposizione del 19 gennaio 2009, n. 239/09 ed in applicazione delle disposizioni recate dall’art. 1, della L. n. 266/05.</span></span></p> \n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black;\"><span style=\"mso-list: Ignore;\">2.<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black;\">In tale ambito, il contratto avrà in oggetto <strong>lo svolgimento delle seguenti attività:</strong></span></p> \n<p><a></a><span style=\"font-size: 12.0pt; line-height: 115%; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri; color: black; mso-bidi-font-weight: bold; mso-bidi-font-style: italic;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><em><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;\">sviluppo di software per il riconoscimento automatico di specie e biocenosi degli ambienti marini e/o rifiuti marini, utilizzando immagini e video acquisiti tramite piattaforma da remoto, ROV (Remotely Operated Vehicle). Implementazione di hardware basato su piattaforme Single Board Computer per computer vision e di altre strumentazioni necessarie al monitoraggio degli ambienti marini caratterizzati da biocenosi di coralli profondi.</span></em></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=630d20e55f9f434a82015693cddccf01",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-01",
+            "title": "SELEZIONE PER TITOLI E COLLOQUIO PER N.1 CONTRATTO DI LAVORO AUTONOMO OCCASIONALE IT, ageing well in an ageing society – A novel public-private alliance to generate socioeconomic, biomedical and technological solutions for an inclusive Italian ageing society (spoke 7), Codice identificativo MUR PE0000015 - CUP: H33C22000680006",
+            "description": "<p>Bando di selezione pubblica per titoli e colloquio per il conferimento di n. 1 (uno) contratto di lavoro autonomo avente ad oggetto: “Progettazione, attivazione e sviluppo di un centro di ricerca dedicato allo studio del diritto degli anziani mediante la definizione di linee guida metodologiche e aree di studio, con particolare attenzione al metodo comparatistico e agli strumenti giuridici di tutela degli anziani nell’ambito del diritto provato; Progettazione e coordinamento delle attività scientifiche e formative del centro, con analisi delle normative, delle politiche pubbliche e le best practies, sia a livello nazionale che internazionale, nel contesto della silver economy e della silver society; Creazione di una rete di ricerca con esperti, istituzioni e centri di studio a livello nazionale ed internazionale; Organizzazione e promozione di eventi scientifici, tra cui seminari, conferenze e workshop, finalizzati alla diffusione dei risultati della ricerca e al confronto tra studiosi, professionisti e policy makers; Valorizzazione dei risultati della ricerca, contribuendo all’affermazione del centro come punto di riferimento per lo studio e l’approfondimento del diritto degli anziani; Avvio di una rete di convenzioni con ordini professionali e studi legali per garantire l’attività pratica di consulenza“</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43635452b2f7437bbb3fff3846b5007c",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-01",
+            "title": "SELEZIONE PER TITOLI E COLLOQUIO PER N.1 CONTRATTO DI LAVORO AUTONOMO OCCASIONALE - PRIN2022 MASTROBERTI - CUP H53D230002890006",
+            "description": "<p>Bando di selezione pubblica per titoli e colloquio per il conferimento di n. 1 (uno) contratto di lavoro autonomo avente ad oggetto: “Scansione del Bollettino delle leggi e dei decreti del Regno di Napoli, 1806-1815, n. 20 volumi e indicizzazione delle cose notevoli; Scansione di tutte le annate della rivista Archivio Vittorio Scialoja per le consuetudini giuridiche agrarie e le tradizioni popolari italiane, 1934-1943, n. 10 annate, con una indicizzazione ragionata; Trascrizione della traduzione in italiano delle Consuetudini di Napoli in A. De Sariis, Codice delle Leggi del Regno di Napoli“.\n <br>\n <br></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f2e7fa7ee06d4ecf9d9052c7795dac40",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-26",
+            "title": "CONFERIMENTO DI N. 1 incarico individuale con contratto di lavoro autonomo presso il DIPARTIMENTO DI MANAGEMENT DELL’UNIVERSITÀ POLITECNICA DELLE MARCHE.",
+            "description": "<p><strong><span style=\"text-decoration: underline;\">Oggett</span></strong><strong><span style=\"text-decoration: underline;\">o delle attività</span></strong>:</p>\n<p><em>“Svolgimento di attività di ricerca afferente il Settore scientifico disciplinare GIUR-01/A – DIRITTO PRIVATO, condotta a titolo individuale e rientrante nella ricerca scientifica sull’evoluzione delle tecnologie digitali (con specifico riferimento ai sistemi di intelligenza artificiale, big data, realtà virtuale e aumentata) e sulla correlata insorgenza di nuove e inedite problematiche nei rapporti giuridici tra privati”.</em></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e1142eca3e9946c2be255e8d6f6cd21b",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-01",
+            "title": "SELEZIONE PER TITOLI E COLLOQUIO PER N.1 CONTRATTO DI LAVORO AUTONOMO OCCASIONALE CONVENZIONE REGIONE -CUP: B94F24001610007",
+            "description": "<p>Bando di selezione pubblica per titoli e colloquio per il conferimento di n. 1 (uno) contratto di lavoro autonomo avente ad oggetto: “Indicazioni tecniche sui tagli boschivi e pianificazione forestale della Regione Puglia ai fini della elaborazione del regolamento forestale regionale ex art 12 L 1/2023” – nell’ambito della convenzione tra Regione Puglia - Sezione Gestione Sostenibile e Tutela delle Risorse Forestali e Naturali e Dipartimento di Giurisprudenza – CUP: B94F24001610007</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=46d24b2d8f44489bbc32f85ee47c7bb5",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-08",
+            "title": "PROVINCIA DI PIACENZA - SELEZIONE PER IL CONFERIMENTO DI N. 1 INCARICO DI ALTA SPECIALIZZAZIONE CON COMPETENZE IN MATERIA DI ANALISI ECONOMICHE E STATISTICHE MEDIANTE ASSUNZIONE A TEMPO DETERMINATO AI SENSI DELL'ART. 110, COMMA 2 DEL D.LGS. 267/2000 ED INQUADRAMENTO NELL’AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI DEL COMPARTO FUNZIONI LOCALI.",
+            "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Tahoma',sans-serif; color: windowtext;\">La Provincia di Piacenza intende procedere al conferimento di n. 1 incarico di&nbsp;<strong>Alta Specializzazione </strong>con competenze in materia di <strong>analisi economiche e statistiche</strong>, ex art. 110, comma 2, del D.lgs. 267/2000 mediante assunzione a tempo pieno (36 ore) e determinato con Profilo professionale di<em> Esperto di analisi economiche e statistiche</em> ed inquadramento nell’Area dei Funzionari e delle Elevate Qualificazioni del vigente contratto del comparto Funzioni Locali.</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=33c7189d400949df93afd29d3d8cf0fd",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-20",
+            "title": "COMUNE DI CASTEL GOFFREDO - AVVISO PUBBLICO PER LA PRESENTAZIONE DI CANDIDATURE AI FINI DELLA NOMINA DEL COMPONENTE ESPERTO ESTERNO ALL’AMMINISTRAZIONE DEL NUCLEO DI VALUTAZIONE",
+            "description": "<p><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA; mso-bidi-font-style: italic;\">È indetto il procedimento pubblico comparativo per la selezione, da parte del Sindaco, del <strong>componente esperto, esterno all’Amministrazione, del Nucleo di Valutazione</strong>, quale organismo, obbligatorio per legge, di supporto tecnico nelle fasi di programmazione, valutazione, attuazione e verifica di piani, programmi, progetti, e politiche di intervento promossi e attuati dal Comune di Castel Goffredo.</span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA; mso-bidi-font-style: italic;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Il NV è composto da 1 componente esperto, esterno all’amministrazione. La nomina è effettuata dal Sindaco a seguito di procedura comparativa pubblica a cui possono partecipare soggetti in possesso dei requisiti previsti dal <span style=\"letter-spacing: -.1pt;\">Regolamento sull’ordinamento degli uffici e dei servizi, </span><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: Tahoma; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">preceduta dalla valutazione del curriculum e dall’accertamento del possesso dei requisiti, delle competenze e delle capacità specifiche richieste</span><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; letter-spacing: -.1pt; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">.</span></span></span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA; mso-bidi-font-style: italic;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; letter-spacing: -.1pt; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">La durata dell'incarico è di <strong>tre anni rinnovabile una sola volta per un ulteriore periodo di tre anni</strong>. Non è prevista la decadenza dall'incarico per conclusione ordinaria o anticipata del mandato elettivo del <span style=\"letter-spacing: -.2pt;\">Sindaco. Al componente esterno viene attribuito un compenso annuo lordo stabilito dalla Giunta<span style=\"letter-spacing: -.4pt;\">.</span></span></span></span></span></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA; mso-bidi-font-style: italic;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; letter-spacing: -.1pt; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><span style=\"letter-spacing: -.2pt;\"><span style=\"letter-spacing: -.4pt;\">Prima dell’avvio dell’incarico sarà sottoscritto il disciplinare di incarico approvato con determinazione del Responsabile del Settore Affari Generali e Personale, corredato dal <em>curriculum</em>, dalle dichiarazioni di assenza di incompatibilità e conflitto di interesse e dalla comunicazione del conto corrente dedicato alla gestione dei movimenti finanziari. Nel caso in cui il componente selezionato fosse dipendente di un’altra pubblica amministrazione, dovrà produrre l’autorizzazione di cui all’art. 53 del D.lgs. n. 165/2001.</span></span></span></span></span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4e14d53e1efb4cb59392960f7db4b16a",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-20",
+            "title": "AVVISO PER IL CONFERIMENTO DI N. 1 INCARICO DI CONSULENZA SPECIALISTICA E TECNICA PER LE ESIGENZE DEL PROGETTO DAL TITOLO “Osservatorio nazionale FiLA – Filiera produzione sostenibile delle Lane Autoctone” (FiLA) nell’ambito del BANDO a CASCATA Progetto “Made in Italy Circolare e Sostenibile - MICS”",
+            "description": "<p>La prestazione ha per oggetto lo svolgimento delle seguenti attività:\n <br>\n Pianificazione in collaborazione con la parte scientifica, supporto tecnico specialistico in fase di avvio del test sul territorio, supporto e monitoraggio dei test nell’ambito del territorio abruzzese.\n <br>\n Nello specifico, la risorsa selezionata dovrà fornire consulenza su competenze specialistiche di filiera, supporto nel trasferimento tecnologico del lavaggio su scala locale, finalizzato alla sperimentazione di un test sul territorio per validare l’Osservatorio FiLA con l'obiettivo di definire un know how locale sul territorio</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bfdd255d7be74d809362f81d9fbe1083",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-14",
+            "title": "UNIVERSITA' DEL SALENTO: DSUS-Avviso pubblico di procedura Titoli e Colloquio per n. 1 incarico di prestazione di lavoro autonomo Supporto attività ricerca Progetto PRIN 2022 PNRR dal titolo “GC-LIFES - Grounded cities. Liveability, Foundational Economy and urban Space of cities in the middle”",
+            "description": "<p>DSUS-Avviso pubblico di procedura per Titoli e Colloquio per il conferimento di n. 1 (uno) incarico di prestazione di lavoro autonomo in qualità di Supporto alle attività di ricerca nell’ambito del Progetto PRIN 2022 PNRR dal titolo “GC-LIFES - Grounded cities. Liveability, Foundational Economy and urban Space of cities in the middle”</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4cb8e13043bc4b139c8f79e8683539a5",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-20",
+            "title": "SELEZIONE PER TITOLI E COLLOQUIO PER LA FORMAZIONE DI UNA LONG LIST AI FINI DELL’AFFIDAMENTO DI UN INCARICO PROFESSIONALE DI ASSISTENTE SOCIALE NELL’AMBITO DEI SERVIZI SOCIOASSISTENZIALI DEL COMUNE DI ALBANO DI LUCANIA",
+            "description": "<p><span style=\"font-size: 11.0pt; font-family: 'Cambria',serif;\">Il presente avviso pubblico è finalizzato al conferimento di n. 1 (uno) incarico professionale di Assistente Sociale. L’incarico avrà per oggetto una prestazione di lavoro autonomo, di natura occasionale ai sensi dell’art. 2222 ss. Cod. Civ., senza vincolo di subordinazione, da svolgersi nel rispetto delle direttive fornite dal Responsabile del Servizio competente. </span></p> \n<p><span style=\"font-size: 11.0pt; font-family: 'Cambria',serif;\">La figura professionale sarà selezionata ai sensi dell’art. 7 co. 6 del D.Lgs. 165 del 30 marzo 2001, dell’art. n. 46 del D.L. 112/2008, convertito in Legge n. 133/2008, sulla base della valutazione del curriculum professionale, volto ad accertare adeguata ed elevata capacità professionale nel settore di che trattasi in quanto figura professionale non reperibile all’interno dell’Ente, per esigenze qualificate e temporanee cui non è possibile far fronte con personale in servizio.&nbsp;</span></p> \n<p><span style=\"font-size: 11.0pt; font-family: 'Cambria',serif;\">Nei confronti del Professionista incaricato troverà applicazione il Codice di Comportamento dei dipendenti collaboratori e consulenti del Comune di Albano di Lucania. </span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=afda450e15d94011bcd41efa3682bc2b",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-18",
+            "title": "Progetto “UNIBEN-PI (PROBEN_0000013)” CUP G53C24000380001 AVVISO DI SELEZIONE per l’individuazione delle figure responsabili della realizzazione del progetto",
+            "description": "<p>Progetto “UNIBEN-PI (PROBEN_0000013)”<br>CUP G53C24000380001<br>AVVISO DI SELEZIONE<br>per l’individuazione delle figure responsabili della realizzazione del progetto</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=586c97fa63ce4cbbbb981ebc44b09c1c",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-14",
+            "title": "AVVISO DI SELEZIONE ISPRA_rm/12/2025 PER N. 1 INCARICO DI LAVORO AUTONOMO AI SENSI DELL’ART. 7, COMMA 6 DEL D.LGS. 165/2001",
+            "description": "<p><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;\"><span style=\"mso-list: Ignore;\">1.<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;\">È indetta una procedura comparativa per l’affidamento di <strong>n. 1 incarico di lavoro autonomo, ai sensi dell’art. 7 comma 6 del D.lgs. 165/2001</strong>, senza alcun vincolo di subordinazione, per<strong> l’espletamento delle attività, di natura temporanea ed altamente qualificata, <a></a><a></a><span style=\"mso-bookmark: _Hlk198030804;\">nell’ambito del Progetto “Accordo Operativo in attuazione del Decreto Legislativo 13 ottobre 2010, n. 190 di recepimento della Direttiva 2008/56/CE (Direttiva Quadro sulla Strategia Marina)” – cod. “X0SM0002” con scadenza prevista il 31/12/2026)</span><span style=\"mso-bookmark: _Hlk198030804;\">, </span></strong><span style=\"mso-bookmark: _Hlk198030804;\"><span style=\"mso-bidi-font-weight: bold;\">co</span>n le risorse economiche ivi individuate, ai sensi del Regolamento recante la “Disciplina per il conferimento di incarichi di collaborazione a norma dell’art. 7, comma 6, del decreto legislativo 165/2001”, approvato con disposizione del 19 gennaio 2009, n. 239/09 ed in applicazione delle disposizioni recate dall’art. 1, della L. n. 266/05.</span></span></p> \n<p><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black;\"><span style=\"mso-list: Ignore;\">2.<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black;\">In tale ambito, il contratto avrà in oggetto <strong>lo svolgimento delle seguenti attività:</strong></span></p> \n<p><a></a><span style=\"font-size: 12.0pt; line-height: 115%; mso-fareast-font-family: Calibri; mso-bidi-font-family: Calibri; color: black; mso-bidi-font-weight: bold; mso-bidi-font-style: italic;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><em><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;\">raccolta, analisi ed elaborazione di dati video acquisiti tramite piattaforma da remoto, ROV (Remotely Operated Vehicle), per il monitoraggio degli ambienti marini mesofotici e batiali di fondo duro).</span></em></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e911cee969554636a799f09974c6e176",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-11",
+            "title": "AVVISO PUBBLICO PER LA NOMINA DI N. 2 COMPONENTI ESTERNI (DI CUI N. 1 CON FUNZIONI DI PRESIDENTE) DELLA COMMISSIONE PER IL CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA, A TEMPO INDETERMINATO E PIENO, DI N. 1 (UNO) POSTO AVENTE IL PROFILO DI “AUTISTA SCUOLABUS” - AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA GIURIDICA B)",
+            "description": "<p>AVVISO PUBBLICO PER LA NOMINA DI N. 2 COMPONENTI ESTERNI (DI CUI N. 1 CON FUNZIONI DI PRESIDENTE) DELLA COMMISSIONE PER IL CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA, A TEMPO INDETERMINATO E PIENO, DI N. 1 (UNO) POSTO AVENTE IL PROFILO DI “AUTISTA SCUOLABUS” - AREA DEGLI OPERATORI ESPERTI (EX CATEGORIA GIURIDICA B)&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09fa138021f64c63bc91f886afaddba3",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-02",
+            "title": "Selezione pubblòica per coferimento di un incarico ai sensi dell'art.110 del del d.lgs.267/2000 a tempo determinato e pieno per Istruttore Direttivo Contabile -Area dei Funzionari ed E.Q. cui attribuire la responsabilità dell'Area Economico Finanziaria",
+            "description": "<p>Selezione pubblòica per coferimento di un incarico ai sensi dell'art.110 del del d.lgs.267/2000 a tempo determinato e pieno per I)struttore Direttivo Contabile &nbsp;-Area dei Funzionari ed E.Q. &nbsp;cui attribuire la &nbsp;responsabilità dell'Area Economico Finanziaria</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cd38bff6e31e4f44b76b06a4cd3af334",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-29",
+            "title": "Avviso procedura comparativa pubblica per titoli e colloquio per l'individuazione di esperti destinatari di contratti di collaborazione o d'opera per incarichi di insegnamento per l'anno accademico 2025/2026.",
+            "description": "<p><span style=\"font-size: 10.0pt; mso-ascii-font-family: Helvetica; mso-fareast-font-family: 'Times New Roman';\">È</span><span style=\"font-size: 10.0pt; font-family: 'Helvetica',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Times;\"> indetta, presso l</span><span style=\"font-size: 10.0pt; mso-ascii-font-family: Helvetica; mso-fareast-font-family: 'Times New Roman';\">’</span><span style=\"font-size: 10.0pt; font-family: 'Helvetica',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Times;\">Istituto Superiore per le Industrie Artistiche di Faenza, una procedura comparativa pubblica, per </span><span style=\"font-size: 10.0pt; font-family: 'Helvetica',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Times; color: windowtext;\">titoli e colloquio, per la formazione di un elenco di esperti per l</span><span style=\"font-size: 10.0pt; mso-ascii-font-family: Helvetica; mso-fareast-font-family: 'Times New Roman'; color: windowtext;\">’</span><span style=\"font-size: 10.0pt; font-family: 'Helvetica',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Times; color: windowtext;\">affidamento di incarichi di insegnamento, tramite contratti di collaborazione o d</span><span style=\"font-size: 10.0pt; mso-ascii-font-family: Helvetica; mso-fareast-font-family: 'Times New Roman'; color: windowtext;\">’</span><span style=\"font-size: 10.0pt; font-family: 'Helvetica',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Times; color: windowtext;\">opera, delle discipline di cui all</span><span style=\"font-size: 10.0pt; mso-ascii-font-family: Helvetica; mso-fareast-font-family: 'Times New Roman'; color: windowtext;\">’</span><strong><span style=\"font-size: 10.0pt; font-family: 'Helvetica',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Times; color: windowtext;\">Allegato A, settori disciplinari ISST/02 - ISST/03</span></strong></p> \n<p>&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0fc36c5e7801403e9eb1bc212679a54a",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-14",
+            "title": "SELEZIONE RESPONSABILE SERVIZIO INFORMATICO UCRF AI SENSI DELL' ART. 110 c.1 TUEL",
+            "description": "<p>SELEZIONE PUBBLICA PER L’ASSUNZIONE A TEMPO PIENO E DETERMINATO ALTA SPECIALIZZAZIONE, AI SENSI DELL’ART. 110, COMMA 1 DEL D.LGS. 267/2000, DI UNA UNITA’ DI PERSONALE CON PROFILO DI ISTRUTTORE DIRETTIVO INFORMATICO – AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE - DA ADIBIRE ALLA RESPONSABILITÀ DEL SERVIZIO INFORMATICO ASSOCIATO DELL’UNIONE DI COMUNI DELLA ROMAGNA FORLIVESE.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0237fdbc8e414fecae72823c1b8710c1",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Avviso 0301/2025 per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “PeNsa - Supporto Specialistico al Ministero della Salute per la governance del PN Equità della Salute 2021-2027 Linea 2 2027 CCI 2021IT05FFPR002 Priorità 3 Assistenza tecnica FSE+” di cui alla Convenzione del 22/12/2023 stipulata tra MINISTERO DELLA SALUTE e il Formez PA - RA 24003 Ro 3 - CUP J81C23001140007",
+            "description": "<p>AVVISO N.2025/0301</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “PeNsa - Supporto Specialistico al Ministero della Salute per la governance del PN Equità della Salute 2021-2027 Linea 2 2027 CCI 2021IT05FFPR002 Priorità 3 Assistenza tecnica FSE+” di cui alla Convenzione del 22/12/2023 stipulata tra MINISTERO DELLA SALUTE e il Formez PA - RA 24003 Ro 3 - CUP J81C23001140007</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “PeNsa - Supporto Specialistico al Ministero della Salute per la governance del PN Equità della Salute 2021-2027 Linea 2 2027 CCI 2021IT05FFPR002 Priorità 3 Assistenza tecnica FSE+ ”, n.1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- Livello di seniority: oltre 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in attività di gestione e monitoraggio di programmi cofinanziati da Fondi UE;<br>- Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2c1d472b1f034f9ebf50b8b10e4b9a13",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Avviso 0300/2025 per la selezione di n. 1 risorsa (oltre 5 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “SUCCESS 21-27 - SUpporto speCialistico e teCnico organizzativo per il rafforzamEnto della capacità istituzionale e dell'efficacia delle azioni inerenti all'attuazione del PR Basilicata FESR FSE+ 2021-2027 - Regione Basilicata” di cui alla Convenzione del 13/05/2024 stipulata tra REGIONE BASILICATA e il Formez PA - CUP G34D23005670009",
+            "description": "<p>Avviso 0300/2025</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 5 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “SUCCESS 21-27 - SUpporto speCialistico e teCnico organizzativo per il rafforzamEnto della capacità istituzionale e dell'efficacia delle azioni inerenti all'attuazione del PR Basilicata FESR FSE+ 2021-2027 - Regione Basilicata” di cui alla Convenzione del 13/05/2024 stipulata tra REGIONE BASILICATA e il Formez PA - RA 24005 Ro 5 - CUP G34D23005670009</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “SUCCESS 21-27 - SUpporto speCialistico e teCnico organizzativo per il rafforzamEnto della capacità istituzionale e dell'efficacia delle azioni inerenti all'attuazione del PR Basilicata FESR FSE+ 2021-2027 - Regione Basilicata ”, n.1 risorsa (oltre 5 anni fino a 10 anni) da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- Livello di seniority: oltre 5 anni fino a 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in attività di promozione e valorizzazione socio-culturale del territorio;<br>- Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3000099d404a40028f6e7c56169956e3",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Avviso 0268/2025 per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024” di cui alla Convenzione del 28/07/2021 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 21019 Ro 19/A - CUP J51B21001830007",
+            "description": "<p>AVVISO N.2025/0268</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024” di cui alla Convenzione del 28/07/2021 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 21019 Ro 19/A - CUP J51B21001830007</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024 ”, n.1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in Attività di monitoraggio quali-quantitativo;<br>- Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=48699f52cbce4400a9ad49048c388596",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Avviso 0267/2025 per la selezione di n. 1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024” di cui alla Convenzione del 28/07/2021 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 21019 Ro 19/A - CUP J51B21001830007",
+            "description": "<p>AVVISO N.2025/0267</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024” di cui alla Convenzione del 28/07/2021 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 21019 Ro 19/A - CUP J51B21001830007</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024 ”, n.1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- Livello di seniority: oltre 7 anni fino a 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in elaborazione statistiche;<br>- Titolo di studio: Laurea specialistica L-91/S Statistica economica, finanziaria ed attuariale.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=05d8dd8095494517bd3a0067369e3155",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Avviso 0264/2025 per la selezione di n. 1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024” di cui alla Convenzione del 28/07/2021 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 21019 Ro 19/A - CUP J51B21001830007",
+            "description": "<p>AVVISO N. 2025/0264</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 7 anni fino a 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024” di cui alla Convenzione del 28/07/2021 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 21019 Ro 19/A - CUP J51B21001830007</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Linea Amica Digitale - Programma Complementare al PON 2014-2020 - Atto Aggiuntivo del 30 Maggio 2024 ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- Livello di seniority: oltre 7 anni fino a 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in attività di graphic design, produzione multimediale;<br>- Titolo di studio: Diploma.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b8b572f1add40e8bdfbcbc30376d153",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-04",
+            "title": "Avviso 0261/2025 per la selezione di n. 1 risorsa (oltre 3 anni fino a 5 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Progetto CABIMED - CApacity Building In MEdical Devices” di cui alla Convenzione del 03/12/2024 stipulata tra MINISTERO DELLA SALUTE e il Formez PA - RA 24045 Ro 42 - CUP D51J24001110001",
+            "description": "<p>AVVISO N.2025/0261</p> \n<p>Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 5 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Progetto CABIMED - CApacity Building In MEdical Devices” di cui alla Convenzione del 03/12/2024 stipulata tra MINISTERO DELLA SALUTE e il Formez PA - RA 24045 Ro 42 - CUP D51J24001110001</p> \n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Progetto CABIMED - CApacity Building In MEdical Devices ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p> \n<p>Requisiti Specifici<br>- Livello di seniority: oltre 3 anni fino a 5 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in materia di diritto farmaceutico e/o sanitario;<br>- Titolo di studio: : Laurea specialistica 22/S Giurisprudenza ed equipollenti ex lege.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7b44dadb8a3a4218a4639ac56e5eab29",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-26",
+            "title": "COMUNE DI CAVA DE' TIRRENI - AVVISO PER IL RECLUTAMENTO DI PERSONALE EX ART. 110 COMMA 1, DEL D.LGS N. 267/2000, PER LE FUNZIONI DI DIRIGENTE DEL I SETTORE - SERVIZIO FINANZIARIO IN ATTUAZIONE DELLA DELIBERA DI G.C. N. 111 DEL 23.06.2025.",
+            "description": "<p><span style=\"color: #000000;\"><span style=\"font-family: DejaVu Sans, serif;\"><span style=\"font-size: medium;\"><span style=\"font-family: Garamond, serif;\"><strong>Avviso di selezione pubblica</strong></span><span style=\"font-family: Garamond, serif;\"> per il conferimento di incarico di Dirigente del I Settore, </span><span style=\"font-family: Garamond, serif;\">in cui è incardinato il Servizio Finanziario, ed altresì il Servizio Tributi e Contenzioso Tributario e il Servizio CUP e Igiene Urbana, salvo eventuale nuovo assetto organizzativo deliberato dalla Giunta Comunale, </span><span style=\"font-family: Garamond, serif;\">con contratto di lavoro a tempo pieno e determinato ex art. 110, comma 1, del D.Lgs n. 267/2000;</span></span></span></span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f3158ef7cc40439aad88650404189faa",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "The promotion of handicraft products and support of craftsmen ",
+            "description": "Identifier: PPPA-MOVE-2025-P032404\nPillar: PPPA-MOVE-2025-P032404\nOpening Date: 2025-09-02\nDeadline: 2025-09-30\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-MOVE-2025-P032404",
+            "custom": {
+                "custom": {
+                    "category": "PPPA2027",
+                    "guid": "The promotion of handicraft products and support of craftsmen ",
+                    "pub_date": "2025-07-29",
+                    "dc_date": "2025-07-29",
+                    "identifier": "PPPA-MOVE-2025-P032404"
+                }
+            }
+        },
+        {
+            "deadline": "2019-05-20",
+            "title": "Fondo nazionale efficienza energetica",
+            "description": "L’incentivo a sostegno degli investimenti in efficienza energetica",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-nazionale-efficienza-energetica?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -75,7 +692,7 @@
             "deadline": "2024-10-29",
             "title": "BREVETTI+ 2024",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2024",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2024?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -89,7 +706,7 @@
             "deadline": "N/A",
             "title": "BREVETTI+ 2020-2023",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -100,29 +717,169 @@
             }
         },
         {
-            "deadline": "2023-07-03",
-            "title": "Bravo Innovation Hub",
-            "description": "L'acceleratore per le Imprese italiane più innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/bravo-innovation-hub",
+            "deadline": "2025-08-21",
+            "title": "Progetto Open Horizons: al via la prima call per startup deep‑tech e digitali guidate da donne",
+            "description": "La call sostiene startup digitali e deep‑tech guidate da donne con finanziamenti equity‑free fino a 55.000 euro ed è aperta fino al 21 agosto 2025",
+            "link": "https://first.art-er.it/news/open-horizons-call-startup-deep-tech-di-donne",
             "custom": {
                 "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
+                    "Topics": "Deep tech, Gender equality",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 335.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-26",
+            "title": "Progetto FFplus: finanziamenti per esperimenti aziendali HPC nelle PMI",
+            "description": "Il bando offre finanziamenti europei per esperimenti aziendali basati su High Performance Computing e resterà aperto fino il 26 agosto 2025",
+            "link": "https://first.art-er.it/news/high-performance-computing-il-bando-di-ffplus-pmi",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€4.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-08-31",
+            "title": "BioAgora: al via il bando per co-progettare l’infrastruttura metodologica del futuro Science Service for Biodiversity",
+            "description": "Il bando è dedicato alla co-progettazione sul tema della transizione ecologica dell'Unione europea ed è aperto fino al 31 agosto 2025",
+            "link": "https://first.art-er.it/news/bioagora-call-promuove-la-policy-sulla-biodiversita",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding, Transizione sostenibile",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 165.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-02",
+            "title": "Fashion Adaptor 2025: aperta la call per PMI del fashion sostenibile",
+            "description": "Un percorso intensivo per aiutare le PMI del settore moda a integrare principi di circolarità, innovazione e sostenibilità nei propri modelli di business",
+            "link": "https://first.art-er.it/news/fashion-adaptor-aperta-la-call-del-fashion-sostenibile",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding",
+                    "Area Classification": "Unione Europea",
                     "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2024-12-31",
-            "title": "Tessile, Moda e Accessori",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2025-09-10",
+            "title": "Just Transition Platform: al via le candidature per i JTP Champions Awards 2025",
+            "description": "Un’opportunità per premiare leadership, innovazione e inclusione nel processo di transizione giusta",
+            "link": "https://first.art-er.it/news/jtp-champions-awards-2025-aperte-le-candidature",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-01",
+            "title": "Al via la nuova call di CERIC-ERIC per l'accesso a infrastrutture di ricerca",
+            "description": "Disponibili più di 60 strumenti e 2 laboratori nei campi dei materiali, dei biomateriali e delle nanotecnologie per ricercatori di tutto il mondo",
+            "link": "https://first.art-er.it/news/call-proposals-di-ceric-eric-0",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "A due fasi",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-13",
+            "title": "EVOLVE2CARE: al via la Open Call per innovatori e Living Labs nel settore HealthTech",
+            "description": "Fino al 13 ottobre 2025 è aperta l'opportunità di finanziamento fino a 5.000 euro per progetti di sperimentazione",
+            "link": "https://first.art-er.it/news/evolve2care-al-la-open-call",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "A scadenza multipla",
+                    "Stanziamento": "€ 50.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-24",
+            "title": "HEDGE-IoT: aperto il bando per PMI e startup per innovazioni legate all'energia",
+            "description": "La prima Open Call del progetto HEDGE-IoT offre fino a 60.000 € per sviluppare soluzioni IoT intelligenti nel settore dell’energia ed è aperta fino al 24 ottobre 2025",
+            "link": "https://first.art-er.it/news/hedge-iot-call-pmi-su-innovazioni-energetiche",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 700.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "SBEP: in arrivo il terzo bando congiunto per la blue economy sostenibile",
+            "description": "Al via a settembre il bando su innovazione, sostenibilità e inclusione per mari e comunità costiere",
+            "link": "https://first.art-er.it/news/economia-blu-arrivo-il-terzo-bando-europeo-ri",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "A due fasi",
+                    "Stanziamento": "€ 44.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-27",
+            "title": "EP PerMed: in arrivo il bando 2026 \"Research Innovation and Technology\"",
+            "description": "Dal 2026 nuovi finanziamenti per progetti multinazionali sulla medicina personalizzata: pubblicazione del bando prevista per ottobre 2025",
+            "link": "https://first.art-er.it/news/ep-permed-arrivo-il-bando-ritc-2026",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "A due fasi",
+                    "Stanziamento": "€ 13.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "",
+            "title": "Biodiversa+: in arrivo il bando “BiodivConnect” per il ripristino degli ecosistemi",
+            "description": "L’iniziativa si pone l’obiettivo strategico di un cambiamento trasformativo per arrestare e invertire il declino della biodiversità",
+            "link": "https://first.art-er.it/news/arrivo-il-bando-biodivconnect",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "",
+            "title": "Nuova agevolazione Smart&Start per progetti congiunti tra start-up italiane e imprese francesi",
+            "description": "Smart&Start Italia mira a promuovere un ecosistema imprenditoriale innovativo, competitivo e inclusivo",
+            "link": "https://first.art-er.it/news/smartstart-incentivi-startup-con-partner-francesi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
+                    "Tipologia Scadenza": "A sportello",
                     "Stanziamento": "N/A"
                 }
             }
