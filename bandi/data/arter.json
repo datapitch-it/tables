@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-08-03 06:49:05",
+    "scraping_timestamp": "2025-08-05 08:52:20",
     "data": [
-        {
-            "deadline": "2025-08-04",
-            "title": "Italia-Corea del Sud: aperto il nuovo bando per progetti di ricerca congiunti",
-            "description": "Il bando finanzia progetti di ricerca scientifica e tecnologica tra enti dei due paesi e su specifici ambiti tematici",
-            "link": "https://first.art-er.it/news/nuovo-bando-di-ricerca-congiunta-italia-corea",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-08-04",
-            "title": "Women TechEU: quarto bando a sostegno di imprenditrici di start-up in ambito deep tech",
-            "description": "Il progetto Women TechEU offre supporto mirato per imprenditrici di start-up nel deep-tech, promuovendo l'inclusività nella leadership e nell'innovazione in Europa",
-            "link": "https://first.art-er.it/news/sostegno-imprenditrici-deep-tech-bando-women-techeu-2",
-            "custom": {
-                "Topics": "Deep tech, Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 75.000 per ciascuna startup"
-            }
-        },
         {
             "deadline": "2025-08-05",
             "title": "Al via la quinta Open Call REINFORCING per una digitalizzazione responsabile",
@@ -232,7 +208,7 @@
         {
             "deadline": "2025-09-02",
             "title": "TASTE: sostegno all’innovazione sostenibile nel turismo alimentare",
-            "description": "Un bando europeo da 750.000 euro per PMI del turismo nei settori sostenibilità, digitale e resilienza",
+            "description": "Il bando punta a promuovere sostenibilità ambientale, transizione digitale e resilienza delle PMI europee",
             "link": "https://first.art-er.it/news/taste-bando-progetti-su-turismo-alimentare",
             "custom": {
                 "Topics": "Cascade funding",
