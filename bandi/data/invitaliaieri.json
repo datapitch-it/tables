@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-08-03 06:50:54",
+    "scraping_timestamp": "2025-08-05 08:54:07",
     "data": [
         {
             "deadline": "2025-10-01",
@@ -375,33 +375,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Rilanciamo le aree di crisi industriale",
-            "description": "Sosteniamo i territori in difficoltà economica con incentivi alle Imprese e all’occupazione per il rilancio delle aree di crisi industriale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Beni strumentali - Nuova Sabatini",
             "description": "Sostiene l’acquisto di nuovi macchinari, impianti e attrezzature",
             "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2022-07-25",
-            "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
-            "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -414,18 +390,6 @@
             "title": "Economia circolare",
             "description": "Sostegno alla riconversione produttiva per un migliore utilizzo delle risorse",
             "link": "https://www.invitalia.it/incentivi-e-strumenti/economia-circolare",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2019-05-20",
-            "title": "Fondo nazionale efficienza energetica",
-            "description": "L’incentivo a sostegno degli investimenti in efficienza energetica",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-nazionale-efficienza-energetica",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -450,6 +414,42 @@
             "title": "Resto al Sud",
             "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
             "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Imprenditoria femminile",
+            "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Contratto di sviluppo",
+            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2021-05-19",
+            "title": "ON - Oltre Nuove imprese a tasso zero",
+            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1061,7 +1061,7 @@
             "deadline": "2023-08-25",
             "title": "Pnrr Capacity Building - Transizione Ecologica",
             "description": "Avviso Pubblico PNRR – Capacity building per operatori cultura per la transizione ecologica – (Azione BI)",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-ecologica",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-ecologica?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1169,7 +1169,7 @@
             "deadline": "2023-07-12",
             "title": "TOCC Digitale ed Ecologica",
             "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
