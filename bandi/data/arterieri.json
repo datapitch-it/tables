@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-08-05 08:52:20",
+    "scraping_timestamp": "2025-08-06 17:23:11",
     "data": [
-        {
-            "deadline": "2025-08-05",
-            "title": "Al via la quinta Open Call REINFORCING per una digitalizzazione responsabile",
-            "description": "L’iniziativa intende sostenere organizzazioni pubbliche e private nel promuovere un cambiamento strutturale nei propri processi di sviluppo tecnologico",
-            "link": "https://first.art-er.it/news/digitalizzazione-responsabile-alla-call-reinforcing",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 720.000"
-            }
-        },
         {
             "deadline": "2025-08-11",
             "title": "The DeepTechers: bando per formazione e networking verso ecosistemi deep-tech sostenibili",
@@ -335,6 +323,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 7.000.000"
+            }
+        },
+        {
+            "deadline": "2025-09-05",
+            "title": "Competenze digitali: aperte le candidature al Premio Nazionale promosso da Repubblica Digitale",
+            "description": "Il riconoscimento premia i migliori progetti a supporto dell’inclusione digitale e della diffusione della cultura digitale in Italia",
+            "link": "https://first.art-er.it/news/digitale-aperte-le-candidature-al-premio-nazionale",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -771,6 +771,18 @@
         },
         {
             "deadline": "2025-09-22",
+            "title": "AI for Public Good: al via due bandi di gara per soluzioni di intelligenza artificiale ad alto impatto sociale",
+            "description": "Salute, energia e ricostruzione urbana al centro delle nuove opportunità di finanziamento",
+            "link": "https://first.art-er.it/news/ai-public-good",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-22",
             "title": "Mobile responsive launch systems: nuovo bando UE per rafforzare l’autonomia spaziale europea",
             "description": "Il bando ha lo scopo di sviluppare studi per sistemi di lancio mobili e reattivi a scopo di difesa e sicurezza",
             "link": "https://first.art-er.it/news/bando-sistemi-di-lancio-spaziale-mobili-e-reattivi",
@@ -890,6 +902,18 @@
             }
         },
         {
+            "deadline": "2025-09-26",
+            "title": "EIC: aperta la call per esperti in ambito deep tech",
+            "description": "Fino al 26 settembre 2025 è possibile candidarsi come Programme Manager e guidare le sfide tecnologiche europee più avanzate",
+            "link": "https://first.art-er.it/news/al-call-programme-manager-ambito-deep-tech",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2025-09-29",
             "title": "Metrologia: al via la Fase 2 del bando 2025 per progetti di ricerca",
             "description": "Il bando finanzierà progetti di ricerca all'avanguardia per soluzioni efficaci a sfide tecnologiche e sociali",
@@ -911,6 +935,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 30.000 per singolo progetto"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Aperto il secondo bando del progetto AGRARIAN per soluzioni AI/IoT al servizio dell’agricoltura",
+            "description": "Il bando a cascata invita a proporre soluzioni innovative basate su edge e IoT per un’agricoltura più sostenibile",
+            "link": "https://first.art-er.it/news/e-aperto-il-secondo-bando-del-progetto-agrarian",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 400.000"
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Aperto il secondo bando del progetto europeo CyberSecDome",
+            "description": "Il bando sostiene l’adozione e la validazione di soluzioni avanzate di sicurezza informatica in contesti operativi reali",
+            "link": "https://first.art-er.it/news/aperto-il-secondo-bando-del-progetto-cybersecdome",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 731.000"
             }
         },
         {
@@ -1023,6 +1071,18 @@
         },
         {
             "deadline": "2025-10-01",
+            "title": "Next Generation Internet: al via quattro nuove call per un ecosistema digitale aperto e inclusivo",
+            "description": "Nell'ambito dei progetti di Next Generation Internet della Commissione europea sono aperte, fino al 1° ottobre 2025, nuove call per ricercatori, sviluppatori e organizzazioni per il futuro di internet",
+            "link": "https://first.art-er.it/news/ngi-innovazione-digitale-un-futuro-open-source-1",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Fino a 50.000 € a progetto"
+            }
+        },
+        {
+            "deadline": "2025-10-01",
             "title": "Al via la nuova call di CERIC-ERIC per l'accesso a infrastrutture di ricerca",
             "description": "Disponibili più di 60 strumenti e 2 laboratori nei campi dei materiali, dei biomateriali e delle nanotecnologie per ricercatori di tutto il mondo",
             "link": "https://first.art-er.it/news/call-proposals-di-ceric-eric-0",
@@ -1055,6 +1115,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 634.000.000"
+            }
+        },
+        {
+            "deadline": "2025-10-02",
+            "title": "PartArt4OW: aperto il secondo bando per progetti artistici e partecipativi contro l’inquinamento delle acque",
+            "description": "Il bando sostiene iniziative che uniscono arte, scienza e cittadinanza attiva per coinvolgere le comunità mediterranee nella lotta all’inquinamento idrico",
+            "link": "https://first.art-er.it/news/partart4ow-bando-aperto-progetti-arte-e-scienza-0",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 350.000"
             }
         },
         {

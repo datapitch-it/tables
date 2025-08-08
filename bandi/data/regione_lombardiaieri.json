@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-08-05 08:54:44",
+    "scraping_timestamp": "2025-08-06 17:25:59",
     "data": [
         {
             "deadline": "2025-10-31 18:00",
@@ -302,22 +302,10 @@
             }
         },
         {
-            "deadline": "2025-08-29 12:00",
+            "deadline": "2025-09-15 12:00",
             "title": "Rinaturalizzazione suoli degradati o in via di degrado",
             "description": "Contributi agli Enti locali per la realizzazione di interventi di rinaturalizzazione dei suoli degradati o in via di degrado, in ambito urbano e periurbano, in attuazione al DM Ambiente n. 2 del 2 gennaio 2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/promozione-territorio/rinaturalizzazione-suoli-degradati-via-degrado-RLZ12025045543",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-08-06 17:00",
-            "title": "Giovani SMART - Supportiamo il potenziale giovanile",
-            "description": "Il bando è finalizzato a sviluppare interventi integrati che possano rispondere in modo efficace alle esigenze ed ai bisogni dei giovani, sostenendo azioni ed iniziative per la socializzazione e l'aggregazione, per il contrasto al disagio giovanile ed il supporto alla fragilità, per la valorizzazione del talento giovanile.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/giovani-smart-supportiamo-potenziale-giovanile-RLAN2025047363",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1194,6 +1182,18 @@
             "title": "Opportunity Lombardy - Manifestazione di Interesse finalizzata alla mappatura di opportunità insediative e di progetti di investimento in Lombardia",
             "description": "La Manifestazione di Interesse è finalizzata ad attivare un processo di rilevazione sistematica di aree e/o immobili presenti sul territorio lombardo in grado di ampliare e qualificare l’offerta di insediamento di nuove attività economiche e le proposte di investimento in Regione Lombardia.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/opportunity-lombardy-manifestazione-interesse-finalizzata-mappatura-opportunit-insediative-e-progetti-investimento-lombardia-RLO12024040444",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-04-29 17:00",
+            "title": "Apprendistato di primo livello per l’acquisizione di un titolo di studio (art. 43 del D.Lgs. 81/2015) - AF 2024/2025 - risorse NON PNRR",
+            "description": "L'avviso è chiuso per esaurimento delle risorse.  I percorsi in apprendistato di primo livello avviati a partire dal 1 giugno 2025 possono avvalersi del nuovo bando dedicato, relativo all’anno formativo 2025/2026, di prossima pubblicazione.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/apprendistato-primo-livello-l-acquisizione-titolo-studio-art-43-d-lgs-81-2015-af-2024-2025-risorse-non-pnrr-RLW12024039627",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2679,6 +2679,18 @@
         },
         {
             "deadline": "N/A",
+            "title": "Infrastrutture di Ricerca per il Trasferimento Tecnologico (IRTT)",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca/infrastrutture-ricerca-trasferimento-tecnologico-irtt-RLF12025045923",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "Misure a sostegno dell’avvio e del consolidamento di  associazioni fondiarie forestali smart",
             "description": "Progetto europeo «Life Climatepositive» - «Programme for Environment and Climate Action (LIFE) 2021/2027. Domande dal 1° al 15 settembre 2025. Possono partecipare: Associazioni fondiarie lombarde intese come forme associative di soggetti proprietari e/o gestori di superfici agro-silvo-pastorali pubbliche, private, collettive.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/misure-sostegno-avvio-consolidamento-associazioni-fondiarie-forestali-smart-RLM12025047983",
@@ -2766,6 +2778,18 @@
             "title": "Investimenti - Linea Impresa efficiente",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/investimenti-linea-impresa-efficiente-RLO12025046583",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "VInnovate Open Call 2025 Lombardia",
+            "description": "Contributi a fondo perduto a progetti innovativi di collaborazione interregionale guidati dalle PMI lombarde, per un’industria più sostenibile, intelligente e meno dipendente.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/vinnovate-open-call-2025-lombardia-vanguard-initiative-s-interregional-funding-mechanism-RLF12025048383",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
