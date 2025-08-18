@@ -1,25 +1,53 @@
 {
-    "scraping_timestamp": "2025-08-12 08:41:25",
+    "scraping_timestamp": "2025-08-18 17:56:00",
     "data": [
         {
-            "deadline": "2025-08-22",
-            "title": "Media Forward Fund",
-            "description": "Media Forward Fund",
-            "link": "https://gfmd.info/fundings/media-forward-fund-2/",
+            "deadline": "2025-09-14",
+            "title": "Tarbell AI Reporting Grants",
+            "description": "Tarbell Center for AI Journalism",
+            "link": "https://gfmd.info/fundings/tarbell-ai-reporting-grants/",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                    "Area Classification": "Global (working in 2 or more regions)",
                     "Tipologia Scadenza": "Open",
-                    "Stanziamento": "up to €400,000"
+                    "Stanziamento": "Up to to $15,000."
                 }
             }
         },
         {
-            "deadline": "2025-08-27",
-            "title": "AVVISO PUBBLICO DI SELEZIONE, PER TITOLI, PER L’AFFIDAMENTO DI N. 1 (UNO) INCARICO, MEDIANTE CONTRATTO DI LAVORO AUTONOMO",
-            "description": "<p>Applicazioni di intelligenza artificiale per la robotica intelligente</p>\n<p>&nbsp;</p>\n<p>progetto d ricerca Multimodal, Multitask, Unbalanced learning environments (MUMBLE)</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc561f91327848fdb6a24383fdd42f8a",
+            "deadline": "2025-08-21",
+            "title": "Seed Grants for Media Outlets",
+            "description": "Earth Journalism Network",
+            "link": "https://gfmd.info/fundings/seed-grants-for-media-outlets/",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Asia, Pacific, and Oceania",
+                    "Tipologia Scadenza": "Open",
+                    "Stanziamento": "4,500 EUR"
+                }
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Funding for Women-Led Initiatives in Africa",
+            "description": "African Women for Change Network (AFNet)",
+            "link": "https://gfmd.info/fundings/funding-for-women-led-initiatives-in-africa/",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Sub-Saharan Africa",
+                    "Tipologia Scadenza": "Open",
+                    "Stanziamento": "Up to $5,000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-13",
+            "title": "Città metropolitana di Messina",
+            "description": "<p>Avviso di selezione pubblica per l'assunzione mediante contratto a tempo determinato ai sensi dell'articolo 110 comma 1 del d.Lgs. n. 267/2000 di un dirigente con profilo economico finanziario</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2ee9f9bd487a486a9be6870dc5e8d5d5",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -31,9 +59,9 @@
         },
         {
             "deadline": "2025-09-10",
-            "title": "AVVISO PUBBLICO PER TITOLI ED ESAMI PER ASSUNZIONE DI N. 1 ASSISTENTE SOCIALE A TEMPO DETERMINATO E PARZIALE A 24H -AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE",
-            "description": "<p><strong>&nbsp;</strong></p>\n<p><strong>AVVISO PUBBLICO PER TITOLI ED ESAMI PER ASSUNZIONE DI N. 1 ASSISTENTE SOCIALE A TEMPO DETERMINATO E PARZIALE A 24H -AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE</strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=98744f2e1dfa4b7ca62d1fde1da07a9b",
+            "title": "AVVISO PUBBLICO PER L’INDIVIDUAZIONE DI N. 4 COMPONENTI DA NOMINARE NELL’AMBITO DELLE COMMISSIONI ESAMINATRICI PER IL RECLUTAMENTO DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI – EX CAT. C1-– ISTRUTTORE TECNICO GEOMETRA E N. 1 POSTO A TEMPO PARZIALE (18 ORE SETTIMANI – 50%) E INDETERMINATO – AREA DEI FUNZIONARI ED ELEVATE QUALIFICAZIONI – EX CATEGORIA D.1 – PROFILO PROFESSIONALE FUNZIONARIO AMMINISTRATIVO CONTABILE CCNL COMPARTO FUNZIONI LOCALI 16.11.2022.",
+            "description": "<h1><span style=\"font-size: 11.0pt; line-height: 105%;\">AVVISO PUBBLICO PER L’INDIVIDUAZIONE DI N. 4 COMPONENTI DA NOMINARE NELL’AMBITO DELLE COMMISSIONI ESAMINATRICI PER IL RECLUTAMENTO DI N. 1 POSTO A TEMPO PIENO E INDETERMINATO - AREA DEGLI ISTRUTTORI – EX CAT. C1-– ISTRUTTORE TECNICO GEOMETRA E N. 1 POSTO A TEMPO PARZIALE (18 ORE SETTIMANI – 50%) E INDETERMINATO – AREA DEI FUNZIONARI ED ELEVATE QUALIFICAZIONI – EX CATEGORIA D.1 – PROFILO PROFESSIONALE FUNZIONARIO AMMINISTRATIVO CONTABILE CCNL COMPARTO FUNZIONI LOCALI 16.11.2022.</span></h1>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=142ac49a3ced4e67bd43892168ad4a6c",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -44,60 +72,17 @@
             }
         },
         {
-            "deadline": "2025-10-29",
-            "title": "AVVISO PUBBLICO PER TITOLI ED ESAMI PER ASSUNZIONE DI N. 1 ASSISTENTE SOCIALE A TEMPO DETERMINATO E PARZIALE A 24H -AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE",
-            "description": "<p><strong>AVVISO PUBBLICO PER TITOLI ED ESAMI PER ASSUNZIONE DI N. 1 ASSISTENTE SOCIALE A TEMPO DETERMINATO E PARZIALE A 24H -AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE</strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7e9fcd108e914687ac3a0e0feb57302e",
+            "deadline": "2025-11-13",
+            "title": "Setting up of Cross-Border Coordination Points",
+            "description": "Identifier: PPPA-2025-BRIDGEFOREU\nPillar: PPPA-2025-BRIDGEFOREU\nOpening Date: 2025-08-14\nDeadline: 2025-11-13\n\nLast Change Date: 2025-08-14T00:01:00.502\nContent: The submission session is now available for: PPPA-2025-BRIDGEFOREU\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2025-BRIDGEFOREU",
             "custom": {
                 "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-01",
-            "title": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA PER LA NOMINA DEI TRE COMPONENTI ESTERNI DEL NUCLEO DI VALUTAZIONE PER IL TRIENNIO 2025-2028",
-            "description": "<p>AVVISO PUBBLICO DI PROCEDURA COMPARATIVA PER LA NOMINA DEI TRE COMPONENTI ESTERNI DEL NUCLEO DI VALUTAZIONE PER IL TRIENNIO 2025-2028.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cba0931d22174cf7ac5d4562ab094340",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-24",
-            "title": "Space Data Economy",
-            "description": "Identifier: HORIZON-EUSPA-2026-SPACE-02-51\nPillar: HORIZON-EUSPA-2026-SPACE\nOpening Date: 2025-10-22\nDeadline: 2026-02-24\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EUSPA-2026-SPACE-02-51",
-            "custom": {
-                "custom": {
-                    "category": "HORIZON",
-                    "guid": "Services & Data coming from satellites",
-                    "pub_date": "2025-08-11",
-                    "dc_date": "2025-08-11",
-                    "identifier": "HORIZON-EUSPA-2026-SPACE-02-51"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-24",
-            "title": "Innovative space-based applications enhancing capabilities for a resilient Europe",
-            "description": "Identifier: HORIZON-EUSPA-2026-SPACE-02-52\nPillar: HORIZON-EUSPA-2026-SPACE\nOpening Date: 2025-10-22\nDeadline: 2026-02-24\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-EUSPA-2026-SPACE-02-52",
-            "custom": {
-                "custom": {
-                    "category": "HORIZON",
-                    "guid": "Services & Data coming from satellites",
-                    "pub_date": "2025-08-11",
-                    "dc_date": "2025-08-11",
-                    "identifier": "HORIZON-EUSPA-2026-SPACE-02-52"
+                    "category": "PPPA2027",
+                    "guid": "Establishment of cross-border coordination points to facilitate cross-border solutions to administrative and legal barriers",
+                    "pub_date": "2025-08-14",
+                    "dc_date": "2025-08-14",
+                    "identifier": "PPPA-2025-BRIDGEFOREU"
                 }
             }
         },
@@ -105,7 +90,7 @@
             "deadline": "2018-01-15",
             "title": "Resto al Sud",
             "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -119,7 +104,7 @@
             "deadline": "2021-05-19",
             "title": "ON - Oltre Nuove imprese a tasso zero",
             "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -130,10 +115,10 @@
             }
         },
         {
-            "deadline": "2019-05-20",
-            "title": "Fondo nazionale efficienza energetica",
-            "description": "L’incentivo a sostegno degli investimenti in efficienza energetica",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-nazionale-efficienza-energetica",
+            "deadline": "2024-12-31",
+            "title": "Tessile, Moda e Accessori",
+            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -144,10 +129,10 @@
             }
         },
         {
-            "deadline": "2023-08-25",
-            "title": "Pnrr Capacity Building - Transizione Ecologica",
-            "description": "Avviso Pubblico PNRR – Capacity building per operatori cultura per la transizione ecologica – (Azione BI)",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-ecologica",
+            "deadline": "2021-03-08",
+            "title": "FactorYmpresa Turismo",
+            "description": "Una fabbrica di idee per il turismo di domani",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/factorympresa-turismo",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -158,10 +143,206 @@
             }
         },
         {
-            "deadline": "2023-07-12",
-            "title": "TOCC Digitale ed Ecologica",
-            "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica",
+            "deadline": "2025-05-27",
+            "title": "Bonus colonnine domestiche",
+            "description": "Sostiene l’acquisto e l’installazione di infrastrutture per la ricarica di veicoli elettrici da parte di persone fisiche e condomìni",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/bonus-colonnine-domestiche?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-10",
+            "title": "Fondo per la transizione industriale",
+            "description": "L'incentivo per le imprese che investono nella tutela ambientale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-la-transizione-industriale",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Sostegno autoproduzione di energia da fonti rinnovabili nelle PMI",
+            "description": "Contributi per le imprese che utilizzano impianti solari fotovoltaici o mini eolici",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-autoproduzione-di-energia-da-fonti-rinnovabili-nelle-pmi?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Beni strumentali - Nuova Sabatini",
+            "description": "Sostiene l’acquisto di nuovi macchinari, impianti e attrezzature",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Imprenditoria femminile",
+            "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Contratto di sviluppo",
+            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-06-30",
+            "title": "Hard to abate (HTA)",
+            "description": "L’incentivo per la decarbonizzazione dei processi industriali attraverso l’utilizzo di idrogeno a basse emissioni di carbonio",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/hard-abate-hta",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-10-18",
+            "title": "Investimenti sostenibili 4.0 - PN RIC 21-27",
+            "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-pn-ric-21-27",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-04-30",
+            "title": "Macchinari e beni strumentali",
+            "description": "È l’incentivo per l’acquisto di macchinari professionali nella ristorazione, pasticceria e gelateria per valorizzare il patrimonio dell'enogastronomia italiana",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/macchinari-e-beni-strumentali",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-04-30",
+            "title": "Imprese femminili innovative montane - IFIM",
+            "description": "L’incentivo per gli investimenti innovativi sostenuti da imprese femminili nei Comuni montani",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-femminili-innovative-montane-ifim?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-12-02",
+            "title": "Cratere sismico aquilano",
+            "description": "L’incentivo che valorizza eccellenze nei Comuni del sisma",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cratere-sismico-aquilano",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-11-16",
+            "title": "Concerie",
+            "description": "L’incentivo per l’industria e la filiera del settore conciario",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/concerie",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-05-06",
+            "title": "Imprese Borghi",
+            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-06-15",
+            "title": "SELFIEmployment",
+            "description": "Prestiti a tasso zero per giovani, donne e disoccupati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/selfiemployment?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",

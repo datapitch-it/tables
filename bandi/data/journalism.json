@@ -1,6 +1,42 @@
 {
-    "scraping_timestamp": "2025-08-12 08:09:41",
+    "scraping_timestamp": "2025-08-18 17:54:51",
     "data": [
+        {
+            "deadline": "2025-09-14",
+            "title": "Tarbell AI Reporting Grants",
+            "description": "Tarbell Center for AI Journalism",
+            "link": "https://gfmd.info/fundings/tarbell-ai-reporting-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to to $15,000."
+            }
+        },
+        {
+            "deadline": "2025-08-21",
+            "title": "Seed Grants for Media Outlets",
+            "description": "Earth Journalism Network",
+            "link": "https://gfmd.info/fundings/seed-grants-for-media-outlets/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Asia, Pacific, and Oceania",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "4,500 EUR"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Funding for Women-Led Initiatives in Africa",
+            "description": "African Women for Change Network (AFNet)",
+            "link": "https://gfmd.info/fundings/funding-for-women-led-initiatives-in-africa/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to $5,000"
+            }
+        },
         {
             "deadline": "2025-08-22",
             "title": "Media Forward Fund",
@@ -23,18 +59,6 @@
                 "Area Classification": "Middle East and North Africa",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Fully Funded"
-            }
-        },
-        {
-            "deadline": "2025-08-12",
-            "title": "2025 Lincoln prize for Journalism",
-            "description": "Press and Society Institute",
-            "link": "https://gfmd.info/fundings/2025-lincoln-prize-for-journalism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to $3,000 USD"
             }
         },
         {
