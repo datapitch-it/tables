@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-08-18 17:55:19",
+    "scraping_timestamp": "2025-08-19 07:27:45",
     "data": [
         {
             "deadline": "2025-09-12 12:00",
@@ -1782,6 +1782,18 @@
             "title": "Avviso pubblico raccolta manifestazioni interesse candidatura membri esperti commissioni esame conseguimento abilitazione esercizio venatorio",
             "description": "Le commissioni, che durano in carica cinque anni, saranno costituite presso gli uffici regionali sul territorio: Brescia, Bergamo, Como-Lecco-Varese, Pavia-Lodi, Milano- Monza, Cremona - Mantova.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/pesca/commissioni-esami-caccia-RLM12023030643",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-07-31 23:59",
+            "title": "Patrocinio Consiglio regionale",
+            "description": "Concessione di patrocini da parte del Consiglio regionale, ai sensi dell’articolo 12 della l.r. n. 5/2007, per iniziative di particolare interesse e rilievo regionale",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/finanza-locale/patrocinio-consiglio-regionale-CRLA2018006082",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
