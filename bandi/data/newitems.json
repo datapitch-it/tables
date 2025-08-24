@@ -1,207 +1,25 @@
 {
-    "scraping_timestamp": "2025-08-23 07:00:35",
+    "scraping_timestamp": "2025-08-24 06:38:34",
     "data": [
-        {
-            "deadline": "2025-09-22",
-            "title": "The Burtynsky Grant",
-            "description": "CONTACT",
-            "link": "https://gfmd.info/fundings/the-burtynsky-grant/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "North America",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "One annual grant of $5,000."
-                }
-            }
-        },
-        {
-            "deadline": "2025-08-31",
-            "title": "Biodiversity reporting grants",
-            "description": "The Sitka Foundation",
-            "link": "https://gfmd.info/fundings/biodiversity-reporting-grants/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "North America",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "16 grants of $10,000 each"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-18",
-            "title": "Independent media grants",
-            "description": "European Union",
-            "link": "https://gfmd.info/fundings/independent-media-grants-2/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "Up to EUR 30,000"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Interventi di potenziamento strutturale ed infrastrutturale Parchi Regionali",
-            "description": "Sostenere investimenti finalizzati a consolidare e potenziare il patrimonio strutturale e infrastrutturale delle aree protette mediante interventi ricadenti nei territori in gestione ai Parchi Regionali e alle Riserve Naturali di cui all’art. 8, comma 5 della l.r. n. 12/2011",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/promozione-territorio/interventi-potenziamento-strutturale-ed-infrastrutturale-parchi-regionali-RLZ12025048683",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-05",
-            "title": "AVVISO PUBBLICO PER LA SELEZIONE DEL NUCLEO DI VALUTAZIONE DEL COMUNE DI MONTEFALCONE NEL SANNIO (CB)",
-            "description": "<p>AVVISO PUBBLICO PER LA SELEZIONE DEL NUCLEO DI VALUTAZIONE\n <br>\n DEL COMUNE DI MONTEFALCONE NEL SANNIO (CB)</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=39594dd26247416ba1b99f31f2251e47",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-01",
-            "title": "Incarico professionale di assistente sociale presso i comuni di Villa San Giovanni in Tuscia e di Barbarano Romano",
-            "description": "<p><span style=\"font-size: 11.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Cambria',serif; mso-fareast-font-family: Cambria; mso-bidi-font-family: Cambria; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">il presente avviso pubblico è finalizzato al conferimento di n. 1 (uno) incarico professionale di ASSISTENTE SOCIALE. L’incarico avrà per oggetto una prestazione di lavoro autonomo, di natura occasionale ai sensi dell’art. 2222 ss. Codice Civile., senza vincolo di subordinazione, da svolgersi nel rispetto delle direttive fornite dal Responsabile del Servizio competente. Al Professionista incaricato verrà corrisposto un compenso orario netto di Euro 20,66, oltre IVA e contributo previdenziale di cui alla Legge 103/96, per un orario settimanale di&nbsp;n. 36 (trentasei) ore da rendersi, in virtù delle esigenze organizzative dei comuni, per 18 ore presso ciascun comune, distribuite su cinque giorni lavorativi\n  <br></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=914087caafd64a34ba61302e87dbe522",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-05",
-            "title": "Avviso Pubblico, per titoli ed eventuale colloquio, riservato ai medici specializzandi, iscritti al penultimo e ultimo anno di scuola di specializzazione, al fine di garantire l erogazione delle prestazioni di assistenza sanitaria anche in ragione di necessità urgenti per la disciplina di Medicina d Emergenza e Urgenza presso l AOU Sassari.",
-            "description": "<p>Avviso Pubblico, per titoli ed eventuale colloquio, riservato ai medici specializzandi, iscritti al penultimo e ultimo anno di scuola di specializzazione, al fine di garantire l erogazione delle prestazioni di assistenza sanitaria anche in ragione di necessità urgenti per la disciplina di Medicina d Emergenza e Urgenza presso l AOU Sassari.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=70cfe2f0c827463786c15dd39f6176a9",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-05",
-            "title": "Avviso Pubblico, per soli titoli, riservato ai medici specializzandi, iscritti al penultimo e ultimo anno di scuola di specializzazione, al fine di garantire l’erogazione delle prestazioni di assistenza sanitaria anche in ragione di necessità urgenti per la disciplina di Oncologia presso l’ASL Oristano",
-            "description": "<p><span>Avviso Pubblico, per soli titoli, riservato ai medici specializzandi, iscritti al penultimo e ultimo anno di scuola di specializzazione, al fine di garantire l’erogazione delle prestazioni di assistenza sanitaria anche in ragione di necessità urgenti per la disciplina di Oncologia presso l’ASL Oristano</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c579a9bd571f459fabcde3606e850a21",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-05",
-            "title": "COMUNE DI VIMODRONE - AVVISO DI MANIFESTAZONE DI INTERESSE PER LA NOMINA A MEMBRO ESPERTO DELLA COMMISIONE ESAMINATRICE DEL CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N° 1 “SPECIALISTA IN ATTIVITA’ CONTABILE” – AREA FUNZIONARI",
-            "description": "<p>AVVISO DI MANIFESTAZONE DI INTERESSE PER LA NOMINA A MEMBRO ESPERTO DELLA &nbsp;COMMISIONE ESAMINATRICE DEL CONCORSO PUBBLICO PER SOLI ESAMI PER L’ASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI &nbsp;N° 1 “SPECIALISTA IN ATTIVITA’ CONTABILE” – AREA FUNZIONARI</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=22daa6e006dc4bbe918d23411f66f579",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-08",
-            "title": "AVVISO PUBBLICO PER LA NOMINA DI N.RO 3 COMPONENTI DEL NUCLEO DI VALUTAZIONE DI CUI AL D.LGS. N.150/2009",
-            "description": "<p>AVVISO PUBBLICO&nbsp;PER LA NOMINA DI N.RO 3 COMPONENTI DEL NUCLEO DI VALUTAZIONE DI\n <br>\n CUI AL D.LGS. N.150/2009</p>\n<p>&nbsp;</p>\n<p>E' indetta selezione per la nomina del Nucleo di Valutazione (di seguito NdV) del Comune di Teramo</p>\n<p><span style=\"text-decoration: underline;\"><strong>Presentazione delle candidature</strong></span></p>\n<p>Tutta la documentazione, dovrà pervenire al Comune di Teramo – Via Carducci, n. 33, cap 64100 Teramo, entro le&nbsp;<strong>ore 12:00</strong>&nbsp;<strong>del giorno&nbsp;</strong><strong>8 settembre 2025</strong>&nbsp;<em><strong>ESCLUSIVAMENTE&nbsp;</strong></em>secondo una delle seguenti modalità:</p>\n<p>a) a mano all'Ufficio Protocollo dell’Ente, nell'ambito del normale orario di apertura, rigorosamente in busta chiusa recante la dicitura:&nbsp;<em><strong>Selezione per la nomina di&nbsp;<a title=\"http://n.ro\" href=\"http://n.ro/\">n.ro</a>&nbsp;3 componenti del Nucleo di Valutazione del Comune di TERAMO</strong></em>;</p>\n<p>b) con invio della domanda all’indirizzo di posta elettronica certificata:&nbsp;</p>\n<div>\n <div>\n  <a href=\"mailto:affarigenerali@comune.teramo.pecpa.it\"><strong>affarigenerali@comune.teramo.pecpa.it</strong></a>\n </div>\n</div>\n<p>, con oggetto:&nbsp;<em><strong>Selezione per la nomina di&nbsp;<a title=\"http://n.ro\" href=\"http://n.ro/\">n.ro</a> 3 componenti del Nucleo di Valutazione del Comune di Teramo.</strong></em></p>\n<p>Si considerano prodotte in tempo utile le domande ricevute al protocollo o pervenute via posta elettronica certificata, entro la data e l’orario suddetto. A tal fine farà fede:</p>\n<p>a) la registrazione con numero ed orario per le domande presentate al protocollo dell’Ente;</p>\n<p>b) la data e l’orario di ricevimento della comunicazione da parte del sistema informatico dell’Ente per le domande inviate via posta elettronica certificata</p>\n<p>https://www.comune.teramo.it/it/news/avviso-pubblico-per-la-nomina-di-tre-componenti-del-nucleo-di-valutazione?type=3</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=862b9efeabf7430bbbaeb7fc3ef4a5b1",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Imprenditoria femminile",
-            "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2016-09-15",
-            "title": "Cultura Crea",
-            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Progetto Rete – Giovani, competenze, lavoro",
-            "description": "Un progetto dedicato a connettere giovani, scuole, università e mondo del lavoro",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/progetto-rete-giovani-competenze-lavoro?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-07-01",
-            "title": "Laboratorio per l'Imprenditorialità",
-            "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
         {
             "deadline": "2025-05-06",
             "title": "Imprese Borghi",
             "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-12-21",
+            "title": "SmartMoney Capo III",
+            "description": "L’incentivo che supporta gli investimenti nel capitale di rischio delle startup",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-iii?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -213,9 +31,9 @@
         },
         {
             "deadline": "2024-12-31",
-            "title": "Tessile, Moda e Accessori",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori?from=/per-chi-vuole-fare-impresa/incentivi",
+            "title": "SmartMoney Capo II",
+            "description": "L’incentivo per le startup innovative che si preparano al lancio sul mercato",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-ii?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -226,10 +44,10 @@
             }
         },
         {
-            "deadline": "2021-03-08",
-            "title": "FactorYmpresa Turismo",
-            "description": "Una fabbrica di idee per il turismo di domani",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/factorympresa-turismo",
+            "deadline": "N/A",
+            "title": "Beni strumentali - Nuova Sabatini",
+            "description": "Sostiene l’acquisto di nuovi macchinari, impianti e attrezzature",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -240,10 +58,10 @@
             }
         },
         {
-            "deadline": "2021-05-19",
-            "title": "ON - Oltre Nuove imprese a tasso zero",
-            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
+            "deadline": "2018-01-15",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -257,7 +75,7 @@
             "deadline": "N/A",
             "title": "Rilanciamo le aree di crisi industriale",
             "description": "Sosteniamo i territori in difficoltà economica con incentivi alle Imprese e all’occupazione per il rilancio delle aree di crisi industriale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -271,7 +89,7 @@
             "deadline": "2022-07-25",
             "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
             "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -285,7 +103,7 @@
             "deadline": "2019-05-20",
             "title": "Fondo nazionale efficienza energetica",
             "description": "L’incentivo a sostegno degli investimenti in efficienza energetica",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-nazionale-efficienza-energetica?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-nazionale-efficienza-energetica",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -299,7 +117,7 @@
             "deadline": "N/A",
             "title": "BREVETTI+ 2020-2023",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -313,7 +131,7 @@
             "deadline": "2025-05-20",
             "title": "Investimenti sostenibili 4.0 - Bando 2025",
             "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -327,7 +145,21 @@
             "deadline": "2025-06-03",
             "title": "Investimenti nella filiera delle fibre tessili naturali e della concia",
             "description": "Incentivi per l’aumento della capacità produttiva con criteri di sostenibilità ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nella-filiera-delle-fibre-tessili-naturali-e-della-concia?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nella-filiera-delle-fibre-tessili-naturali-e-della-concia",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -341,7 +173,7 @@
             "deadline": "2022-11-23",
             "title": "Confidi",
             "description": "Garanzie agevolate e finanziamenti agevolati da parte dei confidi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -355,91 +187,7 @@
             "deadline": "2022-11-17",
             "title": "Sviluppo della logistica agroalimentare",
             "description": "L'incentivo per innovare la logistica e ridurre l'impatto ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sviluppo-della-logistica-agroalimentare?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-12-02",
-            "title": "Cratere sismico aquilano",
-            "description": "L’incentivo che valorizza eccellenze nei Comuni del sisma",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cratere-sismico-aquilano?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-10-31",
-            "title": "Giovani diplomati",
-            "description": "È l’incentivo per i contratti di apprendistato nell'enogastronomia e nell’ospitalità alberghiera",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-07-03",
-            "title": "Bravo Innovation Hub",
-            "description": "L'acceleratore per le Imprese italiane più innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/bravo-innovation-hub?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-07-12",
-            "title": "TOCC Digitale ed Ecologica",
-            "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-09-22",
-            "title": "Fondo Imprese Creative",
-            "description": "Sostiene, valorizza e promuove il settore nazionale delle imprese creative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-imprese-creative?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-05-06",
-            "title": "Imprese Borghi",
-            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sviluppo-della-logistica-agroalimentare",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
