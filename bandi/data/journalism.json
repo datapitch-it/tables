@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-08-26 06:59:41",
+    "scraping_timestamp": "2025-08-27 16:56:25",
     "data": [
         {
             "deadline": "2025-10-31",
@@ -230,18 +230,6 @@
             }
         },
         {
-            "deadline": "2025-08-25",
-            "title": "Grants for Local and Community Media",
-            "description": "The Local Innovative Media in Europe Network (LIMENet)",
-            "link": "https://gfmd.info/fundings/grants-for-local-and-community-media/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€16,000 to €20,000"
-            }
-        },
-        {
             "deadline": "2025-09-30",
             "title": "Mercantil Journalism Award 2025",
             "description": "Mercantil Bank",
@@ -357,6 +345,18 @@
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "U.S. Local News Reporting Grants",
+            "description": "Pulitzer Center",
+            "link": "https://gfmd.info/fundings/u-s-local-news-reporting-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "N/A"
             }
