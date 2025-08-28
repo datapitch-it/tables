@@ -1,6 +1,42 @@
 {
-    "scraping_timestamp": "2025-08-26 07:01:54",
+    "scraping_timestamp": "2025-08-27 16:58:22",
     "data": [
+        {
+            "deadline": "2025-09-10 12:00",
+            "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
+            "description": "Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-10-23 15:00",
+            "title": "Infrastrutture di Ricerca per il Trasferimento Tecnologico (IRTT)",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca/infrastrutture-ricerca-trasferimento-tecnologico-irtt-RLF12025045923",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "OCDPC 1029/23",
+            "description": "La misura è destinata al ripristino della capacità di risposta alle emergenze del Servizio nazionale della protezione civile, in conseguenza delle avverse condizioni meteorologiche che hanno colpito il territorio dell’Emilia-Romagna nel maggio-giugno 2023, interessato da esondazioni, rotture arginali o movimenti franosi, con l’erogazione di fondi per la riparazione, il reintegro, o la sostituzione di mezzi ed attrezzature impiegati durante l’emergenza.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/ocdpc-1029-23-RLY12025046705",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-09-12 12:00",
             "title": "Misure a sostegno per allevamenti zootecnici in area montane",
@@ -2655,30 +2691,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "OCDPC 1029/23",
-            "description": "La misura è destinata al ripristino della capacità di risposta alle emergenze del Servizio nazionale della protezione civile, in conseguenza delle avverse condizioni meteorologiche che hanno colpito il territorio dell’Emilia-Romagna nel maggio-giugno 2023, interessato da esondazioni, rotture arginali o movimenti franosi, con l’erogazione di fondi per la riparazione, il reintegro, o la sostituzione di mezzi ed attrezzature impiegati durante l’emergenza.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/ocdpc-1029-23-RLY12025046705",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Infrastrutture di Ricerca per il Trasferimento Tecnologico (IRTT)",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca/infrastrutture-ricerca-trasferimento-tecnologico-irtt-RLF12025045923",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Programma 2025-2027 di interventi urgenti e prioritari per la difesa del suolo e la mitigazione dei rischi idrogeologici",
             "description": "Procedimento tecnico amministrativo per gli Enti attuatori degli interventi per la difesa del suolo e la mitigazione del rischio idrogeologico nel triennio 2025-2027, individuati dall'Allegato A alla d.g.r. n. 4736 del 14 luglio 2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/difesa-suolo/programma-2025-2027-interventi-urgenti-prioritari-difesa-suolo-mitigazione-rischi-idrogeologici-RLZ12025048883",
@@ -2727,9 +2739,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Interventi di potenziamento strutturale ed infrastrutturale Parchi Regionali",
-            "description": "Sostenere investimenti finalizzati a consolidare e potenziare il patrimonio strutturale e infrastrutturale delle aree protette mediante interventi ricadenti nei territori in gestione ai Parchi Regionali e alle Riserve Naturali di cui all’art. 8, comma 5 della l.r. n. 12/2011",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/promozione-territorio/interventi-potenziamento-strutturale-ed-infrastrutturale-parchi-regionali-RLZ12025048683",
+            "title": "Interventi di potenziamento strutturale e infrastrutturale Parchi regionali",
+            "description": "Investimenti per consolidare e potenziare il patrimonio strutturale e infrastrutturale delle aree protette mediante interventi ricadenti nei territori in gestione ai Parchi regionali e alle Riserve naturali di cui all’art. 8, comma 5 della l.r. n. 12 del 2011.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/interventi-potenziamento-strutturale-infrastrutturale-parchi-regionali-RLZ12025048683",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
