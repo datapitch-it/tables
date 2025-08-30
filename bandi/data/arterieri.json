@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-08-27 16:56:20",
+    "scraping_timestamp": "2025-08-28 11:02:49",
     "data": [
         {
             "deadline": "2025-08-28",
@@ -1443,6 +1443,18 @@
         },
         {
             "deadline": "2025-11-26",
+            "title": "L’EIC stanzia 20 milioni di euro per le startup deep-tech ucraine",
+            "description": "Nuovo bando per circa 40 imprese innovative: fino a 500.000 euro a progetto, candidature aperte fino al 26 novembre 2025",
+            "link": "https://first.art-er.it/news/eic-20-mln-le-startup-deep-tech-ucraine",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-26",
             "title": "EIC: al via il bando dedicato alle startup deep-tech ucraine",
             "description": "Lo European Innovation Council (EIC) ha aperto un bando per PMI e startup ucraine, con focus su tecnologie innovative e accesso facilitato all’EIC Accelerator",
             "link": "https://first.art-er.it/news/eic-bando-startup-ucraine-deep-tech",
@@ -1528,7 +1540,7 @@
         {
             "deadline": "2025-12-10",
             "title": "PNRR: terzo sportello del Fondo per il sostegno alla transizione industriale",
-            "description": "Il Fondo offre risorse per migliorare l’efficienza energetica e l'uso delle risorse nelle imprese italiane. Domande a partire dal 17 settembre",
+            "description": "Stanziati ulteriori fondi per migliorare l’efficienza energetica e l'uso delle risorse nelle imprese italiane. Domande a partire dal 17 settembre",
             "link": "https://first.art-er.it/news/pnrr-supporto-alle-imprese-lefficienza-energetica-0",
             "custom": {
                 "Topics": "Transizione sostenibile",
