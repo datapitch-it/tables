@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-09-02 03:38:45",
+    "scraping_timestamp": "2025-09-05 04:35:50",
     "data": [
+        {
+            "deadline": "2025-12-18 12:00",
+            "title": "Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agricole - bando 2025",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/azione-regionale-volta-riduzione-emissioni-prodotte-attivit-agricole-bando-2025-RLM12025047923",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-09-15 16:00",
             "title": "AVVIO PROCEDURA MANIFESTAZIONE DI INTERESSE E RELATIVE DISPOSIZIONI PER LA COSTITUZIONE DELLA COMMISSIONE REGIONALE D’ESAME PER ASPIRANTI GUARDIE ECOLOGICHE (RIF. ART. 5 DELLA L.R. 28 FEBBRAIO 2005, N. 9 «NUOVA DISCIPLINA DEL SERVIZIO VOLONTARIO DI VIGILANZA ECOLOGICA»)",
@@ -434,18 +446,6 @@
             }
         },
         {
-            "deadline": "2025-09-03 16:00",
-            "title": "Ri.Circo.Lo. STEP Risorse Circolari in Lombardia per ridurre le dipendenze strategiche da materie prime critiche",
-            "description": "La misura intende promuovere lo sviluppo o la fabbricazione di tecnologie critiche  da parte delle piccole, medie e grandi imprese lombarde per conseguire la riduzione delle dipendenze strategiche da materie prime critiche ed una migliore gestione dei rifiuti nelle filiere dei RAEE e delle batterie e del fosforo, in coerenza con quanto previsto dal “critical raw material act” (Reg. UE 2024/1252).",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/ri-circo-step-risorse-circolari-lombardia-ridurre-dipendenze-strategiche-materie-prime-critiche-RLT12025044624",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-09-15 16:00",
             "title": "Carta del Turista - Soluzioni digitali",
             "description": "Apre la manifestazione di interesse volta a individuare soluzioni digitali e soggetti partner per realizzare la Carta del turista, senza oneri a carico di Regione Lombardia, in applicazione della DGR 20 maggio 2024 n.2372.",
@@ -678,18 +678,6 @@
             "title": "OCDPC 1113/24 - Eventi calamitosi 9 giugno - 13 luglio 2024 – Province di Bergamo e Brescia",
             "description": "Con riferimento agli eventi calamitosi occorsi dal 9 giugno al 13 luglio 2024, dopo la fase di ricognizione degli ulteriori fabbisogni, si apre la procedura di accettazione del finanziamento, rivolto ai Soggetti Attuatori già individuati, per la realizzazione degli interventi urgenti ricompresi nel Piano approvato dal Dipartimento di Protezione Civile.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/ocdpc-n-1113-24-ricognizione-interventi-urgenti-c-s-RLY12024043465",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-31 12:00",
-            "title": "Rinnova parco veicolare 2025 - Autovetture - linea A",
-            "description": "La linea A del bando incentiva la sostituzione di veicoli inquinanti con autovetture a zero o bassissime emissioni prevedendo la radiazione di autovetture alimentate a benzina/metano/GPL di classe emissiva fino ad Euro 2 incluso o diesel fino ad Euro 5 incluso.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/trasporti-infrastrutture/mobilita-trasporti-sostenibili/rinnova-parco-veicolare-2025-autovetture-linea-RLT12025044583",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2727,18 +2715,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agricole - bando 2025",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/azione-regionale-volta-riduzione-emissioni-prodotte-attivit-agricole-bando-2025-RLM12025047923",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Interventi di potenziamento strutturale e infrastrutturale Parchi regionali",
             "description": "Investimenti per consolidare e potenziare il patrimonio strutturale e infrastrutturale delle aree protette mediante interventi ricadenti nei territori in gestione ai Parchi regionali e alle Riserve naturali di cui all’art. 8, comma 5 della l.r. n. 12 del 2011.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/interventi-potenziamento-strutturale-infrastrutturale-parchi-regionali-RLZ12025048683",
@@ -2754,6 +2730,42 @@
             "title": "Inclusione attiva e integrazione socio-lavorativa persone con disabilità",
             "description": "Avviso pubblico per il finanziamento di progetti di inclusione attiva per l’integrazione socio-lavorativa nell’ambito dei progetti di vita indipendente e inclusione delle persone con disabilità per le annualità 2026/2028",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/inclusione-attiva-situazione-socio-lavorativa-disabili-RLD12025047023",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Iscrizione all’elenco regionale dei direttori delle piste da sci, riservato a maestri di sci e guide alpine",
+            "description": "Manifestazione di interesse finalizzata all’iscrizione all’elenco regionale dei direttori delle piste da sci per maestri di sci e guide alpine-maestri di alpinismo iscritti ai rispettivi albi professionali da almeno cinque anni, nel rispetto delle previsioni di cui all’art. 33 del regolamento regionale 29 settembre 2017, n. 5.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/pratica-sport/iscrizione-elenco-regionale-direttori-piste-sci-riservato-maestri-sci-guide-alpine-RLAV2025049163",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Contributo abbattimento interessi sull’iniziativa \"Finanziamento per il sistema di istruzione e formazione professionale\" promossa da Finlombarda S.p.A.",
+            "description": "In data 8 settembre 2025 aprono i termini dell’Avviso di Finlombarda rivolto agli Enti accreditati, che erogano percorsi di Istruzione e Formazione Professionale, destinatari di Budget Duale anno formativo 2025/2026 e che intendono richiedere un contributo per l’abbattimento degli interessi sul finanziamento.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/contributo-abbattimento-interessi-iniziativa-finanziamento-sistema-istruzione-formazione-professionale-promossa-finlombarda-s-p-RLW12025048563",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Offerta formativa di corsi annuali di Istruzione e Formazione Professionale per l'accesso all'esame di stato - annualità 2025/26",
+            "description": "Il presente Avviso è finalizzato alla realizzazione di un’offerta formativa rivolta a studenti diplomati dei percorsi di IeFP in uscita dal 4° anno per la loro partecipazione al corso annuale di Istruzione e Formazione Professionale, di cui all’art. 15, comma 6, del D.Lgs. n. 226/2005, diretto a sostenere l’esame di Stato, utile all’accesso all’Università e all’Alta formazione artistica, musicale e coreutica e agli ITS.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/offerta-formativa-corsi-annuali-istruzione-formazione-professionale-l-accesso-esame-stato-annualit-2025-26-RLW12025049265",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2790,6 +2802,18 @@
             "title": "MANIFESTAZIONE DI INTERESSE PER LA PROMOZIONE DEI PATTI TERRITORIALI DI SOSTENIBILITA-REQUISITI DI AMMISSIBILITA E SELEZIONE",
             "description": "I Patti territoriali di sostenibilità (di seguito denominati anche “Patti”), da realizzare tramite partenariati composti da soggetti pubblici e privati di un determinato territorio, hanno l’obiettivo di incentivare la diffusione di pratiche virtuose di economia circolare, transizione energetica, adattamento al cambiamento climatico, inclusione sociale e salvaguardia dell’ecosistema locale, come previsto dalla legge regionale sul Clima n. 11/2025. I patti territoriali di sostenibilità costituiscono accordi stipulati tra enti pubblici, società partecipate pubbliche, soggetti privati, enti del Terzo Settore e altre parti interessate, con l’obiettivo di promuovere lo sviluppo economico, sociale e ambientale sostenibile di un territorio.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/manifestazione-interesse-promozione-patti-territoriali-sostenibilita-requisiti-ammissibilita-selezione-RLT12025049043",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PROGRAMMA REGIONALE \"SPAZIO ZERO\" PER L'INCLUSIONE ATTIVA DELLE PERSONE IN ESECUZIONE PENALE IN CONDIZIONE DI FRAGILITA' E VULNERABILITA'",
+            "description": "La misura intende attuare, nel quadro della strategia regionale per l’inclusione attiva delle persone in esecuzione penale, un piano territoriale integrato, volto a rafforzare la capacità dei territori di intercettare e accompagnare gli adulti ed i giovani adulti sottoposti a provvedimenti dell’autorità giudiziaria che si trovano in condizioni di particolare fragilità psico-socio-relazionale derivante da condizioni di vulnerabilità psicofisica individuale o di grave marginalità sociale della comunità di riferimento",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/programma-regionale-spazio-zero-l-inclusione-attiva-persone-esecuzione-penale-condizione-fragilita-vulnerabilita-RLD12025049083",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

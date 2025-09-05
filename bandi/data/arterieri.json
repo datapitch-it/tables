@@ -1,54 +1,6 @@
 {
-    "scraping_timestamp": "2025-08-31 09:46:24",
+    "scraping_timestamp": "2025-09-02 03:36:39",
     "data": [
-        {
-            "deadline": "2025-08-31",
-            "title": "BioAgora: al via il bando per co-progettare l’infrastruttura metodologica del futuro Science Service for Biodiversity",
-            "description": "Il bando è dedicato alla co-progettazione sul tema della transizione ecologica dell'Unione europea ed è aperto fino al 31 agosto 2025",
-            "link": "https://first.art-er.it/news/bioagora-call-promuove-la-policy-sulla-biodiversita",
-            "custom": {
-                "Topics": "Cascade funding, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 165.000"
-            }
-        },
-        {
-            "deadline": "2025-08-31",
-            "title": "Aviazione: aperte le candidature per il SESAR Young Scientist Award 2025 per giovani ricercatori",
-            "description": "Il premio vuole valorizzare l’eccellenza nella ricerca di giovani scienziati nel settore dell'aviazione, offrendo visibilità e opportunità di sviluppo professionale",
-            "link": "https://first.art-er.it/news/premio-sesar-giovani-scienziati-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 10.000 per scienziati PhD;€ 5.000 per studenti triennali o magistrali."
-            }
-        },
-        {
-            "deadline": "2025-09-01",
-            "title": "CIM4.0: quinta finestra del bando per l’innovazione industriale",
-            "description": "Il bando CIM4.0 sostiene imprese di ogni dimensione con fondi, mentoring e accesso a infrastrutture per la trasformazione digitale",
-            "link": "https://first.art-er.it/news/bando-linnovazione-delle-imprese-manifatturiere",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 3.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-01",
-            "title": "Teaching Factories Competition 2025: al via il bando per l'innovazione nel settore della manifattura",
-            "description": "La Teaching Factories Competition 2025 unisce studenti e aziende per sviluppare soluzioni innovative nel settore manifatturiero",
-            "link": "https://first.art-er.it/news/innovazione-manifatturiera-al-tfc-2025-di-eit",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "€ 90.000"
-            }
-        },
         {
             "deadline": "2025-09-02",
             "title": "Fashion Adaptor 2025: aperta la call per PMI del fashion sostenibile",
@@ -1983,7 +1935,7 @@
         },
         {
             "deadline": "2026-04-23",
-            "title": "DUT Call 2025: dal 1° settembre il bando europeo per progetti di ricerca e innovazione sulla transizione urbana sostenibile",
+            "title": "DUT Call 2025: al via il bando europeo per progetti di ricerca e innovazione sulla transizione urbana sostenibile",
             "description": "L’obiettivo è accelerare la trasformazione delle aree urbane in spazi climaticamente neutri, inclusivi e intelligenti",
             "link": "https://first.art-er.it/news/dut-call-2025",
             "custom": {

@@ -1,150 +1,6 @@
 {
-    "scraping_timestamp": "2025-09-02 03:36:39",
+    "scraping_timestamp": "2025-09-05 04:33:47",
     "data": [
-        {
-            "deadline": "2025-09-02",
-            "title": "Fashion Adaptor 2025: aperta la call per PMI del fashion sostenibile",
-            "description": "Un percorso intensivo per aiutare le PMI del settore moda a integrare principi di circolarità, innovazione e sostenibilità nei propri modelli di business",
-            "link": "https://first.art-er.it/news/fashion-adaptor-aperta-la-call-del-fashion-sostenibile",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "TASTE: sostegno all’innovazione sostenibile nel turismo alimentare",
-            "description": "Il bando punta a promuovere sostenibilità ambientale, transizione digitale e resilienza delle PMI europee",
-            "link": "https://first.art-er.it/news/taste-bando-progetti-su-turismo-alimentare",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 750.000"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 02-2025 (WP 2025) di Horizon Europe",
-            "description": "La call HORIZON-CL5-2025-02 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 18 topic",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 274.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 01-2025 (2-stage) (WP 2025) di Horizon Europe",
-            "description": "La call HORIZON-CL5-2025-01-Two-Stage è inclusa nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 24.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "WomenTechEU: aperto il bando per attuare il sostegno alle start-up femminili",
-            "description": "Aperta la selezione del consorzio che gestirà l’iniziativa a sostegno delle start-up deep tech guidate da donne, con scadenza il 2 settembre 2025",
-            "link": "https://first.art-er.it/news/bando-attuare-il-sostegno-alle-start-femminili",
-            "custom": {
-                "Topics": "Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 75.000"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "Europa Digitale: aperti i primi bandi del nuovo Work Programme 2025-2027",
-            "description": "Le opportunità riguardano gli EDIH, la creazione di nuove Accademie, il sostegno al factchecking, la sicurezza di internet, l'Intelligenza Artificiale generativa",
-            "link": "https://first.art-er.it/news/europa-digitale-aperti-4-bandi-dal-nuovo-wp-2025-2027",
-            "custom": {
-                "Topics": "Artificial Intelligence, Deep tech, Quantum",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "DIGITAL-2025-EDIH-AC-08: € 11 milioniDIGITAL-2025-BESTUSE-08: € 47 milioniDIGITAL-2025-SKILLS-08: € 27 milioniDIGITAL-2025-AI-08: € 55 milioniDIGITAL-2025-EDIH-EU-EEA-08-CONSOLIDATION-STEP: € 170 milioni"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "Global Health EDCTP3: sette bandi per affrontare le sfide sanitarie globali",
-            "description": "Le proposte selezionate contribuiranno al miglioramento della salute globale e al rafforzamento delle capacità di ricerca in Africa",
-            "link": "https://first.art-er.it/news/salute-africa-focus-su-salute-e-cooperazione",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-04",
-            "title": "Eurostars-3 Call 9: aperto il nuovo bando transnazionale per PMI innovative",
-            "description": "Il bando sostiene le PMI che mirano a collaborare a livello internazionale, promuovendo al contempo la crescita sostenibile e l’innovazione tecnologica",
-            "link": "https://first.art-er.it/news/bando-transnazionale-progetti-di-rs-collaborativi-1",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-04",
-            "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: i bandi two stage 2025 di Horizon Europe",
-            "description": "Aperti 2 bandi two stage Food sui temi dell'Alimentazione, bioeconomia, risorse naturali, agricoltura e ambiente",
-            "link": "https://first.art-er.it/news/food-le-call-2025-two-stage-di-horizon-europe",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-04",
-            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 05-2025 (2-stage) (WP 2025) di Horizon Europe",
-            "description": "La call HORIZON-CL5-2025-05-Two-Stage è inclusa nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-3",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 18.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-04",
-            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 04-2025 (WP 2025) di Horizon Europe",
-            "description": "La call HORIZON-CL5-2025-04 è pubblicata nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe e include 21 topic",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-2",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 174.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-04",
-            "title": "Clima, energia, mobilità: pubblicato il bando Cluster 5 Call 03-2025 (2-stage) (WP 2025) di Horizon Europe",
-            "description": "La call HORIZON-CL5-2025-03-Two-Stage è inclusa nel Work Programme Clima, energia, mobilità 2025 di Horizone Europe",
-            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovo-bando-horizon-europe-1",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 7.000.000"
-            }
-        },
         {
             "deadline": "2025-09-05",
             "title": "Competenze digitali: aperte le candidature al Premio Nazionale promosso da Repubblica Digitale",
@@ -1395,6 +1251,18 @@
         },
         {
             "deadline": "2025-11-05",
+            "title": "Progetto ResilMesh: aperta la seconda Open Call per affrontare le minacce alla sicurezza digitale",
+            "description": "Le candidature per il bando Resilmesh per soluzioni avanzate di cybersecurity sono aperte fino al 5 novembre 2025",
+            "link": "https://first.art-er.it/news/resilmesh-2deg-call-potenziare-la-sicurezza-digitale",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "fino a € 72.000 per progetto"
+            }
+        },
+        {
+            "deadline": "2025-11-05",
             "title": "Horizon Europe: bando ERC Synergy Grants 2026",
             "description": "Gli ERC Synergy Grants sono pensati per supportare la ricerca collaborativa d'avanguardia, in grado di dare risultati scientifici innovativi o anche imprevedibili",
             "link": "https://first.art-er.it/news/erc-pubblicato-il-bando-erc-synergy-grants-2026",
@@ -1415,6 +1283,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 1.065.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-07",
+            "title": "Aperto il bando AMALTEA per soluzioni digitali e hardware per facciate edilizie sostenibili",
+            "description": "La call finanzia fino a 10 progetti per la progettazione, produzione, installazione e riciclo di facciate edilizie digitali e sostenibili",
+            "link": "https://first.art-er.it/news/al-il-bando-amaltea-ledilizia-sostenibile",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.500.000"
             }
         },
         {
@@ -1634,15 +1514,27 @@
             }
         },
         {
-            "deadline": "2025-12-05",
-            "title": "QuantERA Call 2025: annunciato il nuovo bando sulle tecnologie quantistiche",
-            "description": "L'annuncio ufficiale del bando è previsto per il 4 settembre 2025",
-            "link": "https://first.art-er.it/news/quantera-call-2025-annunciato-il-nuovo-bando",
+            "deadline": "2025-12-04",
+            "title": "EU4Health 2025: pubblicati 2 nuovi bandi HERA",
+            "description": "Le call sono nel settore della diagnostica, dello sviluppo di dispositivi medici e della preparazione alla crisi sanitarie, con un budget di circa 30 milioni di euro e la scadenza fissata al 4 dicembre 2025",
+            "link": "https://first.art-er.it/news/eu4health-2025-pubblicati-2-nuovi-bandi-hera",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-05",
+            "title": "QuantERA Call 2025: lanciato il nuovo bando sulle tecnologie quantistiche",
+            "description": "Aperto fino al 5 dicembre 2025, il bando sosterrà progetti di ricerca transnazionali nei settori chiave della scienza e tecnologia quantistica",
+            "link": "https://first.art-er.it/news/quantera-call-2025-sulle-tecnologie-quantistiche",
+            "custom": {
+                "Topics": "Cascade funding, Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 53.000.000"
             }
         },
         {
@@ -1871,6 +1763,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 270.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-05",
+            "title": "CEF Energy: al via il 5° bando per progetti transfrontalieri di energia rinnovabile",
+            "description": "Le candidature per ottenere lo status di progetti transfrontalieri (CB RES) nell'ambito del programma CEF Energy andranno presentare entro il 5 febbraio 2026",
+            "link": "https://first.art-er.it/news/cef-energy-bando-progetti-di-energia-rinnovabile",
+            "custom": {
+                "Topics": "Blue Economy, Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
