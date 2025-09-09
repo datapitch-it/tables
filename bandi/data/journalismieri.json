@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-09-02 03:36:42",
+    "scraping_timestamp": "2025-09-05 04:33:50",
     "data": [
+        {
+            "deadline": "2025-09-15",
+            "title": "Environmental Photography Grants",
+            "description": "Vital Impacts",
+            "link": "https://gfmd.info/fundings/environmental-photography-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to $20,000"
+            }
+        },
         {
             "deadline": "2025-10-31",
             "title": "Media Start Funding",
@@ -74,18 +86,6 @@
             }
         },
         {
-            "deadline": "2025-08-31",
-            "title": "Biodiversity reporting grants",
-            "description": "The Sitka Foundation",
-            "link": "https://gfmd.info/fundings/biodiversity-reporting-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "16 grants of $10,000 each"
-            }
-        },
-        {
             "deadline": "2025-09-18",
             "title": "Independent media grants",
             "description": "European Union",
@@ -131,18 +131,6 @@
                 "Area Classification": "Middle East and North Africa",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Fully Funded"
-            }
-        },
-        {
-            "deadline": "2025-09-01",
-            "title": "Independent media grants",
-            "description": "International Media Support (IMS)",
-            "link": "https://gfmd.info/fundings/independent-media-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Based on the quality of proposals"
             }
         },
         {
@@ -218,18 +206,6 @@
             }
         },
         {
-            "deadline": "2025-09-02",
-            "title": "European Network of Fact-checkers",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/european-network-of-fact-checkers/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€42,000,000 available in total"
-            }
-        },
-        {
             "deadline": "2025-09-30",
             "title": "Mercantil Journalism Award 2025",
             "description": "Mercantil Bank",
@@ -239,18 +215,6 @@
                 "Area Classification": "Latin America and the Caribbean",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "R$80,000.00"
-            }
-        },
-        {
-            "deadline": "2025-09-02",
-            "title": "Strengthen Fact-Checking and Disinformation Response",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/strengthen-fact-checking-and-disinformation-response/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€ 47 million"
             }
         },
         {
