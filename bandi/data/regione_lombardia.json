@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-09-09 06:45:26",
+    "scraping_timestamp": "2025-09-11 05:15:14",
     "data": [
+        {
+            "deadline": "2025-10-10 12:00",
+            "title": "RICONOSCIMENTO SCUOLE DI SCI, DI ALPINISMO E DI SCI-ALPINISMO STORICHE LOMBARDE",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/pratica-sport/riconoscimento-scuole-sci-alpinismo-sci-alpinismo-storiche-lombarde-RLAV2025049165",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-09-25 16:00",
             "title": "MISURA NIDI GRATIS PLUS 2024/2025 rendicontazione dei Comuni",
@@ -126,18 +138,6 @@
             "title": "Programma 2025-2027 di interventi urgenti e prioritari per la difesa del suolo e la mitigazione dei rischi idrogeologici",
             "description": "Procedimento tecnico amministrativo per gli Enti attuatori degli interventi per la difesa del suolo e la mitigazione del rischio idrogeologico nel triennio 2025-2027, individuati dall'Allegato A alla d.g.r. n. 4736 del 14 luglio 2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/difesa-suolo/programma-2025-2027-interventi-urgenti-prioritari-difesa-suolo-mitigazione-rischi-idrogeologici-RLZ12025048883",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-10 12:00",
-            "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
-            "description": "Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -484,7 +484,7 @@
         {
             "deadline": "2025-09-30 13:00",
             "title": "Linea B - Percorsi IeFP modulari per la prevenzione e il contrasto alla dispersione scolastica a.f 2024/2025 -  finanziati sul PNRR",
-            "description": "Si informa che la fase di adesione è momentaneamente sospesa per esaurimento delle risorse disponibili.\nE' tuttavia possibile inviare eventuali richieste di riunica entro le ore 13.00 del 16 luglio 2025.\nInoltre, dalle ore 12.00 del 26 giugno 2025 alle ore 13 del 30 settembre 2025 è possibile effettuare le rendicontazioni delle doti ed inviare le relative Richieste di Liquidazione.",
+            "description": "Si informa che la fase di adesione è momentaneamente sospesa per esaurimento delle risorse disponibili.\nE' tuttavia possibile inviare eventuali richieste di rinuncia entro le ore 13.00 del 16 luglio 2025.\nInoltre, dalle ore 12.00 del 26 giugno 2025 alle ore 13 del 30 settembre 2025 è possibile effettuare le rendicontazioni delle doti ed inviare le relative Richieste di Liquidazione.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/linea-b-percorsi-iefp-modulari-prevenzione-contrasto-dispersione-scolastica-f-2024-2025-finanziati-pnrr-RLW12024041023",
             "custom": {
                 "Topics": "N/A",
@@ -546,18 +546,6 @@
             "title": "PSN/PAC 2023-2027 “Sostegno Gruppi Operativi PEI AGRI” - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRG01. Dotazione finanziaria di € 8.000.000,00. Domande dal 4 giugno al 2 ottobre 2025. Possono partecipare: imprese agricole (in forma singola e/o associata) con sede operativa in Regione Lombardia; enti di ricerca pubblici e privati e imprese operanti nel settore della ricerca; soggetti prestatori di consulenza; imprese operanti nel settore di servizi e mezzi tecnici, inclusa la digitalizzazione per il settore agricolo; altri soggetti del settore agricolo, alimentare, dei territori rurali e della società \ncivile rilevanti per il raggiungimento degli obiettivi del Gruppo Operativo.\nLa domanda è presentata dal capofila del partenariato costituito o da costituire a seguito dell’ammissione a finanziamento del progetto.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-sostegno-gruppi-operativi-pei-agri-sviluppo-rurale-bando-2025-RLM12025045243",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-09 12:00",
-            "title": "VERSO NUOVI MERCATI: sostenere l'internazionalizzazione delle imprese lombarde",
-            "description": "La misura mira a supportare le imprese che intendono avviare il loro percorso di internazionalizzazione attraverso la definizione e l’implementazione di un necessario Piano d’azione per l'Internazionalizzazione volto a promuovere un maggior coinvolgimento ed una maggiore integrazione delle imprese nei mercati esteri.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/internazionalizzazione/verso-nuovi-mercati-sostenere-l-internazionalizzazione-imprese-lombarde-RLO12025045364",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2751,18 +2739,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "RICONOSCIMENTO SCUOLE DI SCI, DI ALPINISMO E DI SCI-ALPINISMO STORICHE LOMBARDE",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/pratica-sport/riconoscimento-scuole-sci-alpinismo-sci-alpinismo-storiche-lombarde-RLAV2025049165",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "PSN/PAC 2023-2027 “Investimenti produttivi forestali - Ammodernamenti e miglioramenti\" - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRD15 - Azione SRD15.2. Dotazione finanziaria di € 4.000.000,00. Domande dal 12 settembre al 27 novembre 2025. Possono partecipare: PMI iscritte nel registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580 della Camera di \ncommercio territorialmente competente, che esercitano un’attività economica nel settore della selvicoltura e delle utilizzazioni forestali, nella gestione, difesa e tutela del territorio, nonché nel settore della prima trasformazione e commercializzazione (non industriale) dei prodotti legnosi del bosco.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-produttivi-forestali-ammodernamenti-miglioramenti-sviluppo-rurale-bando-2025-RLM12025047383",
@@ -2811,9 +2787,45 @@
         },
         {
             "deadline": "N/A",
+            "title": "Inclusione scolastica studenti con disabilità as 2025/2026 – Contributi ai Comuni per il servizio di trasporto scolastico (contributo straordinario e straordinario aggiuntivo)",
+            "description": "Raccolta del fabbisogno per i servizi di trasporto scolastico straordinario erogati dai Comuni, a favore degli studenti con disabilità (scuole secondarie di secondo grado e di istruzione e formazione professionale).",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/inclusione-scolastica-studenti-disabilit-as-2025-2026-contributi-comuni-servizio-trasporto-scolastico-contributo-straordinario-straordinario-aggiuntivo-RLW12025047683",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Inclusione scolastica studenti con disabilità a.s. 2025/2026 - Contributi ai Comuni per servizi di assistenza e trasporto scolastico ordinario",
+            "description": "Raccolta del fabbisogno per i servizi di assistenza e trasporto scolastico erogati dai Comuni a favore degli studenti con disabilità, delle scuole secondarie di secondo grado e di istruzione e formazione professionale.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/inclusione-scolastica-studenti-disabilit-anno-scolastico-2025-2026-contributi-comuni-servizi-assistenza-trasporto-scolastico-ordinario-RLW12025047463",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "Modulo Duale-GOL per l’AF 2025/2026: finanziamento dei percorsi di terza e quarta annualità e di IV Anno del sistema regionale IeFP",
             "description": "L’Avviso Modulo Duale – GOL, approvato con Decreto n. 8833 del 20 giugno 2025, è destinato alla realizzazione dei percorsi di Istruzione e Formazione Professionale per gli alunni di terza e quarta annualità e  di IV anno – anno formativo 2025/2026.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/avviso-pubblico-realizzazione-offerta-formativa-percorsi-terza-quarta-annualit-id-iv-anno-sistema-regionale-istruzione-formazione-professionale-iefp-f-2025-2026-RLW12025046503",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Richieste di risarcimento (e/o rivalse) per danni ai veicoli e/o lesioni a seguito sinistri con fauna selvatica (procedura riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali)",
+            "description": "Procedura riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali per la presentazione di richieste di risarcimento danni e/o lesioni subiti sul territorio lombardo a seguito di sinistri di veicoli con fauna selvatica. \nPer le richieste di privati cittadini o imprese intestatarie del veicolo è disponibile la procedura RLA12023031363 (info e link nella sezione “Chi può partecipare”)",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/richieste-risarcimento-rivalse-danni-veicoli-lesioni-seguito-sinistri-fauna-selvatica-procedura-riservata-studi-legali-societ-gestione-sinistri-compagnie-assicuratrici-enti-previdenziali-RLA12025048663",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2874,6 +2886,18 @@
             "title": "PSN/PAC 2023-2027 - \"Impianti forestazione/Imboschimento di terreni non agricoli\" - Sviluppo Rurale/bando 2025",
             "description": "INTERVENTO SRD10 - Azione SRD10.2) impianti di arboricoltura a ciclo breve o medio-lungo su superfici non agricole. Dotazione finanziaria: € 570.000,00. Domande dal 26 settembre al 13 novembre 2025. Possono partecipare: proprietari/possessori privati e loro associazioni, nonché altri soggetti ed enti di diritto privato e loro associazioni, titolari della conduzione di superfici non agricole.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-impianti-forestazione-imboschimento-terreni-non-agricoli-sviluppo-rurale-bando-2025-RLM12025048863",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Bando Check-up d'impresa",
+            "description": "Unioncamere Lombardia, in qualità di Organismo intermedio, nell’ambito del Programma Regionale Lombardia FSE+ 2021-2027, promuove l’avviso “Check up d'impresa”.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/check-up-d-impresa-UCL012025044383",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

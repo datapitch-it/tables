@@ -1,54 +1,6 @@
 {
-    "scraping_timestamp": "2025-09-05 04:33:47",
+    "scraping_timestamp": "2025-09-09 06:43:27",
     "data": [
-        {
-            "deadline": "2025-09-05",
-            "title": "Competenze digitali: aperte le candidature al Premio Nazionale promosso da Repubblica Digitale",
-            "description": "Il riconoscimento premia i migliori progetti a supporto dell’inclusione digitale e della diffusione della cultura digitale in Italia",
-            "link": "https://first.art-er.it/news/digitale-aperte-le-candidature-al-premio-nazionale",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-05",
-            "title": "BIND 4.0: al via la 10ª edizione del programma di accelerazione per startup innovative",
-            "description": "Candidature aperte fino al 5 settembre 2025 per progetti ad alto impatto tecnologico nei settori Industry 4.0, salute, energia, sostenibilità e food",
-            "link": "https://first.art-er.it/news/bind-40-al-la-10a-edizione-del-programma",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-08",
-            "title": "3DOP: secondo cutoff della call per PMI nel settore della stampa 3D",
-            "description": "Il bando mira ad accelerare la transizione digitale e la competitività delle PMI manifatturiere attraverso l’innovazione nella stampa 3D",
-            "link": "https://first.art-er.it/news/servizi-3d-pmi-secondo-cutoff-call-3dop",
-            "custom": {
-                "Topics": "Industrie creative",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-08",
-            "title": "Il Consiglio della Ricerca in Estonia (ETAG) lancia il bando Mobilitas 3.0",
-            "description": "Il bando è aperto fino all'8 settembre 2025 a progetti di ricerca post-doc che hanno ricevuto il Seal of Excellence MSCA e intendono trasferire la loro attività di ricerca in Estonia",
-            "link": "https://first.art-er.it/news/bando-etag-mobilitas-30-progetti-post-doc-msca",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 76.000"
-            }
-        },
         {
             "deadline": "2025-09-09",
             "title": "EIC Community and Ecosystem Partnership Programme: aperto il bando di gara",
@@ -1515,14 +1467,14 @@
         },
         {
             "deadline": "2025-12-04",
-            "title": "EU4Health 2025: pubblicati 2 nuovi bandi HERA",
-            "description": "Le call sono nel settore della diagnostica, dello sviluppo di dispositivi medici e della preparazione alla crisi sanitarie, con un budget di circa 30 milioni di euro e la scadenza fissata al 4 dicembre 2025",
-            "link": "https://first.art-er.it/news/eu4health-2025-pubblicati-2-nuovi-bandi-hera",
+            "title": "EU4Health 2025: al via al nuovo bando HERA",
+            "description": "Diagnostica, sviluppo di dispositivi medici e preparazione alla crisi sanitarie i settori target della call che scade il 4 dicembre 2025",
+            "link": "https://first.art-er.it/news/eu4health-2025-al-al-nuovo-bando-hera",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 20.000.000"
+                "Stanziamento": "€ 30.000.000"
             }
         },
         {
