@@ -1,102 +1,6 @@
 {
-    "scraping_timestamp": "2025-09-09 06:43:27",
+    "scraping_timestamp": "2025-09-11 05:13:13",
     "data": [
-        {
-            "deadline": "2025-09-09",
-            "title": "EIC Community and Ecosystem Partnership Programme: aperto il bando di gara",
-            "description": "Il programma EIC Ecosystem Partnerships and Co-Investment Support è stato lanciato nel 2022 dallo European Innovation Council di Horizon Europe con l’obiettivo di offrire servizi specialistici ai beneficiari EIC",
-            "link": "https://first.art-er.it/news/eic-community-and-ecosystem-partnership-bando-di-gara",
-            "custom": {
-                "Topics": "Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 7.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-09",
-            "title": "EP PerMed: aperta la Education call per lo sviluppo di corsi online sulla medicina personalizzata",
-            "description": "L'obiettivo è di supportare la realizzazione di contenuti formativi di alta qualità rivolti ai professionisti del settore sanitario",
-            "link": "https://first.art-er.it/news/ep-permed-bando-lo-sviluppo-di-corsi-online",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 300.000"
-            }
-        },
-        {
-            "deadline": "2025-09-10",
-            "title": "Just Transition Platform: al via le candidature per i JTP Champions Awards 2025",
-            "description": "Un’opportunità per premiare leadership, innovazione e inclusione nel processo di transizione giusta",
-            "link": "https://first.art-er.it/news/jtp-champions-awards-2025-aperte-le-candidature",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-10",
-            "title": "6G-PATH: aperta la seconda call per l’innovazione tecnologica nei settori strategici",
-            "description": "La nuova call 6G-PATH seleziona progetti per testare tecnologie oltre il 5G su piattaforme europee dedicate ai settori strategici",
-            "link": "https://first.art-er.it/news/6g-path-lanciata-la-seconda-open-call-del-progetto",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 60.000 per application"
-            }
-        },
-        {
-            "deadline": "2025-09-10",
-            "title": "Mobilità urbana sostenibile: aperto il bando RIS Education per il triennio 2026–2028",
-            "description": "Il bando sostiene iniziative educative e formative incentrate su innovazione, imprenditorialità e mobilità urbana",
-            "link": "https://first.art-er.it/news/bando-eit-formare-competenze-nella-mobilita-urbana",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.250.000"
-            }
-        },
-        {
-            "deadline": "2025-09-10",
-            "title": "EIT Urban Mobility: al via la Call Master School e I&E Fellowship 2026 per progetti educativi innovativi",
-            "description": "La Call punta a colmare il divario di competenze nell'ambito della mobilità urbana attraverso lo sviluppo di un'offerta formativa avanzata di alta qualità",
-            "link": "https://first.art-er.it/news/eit-urban-mobility-aperta-call-2026-leducazione",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.220.000"
-            }
-        },
-        {
-            "deadline": "2025-09-10",
-            "title": "Horizon Europe: bando MSCA Postdoctoral Fellowships 2025",
-            "description": "L'obiettivo è valorizzare il potenziale creativo e innovativo dei ricercatori titolari di un dottorato di ricerca che desiderano acquisire nuove competenze",
-            "link": "https://first.art-er.it/news/horizon-europe-call-msca-postdoctoral-fellowships-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "274.634.518 €"
-            }
-        },
-        {
-            "deadline": "2025-09-10",
-            "title": "Ampliare la partecipazione e rafforzare lo Spazio Europeo della Ricerca: bando ERA Fellowships 2025 di Horizon Europe",
-            "description": "C'è tempo fino al 10 settembre prossimo per partecipare al bando ERA Fellowships 2025, che ha un budget di 8 milioni di euro",
-            "link": "https://first.art-er.it/news/widening-participation-bando-era-fellowships-2025",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 8.000.000"
-            }
-        },
         {
             "deadline": "2025-09-11",
             "title": "Progetto AID4SME: nuovo bando per soluzioni di Intelligenza Artificiale e data-driven delle PMI",
@@ -815,6 +719,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 536.000.000"
+            }
+        },
+        {
+            "deadline": "2025-10-02",
+            "title": "Europa Digitale: aperti i primi bandi del nuovo Work Programme 2025-2027",
+            "description": "Le opportunità riguardano gli EDIH, la creazione di nuove Accademie, il sostegno al factchecking, la sicurezza di internet, l'Intelligenza Artificiale generativa",
+            "link": "https://first.art-er.it/news/europa-digitale-aperti-4-bandi-dal-nuovo-wp-2025-2027",
+            "custom": {
+                "Topics": "Artificial Intelligence, Deep tech, Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "DIGITAL-2025-EDIH-AC-08: € 11 milioniDIGITAL-2025-BESTUSE-08: € 47 milioniDIGITAL-2025-SKILLS-08: € 27 milioniDIGITAL-2025-AI-08: € 55 milioniDIGITAL-2025-EDIH-EU-EEA-08-CONSOLIDATION-STEP: € 170 milioni"
             }
         },
         {

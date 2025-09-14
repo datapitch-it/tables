@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-09-09 06:43:31",
+    "scraping_timestamp": "2025-09-11 05:13:15",
     "data": [
         {
             "deadline": "2025-09-15",
@@ -62,18 +62,6 @@
             }
         },
         {
-            "deadline": "2025-09-08",
-            "title": "Catapult Development Grant Program",
-            "description": "Catapult film fund",
-            "link": "https://gfmd.info/fundings/catapult-development-grant-program/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "from $5,000 to $25,000."
-            }
-        },
-        {
             "deadline": "2025-09-22",
             "title": "The Burtynsky Grant",
             "description": "CONTACT",
@@ -131,18 +119,6 @@
                 "Area Classification": "Middle East and North Africa",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Fully Funded"
-            }
-        },
-        {
-            "deadline": "2025-09-05",
-            "title": "ICFP 2025 Media Fellowship",
-            "description": "International Conference on Family Planning (ICFP)",
-            "link": "https://gfmd.info/fundings/icfp-2025-media-fellowship/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "BOGOTÁ, COLOMBIA"
             }
         },
         {
