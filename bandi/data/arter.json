@@ -1,162 +1,6 @@
 {
-    "scraping_timestamp": "2025-09-14 06:44:37",
+    "scraping_timestamp": "2025-09-18 06:12:28",
     "data": [
-        {
-            "deadline": "2025-09-14",
-            "title": "Intelligenza Artificiale: la Commissione UE cerca esperti per il nuovo Panel Scientifico",
-            "description": "E' possibile presentare le domande entro il 14 settembre 2025 per contribuire al monitoraggio dei rischi dei modelli di IA",
-            "link": "https://first.art-er.it/news/ue-aperto-il-bando-esperti-indipendenti-su-ia",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-15",
-            "title": "MANTRA: aperti due bandi per PMI manifatturiere e tecnologiche",
-            "description": "Il progetto MANTRA seleziona 50 PMI manifatturiere e un pool di imprese tecnologiche per progetti pilota di trasformazione digitale e sostenibile",
-            "link": "https://first.art-er.it/news/aperti-due-bandi-mantra-pmi-manifatturiere-e-tech",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 50.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "Azioni Marie Skłodowska-Curie: nuovo bando a favore dei ricercatori ucraini",
-            "description": "L'iniziativa MSCA4Ukraine sostiene dottorandi e ricercatori post-doc ucraini sfollati per aiutarli a proseguire la propria attività scientifica in condizioni di sicurezza",
-            "link": "https://first.art-er.it/news/msca-pubblicato-nuovo-bando-ricercatori-ucraini",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 10.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "Salute: pubblicato il bando Cluster 1 - Health (Two stage - 2025) di Horizon Europe",
-            "description": "Il bando HORIZON-HLTH-2025-03-two-stage è pubblicato nel Work Programme Salute di Horizon Europe e contiene 5 topic",
-            "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe-1",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 210.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "Salute: pubblicato il bando Cluster 1 - Health (Single stage - 2025) di Horizon Europe",
-            "description": "Il bando HORIZON-HLTH-2025-01 è pubblicato nel Work Programme Salute di Horizon Europe e contiene 13 topic",
-            "link": "https://first.art-er.it/news/salute-pubblicato-nuovo-bando-di-horizon-europe-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 486.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: pubblicato nuovo bando di Horizon Europe",
-            "description": "La call HORIZON-CL6-2025-02 è pubblicata nel Work Programme Food, Bioeconomy, Natural Resources, Agriculture and Environment 2025 di Horizone Europe e include 26 topic",
-            "link": "https://first.art-er.it/news/food-bioeconomy-natural-resources-agriculture-and-environment-pubblicato-nuovo-bando-di-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 979.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "Cultura, creatività e società inclusiva: pubblicati tre nuovi bandi di Horizon Europe",
-            "description": "Il nuovo Work Programme 2025 cultura, creatività e società inclusiva contiene tre nuovi bandi per finanziare progetti di ricerca e innovazione",
-            "link": "https://first.art-er.it/news/cultura-creativita-e-societa-inclusiva-tre-nuovi-bandi",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 357.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "CEF: aperti due nuovi bandi per le infrastrutture energetiche",
-            "description": "La Commissione ha lanciato due call CEF Energy per finanziare progetti chiave su reti elettriche, idrogeno e CO2",
-            "link": "https://first.art-er.it/news/cef-energy-600-milioni-infrastrutture-energetiche",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 600.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "SESAR Joint Undertaking: aperti due nuovi bandi di ricerca per la gestione del traffico aereo",
-            "description": "Previsto un finanziamento complessivo di € 254.000.000 nell'ambito del Digital European Sky (DES)",
-            "link": "https://first.art-er.it/news/ju-sesar-nuove-call-di-ricerca-e-innovazione-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 254.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-17",
-            "title": "EURL: aperta la call per il laboratorio di riferimento UE sui virus respiratori",
-            "description": "La Commissione europea cerca nuovi Laboratori di riferimento dell’Unione europea (EURL) di eccellenza per rafforzare il monitoraggio e la risposta alle minacce sanitarie transfrontaliere",
-            "link": "https://first.art-er.it/news/nuovi-eurl-la-salute-pubblica-al-la-selezione",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-17",
-            "title": "Annunciata l'apertura del \"Bando Voucher Digitali - Anno 2025\"",
-            "description": "Contributi fino a 10.000 euro per progetti di digitalizzazione e transizione ecologica delle micro, piccole e medie imprese locali",
-            "link": "https://first.art-er.it/news/annunciato-il-bando-voucher-digitali-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 600.000"
-            }
-        },
-        {
-            "deadline": "2025-09-17",
-            "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: pubblicato nuovo bando di Horizon Europe",
-            "description": "La call HORIZON-CL6-2025-01 è pubblicata nel Work Programme Food, Bioeconomy, Natural Resources, Agriculture and Environment 2025 di Horizone Europe e include 32 topic",
-            "link": "https://first.art-er.it/news/food-bioeconomy-natural-resources-agriculture-and-environment-pubblicato-nuovo-bando-di",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 445.000.000"
-            }
-        },
-        {
-            "deadline": "2025-09-17",
-            "title": "Semiconduttori: al via i bandi 2025 della partnership europea Chips JU",
-            "description": "La partnership europea Chips JU ha lanciato le nuove call 2025 nell'ambito dei semiconduttori con scadenze multiple",
-            "link": "https://first.art-er.it/news/chips-ju-al-le-nuove-call-2025-sui-semiconduttori",
-            "custom": {
-                "Topics": "Artificial Intelligence, Deep tech",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-09-18",
             "title": "SNS JU pubblica una nuova call per la connettività 5G/6G in settori strategici",
@@ -1167,6 +1011,18 @@
         },
         {
             "deadline": "2025-11-13",
+            "title": "Water4All: aperto il nuovo bando “Acqua e Salute\"",
+            "description": "Il MUR stanzia 2 milioni di euro per sostenere la partecipazione italiana al bando",
+            "link": "https://first.art-er.it/news/ricerca-idrica-238-milioni-progetti-transnazionali-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 23.800.000"
+            }
+        },
+        {
+            "deadline": "2025-11-13",
             "title": "I3: pubblicato un nuovo bando per progetti di innovazione interregionale",
             "description": "L'obiettivo è sostenere gli ecosistemi di innovazione delle regioni europee meno sviluppate",
             "link": "https://first.art-er.it/news/innovazione-regionale-aperto-nuovo-bando-i3-0",
@@ -1227,14 +1083,14 @@
         },
         {
             "deadline": "2025-11-17",
-            "title": "SBEP: in arrivo il terzo bando congiunto per la blue economy sostenibile",
-            "description": "Al via a settembre il bando su innovazione, sostenibilità e inclusione per mari e comunità costiere",
-            "link": "https://first.art-er.it/news/economia-blu-arrivo-il-terzo-bando-europeo-ri",
+            "title": "SBEP: lanciato il terzo bando congiunto per la blue economy sostenibile",
+            "description": "Dal 15 settembre è aperto il bando su innovazione, sostenibilità e inclusione per mari e comunità costiere",
+            "link": "https://first.art-er.it/news/economia-blu-terzo-bando-europeo-ri",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 44.000.000"
+                "Stanziamento": "€ 43.500.000"
             }
         },
         {
@@ -1283,18 +1139,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-26",
-            "title": "Generative AI: aperta nuova call del progetto FFplus",
-            "description": "La nuova call FFplus sostiene PMI e startup per sviluppare modelli di IA generativa usando le infrastrutture di supercalcolo europee",
-            "link": "https://first.art-er.it/news/innovazione-ia-generativa-alla-nuova-call-ffplus",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 4.000.000"
             }
         },
         {
@@ -1408,7 +1252,7 @@
         {
             "deadline": "2025-12-10",
             "title": "PNRR: terzo sportello del Fondo per il sostegno alla transizione industriale",
-            "description": "Stanziati ulteriori fondi per migliorare l’efficienza energetica e l'uso delle risorse nelle imprese italiane. Domande a partire dal 17 settembre",
+            "description": "Stanziati ulteriori fondi per migliorare l’efficienza energetica e l'uso delle risorse nelle imprese italiane.",
             "link": "https://first.art-er.it/news/pnrr-supporto-alle-imprese-lefficienza-energetica-0",
             "custom": {
                 "Topics": "Transizione sostenibile",
@@ -1658,6 +1502,18 @@
             }
         },
         {
+            "deadline": "2026-02-25",
+            "title": "Generative AI: in arrivo la nuova call del progetto FFplus",
+            "description": "La nuova call FFplus in arrivo sostiene PMI e startup per sviluppare modelli di IA generativa usando le infrastrutture di supercalcolo europee",
+            "link": "https://first.art-er.it/news/innovazione-ia-generativa-alla-nuova-call-ffplus",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
             "deadline": "2026-03-04",
             "title": "Trasporti: pubblicato il nuovo bando CEF per un'infrastruttura di combustibili alternativi",
             "description": "Il bando prevede tre cut-off tra il 2024 e il 2026, per un budget complessivo di € 1.000.000.000",
@@ -1679,18 +1535,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 80.000.000"
-            }
-        },
-        {
-            "deadline": "2026-04-13",
-            "title": "Water4All: in arrivo il nuovo bando “Acqua e Salute\"",
-            "description": "Il MUR stanzia 2 milioni di euro per sostenere la partecipazione italiana al bando",
-            "link": "https://first.art-er.it/news/ricerca-idrica-238-milioni-progetti-transnazionali",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 2.000.000"
             }
         },
         {
