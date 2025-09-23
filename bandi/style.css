@@ -87,3 +87,13 @@
             font-family: "Inter", sans-serif;
         }
         /* --- End Placeholder Effect CSS --- */
+
+        /* unvisited link */
+a:link {
+  color: #0d6efa;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(121, 80, 121);
+}
