@@ -23,7 +23,7 @@ def check_and_rename_file(file_path):
 start_time = time.time()
 
 # Path to your cached ChromeDriver
-chrome_driver_path = "/home/nelson/.cache/selenium/chromedriver/linux64/138.0.7204.94/chromedriver"
+chrome_driver_path = "/home/nelson/.cache/selenium/chromedriver/linux64/chromedriver-linux64/chromedriver"
 
 # Set up WebDriver using the specified ChromeDriver path
 driver = webdriver.Chrome(service=Service(chrome_driver_path))

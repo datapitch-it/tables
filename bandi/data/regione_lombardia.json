@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-09-18 06:14:28",
+    "scraping_timestamp": "2025-09-23 06:17:53",
     "data": [
+        {
+            "deadline": "2025-10-09 12:00",
+            "title": "NIDI GRATIS PLUS - 2025/26 - ANTICIPO AI COMUNI",
+            "description": "Dalle 12 del 22/09/25 fino alle 12.00 del 9/10/25, i Comuni dell'elenco pubblicato a fondo pagina, possono fare richiesta di anticipo per la Misura 25/26.\n\nLa liquidazione dell’anticipo avverrà solo dopo l’amissione del Comune alla Misura Nidi Gratis Plus 2025-2026, ovvero il Comune presente nell’Allegato che desidera ricevere l’anticipo, dovrà comunque presentare domanda secondo le modalità descritte nel paragrafo successivo, ma fintanto che la domanda del Comune risulta ancora in istruttoria, l’importo dell’anticipazione finanziaria non potrà essere liquidato.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/nidi-gratis-plus-2025-26-anticipo-comuni-RLD12025045643",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Monitoraggio Interventi",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/database-interventi-RLZ12025048143",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-10-15 16:00",
             "title": "VInnovate Open Call 2025 Lombardia",
@@ -242,18 +266,6 @@
             }
         },
         {
-            "deadline": "2025-09-20 23:59",
-            "title": "Manifestazione di interesse - Corsi di alta formazione per il personale di Regione Lombardia 2025-26",
-            "description": "La Manifestazione di interesse è finalizzata alla raccolta di iniziative di alta formazione (master universitari, corsi executive, corsi di specializzazione, ecc.) con lo scopo di predisporre un catalogo formativo di elevato livello da proporre al personale dipendente di ruolo di Regione Lombardia.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/manifestazione-interesse-corsi-alta-formazione-personale-regione-lombardia-2025-26-RLAG2025049063",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "N/A",
             "title": "Programma 2025-2027 di interventi urgenti e prioritari per la difesa del suolo e la mitigazione dei rischi idrogeologici",
             "description": "Procedimento tecnico amministrativo per gli Enti attuatori degli interventi per la difesa del suolo e la mitigazione del rischio idrogeologico nel triennio 2025-2027, individuati dall'Allegato A alla d.g.r. n. 4736 del 14 luglio 2025.",
@@ -426,18 +438,6 @@
             "title": "Premialità Ministeriale ITS 2025/26",
             "description": "Con il presente strumento viene erogata la somma di € 4.166.221,53 assegnata con il Decreto Dipartimentale del Ministero dell’istruzione e del Merito n. 693 del 01/04/2025 sul Fondo per l'istruzione tecnologica superiore, istituito ai sensi dell'articolo 11, della legge 99/2022, a favore delle Fondazioni ITS Academy destinatarie della premialità sulla base del Monitoraggio nazionale 2025 dei percorsi ITS",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/premialit-ministeriale-its-2025-26-RLW12025046103",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-18 16:30",
-            "title": "Avviso pubblico per la selezione di soggetti nell'ambito del progetto NEXT LINEA F \"Sostegno alle sale cinematografiche per la programmazione sul territorio lombardo\" edizione 2025-2026",
-            "description": "La linea F. \"Sostegno alle sale cinematografiche per la programmazione sul territorio lombardo\" del progetto Next – Laboratorio di idee per la produzione e programmazione dello spettacolo lombardo - edizione 2025-2026 sostiene le sale cinematografiche che promuovono contenuti culturali, con particolare attenzione a target specifici di pubblico, in quanto rappresentano presidi culturali sui territori e centri di aggregazione che favoriscono la socializzazione e la coesione delle comunità.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/avviso-pubblico-selezione-soggetti-ambito-progetto-next-linea-f-sostegno-sale-cinematografiche-programmazione-territorio-lombardo-edizione-2025-2026-RLL12025047083",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1708,7 +1708,7 @@
         {
             "deadline": "N/A",
             "title": "Rimborso dei danni ai veicoli e/o lesioni per sinistri con fauna selvatica",
-            "description": "Procedura per la richiesta di indennizzo per danni e/o lesioni subiti dai cittadini sul territorio lombardo a seguito di sinistri di veicoli con fauna selvatica",
+            "description": "Procedura per la richiesta di indennizzo per danni e/o lesioni subiti  sul territorio lombardo a seguito di sinistri di veicoli con fauna selvatica.\n\nSi segnala che dal 1° ottobre questo strumento sarà ad uso esclusivo di cittadini/imprese proprietarie dei veicoli danneggiati, mentre per le richieste di studi legali, compagnie assicuratrici, società di gestione sinistri o enti previdenziali sarà attivato lo strumento dedicato (RLA12025048663)",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/sicurezza-stradale-urbana/rimborso-danni-veicoli-lesioni-sinistri-fauna-selvatica-RLA12023031363",
             "custom": {
                 "Topics": "N/A",
@@ -1722,18 +1722,6 @@
             "title": "Pacchetto investimenti – Linea sviluppo aziendale",
             "description": "La linea Sviluppo aziendale, i cui criteri sono stati approvati con delibera di Giunta regionale n. 7595 del 15 dicembre 2022, agevola gli investimenti delle PMI e delle MidCap - Imprese a media capitalizzazione in piani di sviluppo aziendale finalizzati all’ammodernamento e all’ampliamento produttivo.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/pacchetto-investimenti-linea-sviluppo-aziendale-RLO12023031703",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-31 12:00",
-            "title": "Brevetti 2023",
-            "description": "Il bando sostiene l'ottenimento di nuovi brevetti europei e internazionali o estensioni degli stessi a livello europeo o internazionale relativamente a invenzioni industriali.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/brevetti-2023-RLF12023035064",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2799,9 +2787,45 @@
         },
         {
             "deadline": "N/A",
-            "title": "OCDPC 929/2022 - Abitazioni - Domanda e rendicontazione contributo ripristini (OCDPC 1158/2025)",
-            "description": "Eventi meteorologici verificatisi nella terza decade del mese di luglio 2022 nel territorio dei Comuni di Braone, Ceto e Niardo, in provincia di Brescia - Presentazione delle domande di contributo relative ai soggetti privati per i danni occorsi al patrimonio edilizio abitativo ed ai beni mobili, che hanno presentato il Modulo B1 di ricognizione dei danni.",
+            "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
+            "description": "Dal 23 settembre ore 12 al 25 settembre ore 12 - Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Scuola – componente Merito, anno scolastico e formativo 2024/2025",
+            "description": "Con \"Dote Scuola - Merito\" la Regione intende premiare gli studenti che si sono distinti per i risultati ottenuti negli studi, nell’anno scolastico 2024/2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/dote-scuola-componente-merito-anno-scolastico-formativo-2024-2025-RLW12025047843",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "OCDPC 929/2022 - Abitazioni - Domanda e rendicontazione contributo ripristini",
+            "description": "Eventi meteorologici verificatisi nella terza decade del mese di luglio 2022 nel territorio dei Comuni di Braone, Ceto e Niardo, in provincia di Brescia - Presentazione delle domande di contributo relative ai soggetti privati per i danni occorsi al patrimonio edilizio abitativo ed ai beni mobili, che hanno presentato il Modulo B1 di ricognizione dei danni (OCDPC n. 1158/2025).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/ocdpc-1158-2025-abitazioni-domanda-rendicontazione-contributo-ripristini-RLY12025049543",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Formazione Continua terza edizione - Voucher aziendali a catalogo  (PR FSE+ 2021-2027)",
+            "description": "Avviso pubblico per l’assegnazione di voucher aziendali a catalogo per interventi di formazione continua, a valere sul PR FSE+  2021-2027. Terza edizione,  in attuazione della D.g.r. n. 4922 del 1° agosto 2025 (Linee Guida).",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/formazione-continua-terza-edizione-voucher-aziendali-catalogo-pr-fse-2021-2027-UCL012025047703",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2847,6 +2871,18 @@
         },
         {
             "deadline": "N/A",
+            "title": "Fondo regionale per il pluralismo e l’innovazione dell’informazione radiotelevisiva e dell'editoria on line locale – Anno 2025",
+            "description": "Contributi per le emittenti radiotelevisive locali e le testate giornalistiche online locali ai sensi dell’articolo 5-bis della legge regionale del 25 gennaio 2018, n. 8 «Misure di sostegno a favore delle emittenti radiotelevisive locali»",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/patrimonio-culturale/fondo-regionale-pluralismo-l-innovazione-informazione-radiotelevisiva-editoria-on-line-locale-anno-2025-RLA12025049344",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "Ri.circo.lo. C&D - Risorse circolari in Lombardia per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare. Edizione dedicata alle filiere della costruzione e demolizione e delle bonifiche di siti contaminati",
             "description": "La misura è relativa ad azioni di simbiosi industriale, prevenzione della produzione rifiuti, riciclaggio e valorizzazione dei materiali nelle filiere della costruzione e demolizione e delle bonifiche di siti contaminati.\n\nI rifiuti da costruzione e demolizione, compresi i terreni provenienti da siti contaminati, sono quantitativamente molto rilevanti, rappresentando circa il 40% della produzione totale di rifiuti speciali in tutti i contesti.\nI rifiuti prodotti dalle operazioni di bonifica dei terreni (in particolare il codice EER 191302) sono tra i principali rifiuti che vengono conferiti nelle discariche per rifiuti inerti.\n\nPer le filiere della produzione di materiali per l’edilizia e del recupero dei rifiuti da costruzione e demolizione vi è necessità di ottenere materiali riciclati di qualità da valorizzare per un loro più ampio utilizzo in sostituzione di materiale vergine. Il bando riguarda tutte le tipologie di prodotti e materiali di tali filiere, non solo i c.d. “rifiuti inerti”.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/ri-circo-c-d-risorse-circolari-lombardia-sostegno-pmi-lombarde-sviluppo-azioni-economia-circolare-edizione-dedicata-filiere-costruzione-demolizione-bonifiche-siti-contaminati-RLT12025047563",
@@ -2883,9 +2919,45 @@
         },
         {
             "deadline": "N/A",
+            "title": "Sostegno a manifestazioni sportive sul territorio lombardo periodo 1° ottobre 2025 – 30 giugno 2026",
+            "description": "Presentazione domande manifestazioni  realizzate nel 2° trimestre  (1° gennaio 2026 - 31 marzo 2026)  dalle ore 10:00 del 01/10/2025 alle ore 16:00 del 22/10/2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-manifestazioni-sportive-territorio-lombardo-periodo-1-ottobre-2025-30-giugno-2026-RLAV2025047263",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Contributi per la conservazione dei roccoli - anno 2025",
+            "description": "Obiettivo assicurare la conservazione e il mantenimento dei roccoli,  elementi di rilevante interesse paesaggistico ambientale e vegetale che caratterizzano il paesaggio rurale lombardo. Domande dal 1° al 24 ottobre 2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/pesca/bando-roccoli-l-r-n-26-1993-art-7-comma-8-anno-2025-RLM12025049244",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "STUDI LEGALI/RIVALSE - DENUNCE SINISTRI CON FAUNA SELVATICA: richieste di risarcimento (e/o rivalse) per danni ai veicoli e/o lesioni a seguito sinistri con fauna selvatica riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali",
             "description": "Procedura riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali per la presentazione di richieste di risarcimento danni e/o lesioni subiti sul territorio lombardo a seguito di sinistri di veicoli con fauna selvatica. \nPer le richieste di privati cittadini o imprese intestatarie del veicolo è disponibile la procedura RLA12023031363 (info e link nella sezione “Chi può partecipare”)",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/richieste-risarcimento-rivalse-danni-veicoli-lesioni-seguito-sinistri-fauna-selvatica-procedura-riservata-studi-legali-societ-gestione-sinistri-compagnie-assicuratrici-enti-previdenziali-RLA12025048663",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Strutture ricettive Storiche e di qualità 2025",
+            "description": "La misura è finalizzata a sostenere le strutture ricettive storiche e di qualità, riconosciute dall’ente regionale, gestite in forma imprenditoriale (di cui all’articolo 18 della L.R. 27/2015) per l’acquisto di arredi e complementi utili all’attività dell’unità locale.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/ricettivita/strutture-ricettive-storiche-qualit-2025-RLP12025047883",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

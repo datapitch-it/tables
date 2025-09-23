@@ -1,16 +1,76 @@
 {
-    "scraping_timestamp": "2025-09-18 06:12:30",
+    "scraping_timestamp": "2025-09-23 06:15:39",
     "data": [
         {
-            "deadline": "2025-09-15",
-            "title": "Environmental Photography Grants",
-            "description": "Vital Impacts",
-            "link": "https://gfmd.info/fundings/environmental-photography-grants/",
+            "deadline": "2025-10-01",
+            "title": "Visegrad+ Grants",
+            "description": "Visegrad Fund",
+            "link": "https://gfmd.info/fundings/visegrad-grants-2/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to $100,000"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "WBF Matching Grants",
+            "description": "Western Balkans Fund",
+            "link": "https://gfmd.info/fundings/wbf-matching-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€10,000"
+            }
+        },
+        {
+            "deadline": "2026-08-20",
+            "title": "Environmental Investigative Journalism 2025",
+            "description": "Journalismfund Europe",
+            "link": "https://gfmd.info/fundings/environmental-investigative-journalism-2025/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to $20,000"
+                "Stanziamento": "€400,000"
+            }
+        },
+        {
+            "deadline": "2025-10-15",
+            "title": "Young Civil Societies for Democracy",
+            "description": "Erinnerung Verantwortung Zukunft",
+            "link": "https://gfmd.info/fundings/young-civil-societies-for-democracy/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "UP to EUR 65,000."
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Civil Conflict Resolution and Peacebuilding",
+            "description": "Ifa – Institut für Auslandsbeziehungen",
+            "link": "https://gfmd.info/fundings/civil-conflict-resolution-and-peacebuilding/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-09-24",
+            "title": "Ideation Grants",
+            "description": "Better politics foundation",
+            "link": "https://gfmd.info/fundings/ideation-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to €20,000"
             }
         },
         {
@@ -74,30 +134,6 @@
             }
         },
         {
-            "deadline": "2025-09-18",
-            "title": "Independent media grants",
-            "description": "European Union",
-            "link": "https://gfmd.info/fundings/independent-media-grants-2/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to EUR 30,000"
-            }
-        },
-        {
-            "deadline": "2025-09-14",
-            "title": "Tarbell AI Reporting Grants",
-            "description": "Tarbell Center for AI Journalism",
-            "link": "https://gfmd.info/fundings/tarbell-ai-reporting-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to to $15,000."
-            }
-        },
-        {
             "deadline": "Invalid Date",
             "title": "Funding for Women-Led Initiatives in Africa",
             "description": "African Women for Change Network (AFNet)",
@@ -134,30 +170,6 @@
             }
         },
         {
-            "deadline": "2025-09-16",
-            "title": "HORIZON Call",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/horizon-call/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "3000000 to 3500000 EUR"
-            }
-        },
-        {
-            "deadline": "2025-09-17",
-            "title": "European Mini-Slate Development Support",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/european-mini-slate-development-support/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "EUR 5,500,000"
-            }
-        },
-        {
             "deadline": "2025-10-31",
             "title": "Media Project Funding in Vienna",
             "description": "Vienna Business Agency",
@@ -167,18 +179,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "EUR 100,000 per project"
-            }
-        },
-        {
-            "deadline": "2025-09-16",
-            "title": "Fighting against disinformation",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/fighting-against-disinformation/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "EUR 3,000,000 - 3,500,000"
             }
         },
         {
