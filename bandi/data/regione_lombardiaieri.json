@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-09-19 14:45:53",
+    "scraping_timestamp": "2025-09-23 06:17:53",
     "data": [
+        {
+            "deadline": "2025-10-09 12:00",
+            "title": "NIDI GRATIS PLUS - 2025/26 - ANTICIPO AI COMUNI",
+            "description": "Dalle 12 del 22/09/25 fino alle 12.00 del 9/10/25, i Comuni dell'elenco pubblicato a fondo pagina, possono fare richiesta di anticipo per la Misura 25/26.\n\nLa liquidazione dell’anticipo avverrà solo dopo l’amissione del Comune alla Misura Nidi Gratis Plus 2025-2026, ovvero il Comune presente nell’Allegato che desidera ricevere l’anticipo, dovrà comunque presentare domanda secondo le modalità descritte nel paragrafo successivo, ma fintanto che la domanda del Comune risulta ancora in istruttoria, l’importo dell’anticipazione finanziaria non potrà essere liquidato.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/nidi-gratis-plus-2025-26-anticipo-comuni-RLD12025045643",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Monitoraggio Interventi",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/database-interventi-RLZ12025048143",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-10-15 16:00",
             "title": "VInnovate Open Call 2025 Lombardia",
@@ -234,18 +258,6 @@
             "title": "Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agricole - bando 2025",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/azione-regionale-volta-riduzione-emissioni-prodotte-attivit-agricole-bando-2025-RLM12025047923",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-09-20 23:59",
-            "title": "Manifestazione di interesse - Corsi di alta formazione per il personale di Regione Lombardia 2025-26",
-            "description": "La Manifestazione di interesse è finalizzata alla raccolta di iniziative di alta formazione (master universitari, corsi executive, corsi di specializzazione, ecc.) con lo scopo di predisporre un catalogo formativo di elevato livello da proporre al personale dipendente di ruolo di Regione Lombardia.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/manifestazione-interesse-corsi-alta-formazione-personale-regione-lombardia-2025-26-RLAG2025049063",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2775,30 +2787,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Monitoraggio Interventi",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/database-interventi-RLZ12025048143",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "NIDI GRATIS PLUS - 2025/26 - ANTICIPO AI COMUNI",
-            "description": "Dalle 12 del 22/09/25 fino alle 12.00 del 9/10/25, i Comuni dell'elenco pubblicato a fondo pagina, possono fare richiesta di anticipo per la Misura 25/26.\n\nLa liquidazione dell’anticipo avverrà solo dopo l’amissione del Comune alla Misura Nidi Gratis Plus 2025-2026, ovvero il Comune presente nell’Allegato che desidera ricevere l’anticipo, dovrà comunque presentare domanda secondo le modalità descritte nel paragrafo successivo, ma fintanto che la domanda del Comune risulta ancora in istruttoria, l’importo dell’anticipazione finanziaria non potrà essere liquidato.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/nidi-gratis-plus-2025-26-anticipo-comuni-RLD12025045643",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Avviso per l'adesione dei Comuni lombardi alla misura Nidi Gratis Plus – 2025/2026",
             "description": "Dal 23 settembre ore 12 al 25 settembre ore 12 - Presentazione, da parte dei Comuni, della Manifestazione di Interesse alla Misura Nidi Gratis Plus 2025/2026 del PR FSE+ 2021-2027 . La domanda dovrà indicare le strutture presso cui le famiglie potranno usufruire dell'agevolazione prevista dal bando.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/avviso-l-adesione-comuni-lombardi-misura-nidi-gratis-plus-2025-2026-RLD12025045603",
@@ -2812,7 +2800,7 @@
         {
             "deadline": "N/A",
             "title": "Dote Scuola – componente Merito, anno scolastico e formativo 2024/2025",
-            "description": "Con \"Dote Scuola - Merito\" la Regione intende premiare gli studenti che si sono distinti negli studi per risultati eccellenti nell’anno scolastico 2024/2025.",
+            "description": "Con \"Dote Scuola - Merito\" la Regione intende premiare gli studenti che si sono distinti per i risultati ottenuti negli studi, nell’anno scolastico 2024/2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/dote-scuola-componente-merito-anno-scolastico-formativo-2024-2025-RLW12025047843",
             "custom": {
                 "Topics": "N/A",
@@ -2826,6 +2814,18 @@
             "title": "OCDPC 929/2022 - Abitazioni - Domanda e rendicontazione contributo ripristini",
             "description": "Eventi meteorologici verificatisi nella terza decade del mese di luglio 2022 nel territorio dei Comuni di Braone, Ceto e Niardo, in provincia di Brescia - Presentazione delle domande di contributo relative ai soggetti privati per i danni occorsi al patrimonio edilizio abitativo ed ai beni mobili, che hanno presentato il Modulo B1 di ricognizione dei danni (OCDPC n. 1158/2025).",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/ocdpc-1158-2025-abitazioni-domanda-rendicontazione-contributo-ripristini-RLY12025049543",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Formazione Continua terza edizione - Voucher aziendali a catalogo  (PR FSE+ 2021-2027)",
+            "description": "Avviso pubblico per l’assegnazione di voucher aziendali a catalogo per interventi di formazione continua, a valere sul PR FSE+  2021-2027. Terza edizione,  in attuazione della D.g.r. n. 4922 del 1° agosto 2025 (Linee Guida).",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/formazione-continua-terza-edizione-voucher-aziendali-catalogo-pr-fse-2021-2027-UCL012025047703",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2862,6 +2862,18 @@
             "title": "Bando Check-up d'impresa",
             "description": "Unioncamere Lombardia, in qualità di Organismo intermedio, nell’ambito del Programma Regionale Lombardia FSE+ 2021-2027, promuove l’avviso “Check up d'impresa”.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/check-up-d-impresa-UCL012025044383",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Fondo regionale per il pluralismo e l’innovazione dell’informazione radiotelevisiva e dell'editoria on line locale – Anno 2025",
+            "description": "Contributi per le emittenti radiotelevisive locali e le testate giornalistiche online locali ai sensi dell’articolo 5-bis della legge regionale del 25 gennaio 2018, n. 8 «Misure di sostegno a favore delle emittenti radiotelevisive locali»",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/patrimonio-culturale/fondo-regionale-pluralismo-l-innovazione-informazione-radiotelevisiva-editoria-on-line-locale-anno-2025-RLA12025049344",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2910,6 +2922,18 @@
             "title": "Sostegno a manifestazioni sportive sul territorio lombardo periodo 1° ottobre 2025 – 30 giugno 2026",
             "description": "Presentazione domande manifestazioni  realizzate nel 2° trimestre  (1° gennaio 2026 - 31 marzo 2026)  dalle ore 10:00 del 01/10/2025 alle ore 16:00 del 22/10/2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-manifestazioni-sportive-territorio-lombardo-periodo-1-ottobre-2025-30-giugno-2026-RLAV2025047263",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Contributi per la conservazione dei roccoli - anno 2025",
+            "description": "Obiettivo assicurare la conservazione e il mantenimento dei roccoli,  elementi di rilevante interesse paesaggistico ambientale e vegetale che caratterizzano il paesaggio rurale lombardo. Domande dal 1° al 24 ottobre 2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/pesca/bando-roccoli-l-r-n-26-1993-art-7-comma-8-anno-2025-RLM12025049244",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
