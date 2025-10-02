@@ -1,6 +1,66 @@
 {
-    "scraping_timestamp": "2025-09-30 06:55:26",
+    "scraping_timestamp": "2025-10-02 05:24:59",
     "data": [
+        {
+            "deadline": "2025-10-30",
+            "title": "Western Balkans Environmental Media Grant",
+            "description": "Earth Journalism Network",
+            "link": "https://gfmd.info/fundings/western-balkans-environmental-media-grant/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€10,000"
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Rainforest Reporting Grant",
+            "description": "Pulitzer Center",
+            "link": "https://gfmd.info/fundings/rainforest-reporting-grant/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Asia, Pacific, and Oceania",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Project-based funding"
+            }
+        },
+        {
+            "deadline": "2025-11-13",
+            "title": "FPD Low Countries",
+            "description": "Journalismfund Europe",
+            "link": "https://gfmd.info/fundings/fpd-low-countries/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€80,000"
+            }
+        },
+        {
+            "deadline": "2025-11-13",
+            "title": "Pascal Decroos Fund",
+            "description": "Journalismfund Europe",
+            "link": "https://gfmd.info/fundings/pascal-decroos-fund-2/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€320,000"
+            }
+        },
+        {
+            "deadline": "2025-10-09",
+            "title": "Professional Development Grant for Environmental Journalism",
+            "description": "Journalismfund Europe",
+            "link": "https://gfmd.info/fundings/professional-development-for-environmental-journalism/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€252,000 in total"
+            }
+        },
         {
             "deadline": "2025-10-17",
             "title": "Journalism Sponsorship Revenue Accelerator",
@@ -11,18 +71,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $10,000"
-            }
-        },
-        {
-            "deadline": "2025-10-01",
-            "title": "Visegrad+ Grants",
-            "description": "Visegrad Fund",
-            "link": "https://gfmd.info/fundings/visegrad-grants-2/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to $100,000"
             }
         },
         {
@@ -86,18 +134,6 @@
             }
         },
         {
-            "deadline": "2025-09-30",
-            "title": "Exhibition Publication Grants",
-            "description": "Paul Mellon Centre for Studies in British Art",
-            "link": "https://gfmd.info/fundings/exhibition-publication-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "£6,000"
-            }
-        },
-        {
             "deadline": "2025-10-02",
             "title": "The Art Media grant",
             "description": "Mondriaan Fund",
@@ -122,18 +158,6 @@
             }
         },
         {
-            "deadline": "Invalid Date",
-            "title": "Environmental Journalism Training in Beirut",
-            "description": "Arab Reform Initiative",
-            "link": "https://gfmd.info/fundings/environmental-journalism-training-in-beirut/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Middle East and North Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Fully Funded"
-            }
-        },
-        {
             "deadline": "2026-01-26",
             "title": "Nieman-Berkman Klein Fellowship",
             "description": "Nieman-Berkman Klein",
@@ -155,18 +179,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "EUR 100,000 per project"
-            }
-        },
-        {
-            "deadline": "2025-09-30",
-            "title": "Mercantil Journalism Award 2025",
-            "description": "Mercantil Bank",
-            "link": "https://gfmd.info/fundings/mercantil-journalism-award-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "R$80,000.00"
             }
         },
         {
