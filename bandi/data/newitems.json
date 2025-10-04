@@ -1,76 +1,6 @@
 {
-    "scraping_timestamp": "2025-10-02 05:27:27",
+    "scraping_timestamp": "2025-10-04 09:43:56",
     "data": [
-        {
-            "deadline": "2025-10-30",
-            "title": "Western Balkans Environmental Media Grant",
-            "description": "Earth Journalism Network",
-            "link": "https://gfmd.info/fundings/western-balkans-environmental-media-grant/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "€10,000"
-                }
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Rainforest Reporting Grant",
-            "description": "Pulitzer Center",
-            "link": "https://gfmd.info/fundings/rainforest-reporting-grant/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Asia, Pacific, and Oceania",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "Project-based funding"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "FPD Low Countries",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/fpd-low-countries/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "€80,000"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "Pascal Decroos Fund",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/pascal-decroos-fund-2/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "€320,000"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-09",
-            "title": "Professional Development Grant for Environmental Journalism",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/professional-development-for-environmental-journalism/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Global (working in 2 or more regions)",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "€252,000 in total"
-                }
-            }
-        },
         {
             "deadline": "2025-10-20 23:59",
             "title": "Dote trasporti",
@@ -100,511 +30,114 @@
             }
         },
         {
-            "deadline": "2025-10-10",
-            "title": "Avviso n° 12/2025 Dipartimento di Matematica e Informatica",
-            "description": "<p>Avviso pubblico di selezione per il conferimento di n. 1 (UNO) contratto di lavoro autonomo nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR), “e.INS - Ecosystem of Innovation for Next Generation Sardinia” – CUP: F53C22000430001 - Spoke 6 - Codice Progetto UGov RIC_PNRR_CTC_2022_e.INS_FENU codice MUR ECS0000038 a valere sul PNRR Missione 4 – Investimento 1.5 - Creazione e rafforzamento di “ecosistemi dell’innovazione”, costruzione di “leader territoriali di R&amp;S” - Progetto PoC - Spoke 7 - e.INS - TraCCCS: Tracciabilità, Certificazione Blockchain e Valorizzazione dei Carbon Credits per PMI Sarde con Impianti di Produzione di Energia Rinnovabile</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fe3f9830313146809a67b929e6af503f",
+            "deadline": "2025-11-10",
+            "title": "EIC: nuovo bando di gara per il programma VentureMatch a supporto delle startup deep tech europee",
+            "description": "L'obiettivo è selezionare un esperto per supportare la crescita di imprese innovative europee tramite fundraising, matchmaking e scalabilità",
+            "link": "https://first.art-er.it/news/eic-nuovo-bando-di-gara-il-programma-venturematch",
             "custom": {
                 "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-10",
-            "title": "Avviso n° 11/2025 Dipartimento di Matematica e Informatica",
-            "description": "<p>Avviso pubblico di selezione Per il conferimento di n. 1 (UNO) contratto di lavoro autonomo nell'ambito del Piano Nazionale di Ripresa e Resilienza (PNRR), “e.INS - Ecosystem of Innovation for Next Generation Sardinia” – CUP: F53C22000430001 - Spoke 6 - Codice Progetto UGov RIC_PNRR_CTC_2022_e.INS_FENU codice MUR ECS0000038 a valere sul PNRR Missione 4 – Investimento 1.5 - Creazione e rafforzamento di “ecosistemi dell’innovazione”, costruzione di “leader territoriali di R&amp;S” - Progetto PoC - Spoke 7 - e.INS - TraCCCS: Tracciabilità, Certificazione Blockchain e Valorizzazione dei Carbon Credits per PMI Sarde con Impianti di Produzione di Energia Rinnovabile</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e2fceb898acf474e82278601dc1561fb",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-30",
-            "title": "AVVISO PUBBLICO PER L'ASSUNZIONE CON CONTRATTO DI LAVORO A TEMPO DETERMINATO E PART-TIME, EX ART. 110 COMMA 1 DEL D.LGS. N. 267/2000, DI N. 1 DIPENDENTE DELL'AREA DEI FUNZIONARI E DELL'E.Q. - PROFILO PROFESSIONALE FUNZIONARIO TECNICO",
-            "description": "<p>&nbsp;Avviso pubblico&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3158e53987194028920665efb026a99f",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-16",
-            "title": "Avviso pubblico per la nomina del Nucleo di Valutazione della performance (N.d.V.) in forma monocratica per il triennio 2025/2028.",
-            "description": "<p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Comune di Maruggio - Avviso pubblico per la nomina del componente del Nucleo Indipendente di Valutazione in forma monocratica – NdV&nbsp;</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c661d25c79d14bdcabb3e8261661e9d6",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "AVVISO DI PROCEDURA SELETTIVA PUBBLICA FINALIZZATA ALL’ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA NOMINA DEL NUCLEO DI VALUTAZIONE IN FORMA MONOCRATICA PER L'IPAB CSA F.F.CASSON DI CHIOGGIA (VE) (DECR-196-25)",
-            "description": "<p>AVVISO DI PROCEDURA SELETTIVA PUBBLICA FINALIZZATA ALL’ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA NOMINA DEL NUCLEO DI VALUTAZIONE IN FORMA MONOCRATICA PER L'IPAB CSA F.F.CASSON DI CHIOGGIA (VE) (DECR-196-25)</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=469db80d919d4e3d83b52af296e19676",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-31",
-            "title": "Avviso pubblico di procedura di valutazione comparativa di soli titoli per il conferimento di n. 1 incarico per implementazione e controllo correttezza dati documentari, bibliografici e filmografici all’interno del database “Fonti e studi” del sito del progetto PRIN2022 “Questioni d’onore: immaginario, rappresentazioni e realtà del duello nella cultura italiana dal Risorgimento al Fascismo” (CUP B53D23022150006) - Dipartimento di Lettere e Filosofia (DILEF)",
-            "description": "<p>Procedura di valutazione comparativa di soli titoli per il conferimento di n. 1 incarico per implementazione e controllo correttezza dati documentari, bibliografici e filmografici all’interno del database “Fonti e studi” del sito del progetto PRIN2022_GAMBACORTI (CUP B53D23022150006) “Questioni d’onore: immaginario, rappresentazioni e realtà del duello nella cultura italiana dal Risorgimento al Fascismo” <a href=\"https://www.questionidonore.it\">www.questionidonore.it</a></p>\n<p>da affidarsi:</p>\n<p>A)&nbsp;&nbsp;&nbsp;&nbsp; a titolo gratuito, a personale dipendente dell’Ateneo</p>\n<p>ovvero</p>\n<p>B)&nbsp;&nbsp;&nbsp;&nbsp; a titolo retribuito, a soggetti esterni mediante la stipula di un contratto di lavoro autonomo abituale o non abituale, qualora la ricognizione interna dia esito negativo.</p>\n<p>In particolare il soggetto incaricato dovrà occuparsi di:&nbsp;</p>\n<ul>\n <li>Ricerche filmografiche in archivi, cineteche e su fonti d’epoca volte all’individuazione di materiali documentari relativi alla rappresentazione del duello nel cinema assenti nel database “Fonti e studi” del progetto Questioni d’onore, e inserimento delle nuove schede nella sezione “Cinema” del suddetto database sul sito <a href=\"https://www.questionidonore.it\">www.questionidonore.it</a>, con opportuno corredo di annotazioni e immagini;</li>\n <li>Ricerca bibliografica e archivistica e su fonti d’epoca volta all’accrescimento della sezione “Teatro” del database “Fonti e studi”, e inserimento delle nuove schede con opportuno corredo di annotazioni e immagini;</li>\n <li>Verifica della correttezza e completezza delle schede finora inserite nell’intero database “Fonti e studi”, e loro eventuale correzione e integrazione;</li>\n <li>Verifica del corretto funzionamento degli strumenti di ricerca nel database e della restituzione dei risultati lato utente.</li>\n</ul>\n<p><strong>Durata incarico</strong>: dal 17 novembre 2025 al 16 gennaio 2026, non rinnovabile.</p>\n<p><strong>Compenso:</strong> € 2.000 da intendersi al lordo degli oneri a carico del percipiente.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=94acf88f90834b50934846c667e40d29",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-10",
-            "title": "Avviso n. 13/2025 Dipartimento di Scienze Politiche e Sociali",
-            "description": "<p>Avviso pubblico di selezione n°13/2025 per il conferimento di n. 1 (uno) contratto di lavoro autonomo nell'ambito del progetto: “Italian Parties Digitalization (IPAD) - PRIN 2022”, finanziato dal Ministero dell'Università e della Ricerca - CUP: F53D23003730006 - Codice progetto: 2022XN3SCN – Resp. Scientifico prof. Stefano Rombi\n <br>\n Missione 4 “Istruzione e Ricerca” del Piano Nazionale di Ripresa e Resilienza ed in particolare la componente C2 – investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN) – del Piano Nazionale di Ripresa e Resilienza, dedicata ai Progetti di ricerca di Rilevante Interesse Nazionale.\n <br>\n Finanziato dall’Unione europea – NextGenerationEU</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6aec2c290cd4ea3948414a193e4a3fb",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-10",
-            "title": "Avviso n. 07/2025 Dipartimento di Scienze Chirurgiche",
-            "description": "<p>AVVISO PUBBLICO DI SELEZIONE N.07/2025&nbsp;per il conferimento di un contratto di lavoro autonomo libero professionale\n <br>\n nell'ambito del Progetto “Multiomic approach to define the pathogenesis of&nbsp;pediatric Inflammatory bowel disease and predict treatment response”&nbsp;finanziato dal Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4&nbsp;“Istruzione e ricerca” Componente 2 “Dalla ricerca all’impresa” - Investimento&nbsp;1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante&nbsp;Interesse Nazionale (PRIN) del Piano Nazionale di Ripresa e Resilienza, dedicata&nbsp;ai Progetti di ricerca di Rilevante Interesse Nazionale.&nbsp;Codice progetto MUR 2022ZWZZJN CUP F53D23002460006&nbsp;Responsabile Scientifico Prof.ssa Angelica Dessì</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=117c17c5da2b456fbcdb7caf18af0d9a",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-20",
-            "title": "MANIFESTAZIONE DI INTERESSE PER IL CONFERIMENTO DI N. 1 INCARICO EX ART. 1 C. 557 LEGGE N. 311/2004.",
-            "description": "<p>È indetta una manifestazione di interesse per titoli e colloquio al fine di conferire n.1 incarico di scavalco d’eccedenza extra orario lavorativo, ex articolo 1 comma 557 della Legge 311/2004, presso il Settore Lavori Pubblici del Comune di San Marco in Lamis, riservato a personale a tempo indeterminato o determinato in servizio presso altro Comune, per il seguente profilo professionale:&nbsp;\n <br>\n <br>\n n.1 Funzionario Lavori Pubblici – Area Funzionari ed Elevate Qualificazioni – orario: 12 ore settimanali – durata: 6 mesi, salvo proroga in accordo con l’Ente di&nbsp;\n <br>\n appartenenza.&nbsp;\n <br>\n Il servizio sarà prestato a scavalco d’eccedenza in presenza presso la sede del Comune di San Marco in Lamis, al di fuori dell’orario svolto presso l’Ente di appartenenza.&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4e041f8a8ba94f1e96b47ce26a5421f7",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-30",
-            "title": "AVVISO PUBBLICO DI SELEZIONE, PER CURRICULUM E COLLOQUIO, PER IL RECLUTAMENTO DI N 1 INGEGNERE/ARCHITETTO DA INSERIRE NELL’UFFICIO TECNICO EX ART. 110 DEL D.LGS. 267/2000.",
-            "description": "<p>AVVISO DI SELEZIONE PER CURRICULUM E COLLOQUIO PER LA COSTITUZIONE DI UN RAPPORTO DI LAVORO SUBORDINATO A TEMPO PIENO E&nbsp; DETERMINATO EX ART 110 D.LGS. 267/2000 PER IL SUPPORTO DEL SETTORE LAVORI PUBBLICI</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e6b20a570d5f4a7f893a253294355a45",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-19",
-            "title": "Films on the Move",
-            "description": "Identifier: CREA-MEDIA-2026-FILMOVE\nPillar: CREA-MEDIA-2026-FILMOVE\nOpening Date: 2025-09-30\nDeadline: 2026-03-19\n\nLast Change Date: 2025-09-30T00:01:00.397\nContent: The submission session is now available for: CREA-MEDIA-2026-FILMOVE\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2026-FILMOVE",
-            "custom": {
-                "custom": {
-                    "category": "CREA2027",
-                    "guid": "Films on the Move",
-                    "pub_date": "2025-09-30",
-                    "dc_date": "2025-09-30",
-                    "identifier": "CREA-MEDIA-2026-FILMOVE"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Risk Assessment in Eastern Eu",
-            "description": "Identifier: EUBA-EFSA-2025-BIOHAW-04-04-Lot4\nPillar: EUBA-EFSA-2025-BIOHAW-04\nOpening Date: 2025-10-01\nDeadline: 2026-01-15\n\nLast Change Date: 2025-10-01T00:01:00.451\nContent: The submission session is now available for: EUBA-EFSA-2025-BIOHAW-04-04-Lot4, EUBA-EFSA-2025-BIOHAW-04-03-Lot3, EUBA-EFSA-2025-BIOHAW-04-01-Lot1, EUBA-EFSA-2025-BIOHAW-04-02-Lot2\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2025-BIOHAW-04-04-Lot4",
-            "custom": {
-                "custom": {
-                    "category": "EUBA",
-                    "guid": "Joint programming for risk assessments in vector-borne diseases",
-                    "pub_date": "2025-10-01",
-                    "dc_date": "2025-10-01",
-                    "identifier": "EUBA-EFSA-2025-BIOHAW-04-04-Lot4"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Risk Assessment in Western Eu",
-            "description": "Identifier: EUBA-EFSA-2025-BIOHAW-04-03-Lot3\nPillar: EUBA-EFSA-2025-BIOHAW-04\nOpening Date: 2025-10-01\nDeadline: 2026-01-15\n\nLast Change Date: 2025-10-01T00:01:00.499\nContent: The submission session is now available for: EUBA-EFSA-2025-BIOHAW-04-04-Lot4, EUBA-EFSA-2025-BIOHAW-04-03-Lot3, EUBA-EFSA-2025-BIOHAW-04-01-Lot1, EUBA-EFSA-2025-BIOHAW-04-02-Lot2\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2025-BIOHAW-04-03-Lot3",
-            "custom": {
-                "custom": {
-                    "category": "EUBA",
-                    "guid": "Joint programming for risk assessments in vector-borne diseases",
-                    "pub_date": "2025-10-01",
-                    "dc_date": "2025-10-01",
-                    "identifier": "EUBA-EFSA-2025-BIOHAW-04-03-Lot3"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Risk Assessments in Northern Eu",
-            "description": "Identifier: EUBA-EFSA-2025-BIOHAW-04-01-Lot1\nPillar: EUBA-EFSA-2025-BIOHAW-04\nOpening Date: 2025-10-01\nDeadline: 2026-01-15\n\nLast Change Date: 2025-10-01T00:01:00.500\nContent: The submission session is now available for: EUBA-EFSA-2025-BIOHAW-04-04-Lot4, EUBA-EFSA-2025-BIOHAW-04-03-Lot3, EUBA-EFSA-2025-BIOHAW-04-01-Lot1, EUBA-EFSA-2025-BIOHAW-04-02-Lot2\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2025-BIOHAW-04-01-Lot1",
-            "custom": {
-                "custom": {
-                    "category": "EUBA",
-                    "guid": "Joint programming for risk assessments in vector-borne diseases",
-                    "pub_date": "2025-10-01",
-                    "dc_date": "2025-10-01",
-                    "identifier": "EUBA-EFSA-2025-BIOHAW-04-01-Lot1"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Risk Assessments in Southern Eu",
-            "description": "Identifier: EUBA-EFSA-2025-BIOHAW-04-02-Lot2\nPillar: EUBA-EFSA-2025-BIOHAW-04\nOpening Date: 2025-10-01\nDeadline: 2026-01-15\n\nLast Change Date: 2025-10-01T00:01:00.502\nContent: The submission session is now available for: EUBA-EFSA-2025-BIOHAW-04-04-Lot4, EUBA-EFSA-2025-BIOHAW-04-03-Lot3, EUBA-EFSA-2025-BIOHAW-04-01-Lot1, EUBA-EFSA-2025-BIOHAW-04-02-Lot2\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EFSA-2025-BIOHAW-04-02-Lot2",
-            "custom": {
-                "custom": {
-                    "category": "EUBA",
-                    "guid": "Joint programming for risk assessments in vector-borne diseases",
-                    "pub_date": "2025-10-01",
-                    "dc_date": "2025-10-01",
-                    "identifier": "EUBA-EFSA-2025-BIOHAW-04-02-Lot2"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Smart&Start Italia",
-            "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
+                    "Topics": "Deep tech",
+                    "Area Classification": "Unione Europea",
                     "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2018-01-15",
-            "title": "Resto al Sud",
-            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2025-11-17",
+            "title": "C4T GROUNDWORK: nuovo bando per rafforzare la transizione verde nelle regioni europee",
+            "description": "Aperta dal 1° ottobre al 17 novembre 2025, la nuova call di assistenza tecnica del progetto che sostiene le amministrazioni nell'attuazioni della Politica di Coesione",
+            "link": "https://first.art-er.it/news/c4t-groundwork-call-supportare-le-amministrazioni",
             "custom": {
                 "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
+                    "Topics": "Città del futuro, Transizione sostenibile",
+                    "Area Classification": "Unione Europea",
                     "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2021-05-19",
-            "title": "ON - Oltre Nuove imprese a tasso zero",
-            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-03-02",
-            "title": "Rilancio PMI Cratere Sismico",
-            "description": "L'incentivo volto a sostenere le PMI danneggiate dal sisma del 2016 e del 2017",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilancio-pmi-cratere-sismico?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-07-12",
-            "title": "TOCC Digitale ed Ecologica",
-            "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-09-22",
-            "title": "Fondo Imprese Creative",
-            "description": "Sostiene, valorizza e promuove il settore nazionale delle imprese creative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-imprese-creative?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-30",
-            "title": "Cultura Crea",
-            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-07-01",
-            "title": "Laboratorio per l'Imprenditorialità",
-            "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-12-31",
-            "title": "Tessile, Moda e Accessori",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-12-21",
-            "title": "SmartMoney Capo III",
-            "description": "L’incentivo che supporta gli investimenti nel capitale di rischio delle startup",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-iii?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-12-31",
-            "title": "SmartMoney Capo II",
-            "description": "L’incentivo per le startup innovative che si preparano al lancio sul mercato",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-ii?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2021-03-08",
-            "title": "FactorYmpresa Turismo",
-            "description": "Una fabbrica di idee per il turismo di domani",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/factorympresa-turismo",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Contratto di sviluppo",
-            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2017-03-03",
-            "title": "Finanziamenti a vittime di mancati pagamenti",
-            "description": "Sostengono le PMI e i professionisti a fronte della mancata riscossione dei pagamenti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/finanziamenti-vittime-di-mancati-pagamenti",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-10-29",
-            "title": "BREVETTI+ 2024",
-            "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2024",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "BREVETTI+ 2020-2023",
-            "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2022-11-30",
-            "title": "Fondo Crisi Ucraina",
-            "description": "L’incentivo per il sostegno alle imprese danneggiate dalla crisi ucraina",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-crisi-ucraina?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-12-02",
-            "title": "Cratere sismico aquilano",
-            "description": "L’incentivo che valorizza eccellenze nei Comuni del sisma",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cratere-sismico-aquilano?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-09-30",
-            "title": "Fondo per i prodotti del commercio equo e solidale",
-            "description": "Per le imprese che hanno fornito prodotti da commercio equo e solidale nelle gare d’appalto della PA",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-i-prodotti-del-commercio-equo-e-solidale?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2019-11-29",
-            "title": "Investimenti innovativi – DM 9 marzo 2018",
-            "description": "L’incentivo che rafforza la competitività dei sistemi produttivi nei territori meno sviluppati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-innovativi-dm-9-marzo-2018?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-27",
-            "title": "Al via il nuovo bando Interreg CENTRAL EUROPE per la capitalizzazione di progetti strategici",
-            "description": "Il quarto bando Interreg Central Europe sostiene progetti transnazionali con partner pubblici e privati in nove Paesi europei",
-            "link": "https://first.art-er.it/news/nuovo-bando-interreg-central-europe-progetti-ue",
+            "deadline": "2025-12-01",
+            "title": "Next Generation Internet: nuova serie di bandi per progetti di ricerca e innovazione sul futuro di internet",
+            "description": "I nuovi bandi NGI per beni comuni digitali, cloud decentralizzati e un ecosistema mobile aperto e sicuro resteranno aperti fino al 1° dicembre 2025",
+            "link": "https://first.art-er.it/news/next-generation-internet-aperta-nuova-serie-di-bandi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "Unione Europea",
                     "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "€ 23.000.000"
+                    "Stanziamento": "NGI Commons Fund: € 14.000.000NGI Mobifree: € 430.000NGI Fediversity: € 365.000NGI Taler: € 676.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-01",
+            "title": "Al via la SME Market Expansion Call 2026 per soluzioni innovative di mobilità urbana",
+            "description": "La call sostiene le PMI con soluzioni mature, pronte a test di mercato con clienti pubblici o privati",
+            "link": "https://first.art-er.it/news/nuovo-bando-ue-pmi-pronte-allespansione-di-mercato",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 600.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-01",
+            "title": "Progetto PoliRuralPlus: l'open call Enhance punta a creare servizi migliori per le zone urbano-rurali",
+            "description": "Candidature aperte fino al 1° dicembre 2025 per validare il servizio JackDaw, l'Intelligenza Artificiale del progetto PoliRuralPlus per trasformare i dati spaziali in decisioni",
+            "link": "https://first.art-er.it/news/bando-enhance-di-poliruralplus-linnovazione-rurale",
+            "custom": {
+                "custom": {
+                    "Topics": "Artificial Intelligence, Cascade funding",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-02",
+            "title": "REINFORCING lancia la sua sesta Open Call Incubator dedicata alla Responsible Innovation",
+            "description": "Aperta la sesta Open Call Incubator: fino a 60.000 € per progetti su ricerca e innovazione responsabile",
+            "link": "https://first.art-er.it/news/reinforcing-sesta-call-la-responsible-innovation",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 480.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-03",
+            "title": "Al via la call MSCA Choose Europe for Science 2025 per rafforzare le carriere dei ricercatori",
+            "description": "La call MSCA Choose Europe for Science è dedicata al cofinanziamento di programmi post-dottorali e di fellowship",
+            "link": "https://first.art-er.it/news/al-la-call-msca-choose-europe-science-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 22.500.000"
+                }
+            }
+        },
+        {
+            "deadline": "",
+            "title": "Proprietà intellettuale: pubblicati i nuovi bandi Brevetti+, Marchi+ e Disegni+",
+            "description": "Le agevolazioni mirano a favorire la brevettabilità delle innovazioni tecnologiche e la valorizzazione di idee progettuali per le PMI e microimprese italiane",
+            "link": "https://first.art-er.it/news/mimit-brevetti-disegni-marchi-2",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "A sportello",
+                    "Stanziamento": "€ 32.000.000"
                 }
             }
         }
