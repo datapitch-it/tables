@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-10-02 05:27:06",
+    "scraping_timestamp": "2025-10-06 06:12:55",
     "data": [
+        {
+            "deadline": "2025-11-03 16:00",
+            "title": "Contributi per l'adeguamento e aggiornamento dei piani di governo del territorio",
+            "description": "Bando per l'erogazione di contributi ai piccoli Comuni riuniti in forma associata per la redazione dell’adeguamento e aggiornamento dei piani di governo del territorio (PGT), ai sensi dell’art. 24 della l.r. n. 12/2005",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/difesa-suolo/contributi-l-adeguamento-aggiornamento-piani-governo-territorio-RLZ12025049724",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-12-18 15:00",
             "title": "Strutture ricettive Storiche e di qualità 2025",
@@ -494,30 +506,6 @@
             }
         },
         {
-            "deadline": "2025-10-02 16:30",
-            "title": "INVITO PER LA PRESENTAZIONE DI PROGETTI DI RESIDENZE ARTISTICHE DI SPETTACOLO DAL VIVO PER IL TRIENNIO 2025/2027 AI SENSI DELL’ART. DELL’ART. 47 DEL D.M. 23 DICEMBRE 2024 REP. 463 – CENTRO DI RESIDENZA",
-            "description": "In relazione a quanto previsto dall’Intesa e dall’Accordo interregionale, Regione Lombardia intende individuare per il triennio 2025/2027 n. 1 Centro di Residenza sul proprio territorio, così come definito al punto A.3 dell’Invito per la presentazione di progetti di residenze artistiche di spettacolo dal vivo ai sensi dell’art. 47 del D.M. 23 dicembre 2024 rep. 463. L’esito della selezione potrà quindi prevedere, in caso positivo, una sola assegnazione come Centro di residenza.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/invito-presentazione-progetti-residenze-artistiche-spettacolo-vivo-triennio-2025-2027-sensi-art-43-d-m-27-luglio-2017-n-332-centro-residenza-RLL12025045203",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-02 16:30",
-            "title": "INVITO PER LA PRESENTAZIONE DI PROGETTI DI RESIDENZE ARTISTICHE DI SPETTACOLO DAL VIVO PER IL TRIENNIO 2025/2027 AI SENSI DELL’ART. DELL’ART. 47 DEL D.M. 23 DICEMBRE 2024 REP. 463 – ARTISTI NEI TERRITORI",
-            "description": "Con il presente Avviso si intendono sostenere le attività di residenze artistiche di spettacolo dal vivo, individuando per il triennio 2025/2027 n. 5 progetti di Artisti nei territori in Lombardia.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/invito-presentazione-progetti-residenze-artistiche-spettacolo-vivo-triennio-2025-2027-sensi-art-43-d-m-27-luglio-2017-n-332-artisti-territori-RLL12025045223",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-11-26 16:00",
             "title": "PSN/PAC 2023-2027 \"Investimenti produttivi agricoli per ambiente, clima e benessere animale\" - Sviluppo Rurale/bando 2025",
             "description": "SRD02 - Azione C. Dotazione finanziaria di € 7.000.000,00. Domande dal 30 luglio al 26 novembre 2025. Possono partecipare: imprenditore agricolo individuale; società agricola di persone, di capitali o cooperativa.",
@@ -714,18 +702,6 @@
             "title": "Enti Erogatori a.s. 2025 - 2026 Inclusione scolastica per studenti con disabilità sensoriale",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/anno-scolastico-2025-2026-inclusione-educativa-scolastica-disabilit-sensoriale-enti-erogatori-RLD12025046323",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-02 16:00",
-            "title": "PSN/PAC 2023-2027 “Sostegno Gruppi Operativi PEI AGRI” - Sviluppo Rurale/bando 2025",
-            "description": "INTERVENTO SRG01. Dotazione finanziaria di € 8.000.000,00. Domande dal 4 giugno al 2 ottobre 2025. Possono partecipare: imprese agricole (in forma singola e/o associata) con sede operativa in Regione Lombardia; enti di ricerca pubblici e privati e imprese operanti nel settore della ricerca; soggetti prestatori di consulenza; imprese operanti nel settore di servizi e mezzi tecnici, inclusa la digitalizzazione per il settore agricolo; altri soggetti del settore agricolo, alimentare, dei territori rurali e della società \ncivile rilevanti per il raggiungimento degli obiettivi del Gruppo Operativo.\nLa domanda è presentata dal capofila del partenariato costituito o da costituire a seguito dell’ammissione a finanziamento del progetto.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-sostegno-gruppi-operativi-pei-agri-sviluppo-rurale-bando-2025-RLM12025045243",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2835,9 +2811,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Contributi per l'adeguamento e aggiornamento dei piani di governo del territorio",
-            "description": "Bando per l'erogazione di contributi ai piccoli Comuni riuniti in forma associata per la redazione dell’adeguamento e aggiornamento dei piani di governo del territorio (PGT), ai sensi dell’art. 24 della l.r. n. 12/2005",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/difesa-suolo/contributi-l-adeguamento-aggiornamento-piani-governo-territorio-RLZ12025049724",
+            "title": "AVVISO PER L’EROGAZIONE DI 10 PREMI ECONOMICI INDIVIDUALI DA ASSEGNARE A TESI DELLE SCUOLE DI SPECIALIZZAZIONE DI AREA VETERINARIA AFFERENTI ALL’UNIVERSITÀ DEGLI STUDI DI MILANO (UNIMI)",
+            "description": "Regione Lombardia, in collaborazione con l’Università deli Studi di Milano (UNIMI), istituisce n. 10 premi economici individuali dell’importo di € 5.000,00 lordi ciascuno, riservati alle tesi delle scuole di specializzazione di area veterinaria valutate secondo criteri afferenti al pregio scientifico dei contenuti e agli aspetti innovativi.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/avviso-l-erogazione-10-premi-economici-individuali-assegnare-tesi-scuole-specializzazione-area-veterinaria-afferenti-universit-studi-milano-unimi-RLG12025049663",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2847,9 +2823,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "AVVISO PER L’EROGAZIONE DI 10 PREMI ECONOMICI INDIVIDUALI DA ASSEGNARE A TESI DELLE SCUOLE DI SPECIALIZZAZIONE DI AREA VETERINARIA AFFERENTI ALL’UNIVERSITÀ DEGLI STUDI DI MILANO (UNIMI)",
-            "description": "Regione Lombardia, in collaborazione con l’Università deli Studi di Milano (UNIMI), istituisce n. 10 premi economici individuali dell’importo di € 5.000,00 lordi ciascuno, riservati alle tesi delle scuole di specializzazione di area veterinaria valutate secondo criteri afferenti al pregio scientifico dei contenuti e agli aspetti innovativi.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/avviso-l-erogazione-10-premi-economici-individuali-assegnare-tesi-scuole-specializzazione-area-veterinaria-afferenti-universit-studi-milano-unimi-RLG12025049663",
+            "title": "Bando per la partecipazione alle iniziative di promozione turistica promosse da Regione Lombardia, sui mercati italiano ed estero - Primo semestre 2026",
+            "description": "Partecipazione degli operatori turistici lombardi alle iniziative di promozione turistica promosse da Regione Lombardia sui mercati italiano ed estero - Primo Semestre 2026",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/turismo-tempo-libero/bando-partecipazione-iniziative-promozione-turistica-promosse-regione-lombardia-mercati-italiano-ed-estero-primo-semestre-2026-RLP12025049703",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2910,6 +2886,18 @@
             "title": "Brevetti 2023",
             "description": "Il bando sostiene l'ottenimento di nuovi brevetti europei e internazionali o estensioni degli stessi a livello europeo o internazionale relativamente a invenzioni industriali.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/ricerca-sviluppo-innovazione/brevetti-2023-RLF12023035064",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Investimenti – Linea Microimprese 2025",
+            "description": "Contributi destinati alle microimprese lombarde finalizzati a sostenere interventi di innovazione tecnologica degli impianti e delle attrezzature, anche nell’ottica di favorire la riduzione dell’impatto ambientale dei propri sistemi di produzione e la riduzione dei consumi energetici.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/investimenti-linea-microimprese-2025-RLO12025049763",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
