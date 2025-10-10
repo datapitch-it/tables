@@ -52,41 +52,51 @@ def extract_call_details(detail_url):
         return "N/A", {}
 
     custom_data = {}
-    description = "N/A"  # Reliably extracting description is not feasible.
+    description = "N/A"
 
     # --- Extract all sections based on h4 headings ---
-    sections = soup.find_all('div', class_='row-flex')
-    for section in sections:
-        headings = section.find_all('h4')
-        for heading in headings:
-            heading_text = heading.text.strip()
-            content_div = heading.find_next_sibling('div')
-            if not content_div:
-                continue
+    all_h4_headings = soup.find_all('h4')
+    for heading in all_h4_headings:
+        heading_text = heading.text.strip()
+        content_div = heading.find_next_sibling('div')
+        if not content_div:
+            continue
 
-            # --- Key Data Section ---
-            if "Call key data" in heading_text:
-                # Find all paragraphs, then find strong tags within them
-                all_paragraphs = content_div.find_all('p')
-                for p in all_paragraphs:
-                    label_elem = p.find('strong')
-                    if label_elem:
-                        label = label_elem.text.strip()
-                        value_p = p.find_next_sibling('p')
-                        if value_p:
-                            custom_data[label] = value_p.text.strip()
+        # --- Call Content Section (for Description) ---
+        if "Call content" in heading_text:
+            # Look for the label "short description" or "Description"
+            label_p = content_div.find('p', class_='title')
+            if label_p and 'description' in label_p.text.lower():
+                # Find the next div that contains the actual description
+                desc_div = label_p.find_next_sibling('div')
+                if desc_div:
+                    desc_p = desc_div.find('p')
+                    if desc_p:
+                        description = desc_p.text.strip()
 
-            # --- Eligibility and Additional Info ---
-            else:
-                # For other sections, find all strong tags as labels
-                labels = content_div.find_all('strong')
-                for label_elem in labels:
+        # --- Key Data Section ---
+        elif "Call key data" in heading_text:
+            # Find all paragraphs, then find strong tags within them
+            all_paragraphs = content_div.find_all('p')
+            for p in all_paragraphs:
+                label_elem = p.find('strong')
+                if label_elem:
                     label = label_elem.text.strip()
-                    # Find the text in the parent, removing the label to get the value
-                    parent_text = label_elem.find_parent().text.strip()
-                    value = parent_text.replace(label, '').strip()
-                    if value:
-                        custom_data[label] = value
+                    value_p = p.find_next_sibling('p')
+                    if value_p:
+                        custom_data[label] = value_p.text.strip()
+
+        # --- Eligibility and Additional Info ---
+        else:
+            # For other sections, find all strong tags as labels
+            labels = content_div.find_all('strong')
+            for label_elem in labels:
+                label = label_elem.text.strip()
+                # Find the text in the parent, removing the label to get the value
+                parent_text = label_elem.find_parent().text.strip()
+                value = parent_text.replace(label, '').strip()
+                if value:
+                    custom_data[label] = value
 
     return description, custom_data
 
