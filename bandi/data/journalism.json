@@ -1,6 +1,66 @@
 {
-    "scraping_timestamp": "2025-10-09 08:24:56",
+    "scraping_timestamp": "2025-10-10 06:12:03",
     "data": [
+        {
+            "deadline": "2025-10-22",
+            "title": "Open Call for Independent Ukrainian Investigative Media Subgrant Proposals",
+            "description": "Organized Crime and Corruption Reporting Project (OCCRP)",
+            "link": "https://gfmd.info/fundings/open-call-for-independent-ukrainian-investigative-media-subgrant-proposals/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "$20,000 to $45,000."
+            }
+        },
+        {
+            "deadline": "2025-12-02",
+            "title": "Building a trustworthy social media sphere",
+            "description": "European Union",
+            "link": "https://gfmd.info/fundings/building-a-trustworthy-social-media-sphere/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Total available budget: €5,985,000"
+            }
+        },
+        {
+            "deadline": "2026-05-31",
+            "title": "Ukraine: Relief, Resilience, Recovery (U3R) Program",
+            "description": "German Marshall Fund",
+            "link": "https://gfmd.info/fundings/ukraine-relief-resilience-recovery-u3r-program/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "USD 25,000 per project."
+            }
+        },
+        {
+            "deadline": "2025-10-12",
+            "title": "FOX Fellowships",
+            "description": "Deutsche Welle Akademie",
+            "link": "https://gfmd.info/fundings/fox-fellowships/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "~US$1,100"
+            }
+        },
+        {
+            "deadline": "2025-10-26",
+            "title": "Grant awards for independent Palestinian media",
+            "description": "Canal France International (CFI)",
+            "link": "https://gfmd.info/fundings/grant-awards-for-independent-palestinian-media/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Middle East and North Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€1,000,000."
+            }
+        },
         {
             "deadline": "2025-10-30",
             "title": "Western Balkans Environmental Media Grant",
@@ -47,18 +107,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€320,000"
-            }
-        },
-        {
-            "deadline": "2025-10-09",
-            "title": "Professional Development Grant for Environmental Journalism",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/professional-development-for-environmental-journalism/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€252,000 in total"
             }
         },
         {

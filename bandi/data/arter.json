@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-10-09 08:24:52",
+    "scraping_timestamp": "2025-10-10 06:12:01",
     "data": [
-        {
-            "deadline": "2025-10-09",
-            "title": "Intelligenza Artificiale: al via il nuovo bando dedicato alle PMI del progetto WASABI",
-            "description": "Le candidature alla seconda call WASABI sono aperte fino al 9 ottobre 2025, con focus su IA conversazionale e innovazione manifatturiera",
-            "link": "https://first.art-er.it/news/progetto-wasabi-nuova-call-pmi-e-hub-digitali",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.522.250"
-            }
-        },
-        {
-            "deadline": "2025-10-09",
-            "title": "ESA: in apertura un nuovo bando sulle tecnologie spaziali per il monitoraggio dei materiali pericolosi",
-            "description": "ESA stanzia fino a 75.000 euro per progetti innovativi che usano dati satellitari nel monitoraggio dei materiali pericolosi",
-            "link": "https://first.art-er.it/news/esa-finanzia-soluzioni-hi-tech-sicurezza-ambientale-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-10-10",
             "title": "Bando Piccole Imprese per il Territorio: sostegno a innovazione e attrattività",
@@ -107,6 +83,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 705.100.000"
+            }
+        },
+        {
+            "deadline": "2025-10-15",
+            "title": "I-Tech Innovation Program 2025/2026: il programma di accelerazione per startup innovative",
+            "description": "Fino al 15 ottobre 2025, è possibile partecipare all'I-Tech Innovation Program 2025/2026, il programma di accelerazione italiano per startup e PMI tecnologiche",
+            "link": "https://first.art-er.it/news/i-tech-innovation-program-call-startup-e-pmi",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -327,6 +315,18 @@
         },
         {
             "deadline": "2025-11-05",
+            "title": "Progetto ResilMesh: aperta la seconda Open Call per affrontare le minacce alla sicurezza digitale",
+            "description": "Le candidature per il bando Resilmesh per soluzioni avanzate di cybersecurity sono aperte fino al 5 novembre 2025",
+            "link": "https://first.art-er.it/news/resilmesh-2deg-call-potenziare-la-sicurezza-digitale",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "fino a € 72.000 per progetto"
+            }
+        },
+        {
+            "deadline": "2025-11-05",
             "title": "Horizon Europe: bando ERC Synergy Grants 2026",
             "description": "Gli ERC Synergy Grants sono pensati per supportare la ricerca collaborativa d'avanguardia, in grado di dare risultati scientifici innovativi o anche imprevedibili",
             "link": "https://first.art-er.it/news/erc-pubblicato-il-bando-erc-synergy-grants-2026",
@@ -347,6 +347,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 1.065.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-07",
+            "title": "Aperto il bando AMALTEA per soluzioni digitali e hardware per facciate edilizie sostenibili",
+            "description": "La call finanzia fino a 10 progetti per la progettazione, produzione, installazione e riciclo di facciate edilizie digitali e sostenibili",
+            "link": "https://first.art-er.it/news/al-il-bando-amaltea-ledilizia-sostenibile",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.500.000"
+            }
+        },
+        {
+            "deadline": "2025-11-10",
+            "title": "EIC: nuovo bando di gara per il programma VentureMatch a supporto delle startup deep tech europee",
+            "description": "L'obiettivo è selezionare un esperto per supportare la crescita di imprese innovative europee tramite fundraising, matchmaking e scalabilità",
+            "link": "https://first.art-er.it/news/eic-nuovo-bando-di-gara-il-programma-venturematch",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -399,6 +423,18 @@
         },
         {
             "deadline": "2025-11-13",
+            "title": "Water4All: aperto il nuovo bando “Acqua e Salute\"",
+            "description": "Il MUR stanzia 2 milioni di euro per sostenere la partecipazione italiana al bando",
+            "link": "https://first.art-er.it/news/ricerca-idrica-238-milioni-progetti-transnazionali-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 23.800.000"
+            }
+        },
+        {
+            "deadline": "2025-11-13",
             "title": "I3: pubblicato un nuovo bando per progetti di innovazione interregionale",
             "description": "L'obiettivo è sostenere gli ecosistemi di innovazione delle regioni europee meno sviluppate",
             "link": "https://first.art-er.it/news/innovazione-regionale-aperto-nuovo-bando-i3-0",
@@ -431,6 +467,54 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "tra € 250.000 e € 750.000 per proposta all'anno € 30.000.000 complessivi per i progetti singoli"
+            }
+        },
+        {
+            "deadline": "2025-11-14",
+            "title": "Progetto I3-4-Biofertilizers: al via la call per l’agricoltura sostenibile",
+            "description": "PMI e startup possono candidarsi alla call per sviluppare soluzioni sostenibili e circolari nell’agricoltura europea",
+            "link": "https://first.art-er.it/news/i3-4-biofertilizers-apre-un-bando-pmi-e-startup",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.800.000"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "EIT Food: al via la Biotech Innovation Call per soluzioni sostenibili e ad alto impatto nel settore agroalimentare",
+            "description": "Aperta fino al 17 novembre 2025, la call finanzia progetti che riducono consumi energetici e sviluppano tecnologie di controllo in tempo reale",
+            "link": "https://first.art-er.it/news/eit-food-lancia-la-biotech-innovation-call-2025",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 3.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "C4T GROUNDWORK: nuovo bando per rafforzare la transizione verde nelle regioni europee",
+            "description": "Aperta dal 1° ottobre al 17 novembre 2025, la nuova call di assistenza tecnica del progetto che sostiene le amministrazioni nell'attuazioni della Politica di Coesione",
+            "link": "https://first.art-er.it/news/c4t-groundwork-call-supportare-le-amministrazioni",
+            "custom": {
+                "Topics": "Città del futuro, Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "SBEP: lanciato il terzo bando congiunto per la blue economy sostenibile",
+            "description": "Dal 15 settembre è aperto il bando su innovazione, sostenibilità e inclusione per mari e comunità costiere",
+            "link": "https://first.art-er.it/news/economia-blu-terzo-bando-europeo-ri",
+            "custom": {
+                "Topics": "Blue Economy",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 43.500.000"
             }
         },
         {
@@ -482,6 +566,18 @@
             }
         },
         {
+            "deadline": "2025-11-24",
+            "title": "ESA lancia il bando per innovare il retail attraverso le tecnologie spaziali",
+            "description": "ESA finanzia soluzioni in ambito retail che utilizzino tecnologie spaziali attraverso il bando aperto fino al 24 novembre 2025",
+            "link": "https://first.art-er.it/news/esa-lancia-il-bando-future-retail",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "fino a € 75.000 euro"
+            }
+        },
+        {
             "deadline": "2025-11-26",
             "title": "L’EIC stanzia 20 milioni di euro per le startup deep-tech ucraine",
             "description": "Nuovo bando per circa 40 imprese innovative: fino a 500.000 euro a progetto, candidature aperte fino al 26 novembre 2025",
@@ -503,6 +599,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-27",
+            "title": "Al via il nuovo bando Interreg CENTRAL EUROPE per la capitalizzazione di progetti strategici",
+            "description": "Il bando sostiene progetti transnazionali per la capitalizzazione dei risultati e di esperienze di successo",
+            "link": "https://first.art-er.it/news/nuovo-bando-interreg-central-europe-progetti-ue",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 23.000.000"
             }
         },
         {
@@ -543,6 +651,18 @@
         },
         {
             "deadline": "2025-11-30",
+            "title": "EIT Food Proof-of-Concept: bando a sostegno delle startup agrifood innovative",
+            "description": "L’obiettivo è sostenere la fase di sperimentazione e validazione di tecnologie, prodotti e servizi innovativi nell'ambito del sistema alimentare europeo",
+            "link": "https://first.art-er.it/news/eit-food-proof-concept-call-startup-agrifood",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "fino a € 100.000"
+            }
+        },
+        {
+            "deadline": "2025-11-30",
             "title": "Al via il bando ScienceUs Upscale Academy per progetti di citizen science",
             "description": "La call prevede un percorso in tre fasi progressive per i progetti di citizen science selezionati",
             "link": "https://first.art-er.it/news/bando-progetti-citizen-science-scienceus",
@@ -551,6 +671,90 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 220.000"
+            }
+        },
+        {
+            "deadline": "2025-12-01",
+            "title": "Next Generation Internet: nuova serie di bandi per progetti di ricerca e innovazione sul futuro di internet",
+            "description": "I nuovi bandi NGI per beni comuni digitali, cloud decentralizzati e un ecosistema mobile aperto e sicuro resteranno aperti fino al 1° dicembre 2025",
+            "link": "https://first.art-er.it/news/next-generation-internet-aperta-nuova-serie-di-bandi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "NGI Commons Fund: € 14.000.000NGI Mobifree: € 430.000NGI Fediversity: € 365.000NGI Taler: € 676.000"
+            }
+        },
+        {
+            "deadline": "2025-12-01",
+            "title": "Al via la SME Market Expansion Call 2026 per soluzioni innovative di mobilità urbana",
+            "description": "La call sostiene le PMI con soluzioni mature, pronte a test di mercato con clienti pubblici o privati",
+            "link": "https://first.art-er.it/news/nuovo-bando-ue-pmi-pronte-allespansione-di-mercato",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 600.000"
+            }
+        },
+        {
+            "deadline": "2025-12-01",
+            "title": "Progetto PoliRuralPlus: l'open call Enhance punta a creare servizi migliori per le zone urbano-rurali",
+            "description": "Candidature aperte fino al 1° dicembre 2025 per validare il servizio JackDaw, l'Intelligenza Artificiale del progetto PoliRuralPlus per trasformare i dati spaziali in decisioni",
+            "link": "https://first.art-er.it/news/bando-enhance-di-poliruralplus-linnovazione-rurale",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-02",
+            "title": "REINFORCING lancia la sua sesta Open Call Incubator dedicata alla Responsible Innovation",
+            "description": "Aperta la sesta Open Call Incubator: fino a 60.000 € per progetti su ricerca e innovazione responsabile",
+            "link": "https://first.art-er.it/news/reinforcing-sesta-call-la-responsible-innovation",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 480.000"
+            }
+        },
+        {
+            "deadline": "2025-12-03",
+            "title": "Al via la call MSCA Choose Europe for Science 2025 per rafforzare le carriere dei ricercatori",
+            "description": "La call MSCA Choose Europe for Science è dedicata al cofinanziamento di programmi post-dottorali e di fellowship",
+            "link": "https://first.art-er.it/news/al-la-call-msca-choose-europe-science-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 22.500.000"
+            }
+        },
+        {
+            "deadline": "2025-12-04",
+            "title": "EU4Health 2025: al via al nuovo bando HERA",
+            "description": "Diagnostica, sviluppo di dispositivi medici e preparazione alla crisi sanitarie i settori target della call che scade il 4 dicembre 2025",
+            "link": "https://first.art-er.it/news/eu4health-2025-al-al-nuovo-bando-hera",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 30.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-05",
+            "title": "QuantERA Call 2025: lanciato il nuovo bando sulle tecnologie quantistiche",
+            "description": "Aperto fino al 5 dicembre 2025, il bando sosterrà progetti di ricerca transnazionali nei settori chiave della scienza e tecnologia quantistica",
+            "link": "https://first.art-er.it/news/quantera-call-2025-sulle-tecnologie-quantistiche",
+            "custom": {
+                "Topics": "Cascade funding, Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 53.000.000"
             }
         },
         {
@@ -563,6 +767,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A sportello",
                 "Stanziamento": "€ 18.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-09",
+            "title": "Digital Europe​​​​​​​: aperte due nuove call per identità e patenti digitali europee",
+            "description": "Aperte fino al 9 dicembre 2025 due call di Digital Europe per sviluppare identità digitali e patenti mobile europee sicure e interoperabili",
+            "link": "https://first.art-er.it/news/digital-europe-call-ue-identita-e-patenti-digitali",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 15.000.000"
             }
         },
         {
@@ -759,6 +975,18 @@
         },
         {
             "deadline": "2026-01-20",
+            "title": "Aperto il bando Interconnected Innovation Ecosystems 2026 di Horizon Europe",
+            "description": "Aperti 3 nuovi topic EIE che mirano a creare ed espandere ecosistemi dell'innovazione più connessi, inclusivi ed efficienti, che sostengano la scalabilità delle imprese e stimolino l'innovazione",
+            "link": "https://first.art-er.it/news/bando-2026-interconnected-innovation-ecosystems-di-heu",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "14,40 milioni €"
+            }
+        },
+        {
+            "deadline": "2026-01-20",
             "title": "EuroHPC JU: nuovo bando per rafforzare la leadership europea nel calcolo ad alte prestazioni",
             "description": "Lo scopo della call aperta fino al 20 gennaio 2026 è potenziare l’ecosistema europeo HPC tramite centri di eccellenza e codici di riferimento, per applicazioni scientifiche e industriali ad alte prestazioni in settori chiave",
             "link": "https://first.art-er.it/news/nuovo-bando-eurohpc-su-calcolo-ad-alte-prestazioni",
@@ -794,6 +1022,30 @@
             }
         },
         {
+            "deadline": "2026-02-05",
+            "title": "CEF Energy: al via il 5° bando per progetti transfrontalieri di energia rinnovabile",
+            "description": "Le candidature per ottenere lo status di progetti transfrontalieri (CB RES) nell'ambito del programma CEF Energy andranno presentare entro il 5 febbraio 2026",
+            "link": "https://first.art-er.it/news/cef-energy-bando-progetti-di-energia-rinnovabile",
+            "custom": {
+                "Topics": "Blue Economy, Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-11",
+            "title": "Europe’s Rail: aperta una nuova call per accelerare l’innovazione ferroviaria",
+            "description": "Europe’s Rail Joint Undertaking (EU-Rail) ha lanciato la Call for Proposals 2025-02, che resterà aperta fino all'11 febbraio 2026 con un budget complessivo di 245 milioni di euro",
+            "link": "https://first.art-er.it/news/europes-rail-bando-su-innovazione-ferroviaria",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2026-02-12",
             "title": "Mobilità urbana sostenibile: bando EIT per corsi di formazione professionale",
             "description": "Il programma UMX dell'EIT Urban Mobility punta a formare oltre 50.000 professionisti della mobilità entro il 2027, integrando enti pubblici, imprese, università e organizzazioni del terzo settore",
@@ -803,6 +1055,42 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-17",
+            "title": "Clima, energia, mobilità: pubblicati due nuovi bandi del Cluster 5 di Horizon Europe",
+            "description": "La Commissione europea investe sulla transizione verde e digitale per garantire la neutralità climatica in Europa entro il 2050",
+            "link": "https://first.art-er.it/news/clima-energia-mobilita-nuovi-bandi-horizon-europe",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-25",
+            "title": "Generative AI: in arrivo la nuova call del progetto FFplus",
+            "description": "La nuova call FFplus in arrivo sostiene PMI e startup per sviluppare modelli di IA generativa usando le infrastrutture di supercalcolo europee",
+            "link": "https://first.art-er.it/news/innovazione-ia-generativa-alla-nuova-call-ffplus",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "Digital Europe: in arrivo una nuova tornata di bandi per la digitalizzazione della società",
+            "description": "Sul Funding and Tenders Portal dell'Unione europea sono previsti in apertura per il 4 novembre 2025 i nuovi bandi del programma Digital Europe",
+            "link": "https://first.art-er.it/news/digital-europe-arrivo-i-nuovi-bandi-novembre-2025",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
