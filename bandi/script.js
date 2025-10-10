@@ -141,6 +141,15 @@ function mapItem(item, datasetName) {
                 deadline: item['deadline'] || 'N/A',
                 source: 'lombardia'
             };
+        case 'euroaccess':
+            return {
+                title: item['title'] || 'N/A',
+                description: item['description'] || 'N/A',
+                link: item['link'] || '#',
+                tags: custom['Funding Program'] ? [custom['Funding Program']] : [],
+                deadline: item['deadline'] || 'N/A',
+                source: 'euroaccess'
+            };
         case 'newitems':
             return {
                 title: item['title'] || 'N/A',
@@ -302,7 +311,7 @@ function attachReadMoreListeners() {
 
 // Function to display the scraping timestamps
 function displayScrapingTimestamps() {
-    let timestampText = `Scraping Date | Arter: ${scrapingTimestamps.arter || 'N/A'} | INPA: ${scrapingTimestamps.inpa || 'N/A'} | Euportal: ${scrapingTimestamps.euportal || 'N/A'} | Eucall: ${scrapingTimestamps.eucall || 'N/A'} | EUGrants&Tenders: ${scrapingTimestamps.eugrants || 'N/A'} | Onepass: ${scrapingTimestamps.onepass || 'N/A'} | Journalism: ${scrapingTimestamps.journalism || 'N/A'} | Lombardia: ${scrapingTimestamps.lombardia || 'N/A'}`;
+    let timestampText = `Scraping Date | Arter: ${scrapingTimestamps.arter || 'N/A'} | INPA: ${scrapingTimestamps.inpa || 'N/A'} | Euportal: ${scrapingTimestamps.euportal || 'N/A'} | Eucall: ${scrapingTimestamps.eucall || 'N/A'} | EUGrants&Tenders: ${scrapingTimestamps.eugrants || 'N/A'} | Onepass: ${scrapingTimestamps.onepass || 'N/A'} | Journalism: ${scrapingTimestamps.journalism || 'N/A'} | Lombardia: ${scrapingTimestamps.lombardia || 'N/A'} | EuroAccess: ${scrapingTimestamps.euroaccess || 'N/A'}`;
     document.getElementById('scrapingTimestamps').textContent = timestampText;
 }
 
@@ -486,6 +495,7 @@ Promise.all([
     loadDataset('./data/eugrants.json', 'data', 'eugrants'),
     loadDataset('./data/journalism.json', 'data', 'journalism'),
     loadDataset('./data/regione_lombardia.json', 'data', 'lombardia'),
+    loadDataset('./data/euro-access.json', 'data', 'euroaccess'),
     loadDataset('./data/newitems.json', 'data', 'newitems') // Newitems dataset loader
 ]).then(() => {
     // After loading all data, initialize filters (which in turn will call initial sorting)
