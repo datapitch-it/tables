@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-10-10 08:35:01",
+    "scraping_timestamp": "2025-10-12 06:27:05",
     "data": [
+        {
+            "deadline": "2025-10-18",
+            "title": "Call for Support for Journalists and Media Professionals",
+            "description": "Balkan Investigative Reporting Network (BIRN)",
+            "link": "https://gfmd.info/fundings/call-for-support-for-journalists-and-media-professionals/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "£2,000"
+            }
+        },
         {
             "deadline": "2025-10-22",
             "title": "Open Call for Independent Ukrainian Investigative Media Subgrant Proposals",
