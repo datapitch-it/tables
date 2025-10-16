@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-10-15 05:28:36",
+    "scraping_timestamp": "2025-10-16 06:07:30",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -422,15 +422,6 @@
             "link": "https://www.euro-access.eu/en/calls/2256/Security-of-implementations-of-Post-Quantum-Cryptography-algorithms",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 3 - Civil security for society"
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "Interreg SK-CZ 2025 - Small Projects Fund",
-            "description": "The White-Biele-Carpathian Euroregion as the administrator of the Small Projects Fund of the Interreg Slovensko - Czech Republic 2021-2027 program announces on 23.6.2025 a call for funding of small projects in priority 3.2.",
-            "link": "https://www.euro-access.eu/en/calls/2273/Interreg-SK-CZ-2025-Small-Projects-Fund",
-            "custom": {
-                "Funding Program": "Interreg Slovakia-Czechia"
             }
         },
         {
