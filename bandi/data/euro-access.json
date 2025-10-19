@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-10-16 06:07:30",
+    "scraping_timestamp": "2025-10-19 06:27:24",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -470,33 +470,6 @@
             }
         },
         {
-            "deadline": "2025-10-16",
-            "title": "Maturing of a European industrial ecosystem for security-certified terrestrial QKD technologies and systems",
-            "description": "The objective of this call is to stimulate the maturing and the transition to security certified (common criteria) of compact and efficient European components and systems for quantum key distribution and quantum secure networks, ready for integration into telecom networks, and compliant with security requirements (e.g. protection profile). Furthermore it should contribute to the development of a European industrial quantum communication ecosystem, including a thriving SME sector.",
-            "link": "https://www.euro-access.eu/en/calls/2283/Maturing-of-a-European-industrial-ecosystem-for-security-certified-terrestrial-QKD-technologies-and-systems",
-            "custom": {
-                "Funding Program": "Digital Europe"
-            }
-        },
-        {
-            "deadline": "2025-10-16",
-            "title": "Support standardisation for the EuroQCI",
-            "description": "The objective of this call is to implement appropriate necessary standardisation activities to efficiently support an operational EuroQCI infrastructure with dedicated QKD and quantum cryptography services. While the available QKD products have now been made available by industry for a market of early adopters and innovators, there is the need to intensify standardization efforts at all levels, from QKD components, systems and applications to network capabilities and components for future quantum networks, to enable integration of quantum devices into wider complex systems, to build a solid industrial base and anticipate foreseeable work on components for future quantum networks and future certification.",
-            "link": "https://www.euro-access.eu/en/calls/2284/Support-standardisation-for-the-EuroQCI",
-            "custom": {
-                "Funding Program": "Digital Europe"
-            }
-        },
-        {
-            "deadline": "2025-10-16",
-            "title": "Coordinate deployment for the EuroQCI",
-            "description": "The objective of this call is to ensure a coherent EuroQCI initiative and support the Commission, ESA and the Member States by providing key support functions in coordination, industrialisation, dissemination and alignment, enabling national and cross-border EuroQCI networks to discuss progress, to identify and utilise synergies in their work, share best practices and information about EU components and their certifications, supporting QKD standardisation efforts, and coordinating overall progress towards a fully functional EuroQCI.",
-            "link": "https://www.euro-access.eu/en/calls/2285/Coordinate-deployment-for-the-EuroQCI",
-            "custom": {
-                "Funding Program": "Digital Europe"
-            }
-        },
-        {
             "deadline": "2025-10-23",
             "title": "Fighting discrimination against LGBTIQ people and promoting LGBTIQ equality",
             "description": "This priority supports key policy objectives set out in the LGBTIQ Equality Strategy 2020-2025 and will support projects that help to effectively implement it. The strategy includes initiatives to address intersectional discrimination and inequality experienced on grounds of sexual orientation, gender identity, gender expression and sex characteristics in employment, education, health and other areas of life.",
@@ -548,15 +521,6 @@
             "link": "https://www.euro-access.eu/en/calls/2291/Fighting-against-anti-Muslim-hatred",
             "custom": {
                 "Funding Program": "Citizens, Equality, Rights and Values programme"
-            }
-        },
-        {
-            "deadline": "2025-10-16",
-            "title": "Operational digital platforms – Works",
-            "description": "Operational Digital Platforms aim to support EU environmental and energy targets, improve the competitiveness of the EU industry and address the ongoing energy crisis, by providing both technologies and connectivity to enable a cyber-secure Internet of Energy and an optimised transport system along the major European paths. They are dedicated to “retro-fitting” the existing energy and/or transpor tinfrastructures with the required cross-border digital infrastructure.",
-            "link": "https://www.euro-access.eu/en/calls/2292/Operational-digital-platforms--Works",
-            "custom": {
-                "Funding Program": "Connecting Europe Facility - Digital"
             }
         },
         {
@@ -656,15 +620,6 @@
             "link": "https://www.euro-access.eu/en/calls/2318/Integrating-advanced-materials-cell-design-and-manufacturing-development-for-high-performance-batteries-aimed-at-mobility-Batt4EU-Partnership",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2025-10-17",
-            "title": "Interreg Poland-Ukraine: Small Project Fund - Cooperation",
-            "description": "The Association of the Carpathian Euroregion announces the first call for proposals for project funding under Priority 4- cooperation of the Small Projects Fund of the Interreg NEXT Poland – Ukraine 2021-2027 Programme.",
-            "link": "https://www.euro-access.eu/en/calls/2310/Interreg-Poland-Ukraine-Small-Project-Fund-Cooperation",
-            "custom": {
-                "Funding Program": "Interreg Poland-Ukraine"
             }
         },
         {
@@ -1295,6 +1250,78 @@
             "link": "https://www.euro-access.eu/en/calls/2401/TV-and-online-content-Fiction-projects-2nd-cut-off-date",
             "custom": {
                 "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-02-02",
+            "title": "Interreg Northern Periphery and Arctic - 6th call for main projects",
+            "description": "The Interreg Northern Periphery and Arctic (NPA) programme is a funding initiative supported by the European Union and non-EU participating countries. The programme's main objective is to promote cooperation among communities in the northernmost parts of Europe and North Atlantic territories to address common challenges and opportunities. The call is open for all priorities.",
+            "link": "https://www.euro-access.eu/en/calls/2402/Interreg-Northern-Periphery-and-Arctic-6th-call-for-main-projects",
+            "custom": {
+                "Funding Program": "Interreg Northern Periphery and Arctic"
+            }
+        },
+        {
+            "deadline": "2026-02-02",
+            "title": "Interreg Northern Periphery and Arctic - 6th call for small-scale capacity building projects",
+            "description": "Das Interreg-Programm Nördliche Peripherie und Arktis (NPA) ist eine Finanzierungsinitiative, die von der Europäischen Union und den teilnehmenden Nicht-EU-Ländern unterstützt wird. Das Hauptziel des Programms ist die Förderung der Zusammenarbeit zwischen den Gemeinden in den nördlichsten Teilen Europas und den nordatlantischen Gebieten, um gemeinsame Herausforderungen und Chancen anzugehen. Die Aufforderung zur Einreichung von Vorschlägen gilt für kleine Projekte zum Aufbau von Kapazitäten in der Priorität 3.",
+            "link": "https://www.euro-access.eu/en/calls/2403/Interreg-Northern-Periphery-and-Arctic-6th-call-for-small-scale-capacity-building-projects",
+            "custom": {
+                "Funding Program": "Interreg Northern Periphery and Arctic"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "Biotech Innovation Call",
+            "description": "N/A",
+            "link": "https://www.euro-access.eu/en/calls/2404/Biotech-Innovation-Call",
+            "custom": {
+                "Funding Program": "European Institute of Innovation and Technology"
+            }
+        },
+        {
+            "deadline": "2025-11-28",
+            "title": "Call Interreg PL-SK: Biodiversity 2025",
+            "description": "The Joint Secretariat, on behalf of the Managing Authority, announces a competitive call for applications for funding from the European Regional Development Fund under the Interreg Poland - Slovakia Program 2021-2027, Priority 1. Nature-friendly and safe border area, specific objective 2 Strengthening the protection and conservation of nature, biodiversity and green infrastructure, including in urban areas, and reducing all types of pollution.",
+            "link": "https://www.euro-access.eu/en/calls/2405/Call-Interreg-PL-SK-Biodiversity-2025",
+            "custom": {
+                "Funding Program": "Interreg Poland-Slovakia"
+            }
+        },
+        {
+            "deadline": "2026-02-02",
+            "title": "Interreg SN-CZ 2026 - 2nd cut-off date",
+            "description": "The Interreg Saxony - Czech Republic 2021-2027 programme supports cooperation projects that contribute to the further economic, ecological and social development of the common border area.",
+            "link": "https://www.euro-access.eu/en/calls/2406/Interreg-SN-CZ-2026-2nd-cut-off-date",
+            "custom": {
+                "Funding Program": "Interreg Saxony-Czech Republic"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Interreg BY-CZ Call - 8th cut-off date",
+            "description": "The programme INTERREG Bavaria-Czechia 2021-2027 supports cross-border cooperation between Bavaria and the Czech Republic. Funding is provided for innovative Bavarian-Czech projects that contribute to the dismantling of barriers, mutual understanding and networking among citizens and at the same time to improving the quality of life.",
+            "link": "https://www.euro-access.eu/en/calls/2407/Interreg-BY-CZ-Call-8th-cut-off-date",
+            "custom": {
+                "Funding Program": "Interreg Bavaria-Czech Republic"
+            }
+        },
+        {
+            "deadline": "2026-02-28",
+            "title": "Interreg Bavaria-Austria: Medium, small and p2p projects",
+            "description": "The INTERREG VI-A Program Bavaria - Austria 2021-2027 pursues the strategy of an innovative, sustainable economy, a resilient environment, sustainable tourism as well as integrated regional development - embedded in a joint cross-border INTERREG governance.",
+            "link": "https://www.euro-access.eu/en/calls/2408/Interreg-Bavaria-Austria-Medium-small-and-p2p-projects",
+            "custom": {
+                "Funding Program": "Interreg Bavaria-Austria"
+            }
+        },
+        {
+            "deadline": "2026-01-31",
+            "title": "Interreg Bavaria-Austria: large-scale projects",
+            "description": "The INTERREG VI-A Program Bavaria - Austria 2021-2027 pursues the strategy of an innovative, sustainable economy, a resilient environment, sustainable tourism as well as integrated regional development - embedded in a joint cross-border INTERREG governance.",
+            "link": "https://www.euro-access.eu/en/calls/2409/Interreg-Bavaria-Austria-large-scale-projects",
+            "custom": {
+                "Funding Program": "Interreg Bavaria-Austria"
             }
         }
     ]

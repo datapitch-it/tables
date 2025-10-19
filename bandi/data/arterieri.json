@@ -1,78 +1,6 @@
 {
-    "scraping_timestamp": "2025-10-15 05:24:36",
+    "scraping_timestamp": "2025-10-17 19:14:16",
     "data": [
-        {
-            "deadline": "2025-10-15",
-            "title": "I-Tech Innovation Program 2025/2026: il programma di accelerazione per startup innovative",
-            "description": "Fino al 15 ottobre 2025, è possibile partecipare all'I-Tech Innovation Program 2025/2026, il programma di accelerazione italiano per startup e PMI tecnologiche",
-            "link": "https://first.art-er.it/news/i-tech-innovation-program-call-startup-e-pmi",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "ELSA 2025: al via le candidature per il premio europeo per la ricerca in neuroscienze",
-            "description": "Il premio è dedicato agli aspetti etici, legali e sociali delle neuroscienze e Il vincitore presenterà il proprio lavoro al Forum FENS 2026",
-            "link": "https://first.art-er.it/news/premio-elsa-2025-giovani-ricercatori-neuroscienze",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 3.000"
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "EPNA 2025: al via il premio internazionale per giovani ricercatori in neuroscienze",
-            "description": "Il premio mira a sostenere i giovani scienziati impegnati nello studio dei meccanismi alla base della salute mentale",
-            "link": "https://first.art-er.it/news/premio-internazionale-ricercatori-neuroscienze",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 3.000"
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "European Innovation Ecosystems (EIE): i bandi 2025 di Horizon Europe",
-            "description": "Aperti 2 nuovi bandi EIE che mirano a creare ed espandere ecosistemi dell'innovazione più connessi, inclusivi ed efficienti, che sostengano la scalabilità delle imprese e stimolino l'innovazione",
-            "link": "https://first.art-er.it/news/eie-le-call-2025-di-horizon-europe",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "Al via il bando VInnovate 2025: opportunità per progetti d’innovazione industriale tra regioni europee",
-            "description": "VInnovate è uno strumento di finanziamento ideato dalla Vanguard Initiative e promosso da undici regioni europee tra cui la regione Emilia-Romagna",
-            "link": "https://first.art-er.it/news/pubblicato-il-bando-vinnovate-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-16",
-            "title": "Comunicazione quantistica: tre nuovi bandi nell'ambito dell'iniziativa EuroQCI",
-            "description": "I tre bandi mirano a sviluppare e standardizzare le tecnologie quantistiche, fondamentali per l’autonomia e la sicurezza delle reti digitali europee",
-            "link": "https://first.art-er.it/news/euroqci-bandi-reti-quantistiche-sicure-e-integrate",
-            "custom": {
-                "Topics": "Quantum",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 36.000.000"
-            }
-        },
         {
             "deadline": "2025-10-21",
             "title": "Bando Innovazione Digitale 2025: 2 milioni per la transizione tecnologica delle PMI emiliane",
@@ -398,6 +326,18 @@
             }
         },
         {
+            "deadline": "2025-11-15",
+            "title": "TIDAL ArtS: nuovo bando per residenze d'arte e scienza a sostegno degli oceani",
+            "description": "La Residency Call ha l'obiettivo di sostenere la Missione dell'UE Restore our Ocean and Waters by 2030 e sarà aperta fino al 15 Novembre 2025",
+            "link": "https://first.art-er.it/news/tidal-arts-nuovo-bando-residenze-artistiche",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 50.000"
+            }
+        },
+        {
             "deadline": "2025-11-17",
             "title": "EIT Food: al via la Biotech Innovation Call per soluzioni sostenibili e ad alto impatto nel settore agroalimentare",
             "description": "Aperta fino al 17 novembre 2025, la call finanzia progetti che riducono consumi energetici e sviluppano tecnologie di controllo in tempo reale",
@@ -479,6 +419,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-21",
+            "title": "Space for Metaverse: aperte le candidature al bando di ESA",
+            "description": "Il bando dell'Agenzia Spaziale Europea, aperto fino al 21 novembre 2025, sostiene progetti basati su satelliti, digital twin e soluzioni immersive in vari ambiti",
+            "link": "https://first.art-er.it/news/bando-di-esa-space-metaverse-aperte-le-candidature",
+            "custom": {
+                "Topics": "Città del futuro",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 75.000 per progetto"
             }
         },
         {
@@ -878,12 +830,60 @@
             }
         },
         {
+            "deadline": "2026-01-06",
+            "title": "Pubblicate le nuove call EU4Health: focus su prevenzione, dati sanitari e innovazione medica",
+            "description": "HaDEA apre i bandi 2025 per progetti su IA, salute cardiovascolare, screening oncologico e accesso equo alle cure con scadenza fissata al 6 gennaio 2026",
+            "link": "https://first.art-er.it/news/nuove-call-eu4health-2025-la-salute-e-linnovazione",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 56.816.810"
+            }
+        },
+        {
             "deadline": "2026-01-07",
             "title": "L'azione PCP WISE lancia il bando di gara per innovare la gestione idrica sostenibile",
             "description": "La call di PCP WISE finanzia nuove tecnologie per monitorare il ciclo suolo-acqua-vegetazione e prevenire siccità, incendi e alluvioni",
             "link": "https://first.art-er.it/news/al-gara-europea-innovare-la-gestione-dellacqua",
             "custom": {
                 "Topics": "Artificial Intelligence, Blue Economy, Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-08",
+            "title": "EuroHPC JU lancia la Quantum Grand Challenge 2025 per startup in ambito quantistico",
+            "description": "Aperta fino all'8 gennaio 2025, l’iniziativa di EuroHPC JU vuole stimolare la cooperazione fra innovatori nel calcolo quantistico, istituzioni finanziarie e utilizzatori finali",
+            "link": "https://first.art-er.it/news/eurohpc-ju-lancia-la-quantum-grand-challenge-2025",
+            "custom": {
+                "Topics": "Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "Salute digitale: aperto il primo bando UNITE per progetti interregionali",
+            "description": "UNITE punta a consolidare la leadership europea nella sanità digitale",
+            "link": "https://first.art-er.it/news/aperto-primo-bando-unite-la-salute-digitale-europea",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "ERC: Public Engagement Award 2026 per la comunicazione scientifica",
+            "description": "L'obiettivo del bando è premiare i ricercatori che riescono a coinvolgere il pubblico al di fuori del loro settore con la ricerca finanziata dall'ERC",
+            "link": "https://first.art-er.it/news/premio-erc-2026-la-comunicazione-della-scienza",
+            "custom": {
+                "Topics": "",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
@@ -995,6 +995,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-27",
+            "title": "MUR: aperto il bando per borse di studio JSPS per il Giappone",
+            "description": "Le borse di studio sono destinate a ricercatori operanti in tutti i settori delle scienze umanistiche, sociali e naturali",
+            "link": "https://first.art-er.it/news/bando-mur-borse-di-studio-il-giappone-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
