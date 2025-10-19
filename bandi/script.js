@@ -150,6 +150,15 @@ function mapItem(item, datasetName) {
                 deadline: item['deadline'] || 'N/A',
                 source: 'euroaccess'
             };
+        case 'obiettivoeuropa':
+            return {
+                title: item['title'] || 'N/A',
+                description: item['description'] || 'N/A',
+                link: item['link'] || '#',
+                tags: custom['Topics'] ? custom['Topics'].split(', ') : [],
+                deadline: item['deadline'] || 'N/A',
+                source: 'obiettivoeuropa'
+            };
         case 'newitems':
             return {
                 title: item['title'] || 'N/A',
@@ -158,6 +167,23 @@ function mapItem(item, datasetName) {
                 tags: [],
                 deadline: item['deadline'] || 'N/A',
                 source: 'newitems'
+            };
+        case 'incentivigov':
+            // Combine Topics and Area Classification into tags
+            let tags = [];
+            if (custom['Topics']) {
+                tags = tags.concat(custom['Topics'].split(', ').map(tag => tag.trim()));
+            }
+            if (custom['Area Classification'] && custom['Area Classification'] !== 'N/A') {
+                tags = tags.concat(custom['Area Classification'].split(', ').map(tag => tag.trim()));
+            }
+            return {
+                title: item['title'] || 'N/A',
+                description: item['description'] || 'N/A',
+                link: item['link'] || '#',
+                tags: tags,
+                deadline: item['deadline'] || 'N/A',
+                source: 'incentivigov'
             };
         default:
             return {};
@@ -311,7 +337,7 @@ function attachReadMoreListeners() {
 
 // Function to display the scraping timestamps
 function displayScrapingTimestamps() {
-    let timestampText = `Scraping Date | Arter: ${scrapingTimestamps.arter || 'N/A'} | INPA: ${scrapingTimestamps.inpa || 'N/A'} | Euportal: ${scrapingTimestamps.euportal || 'N/A'} | Eucall: ${scrapingTimestamps.eucall || 'N/A'} | EUGrants&Tenders: ${scrapingTimestamps.eugrants || 'N/A'} | Onepass: ${scrapingTimestamps.onepass || 'N/A'} | Journalism: ${scrapingTimestamps.journalism || 'N/A'} | Lombardia: ${scrapingTimestamps.lombardia || 'N/A'} | EuroAccess: ${scrapingTimestamps.euroaccess || 'N/A'}`;
+    let timestampText = `Scraping Date | Arter: ${scrapingTimestamps.arter || 'N/A'} | INPA: ${scrapingTimestamps.inpa || 'N/A'} | Euportal: ${scrapingTimestamps.euportal || 'N/A'} | Eucall: ${scrapingTimestamps.eucall || 'N/A'} | EUGrants&Tenders: ${scrapingTimestamps.eugrants || 'N/A'} | Onepass: ${scrapingTimestamps.onepass || 'N/A'} | Journalism: ${scrapingTimestamps.journalism || 'N/A'} | Lombardia: ${scrapingTimestamps.lombardia || 'N/A'} | EuroAccess: ${scrapingTimestamps.euroaccess || 'N/A'} | Obiettivo Europa: ${scrapingTimestamps.obiettivoeuropa || 'N/A'} | Incentivi.gov.it: ${scrapingTimestamps.incentivigov || 'N/A'}`;
     document.getElementById('scrapingTimestamps').textContent = timestampText;
 }
 
@@ -496,6 +522,8 @@ Promise.all([
     loadDataset('./data/journalism.json', 'data', 'journalism'),
     loadDataset('./data/regione_lombardia.json', 'data', 'lombardia'),
     loadDataset('./data/euro-access.json', 'data', 'euroaccess'),
+    loadDataset('./data/obiettivoeuropa.json', 'data', 'obiettivoeuropa'),
+    loadDataset('./data/incentivigov.json', 'data', 'incentivigov'),
     loadDataset('./data/newitems.json', 'data', 'newitems') // Newitems dataset loader
 ]).then(() => {
     // After loading all data, initialize filters (which in turn will call initial sorting)
