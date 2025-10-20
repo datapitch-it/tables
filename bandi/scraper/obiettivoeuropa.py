@@ -88,7 +88,7 @@ def get_call_urls_from_page(page_url):
         response = session.get(page_url)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        call_links = soup.select('a[href*="/bandi/"])
+        call_links = soup.select('a[href*="/bandi/"]')
         urls = list(set([link['href'] for link in call_links if link['href'].count('/') > 2 and 'pagina' not in link['href'] and 'settore' not in link['href'] and 'tipo' not in link['href'] and 'regioni' not in link['href']]))
         return ["https://www.obiettivoeuropa.com" + url for url in urls]
     except requests.RequestException as e:
