@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-10-20 07:00:04",
+    "scraping_timestamp": "2025-10-21 10:07:55",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -548,15 +548,6 @@
             "link": "https://www.euro-access.eu/en/calls/2295/Interreg-CZ-PL-Priority-51",
             "custom": {
                 "Funding Program": "Interreg Czechia-Poland"
-            }
-        },
-        {
-            "deadline": "2025-10-20",
-            "title": "Interreg SN-CZ 2026 - 1st cut-off date",
-            "description": "The Interreg Saxony - Czech Republic 2021-2027 programme supports cooperation projects that contribute to the further economic, ecological and social development of the common border area.",
-            "link": "https://www.euro-access.eu/en/calls/2296/Interreg-SN-CZ-2026-1st-cut-off-date",
-            "custom": {
-                "Funding Program": "Interreg Saxony-Czech Republic"
             }
         },
         {
