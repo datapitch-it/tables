@@ -397,6 +397,46 @@ function filterItems(keyword, sourceFilter, deadlineFilter) {
     applyCurrentSortAndDisplay();
 }
 
+// Funzione per aggiornare l'URL con i parametri dei filtri
+function updateURLParams(keyword, sourceFilter, deadlineFilter) {
+    const params = new URLSearchParams();
+
+    // Aggiungi parametri solo se non sono valori di default
+    if (keyword && keyword.trim() !== '') {
+        params.set('key', keyword);
+    }
+    if (sourceFilter && sourceFilter !== 'all') {
+        params.set('source', sourceFilter);
+    }
+    if (deadlineFilter && deadlineFilter !== 'all') {
+        params.set('scadenza', deadlineFilter === 'next30days' ? 'entro30' : 'oltre30');
+    }
+
+    // Aggiorna l'URL senza ricaricare la pagina
+    const newURL = params.toString() ? `${window.location.pathname}?${params.toString()}` : window.location.pathname;
+    window.history.pushState({}, '', newURL);
+}
+
+// Funzione per leggere i parametri dall'URL
+function getFiltersFromURL() {
+    const params = new URLSearchParams(window.location.search);
+    const filters = {
+        keyword: params.get('key') || '',
+        sourceFilter: params.get('source') || 'all',
+        deadlineFilter: 'all'
+    };
+
+    // Converti il formato URL in formato interno
+    const scadenza = params.get('scadenza');
+    if (scadenza === 'entro30') {
+        filters.deadlineFilter = 'next30days';
+    } else if (scadenza === 'oltre30') {
+        filters.deadlineFilter = 'beyond30days';
+    }
+
+    return filters;
+}
+
 // Funzione helper per aggiornare tutti i filtri
 // Aggiunto un parametro per sapere da quale filtro è stata invocata la funzione
 function updateFilters(invokingFilter = null) {
@@ -413,6 +453,10 @@ function updateFilters(invokingFilter = null) {
     if (['all', 'next30days', 'beyond30days'].includes(invokingFilter)) {
         deadlineFilter = invokingFilter;
     }
+
+    // Aggiorna l'URL con i parametri correnti
+    updateURLParams(keyword, sourceFilter, deadlineFilter);
+
     // Applica i filtri
     filterItems(keyword, sourceFilter, deadlineFilter);
     // Gestisci le classi 'active' per i bottoni del filtro scadenza
@@ -526,8 +570,15 @@ Promise.all([
     loadDataset('./data/incentivigov.json', 'data', 'incentivigov'),
     loadDataset('./data/newitems.json', 'data', 'newitems') // Newitems dataset loader
 ]).then(() => {
-    // After loading all data, initialize filters (which in turn will call initial sorting)
-    updateFilters('all'); // Set the default deadline filter to 'all'
+    // Leggi i filtri dall'URL
+    const urlFilters = getFiltersFromURL();
+
+    // Applica i filtri letti dall'URL agli elementi della UI
+    document.getElementById('searchInput').value = urlFilters.keyword;
+    document.getElementById('sourceFilter').value = urlFilters.sourceFilter;
+
+    // After loading all data, initialize filters with the values from URL
+    updateFilters(urlFilters.deadlineFilter);
 
     // Hide placeholder after data is loaded and displayed
     toggleLoadingPlaceholder(false);
