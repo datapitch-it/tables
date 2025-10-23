@@ -53,6 +53,28 @@ function cleanAndFormatDescription(description) {
     return cleaned;
 }
 
+// Funzione per rimuovere TUTTI i tag HTML e le entità HTML per l'export CSV
+function stripHtmlAndCleanText(text) {
+    if (!text) {
+        return '';
+    }
+
+    // Crea un elemento DOM temporaneo per decodificare le entità HTML
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = text;
+
+    // Estrai solo il testo, rimuovendo tutti i tag HTML
+    let cleanText = tempDiv.textContent || tempDiv.innerText || '';
+
+    // Rimuovi newline multiple e spazi extra
+    cleanText = cleanText.replace(/\s+/g, ' ').trim();
+
+    // Rimuovi caratteri di controllo e altri caratteri non stampabili
+    cleanText = cleanText.replace(/[\x00-\x1F\x7F]/g, '');
+
+    return cleanText;
+}
+
 // Function to map item keys based on the dataset
 function mapItem(item, datasetName) {
     // Extract `custom` object fields for general usage
@@ -502,18 +524,21 @@ function convertToCSV(items) {
     const headers = ['Deadline', 'Source', 'Title', 'Description', 'Tags', 'Link'];
     const csvRows = [headers.join(',')]; // Create CSV header
     items.forEach(item => {
-        // Use cleanAndFormatDescription to get plain text for CSV, then escape quotes
-        const descriptionForCsv = cleanAndFormatDescription(item.description).replace(/"/g, '""');
+        // Use stripHtmlAndCleanText to get clean plain text for CSV
+        const descriptionForCsv = stripHtmlAndCleanText(item.description);
+        const titleForCsv = stripHtmlAndCleanText(item.title);
+
         const values = [
             item.deadline,
             item.source,
-            `"${item.title.replace(/"/g, '""')}"`, // Escape quotes
-            `"${descriptionForCsv}"`, // Use cleaned description for CSV
+            `"${titleForCsv.replace(/"/g, '""')}"`, // Escape quotes
+            `"${descriptionForCsv.replace(/"/g, '""')}"`, // Use cleaned description for CSV
             `"${item.tags.join(', ').replace(/"/g, '""')}"`,
             item.link
         ];
         csvRows.push(values.join(',')); // Add item row to CSV
     });
+
     return csvRows.join('\n'); // Combine rows with newline
 }
 
@@ -524,7 +549,7 @@ function downloadCSV() {
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = 'filtered_data.csv';
+    link.download = `filtered_data_${displayedItems.length}_records.csv`; // Include record count in filename
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
