@@ -1,5 +1,6 @@
 # Cache files
 data/.obiettivoeuropa_cache.json
+data/.filtered_data_all.csv
 
 # Python cache
 __pycache__/
