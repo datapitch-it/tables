@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-10-23 06:06:25",
+    "scraping_timestamp": "2025-10-27 06:05:09",
     "data": [
-        {
-            "deadline": "2025-10-24",
-            "title": "HEDGE-IoT: aperto il bando per PMI e startup per innovazioni legate all'energia",
-            "description": "La prima Open Call del progetto HEDGE-IoT offre fino a 60.000 € per sviluppare soluzioni IoT intelligenti nel settore dell’energia ed è aperta fino al 24 ottobre 2025",
-            "link": "https://first.art-er.it/news/hedge-iot-call-pmi-su-innovazioni-energetiche",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 700.000"
-            }
-        },
         {
             "deadline": "2025-10-27",
             "title": "COSMIC: aperto il bando per soluzioni AI e data-driven a supporto del Green Deal europeo",
@@ -31,7 +19,7 @@
             "description": "Il bando mira a sostenere progetti di ricerca che promuovano una gestione sostenibile delle risorse acquatiche, la tutela degli ecosistemi e l’innovazione nell’ambito della Blue Economy",
             "link": "https://first.art-er.it/news/aperto-il-bando-aquarius-infrastrutture-marine",
             "custom": {
-                "Topics": "N/A",
+                "Topics": "Cascade funding",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
@@ -443,6 +431,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 23.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-28",
+            "title": "Laboratorio di Nanobiotecnologie del JRC: aperta la call 2025 per la formazione avanzata",
+            "description": "Il JRC ha aperto una call per ricercatori e PMI che potranno accedere al laboratorio europeo di Ispra per attività di training e capacity building",
+            "link": "https://first.art-er.it/news/aperta-la-call-del-laboratorio-ue-di-nanobiotecnologie",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -902,6 +902,18 @@
             }
         },
         {
+            "deadline": "2026-02-02",
+            "title": "EUP OHAMR: in arrivo un bando per nuove terapie contro la resistenza antimicrobica",
+            "description": "L'obiettivo del bando è di migliorare i tassi di successo dei trattamenti per pazienti, animali o piante",
+            "link": "https://first.art-er.it/news/eup-ohamr-bando-su-resistenza-antimicrobica",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 28.000.000"
+            }
+        },
+        {
             "deadline": "2026-02-05",
             "title": "CEF Energy: al via il 5° bando per progetti transfrontalieri di energia rinnovabile",
             "description": "Le candidature per ottenere lo status di progetti transfrontalieri (CB RES) nell'ambito del programma CEF Energy andranno presentare entro il 5 febbraio 2026",
@@ -962,6 +974,18 @@
             }
         },
         {
+            "deadline": "2026-02-26",
+            "title": "In arrivo la Twinning Call 2026 di EP PerMed: opportunità per diffondere la medicina personalizzata in Europa",
+            "description": "L’obiettivo è di favorire la diffusione della medicina personalizzata nei sistemi sanitari degli Stati membri",
+            "link": "https://first.art-er.it/news/arrivo-la-twinning-call-2026-di-ep-permed",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 50.000 a progetto"
+            }
+        },
+        {
             "deadline": "2026-02-27",
             "title": "MUR: aperto il bando per borse di studio JSPS per il Giappone",
             "description": "Le borse di studio sono destinate a ricercatori operanti in tutti i settori delle scienze umanistiche, sociali e naturali",
@@ -1010,6 +1034,18 @@
             }
         },
         {
+            "deadline": "2026-03-19",
+            "title": "Innovazione interregionale: nuove opportunità di capacity building per le regioni meno sviluppate",
+            "description": "L'obiettivo è rafforzare la competitività e preparare gli ecosistemi locali a futuri investimenti interregionali",
+            "link": "https://first.art-er.it/news/innovazione-interregionale-nuovo-bando-i3",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 9.800.000"
+            }
+        },
+        {
             "deadline": "2026-04-14",
             "title": "BiodivConnect 2025: aperta la quinta call transnazionale per il ripristino degli ecosistemi",
             "description": "L’iniziativa sostiene progetti di ricerca e innovazione che stimolino interventi di restauro naturali su scala territoriale e globale",
@@ -1031,6 +1067,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "161 milioni di euro"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Europa Creativa: bando 2026 'Creative Innovation Lab'",
+            "description": "Sostegno a progetti per soluzioni innovative applicabili al settore audiovisivo e ai settori musicale, del libro e dei musei",
+            "link": "https://first.art-er.it/news/europa-creativa-bando-2026-creative-innovation-lab",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 7.021.561"
             }
         },
         {
@@ -1067,6 +1115,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 120.000.000"
+            }
+        },
+        {
+            "deadline": "2026-06-10",
+            "title": "In arrivo il bando ERA4Health “Prevent-OO” per contrastare sovrappeso e obesità in chiave preventiva",
+            "description": "La call, dedicata alla ricerca transnazionale, aprirà il 13 novembre 2025",
+            "link": "https://first.art-er.it/news/arrivo-il-bando-era4health-prevent-oo-contrastare-sovrappeso-e-obesita-chiave-preventiva",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1247,6 +1307,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "",
+            "title": "Al via Autoimpiego Centro-Nord, la misura a sostegno dei giovani imprenditori",
+            "description": "Sono previsti voucher fino a 40.000 euro e contributi a fondo perduto per promuove la nascita di nuove iniziative imprenditoriali, libero-professionali e di lavoro autonomo nel Centro-Nord",
+            "link": "https://first.art-er.it/news/al-il-bando-autoimpiego-centro-nord-i-giovani",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "€ 219.600.000"
             }
         },
         {

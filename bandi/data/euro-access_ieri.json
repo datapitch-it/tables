@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-10-23 06:09:41",
+    "scraping_timestamp": "2025-10-27 06:08:26",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -467,60 +467,6 @@
             "link": "https://www.euro-access.eu/en/calls/2282/-Strategic-Innovation-Open-Call",
             "custom": {
                 "Funding Program": "European Institute of Innovation and Technology"
-            }
-        },
-        {
-            "deadline": "2025-10-23",
-            "title": "Fighting discrimination against LGBTIQ people and promoting LGBTIQ equality",
-            "description": "This priority supports key policy objectives set out in the LGBTIQ Equality Strategy 2020-2025 and will support projects that help to effectively implement it. The strategy includes initiatives to address intersectional discrimination and inequality experienced on grounds of sexual orientation, gender identity, gender expression and sex characteristics in employment, education, health and other areas of life.",
-            "link": "https://www.euro-access.eu/en/calls/2286/Fighting-discrimination-against-LGBTIQ-people-and-promoting-LGBTIQ-equality",
-            "custom": {
-                "Funding Program": "Citizens, Equality, Rights and Values programme"
-            }
-        },
-        {
-            "deadline": "2025-10-23",
-            "title": "Support to public authorities to combat racism, xenophobia, LGBTIQ-phobia and all other forms of intolerance, including intersectional discrimination",
-            "description": "This priority supports, advances and implements comprehensive policies and an intersectional approach to combat racism, xenophobia, antigypsyism, LGBTIQ-phobia, antisemitism, anti-Muslim hatred and all forms of discrimination and intolerance, both online and offline.",
-            "link": "https://www.euro-access.eu/en/calls/2287/Support-to-public-authorities-to-combat-racism-xenophobia-LGBTIQ-phobia-and-all-other-forms-of-intolerance-including-intersectional-discrimination",
-            "custom": {
-                "Funding Program": "Citizens, Equality, Rights and Values programme"
-            }
-        },
-        {
-            "deadline": "2025-10-23",
-            "title": "Fighting against discrimination and racism, xenophobia and other forms of intolerance, including antigypsyism, anti-black, and anti-Asian racism",
-            "description": "This priority supports holistic and intersectional responses to discrimination and intolerance - in particular on grounds of racial or ethnic origin, colour and religion - as well as to racism and xenophobia, antigypsyism intolerance, including their manifestations on the ground. Such responses should aim to build trust between individuals, communities and national authorities.",
-            "link": "https://www.euro-access.eu/en/calls/2288/Fighting-against-discrimination-and-racism-xenophobia-and-other-forms-of-intolerance-including-antigypsyism-anti-black-and-anti-Asian-racism",
-            "custom": {
-                "Funding Program": "Citizens, Equality, Rights and Values programme"
-            }
-        },
-        {
-            "deadline": "2025-10-23",
-            "title": "Fighting against antisemitism",
-            "description": "This priority aims at supporting civil society organisations to prevent and combat all forms and manifestations of antisemitism, offline and online, in line with the International Holocaust Remembrance Alliance non-legally binding working definition of antisemitism, and at supporting civil society organisations to foster Jewish life.",
-            "link": "https://www.euro-access.eu/en/calls/2289/Fighting-against-antisemitism",
-            "custom": {
-                "Funding Program": "Citizens, Equality, Rights and Values programme"
-            }
-        },
-        {
-            "deadline": "2025-10-23",
-            "title": "Promoting diversity management and inclusion at the workplace, both in the public and private sector",
-            "description": "Projects should promote diversity and inclusion at the workplace via an intersectional approach. Projects concerning one ground of discrimination are not the focus of this priority.",
-            "link": "https://www.euro-access.eu/en/calls/2290/Promoting-diversity-management-and-inclusion-at-the-workplace-both-in-the-public-and-private-sector",
-            "custom": {
-                "Funding Program": "Citizens, Equality, Rights and Values programme"
-            }
-        },
-        {
-            "deadline": "2025-10-23",
-            "title": "Fighting against anti-Muslim hatred",
-            "description": "This priority will support the fight against anti-Muslim hatred/racism and discrimination, and therefore support actions to raise awareness, foster reporting by victims and address negative stereotypes and intolerance against Muslims and persons perceived as such. Muslims form an integral part of European societies. Anti-Muslim racism is increasing throughout Europe and the world and affects the lives of a significant number of EU citizens. It also undermines the trust of many in the institutions and in the values of the European Union.",
-            "link": "https://www.euro-access.eu/en/calls/2291/Fighting-against-anti-Muslim-hatred",
-            "custom": {
-                "Funding Program": "Citizens, Equality, Rights and Values programme"
             }
         },
         {
@@ -1172,6 +1118,15 @@
             }
         },
         {
+            "deadline": "2026-03-19",
+            "title": "Films on the Move - 1st cut-off date",
+            "description": "The Films on the Move action shall encourage and support the wider distribution of recent non-national European films by encouraging sales agents and theatrical distributors in particular to invest in promotion and adequate distribution of non\u0002national European films.",
+            "link": "https://www.euro-access.eu/en/calls/2384/Films-on-the-Move-1st-cut-off-date",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
             "deadline": "2026-05-07",
             "title": "TV and online content Animation projects - 2nd cut-off date",
             "description": "The objective of the support to TV and online content is the production of innovative and quality TV content and serial storytelling, addressing diverse audiences, by European independent production companies.",
@@ -1190,10 +1145,64 @@
             }
         },
         {
+            "deadline": "2026-04-08",
+            "title": "European VOD networks and operators",
+            "description": "The MEDIA strand shall provide support for the European Video on Demand (VOD) network(s) and operators, screening a significant proportion of non-national European works, with the aim to improve their competitiveness and attractiveness.",
+            "link": "https://www.euro-access.eu/en/calls/2387/European-VOD-networks-and-operators",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
             "deadline": "2025-12-03",
             "title": "TV and online content Animation projects - 1st cut-off date",
             "description": "The objective of the support to TV and online content is the production of innovative and quality TV content and serial storytelling, addressing diverse audiences, by European independent production companies.",
             "link": "https://www.euro-access.eu/en/calls/2388/TV-and-online-content-Animation-projects-1st-cut-off-date",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-02-25",
+            "title": "European co-development",
+            "description": "The objective of the support to European co-development is to support the cooperation among European production companies that are developing works with a strong international audience potential.",
+            "link": "https://www.euro-access.eu/en/calls/2389/European-co-development",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-01-20",
+            "title": "Markets and Networking",
+            "description": "The objective of the Markets & networking support is to enhance the promotion of European content in the global market and to foster cooperation among all parts of the audiovisual value chain for the co-creation and promotion of European audiovisual works.",
+            "link": "https://www.euro-access.eu/en/calls/2390/Markets-and-Networking",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-02-11",
+            "title": "Video games and immersive content development",
+            "description": "The objective of the support to Video games and immersive content development is to increase the capacity of European video game producers, XR studios and audiovisual production companies to develop video games and interactive immersive experiences with the potential to reach global audiences. The support also aims to improve the competitiveness of the European video games industry and other companies producing interactive immersive content in European and international markets by enabling the retention of intellectual property by European developers.",
+            "link": "https://www.euro-access.eu/en/calls/2391/Video-games-and-immersive-content-development",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "Innovative tools and business models",
+            "description": "The action is aimed at encouraging the development and/or the spread of innovative tools and business models to improve the visibility, availability, audience and diversity of European works in the digital age and/or the competitiveness and/or the greening process of the European audiovisual industry.",
+            "link": "https://www.euro-access.eu/en/calls/2392/Innovative-tools-and-business-models",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2025-12-03",
+            "title": "European slate development",
+            "description": "The objective of the European slate development support is to foster the competitiveness of European independent production companies and to increase their economic weight on the market. The aim is also to increase the capacity of audiovisual producers to develop projects with potential to circulate throughout Europe and beyond, and to facilitate European and international co-production.",
+            "link": "https://www.euro-access.eu/en/calls/2393/European-slate-development",
             "custom": {
                 "Funding Program": "Creative Europe - Media Strand"
             }
@@ -1304,6 +1313,24 @@
             "link": "https://www.euro-access.eu/en/calls/2409/Interreg-Bavaria-Austria-large-scale-projects",
             "custom": {
                 "Funding Program": "Interreg Bavaria-Austria"
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "Circulation of European literary works",
+            "description": "This action supports projects that translate, publish, distribute, and promote European works of fiction.",
+            "link": "https://www.euro-access.eu/en/calls/2410/Circulation-of-European-literary-works",
+            "custom": {
+                "Funding Program": "Creative Europe - Culture Strand"
+            }
+        },
+        {
+            "deadline": "2026-07-16",
+            "title": "Films on the Move - 2nd cut-off date",
+            "description": "The Films on the Move action shall encourage and support the wider distribution of recent non-national European films by encouraging sales agents and theatrical distributors in particular to invest in promotion and adequate distribution of non\u0002national European films.",
+            "link": "https://www.euro-access.eu/en/calls/2422/Films-on-the-Move-2nd-cut-off-date",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
             }
         }
     ]

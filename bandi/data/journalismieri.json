@@ -1,6 +1,54 @@
 {
-    "scraping_timestamp": "2025-10-23 06:10:13",
+    "scraping_timestamp": "2025-10-27 06:08:55",
     "data": [
+        {
+            "deadline": "2025-11-15",
+            "title": "The German-Northern European Programme",
+            "description": "International Journalists’ Programmes",
+            "link": "https://gfmd.info/fundings/the-german-northern-european-programme/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€3,800 stipend"
+            }
+        },
+        {
+            "deadline": "2025-11-07",
+            "title": "International Mobility Grants",
+            "description": "House of Europe",
+            "link": "https://gfmd.info/fundings/international-mobility-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to €4,000"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "HEAL Fellowship (2025)",
+            "description": "Solutions Journalism Network (SJN)",
+            "link": "https://gfmd.info/fundings/heal-fellowship-2025/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to $5,000,"
+            }
+        },
+        {
+            "deadline": "2025-12-07",
+            "title": "Reporting grants",
+            "description": "Abraji",
+            "link": "https://gfmd.info/fundings/reporting-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "R$ 5,500"
+            }
+        },
         {
             "deadline": "2025-12-02",
             "title": "Building a trustworthy social media sphere",

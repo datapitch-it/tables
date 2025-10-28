@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-10-27 06:08:26",
+    "scraping_timestamp": "2025-10-28 06:41:16",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -1208,6 +1208,15 @@
             }
         },
         {
+            "deadline": "2025-11-28",
+            "title": "2nd Call for Proposals CBC BiH MNE",
+            "description": "In line with the objectives specified in the programme document, the global objective of this Call for proposals is: To promote good neighborly relations, foster Union integration and contribute to social, economic and territorial development of the programme cross-border area by addressing climate change challenges.",
+            "link": "https://www.euro-access.eu/en/calls/2394/2nd-Call-for-Proposals-CBC-BiH-MNE",
+            "custom": {
+                "Funding Program": "IPA III Bosnia and Herzegovina-Montenegro"
+            }
+        },
+        {
             "deadline": "2025-11-14",
             "title": "Practical career orientation for low-skilled employees to enter in-demand occupational fields in Vienna and promote non-stereotypical career choices",
             "description": "The European Social Fund plus (ESF+) finances a measure to achieve the Specific Objective ESO4.8 \"Promote active inclusion with a view to improving equal opportunities, non-discrimination and active participation and increasing employability, in particular of disadvantaged groups\" via the Vienna Workers' Promotion Fund as the ESF+ Intermediary Body for Vienna as part of the \"ESF+ Program Employment Austria & JTF 2021 - 2027\" (CCI 2021AT05FFPR001) in Priority 6 \"Social Innovation\".",
@@ -1322,6 +1331,69 @@
             "link": "https://www.euro-access.eu/en/calls/2410/Circulation-of-European-literary-works",
             "custom": {
                 "Funding Program": "Creative Europe - Culture Strand"
+            }
+        },
+        {
+            "deadline": "2025-12-05",
+            "title": "EU support to strengthen capacities of the Statistical Office of the Republic of Serbia to implement capital stock survey and land estimation",
+            "description": "The overall objective is to assist the Statistical Office of the Republic of Serbia in achieving compliance with all tables included in the Transmission Program of Data set out in Annex B of the European System of National Accounts (ESA 2010), thereby meeting the requirements for the closure of Chapter 18.",
+            "link": "https://www.euro-access.eu/en/calls/2414/EU-support-to-strengthen-capacities-of-the-Statistical-Office-of-the-Republic-of-Serbia-to-implement-capital-stock-survey-and-land-estimation",
+            "custom": {
+                "Funding Program": "Instrument for Pre-accession Assistance"
+            }
+        },
+        {
+            "deadline": "2025-12-09",
+            "title": "Support to the development and certification of EU Digital Identity Wallets",
+            "description": "The topic aims to support the issuance and certification of EU Digital Identity Wallets in line with Regulation. It will drive implementation of the European Digital Identity and support Member States managing the transition between the current and future frameworks supplementing or replacing the current digital identity infrastructure (eID) by the EU Digital Identity Wallet framework.",
+            "link": "https://www.euro-access.eu/en/calls/2415/Support-to-the-development-and-certification-of-EU-Digital-Identity-Wallets",
+            "custom": {
+                "Funding Program": "Digital Europe"
+            }
+        },
+        {
+            "deadline": "2025-12-09",
+            "title": "Support the roll-out of EU Mobile Driving Licences",
+            "description": "The topic aims to support issuance and acceptance of Mobile Driving Licences issued to EU Digital Identity Wallets. This includes providing support to Member States for establishing the necessary organisational and technical frameworks for the issuance of mobile driving licenses (mDL) to EU Digital Identity Wallets and the acceptance of mobile driving licenses (mDL) by public and private sector.",
+            "link": "https://www.euro-access.eu/en/calls/2416/Support-the-roll-out-of-EU-Mobile-Driving-Licences",
+            "custom": {
+                "Funding Program": "Digital Europe"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Creative Innovation Lab",
+            "description": "The Creative Innovation Lab shall incentivise players from different cultural and creative sectors. In addition to audiovisual including gaming, projects may cover music, books or museums. They will design and test innovative solutions for key challenges, with a potential positive long-term impact on multiple cultural and creative sectors.",
+            "link": "https://www.euro-access.eu/en/calls/2417/Creative-Innovation-Lab",
+            "custom": {
+                "Funding Program": "Creative Europe - Cross-Sectoral Strand"
+            }
+        },
+        {
+            "deadline": "2026-03-11",
+            "title": "NEWS - Media Literacy",
+            "description": "The objective of the call is to encourage innovative cross-border media literacy projects and practices across Europe among various population segments, addressing the challenges of a continuously changing digital media landscape.",
+            "link": "https://www.euro-access.eu/en/calls/2418/NEWS-Media-Literacy",
+            "custom": {
+                "Funding Program": "Creative Europe - Cross-Sectoral Strand"
+            }
+        },
+        {
+            "deadline": "2026-02-04",
+            "title": "Pluralism",
+            "description": "The European news media sectors play a crucial and valuable role in Europe. Yet, they are facing multiple challenges. Partially as a result of the digital shift, with readers shifting to online sources and traditional news outlets losing advertising revenues, the economic sustainability of professional journalism has come under pressure. Many media at the local level as well as those putting their public interest mission before profits, have had to close down, weakening media pluralism and posing risks for the good functioning of democracy.",
+            "link": "https://www.euro-access.eu/en/calls/2419/Pluralism",
+            "custom": {
+                "Funding Program": "Creative Europe - Cross-Sectoral Strand"
+            }
+        },
+        {
+            "deadline": "2026-02-04",
+            "title": "Collaborations",
+            "description": "The European news media sectors play a crucial and valuable role in Europe. Yet, they are facing multiple challenges. Partially as a result of the digital shift, with readers shifting to online sources and traditional news outlets losing advertising revenues, the economic sustainability of professional journalism has come under pressure. Many media at the local level as well as those putting their public interest mission before profits, have had to close down, weakening media pluralism and posing risks for the good functioning of democracy.",
+            "link": "https://www.euro-access.eu/en/calls/2420/Collaborations",
+            "custom": {
+                "Funding Program": "Creative Europe - Cross-Sectoral Strand"
             }
         },
         {
