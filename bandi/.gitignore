@@ -25,3 +25,7 @@ ENV/
 # OS files
 .DS_Store
 Thumbs.db
+
+# AI Search page
+ricercaai.html
+ricercaai.js
