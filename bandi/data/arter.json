@@ -1,78 +1,6 @@
 {
-    "scraping_timestamp": "2025-10-28 06:37:57",
+    "scraping_timestamp": "2025-11-01 05:14:49",
     "data": [
-        {
-            "deadline": "2025-10-28",
-            "title": "Aperto il bando AQUARIUS per l’accesso a infrastrutture marine e d'acqua dolce",
-            "description": "Il bando mira a sostenere progetti di ricerca che promuovano una gestione sostenibile delle risorse acquatiche, la tutela degli ecosistemi e l’innovazione nell’ambito della Blue Economy",
-            "link": "https://first.art-er.it/news/aperto-il-bando-aquarius-infrastrutture-marine",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-10-29",
-            "title": "AI Challenge 2025: aperta la call per soluzioni di IA in risposta a sfide concrete",
-            "description": "Il bando promuove l’incontro tra enti pubblici, imprese e start-up per applicare soluzioni di Intelligenza Artificiale ad ampio impatto per la società",
-            "link": "https://first.art-er.it/news/bando-ai-challenge-2025-soluzioni-ai-reali",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 5.000"
-            }
-        },
-        {
-            "deadline": "2025-10-29",
-            "title": "Bando 2025 EIC Pathfinder di Horizon Europe: supporto per la ricerca o lo sviluppo di tecnologie emergenti rivoluzionarie",
-            "description": "Quattro sfide strategiche per sviluppare tecnologie dirompenti in agricoltura, sanità, robotica ed economia circolare",
-            "link": "https://first.art-er.it/news/bando-2025-eic-pathfinder-di-horizon-europe",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 120.000.000"
-            }
-        },
-        {
-            "deadline": "2025-10-29",
-            "title": "EuroHPC JU: pubblicati due bandi su competenze e reti per il calcolo ad alte prestazioni",
-            "description": "Pubblicati due bandi per rafforzare le competenze in ambito HPC e potenziare i Centri Nazionali di Competenza in Europa",
-            "link": "https://first.art-er.it/news/eurohpc-ju-aperti-due-bandi-su-competenze-e-reti-hpc",
-            "custom": {
-                "Topics": "Talenti e competenze",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "Il bando Horizon Europe: €1.000.000Il bando Digital Europe: € 42.000.000"
-            }
-        },
-        {
-            "deadline": "2025-10-31",
-            "title": "Al via il quarto bando per ricercatori del progetto ENFIELD",
-            "description": "Il bando ENFIELD per l'attrattività e mobilità dei ricercatori che esplorano l'uso dell'Intelligenza Artificiale resterà aperto fino al 31 ottobre 2025",
-            "link": "https://first.art-er.it/news/bando-ricercatori-del-progetto-europeo-enfield-1",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.100.000"
-            }
-        },
-        {
-            "deadline": "2025-10-31",
-            "title": "ESA: al via una nuova call per rafforzare la resilienza costiera al cambiamento climatico",
-            "description": "Fino al 31 ottobre le imprese possono candidarsi alla call ESA per sviluppare soluzioni innovative per la resilienza costiera",
-            "link": "https://first.art-er.it/news/bando-tecnologie-spaziali-le-sfide-costiere",
-            "custom": {
-                "Topics": "Blue Economy",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2025-11-03",
             "title": "Cybersecurity: nuovo bando PNRR per valorizzare i risultati della ricerca",
@@ -279,6 +207,18 @@
         },
         {
             "deadline": "2025-11-17",
+            "title": "TRA VISIONS 2026: premi europei per la ricerca innovativa nei trasporti",
+            "description": "Gli Awards TRA VISIONS mirano a valorizzare l’eccellenza scientifica e rafforzare la competitività del settore dei trasporti",
+            "link": "https://first.art-er.it/news/tra-visions-2026-premia-linnovazione-nei-trasporti",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
             "title": "EIT Food: al via la Biotech Innovation Call per soluzioni sostenibili e ad alto impatto nel settore agroalimentare",
             "description": "Aperta fino al 17 novembre 2025, la call finanzia progetti che riducono consumi energetici e sviluppano tecnologie di controllo in tempo reale",
             "link": "https://first.art-er.it/news/eit-food-lancia-la-biotech-innovation-call-2025",
@@ -419,6 +359,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 23.000.000"
+            }
+        },
+        {
+            "deadline": "2025-11-28",
+            "title": "SYNAPSE: aperta la call per soluzioni innovative nel settore della cybersicurezza",
+            "description": "L’iniziativa sostiene PMI e organizzazioni pubbliche nello sviluppo di tecnologie avanzate per la sicurezza informatica",
+            "link": "https://first.art-er.it/news/aperta-la-open-call-europea-del-progetto-synapse",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 700.000"
             }
         },
         {
@@ -567,6 +519,18 @@
         },
         {
             "deadline": "2025-12-05",
+            "title": "Proprietà intellettuale: riapre il Fondo PMI per la protezione dei diritti",
+            "description": "L’iniziativa sostiene le PMI con rimborsi per la tutela di marchi, brevetti e design, rafforzando innovazione e competitività in Europa",
+            "link": "https://first.art-er.it/news/riapre-il-fondo-la-proprieta-intellettuale-delle-pmi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-05",
             "title": "QuantERA Call 2025: lanciato il nuovo bando sulle tecnologie quantistiche",
             "description": "Aperto fino al 5 dicembre 2025, il bando sosterrà progetti di ricerca transnazionali nei settori chiave della scienza e tecnologia quantistica",
             "link": "https://first.art-er.it/news/quantera-call-2025-sulle-tecnologie-quantistiche",
@@ -587,6 +551,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A sportello",
                 "Stanziamento": "€ 18.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-06",
+            "title": "MAECI: nuovo bando per progetti di ricerca congiunti Italia-Cina",
+            "description": "E' aperta la call 2026-2028 per progetti di ricerca congiunti nel campo delle scienze naturali",
+            "link": "https://first.art-er.it/news/call-italia-cina-la-ricerca-scientifica-2026-2028",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -808,7 +784,7 @@
         {
             "deadline": "2026-01-08",
             "title": "EuroHPC JU lancia la Quantum Grand Challenge 2025 per startup in ambito quantistico",
-            "description": "Aperta fino all'8 gennaio 2025, l’iniziativa di EuroHPC JU vuole stimolare la cooperazione fra innovatori nel calcolo quantistico, istituzioni finanziarie e utilizzatori finali",
+            "description": "Aperta fino all'8 gennaio 2026, l’iniziativa di EuroHPC JU vuole stimolare la cooperazione fra innovatori nel calcolo quantistico, istituzioni finanziarie e utilizzatori finali",
             "link": "https://first.art-er.it/news/eurohpc-ju-lancia-la-quantum-grand-challenge-2025",
             "custom": {
                 "Topics": "Quantum",
@@ -839,6 +815,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-19",
+            "title": "Aperta la call Catalyse NEB Open Call 2026: 20.000 € per startup che incarnano i valori del New European Bauhaus",
+            "description": "Un’opportunità per startup europee che vogliono crescere con impatto, sostenibilità e bellezza",
+            "link": "https://first.art-er.it/news/aperta-la-call-catalyse-neb-open-call-2026",
+            "custom": {
+                "Topics": "NEB - New European Bauhaus, Start-up in Europa, Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.000.000"
             }
         },
         {
@@ -887,6 +875,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 270.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-24",
+            "title": "Premio Impresa Ambiente 2026: aperte le candidature per la XIII edizione",
+            "description": "Il premio valuta innovazione e sostenibilità in processi, prodotti e servizi aziendali",
+            "link": "https://first.art-er.it/news/premio-impresa-ambiente-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -947,6 +947,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-24",
+            "title": "Space Data Economy: lanciati due bandi nel settore innovazione, sicurezza e resilienza spaziale",
+            "description": "Le call EUSPA 2025 puntano su dati satellitari, città smart e resilienza per un’Europa più verde e competitiva",
+            "link": "https://first.art-er.it/news/aperte-due-nuove-call-euspa-2025",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Space Data Economy: € 10.000.000Innovative Space-Based Applications: € 5.000.000"
             }
         },
         {
@@ -1034,6 +1046,18 @@
             }
         },
         {
+            "deadline": "2026-03-31",
+            "title": "Nuovi bandi europei per la cybersecurity: 50 milioni di euro per rafforzare le infrastrutture digitali",
+            "description": "Focus su AI, PMI e infrastrutture critiche per aumentare la sicurezza e la resilienza digitale dell’UE",
+            "link": "https://first.art-er.it/news/nuovi-bandi-europei-la-cybersecurity",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 50.000.000"
+            }
+        },
+        {
             "deadline": "2026-04-14",
             "title": "BiodivConnect 2025: aperta la quinta call transnazionale per il ripristino degli ecosistemi",
             "description": "L’iniziativa sostiene progetti di ricerca e innovazione che stimolino interventi di restauro naturali su scala territoriale e globale",
@@ -1106,6 +1130,18 @@
             }
         },
         {
+            "deadline": "2026-06-09",
+            "title": "EP PerMed: in arrivo il bando transnazionale 2026 per la medicina personalizzata",
+            "description": "Finanziamenti per progetti su malattie cardiovascolari, metaboliche e renali",
+            "link": "https://first.art-er.it/news/ep-permed-lancia-il-bando-transnazionale-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 38.000.000"
+            }
+        },
+        {
             "deadline": "2026-06-10",
             "title": "In arrivo il bando ERA4Health “Prevent-OO” per contrastare sovrappeso e obesità in chiave preventiva",
             "description": "La call, dedicata alla ricerca transnazionale, aprirà il 13 novembre 2025",
@@ -1139,6 +1175,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2027-02-16",
+            "title": "Public Sector Loan Facility: nuovi bandi nell'ambito del Just Transition Mechanism",
+            "description": "Le call JTM finanziano energia pulita, rigenerazione urbana e formazione per un’Europa più equa e sostenibile",
+            "link": "https://first.art-er.it/news/aperta-nuova-call-del-meccanismo-transizione-giusta",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "€ 630.000.000"
             }
         },
         {

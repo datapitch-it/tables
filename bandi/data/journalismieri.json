@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-10-27 06:08:55",
+    "scraping_timestamp": "2025-10-28 06:41:42",
     "data": [
         {
             "deadline": "2025-11-15",
@@ -71,18 +71,6 @@
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "USD 25,000 per project."
-            }
-        },
-        {
-            "deadline": "2025-10-26",
-            "title": "Grant awards for independent Palestinian media",
-            "description": "Canal France International (CFI)",
-            "link": "https://gfmd.info/fundings/grant-awards-for-independent-palestinian-media/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Middle East and North Africa",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€1,000,000."
             }
         },
         {
