@@ -1,66 +1,6 @@
 {
-    "scraping_timestamp": "2025-11-03 06:00:23",
+    "scraping_timestamp": "2025-11-05 17:56:10",
     "data": [
-        {
-            "deadline": "2025-11-03",
-            "title": "Cybersecurity: nuovo bando PNRR per valorizzare i risultati della ricerca",
-            "description": "Il bando lanciato da SERICS vuole supportare con un percorso di accelerazione idee innovative ad alto contenuto tecnologico proposte da ricercatori, startup e team multidisciplinari",
-            "link": "https://first.art-er.it/news/concept-impact-ideas-empowering-future",
-            "custom": {
-                "Topics": "PNRR - Bandi a cascata",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-04",
-            "title": "SMART ERA: aperto il primo bando a sostegno delle PMI europee",
-            "description": "Il bando SMART ERA offre fino a 60mila euro per progetto e invita le PMI europee a proporre soluzioni in AI mobilità energia e salute digitale",
-            "link": "https://first.art-er.it/news/open-call-smart-era-candidature-entro-il-4-novembre",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 60.000 per progetto"
-            }
-        },
-        {
-            "deadline": "2025-11-05",
-            "title": "Progetto ResilMesh: aperta la seconda Open Call per affrontare le minacce alla sicurezza digitale",
-            "description": "Le candidature per il bando Resilmesh per soluzioni avanzate di cybersecurity sono aperte fino al 5 novembre 2025",
-            "link": "https://first.art-er.it/news/resilmesh-2deg-call-potenziare-la-sicurezza-digitale",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "fino a € 72.000 per progetto"
-            }
-        },
-        {
-            "deadline": "2025-11-05",
-            "title": "Horizon Europe: bando ERC Synergy Grants 2026",
-            "description": "Gli ERC Synergy Grants sono pensati per supportare la ricerca collaborativa d'avanguardia, in grado di dare risultati scientifici innovativi o anche imprevedibili",
-            "link": "https://first.art-er.it/news/erc-pubblicato-il-bando-erc-synergy-grants-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 500.000.000"
-            }
-        },
-        {
-            "deadline": "2025-11-05",
-            "title": "EDF 2025: aperte nuove call per potenziare le capacità difensive e l'innovazione",
-            "description": "Il Fondo Europeo della Difesa mira a potenziare le capacità difensive dell'Unione europea attraverso finanziamenti mirati a progetti che guidano l’innovazione militare, la sicurezza e i progressi tecnologici",
-            "link": "https://first.art-er.it/news/difesa-ue-aperte-le-nuove-open-call-dello-edf-0",
-            "custom": {
-                "Topics": "Difesa UE, STEP",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.065.000.000"
-            }
-        },
         {
             "deadline": "2025-11-07",
             "title": "Aperto il bando AMALTEA per soluzioni digitali e hardware per facciate edilizie sostenibili",
@@ -232,7 +172,7 @@
         {
             "deadline": "2025-11-17",
             "title": "C4T GROUNDWORK: nuovo bando per rafforzare la transizione verde nelle regioni europee",
-            "description": "Aperta dal 1° ottobre al 17 novembre 2025, la nuova call di assistenza tecnica del progetto che sostiene le amministrazioni nell'attuazioni della Politica di Coesione",
+            "description": "Aperta fino al 17 novembre 2025 la nuova call di assistenza tecnica del progetto che sostiene le amministrazioni nell'attuazione della Politica di Coesione",
             "link": "https://first.art-er.it/news/c4t-groundwork-call-supportare-le-amministrazioni",
             "custom": {
                 "Topics": "Città del futuro, Transizione sostenibile",
@@ -760,7 +700,7 @@
         {
             "deadline": "2026-01-06",
             "title": "Pubblicate le nuove call EU4Health: focus su prevenzione, dati sanitari e innovazione medica",
-            "description": "HaDEA apre i bandi 2025 per progetti su IA, salute cardiovascolare, screening oncologico e accesso equo alle cure con scadenza fissata al 6 gennaio 2026",
+            "description": "Aperti i bandi 2025 per progetti su IA, salute cardiovascolare, screening oncologico e accesso equo alle cure",
             "link": "https://first.art-er.it/news/nuove-call-eu4health-2025-la-salute-e-linnovazione",
             "custom": {
                 "Topics": "N/A",
