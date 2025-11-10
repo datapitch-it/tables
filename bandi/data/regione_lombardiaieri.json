@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-11-03 06:04:33",
+    "scraping_timestamp": "2025-11-05 17:58:24",
     "data": [
+        {
+            "deadline": "N/A",
+            "title": "Investimenti – Linea Microimprese 2025",
+            "description": "Contributi destinati alle microimprese lombarde finalizzati a sostenere interventi di innovazione tecnologica degli impianti e delle attrezzature, anche nell’ottica di favorire la riduzione dell’impatto ambientale dei propri sistemi di produzione e la riduzione dei consumi energetici.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/investimenti-linea-microimprese-2025-RLO12025049763",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-11 12:00",
+            "title": "Dote Scuola – componente Buono Scuola, anno scolastico 2025/2026",
+            "description": "A partire dal 4 novembre 2025, le famiglie degli studenti iscritti a scuole primarie, secondarie di primo e secondo grado, paritarie o statali, che prevedono una retta di iscrizione e frequenza, potranno fare domanda per il contributo messo a disposizione da Regione Lombardia.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/dote-scuola-componente-buono-scuola-anno-scolastico-2025-2026-RLW12025045863",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-12-01 16:00",
             "title": "Bando di sostegno al sistema fieristico lombardo 2026",
@@ -362,34 +386,10 @@
             }
         },
         {
-            "deadline": "2025-11-05 12:00",
-            "title": "Fondo sociale europeo plus 2021-2027 Priorità 4 Occupazione Giovanile – ZERONEET – Reti di opportunità per l’inserimento occupazionale e le competenze",
-            "description": "BANDO PUBBLICO PER IL FINANZIAMENTO DI INTERVENTI INTEGRATI DI RIATTIVAZIONE E INSERIMENTO LAVORATIVO DEI GIOVANI NEET \" ZERONEET - RETI DI OPPORTUNITA’ PER L’INSERIMENTO OCCUPAZIONALE E LE COMPETENZE” D.G.R. N. XII/ 4612 DEL 23/06/2025 (PRIORITA’ 4 OCCUPAZIONE GIOVANI – ESO 4.1 – AZIONE a.4. - PR FSE+ 2021-2027)",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/fondo-sociale-europeo-plus-2021-2027-priorit-4-occupazione-giovanile-zeroneet-reti-opportunit-l-inserimento-occupazionale-competenze-RLW12025046063",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-11-10 12:00",
             "title": "AVVISO PER L’EROGAZIONE DI 10 PREMI ECONOMICI INDIVIDUALI DA ASSEGNARE A TESI DELLE SCUOLE DI SPECIALIZZAZIONE DI AREA VETERINARIA AFFERENTI ALL’UNIVERSITÀ DEGLI STUDI DI MILANO (UNIMI)",
             "description": "Regione Lombardia, in collaborazione con l’Università deli Studi di Milano (UNIMI), istituisce n. 10 premi economici individuali dell’importo di € 5.000,00 lordi ciascuno, riservati alle tesi delle scuole di specializzazione di area veterinaria valutate secondo criteri afferenti al pregio scientifico dei contenuti e agli aspetti innovativi.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/avviso-l-erogazione-10-premi-economici-individuali-assegnare-tesi-scuole-specializzazione-area-veterinaria-afferenti-universit-studi-milano-unimi-RLG12025049663",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-03 16:00",
-            "title": "Contributi per l'adeguamento e aggiornamento dei piani di governo del territorio",
-            "description": "Bando per l'erogazione di contributi ai piccoli Comuni riuniti in forma associata per la redazione dell’adeguamento e aggiornamento dei piani di governo del territorio (PGT), ai sensi dell’art. 24 della l.r. n. 12/2005",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/difesa-suolo/contributi-l-adeguamento-aggiornamento-piani-governo-territorio-RLZ12025049724",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1298,6 +1298,18 @@
             }
         },
         {
+            "deadline": "2025-11-07 17:00",
+            "title": "Interventi per il sostegno di allievi con disabilità frequentanti i percorsi triennali/quadriennali/di quarto anno (IeFP) - a.f. 2024/2025",
+            "description": "Si informa che con DDS 15619 del 3 novembre 2025 è possibile presentare richieste di liquidazione dalle ore 10:00 del 5/11/2025 alle ore 17:00 del 7/11/2025, per la realizzazione dell’offerta formativa dei Percorsi di Istruzione e Formazione Professionale (IeFP) - anno formativo 2024/2025, in attuazione della Delibera di Programmazione n. 2419/2024\nL'obiettivo dell'Avviso è quello di promuovere l’apprendimento per tutti e l’accessibilità alle persone con disabilità.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/interventi-sostegno-allievi-disabilit-frequentanti-percorsi-triennali-quadriennali-quarto-anno-iefp-f-2024-2025-RLW12024040845",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "N/A",
             "title": "FSC 2127 Assistenza tecnica",
             "description": "N/A",
@@ -1578,6 +1590,18 @@
             "title": "Domanda di riconoscimento dell’equivalenza dei titoli del pregresso ordinamento ai titoli universitari dell’area sanitaria ex art. 6, C. 3, D.LGS 502/92 - Professioni Sanitarie Infermieristiche, Ostetriche e Tecniche della Prevenzione",
             "description": "Avviso pubblico per la presentazione delle domande di riconoscimento dell’equivalenza dei titoli del pregresso ordinamento ai titoli universitari dell’area sanitaria di cui all’art. 6, comma 3, del d.lgs n. 502/92 s.m.i.. L’avviso è rivolto alle persone che non sono in possesso di un titolo già equipollente e che non risultano iscritte all’albo ordinario con riferimento alla specifica professione sanitaria.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/salute-benessere/promozione-salute/domanda-riconoscimento-equivalenza-titoli-pregresso-ordinamento-titoli-universitari-area-sanitaria-ex-art-6-c-3-d-lgs-502-92-professioni-sanitarie-infermieristiche-ostetriche-tecniche-prevenzione-RLG12023035783",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-11-07 17:00",
+            "title": "Percorsi di Istruzione e Formazione Professionale (IeFP) finanziati a valere sul Budget Duale IeFP – a.f. 2024/2025",
+            "description": "Si informa che con DDS 15619 del 3 novembre 2025 è possibile presentare richieste di liquidazione dalle ore 10:00 del 5/11/2025 alle ore 17:00 del 7/11/2025, per la realizzazione dell’offerta formativa dei Percorsi di Istruzione e Formazione Professionale (IeFP) - anno formativo 2024/2025, in attuazione della Delibera di Programmazione n. 2419/2024.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/percorsi-istruzione-formazione-professionale-iefp-finanziati-valere-budget-duale-iefp-f-2024-2025-RLE12024039823",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2862,30 +2886,6 @@
             "title": "Avviso per l'accesso al Fondo di Garanzia per le imprese che operano nel campo dello spettacolo",
             "description": "Il Fondo di Garanzia, istituito dall'art.6 della legge regionale del 30 luglio 2008 n. 21, è finalizzato a favorire l'accesso al credito delle imprese che operano nel settore dello spettacolo. E' gestito da Finlombarda S.p.A. che interviene mediante la concessione di garanzie a fronte di finanziamenti erogati dagli Istituti di credito aderenti",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/avviso-l-accesso-fondo-garanzia-imprese-che-operano-campo-spettacolo-RLL12020011887",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Dote Scuola – componente Buono Scuola, anno scolastico 2025/2026",
-            "description": "A partire dal 4 novembre 2025, le famiglie degli studenti iscritti a scuole primarie, secondarie di primo e secondo grado, che prevedono una retta di iscrizione e frequenza, potranno fare domanda per il contributo messo a disposizione da Regione Lombardia.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/dote-scuola-componente-buono-scuola-anno-scolastico-2025-2026-RLW12025045863",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Investimenti – Linea Microimprese 2025",
-            "description": "Contributi destinati alle microimprese lombarde finalizzati a sostenere interventi di innovazione tecnologica degli impianti e delle attrezzature, anche nell’ottica di favorire la riduzione dell’impatto ambientale dei propri sistemi di produzione e la riduzione dei consumi energetici.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/investimenti-linea-microimprese-2025-RLO12025049763",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
