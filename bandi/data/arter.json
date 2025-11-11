@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2025-11-10 06:44:39",
+    "scraping_timestamp": "2025-11-11 06:41:04",
     "data": [
-        {
-            "deadline": "2025-11-10",
-            "title": "EIC: nuovo bando di gara per il programma VentureMatch a supporto delle startup deep tech europee",
-            "description": "L'obiettivo è selezionare un esperto per supportare la crescita di imprese innovative europee tramite fundraising, matchmaking e scalabilità",
-            "link": "https://first.art-er.it/news/eic-nuovo-bando-di-gara-il-programma-venturematch",
-            "custom": {
-                "Topics": "Deep tech",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-10",
-            "title": "Autoproduzione di energia da fonti rinnovabili nelle PMI: aperto il secondo sportello MIMIT",
-            "description": "La misura del Ministero prevede incentivi per impianti solari fotovoltaici o mini eolici e sistemi di accumulo dell’energia e per l’autoconsumo differito",
-            "link": "https://first.art-er.it/news/mimit-autoproduzione-di-energia-da-fonti-rinnovabili-1",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 178.668.093"
-            }
-        },
         {
             "deadline": "2025-11-12",
             "title": "Sicurezza civile per la società: pubblicato il bando ECCC 2025 di Horizon Europe",
@@ -83,18 +59,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 23.000.000 - Strand 1€ 24.000.000 - Strand 2a"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "EIT Food: lanciati i bandi dell'Impact Funding Framework",
-            "description": "I due programmi di finanziamento prevedono scadenze multiple fino a novembre 2025",
-            "link": "https://first.art-er.it/news/eit-food-bandi-impact-funding-framework",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "€ 30.000.000"
             }
         },
         {
@@ -175,7 +139,7 @@
             "description": "Aperta fino al 17 novembre 2025 la nuova call di assistenza tecnica del progetto che sostiene le amministrazioni nell'attuazione della Politica di Coesione",
             "link": "https://first.art-er.it/news/c4t-groundwork-call-supportare-le-amministrazioni",
             "custom": {
-                "Topics": "Città del futuro, Transizione sostenibile",
+                "Topics": "Città del futuro, Politica di coesione UE, Transizione sostenibile",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"

@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2025-11-05 17:56:10",
+    "scraping_timestamp": "2025-11-10 06:44:39",
     "data": [
-        {
-            "deadline": "2025-11-07",
-            "title": "Aperto il bando AMALTEA per soluzioni digitali e hardware per facciate edilizie sostenibili",
-            "description": "La call finanzia fino a 10 progetti per la progettazione, produzione, installazione e riciclo di facciate edilizie digitali e sostenibili",
-            "link": "https://first.art-er.it/news/al-il-bando-amaltea-ledilizia-sostenibile",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.500.000"
-            }
-        },
         {
             "deadline": "2025-11-10",
             "title": "EIC: nuovo bando di gara per il programma VentureMatch a supporto delle startup deep tech europee",
@@ -143,6 +131,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 50.000"
+            }
+        },
+        {
+            "deadline": "2025-11-17",
+            "title": "CDP Cyber Challenge 2025: al via la competizione nazionale sulla cybersecurity",
+            "description": "Aperte fino al 17 novembre 2025 le iscrizioni alla gara nazionale di cybersecurity promossa da Cassa Depositi e Prestiti con il Centro di Competenza italiano Cyber 4.0",
+            "link": "https://first.art-er.it/news/cdp-cyber-challenge-2025-aperte-le-iscrizioni",
+            "custom": {
+                "Topics": "Talenti e competenze",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 6.000"
             }
         },
         {
@@ -735,6 +735,18 @@
         },
         {
             "deadline": "2026-01-15",
+            "title": "#CBEScaleUp: al via il premio per progetti bio-based",
+            "description": "Aperta la nuova edizione del concorso promosso da Circular Bio-based Europe Joint Undertaking",
+            "link": "https://first.art-er.it/news/al-la-competizione-fotografica-e-video-di-cbe-ju",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
             "title": "Salute digitale: aperto il primo bando UNITE per progetti interregionali",
             "description": "UNITE punta a consolidare la leadership europea nella sanità digitale",
             "link": "https://first.art-er.it/news/aperto-primo-bando-unite-la-salute-digitale-europea",
@@ -830,6 +842,18 @@
             }
         },
         {
+            "deadline": "2026-01-30",
+            "title": "ECHOES: pubblicato il bando dedicato alle istituzioni culturali europee che investono nel digitale",
+            "description": "L'open call del programma ECHOES, aperta dall'11 novembre 2025 al 30 gennaio 2026, intende sostenere la digitalizzazione del patrimonio culturale europeo",
+            "link": "https://first.art-er.it/news/nuova-open-call-il-patrimonio-culturale-digitale",
+            "custom": {
+                "Topics": "Cascade funding, Industrie creative",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 29.800 per progetto"
+            }
+        },
+        {
             "deadline": "2026-02-02",
             "title": "EUP OHAMR: in arrivo un bando per nuove terapie contro la resistenza antimicrobica",
             "description": "L'obiettivo del bando è di migliorare i tassi di successo dei trattamenti per pazienti, animali o piante",
@@ -839,6 +863,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 28.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-04",
+            "title": "Connettività avanzata: pubblicato il secondo bando ENVELOPE per progetti sperimentali",
+            "description": "Imprese e centri di ricerca potranno candidare progetti sperimentali di mobilità connessa e reti oltre il 5G",
+            "link": "https://first.art-er.it/news/envelope-aperto-il-2deg-bando-la-mobilita-connessa",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 1.350.000"
             }
         },
         {
@@ -887,6 +923,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-18",
+            "title": "Accordi per l’innovazione 2025: bando per ricerca industriale e sviluppo tecnologico",
+            "description": "Stanziati 731 milioni per progetti di ricerca e sviluppo industriale con forte impatto tecnologico",
+            "link": "https://first.art-er.it/news/accordi-innovazione-2025-731-milioni-la-ricerca-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 731.000.000"
             }
         },
         {
@@ -939,9 +987,9 @@
         },
         {
             "deadline": "2026-03-03",
-            "title": "Digital Europe: in arrivo una nuova tornata di bandi per la digitalizzazione della società",
-            "description": "Sul Funding and Tenders Portal dell'Unione europea sono previsti in apertura per il 4 novembre 2025 i nuovi bandi del programma Digital Europe",
-            "link": "https://first.art-er.it/news/digital-europe-arrivo-i-nuovi-bandi-novembre-2025",
+            "title": "Aperti i nuovi bandi di Digital Europe per la transizione digitale",
+            "description": "Sul Funding and Tenders Portal dell'Unione europea il 4 novembre 2025 si sono aperti i nuovi bandi del programma Digital Europe",
+            "link": "https://first.art-er.it/news/digital-europe-i-nuovi-bandi-2025",
             "custom": {
                 "Topics": "Artificial Intelligence",
                 "Area Classification": "Unione Europea",
@@ -959,6 +1007,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 1.000.000.000"
+            }
+        },
+        {
+            "deadline": "2026-03-12",
+            "title": "Energia: bando per progetti transfrontalieri sulle fonti energetiche rinnovabili",
+            "description": "Obiettivo del bando, che si aprirà a febbraio 2026, è promuovere la cooperazione transfrontaliera nel campo della pianificazione, dello sviluppo e dello sfruttamento delle fonti energetiche rinnovabili",
+            "link": "https://first.art-er.it/news/bando-sulle-fonti-energetiche-rinnovabili",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-12",
+            "title": "CEF Energy: bando da 150 milioni di euro per progetti transfrontalieri sulle energie da fonti rinnovabili",
+            "description": "CINEA apre dal 5 febbraio al 12 marzo 2026 un bando da 150 milioni di euro per la cooperazione energetica transfrontaliera e l’adozione di energie da fonti innovabili in UE",
+            "link": "https://first.art-er.it/news/cef-energy-un-bando-sullenergia-da-fonti-rinnovabili",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 150.000.000"
             }
         },
         {

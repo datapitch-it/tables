@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-11-10 06:46:37",
+    "scraping_timestamp": "2025-11-11 06:43:04",
     "data": [
+        {
+            "deadline": "2026-01-16 16:00",
+            "title": "Promuovere la commercializzazione, la  qualità e il valore aggiunto dei prodotti della pesca e dell'acquacoltura e la trasformazione di questi prodotti",
+            "description": "Fondo Europeo per gli Affari Marittimi e l’Acquacoltura (FEAMPA), Bando dell'Obiettivo Specifico 2.2 - Regolamento (UE) n. 2021/1139. Domande dal 10 novembre 2025 al 16 gennaio 2026. Dotazione finanziaria pari a  € 2.660.796,00.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/pesca/promuovere-commercializzazione-qualit-valore-aggiunto-prodotti-pesca-acquacoltura-trasformazione-questi-prodotti-RLM12025049523",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-02 12:00",
+            "title": "Esperienze formative all'estero per studenti dei Percorsi IeFP ed IFTS della Lombardia - Anni Formativi 2025/2026 e 2026/2027",
+            "description": "Regione Lombardia sostiene progetti di mobilità internazionale, attraverso esperienze formative all’estero e il rafforzamento di reti di collaborazione e scambio tra Enti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/esperienze-formative-estero-studenti-percorsi-iefp-ed-ifts-lombardia-anni-formativi-2025-2026-2026-2027-RLW12025047803",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "N/A",
             "title": "Investimenti – Linea Microimprese 2025",
@@ -362,34 +386,10 @@
             }
         },
         {
-            "deadline": "2025-11-10 12:00",
-            "title": "Bando per corsi di formazione per \"Assistente all'autonomia e alla comunicazione\"",
-            "description": "Bando per la selezione di progetti mirati al conseguimento della qualifica professionale di \"Assistente all'autonomia ed alla comunicazione personale degli alunni e degli studenti con disabilità\" (ASACOM), con percorsi formativi standard (600 ore) e ridotti (300 ore).",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/bando-corsi-formazione-assistente-autonomia-comunicazione-RLW12025049343",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-12-22 16:00",
             "title": "Ri.Circo.Lo.  per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare. Edizione dedicata alla prevenzione e riciclaggio dei rifiuti alimentari",
             "description": "La misura Ri.Circo.Lo., edizione dedicata alla prevenzione e riciclaggio dei rifiuti alimentari, in attuazione dell’azione 2.6.2 del PR FESR 2021 – 27, promuove azioni di economia circolare da parte delle PMI lombarde, attraverso l’erogazione di finanziamenti pubblici nella forma di contributo a fondo perduto, al fine di agire in più ambiti della filiera alimentare, prevenendo i residui di produzione, sviluppando modifiche migliorative alle linee produttive e favorendo progetti che riducano la quantità degli sprechi alimentari e ne incrementino il riciclaggio, in coerenza con le indicazioni del vigente Programma Regionale di Gestione dei Rifiuti e gli sviluppi dei lavori del tavolo “spreco alimentare” dell’Osservatorio regionale per il Clima, l’Economia Circolare e la Transizione Ecologica.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/prevenzione-riciclaggio-rifiuti-alimentari-RLT12025048723",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-10 12:00",
-            "title": "AVVISO PER L’EROGAZIONE DI 10 PREMI ECONOMICI INDIVIDUALI DA ASSEGNARE A TESI DELLE SCUOLE DI SPECIALIZZAZIONE DI AREA VETERINARIA AFFERENTI ALL’UNIVERSITÀ DEGLI STUDI DI MILANO (UNIMI)",
-            "description": "Regione Lombardia, in collaborazione con l’Università deli Studi di Milano (UNIMI), istituisce n. 10 premi economici individuali dell’importo di € 5.000,00 lordi ciascuno, riservati alle tesi delle scuole di specializzazione di area veterinaria valutate secondo criteri afferenti al pregio scientifico dei contenuti e agli aspetti innovativi.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/avviso-l-erogazione-10-premi-economici-individuali-assegnare-tesi-scuole-specializzazione-area-veterinaria-afferenti-universit-studi-milano-unimi-RLG12025049663",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -2838,18 +2838,6 @@
             "title": "Avviso per l'accesso al Fondo di Garanzia per le imprese che operano nel campo dello spettacolo",
             "description": "Il Fondo di Garanzia, istituito dall'art.6 della legge regionale del 30 luglio 2008 n. 21, è finalizzato a favorire l'accesso al credito delle imprese che operano nel settore dello spettacolo. E' gestito da Finlombarda S.p.A. che interviene mediante la concessione di garanzie a fronte di finanziamenti erogati dagli Istituti di credito aderenti",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/avviso-l-accesso-fondo-garanzia-imprese-che-operano-campo-spettacolo-RLL12020011887",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Promuovere la commercializzazione, la  qualità e il valore aggiunto dei prodotti della pesca e dell'acquacoltura e la trasformazione di questi prodotti",
-            "description": "Fondo Europeo per gli Affari Marittimi e l’Acquacoltura (FEAMPA), Bando dell'Obiettivo Specifico 2.2 - Regolamento (UE) n. 2021/1139. Domande dal 10 novembre 2025 al 16 gennaio 2026. Dotazione finanziaria pari a  € 2.660.796,00.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/pesca/promuovere-commercializzazione-qualit-valore-aggiunto-prodotti-pesca-acquacoltura-trasformazione-questi-prodotti-RLM12025049523",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
