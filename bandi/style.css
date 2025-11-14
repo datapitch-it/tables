@@ -88,7 +88,12 @@
         }
         /* --- End Placeholder Effect CSS --- */
 
-        /* unvisited link */
+        /* Style for outdated scraping dates */
+.outdated-date {
+    color: red;
+}
+
+/* unvisited link */
 a:link {
   color: #0d6efa;
 }

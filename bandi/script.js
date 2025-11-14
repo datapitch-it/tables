@@ -357,10 +357,69 @@ function attachReadMoreListeners() {
     });
 }
 
-// Function to display the scraping timestamps
+// Function to display the scraping timestamps with date comparison and styling
 function displayScrapingTimestamps() {
-    let timestampText = `Scraping Date | Arter: ${scrapingTimestamps.arter || 'N/A'} | INPA: ${scrapingTimestamps.inpa || 'N/A'} | Euportal: ${scrapingTimestamps.euportal || 'N/A'} | Eucall: ${scrapingTimestamps.eucall || 'N/A'} | EUGrants&Tenders: ${scrapingTimestamps.eugrants || 'N/A'} | Onepass: ${scrapingTimestamps.onepass || 'N/A'} | Journalism: ${scrapingTimestamps.journalism || 'N/A'} | Lombardia: ${scrapingTimestamps.lombardia || 'N/A'} | EuroAccess: ${scrapingTimestamps.euroaccess || 'N/A'} | Obiettivo Europa: ${scrapingTimestamps.obiettivoeuropa || 'N/A'} | Incentivi.gov.it: ${scrapingTimestamps.incentivigov || 'N/A'}`;
-    document.getElementById('scrapingTimestamps').textContent = timestampText;
+    const scrapingTimestampsElement = document.getElementById('scrapingTimestamps');
+    let timestampParts = [];
+    let dates = []; // To store parsed dates for comparison
+
+    // Collect all valid dates and their corresponding source names
+    for (const source in scrapingTimestamps) {
+        const timestamp = scrapingTimestamps[source];
+        if (timestamp && timestamp !== 'N/A') {
+            // Extract only the date part (YYYY-MM-DD)
+            const datePart = timestamp.split(' ')[0];
+            dates.push({ source: source, date: new Date(datePart), original: timestamp });
+        }
+    }
+
+    // Find the maximum date among all valid dates
+    let maxDate = null;
+    if (dates.length > 0) {
+        maxDate = new Date(Math.max.apply(null, dates.map(d => d.date)));
+        maxDate.setHours(0, 0, 0, 0); // Normalize to start of day
+    }
+
+    // Build the HTML string with conditional styling
+    let htmlString = `Scraping Date | `;
+    const sourceOrder = ['arter', 'inpa', 'euportal', 'eucall', 'eugrants', 'onepass', 'journalism', 'lombardia', 'euroaccess', 'obiettivoeuropa', 'incentivigov'];
+
+    sourceOrder.forEach(source => {
+        const timestamp = scrapingTimestamps[source] || 'N/A';
+        let formattedTimestamp = timestamp;
+        let isOutdated = false;
+
+        if (timestamp === 'N/A') {
+            isOutdated = true;
+        } else {
+            const datePart = timestamp.split(' ')[0];
+            const currentDate = new Date(datePart);
+            currentDate.setHours(0, 0, 0, 0); // Normalize to start of day
+
+            if (maxDate && currentDate < maxDate) {
+                isOutdated = true;
+            }
+        }
+
+        if (isOutdated) {
+            formattedTimestamp = `<span class="outdated-date">${formattedTimestamp}</span>`;
+        }
+        
+        // Capitalize the first letter of the source name for display, except for EUGrants&Tenders and Incentivi.gov.it
+        let displaySource = source;
+        if (source === 'eugrants') {
+            displaySource = 'EUGrants&Tenders';
+        } else if (source === 'incentivigov') {
+            displaySource = 'Incentivi.gov.it';
+        } else {
+            displaySource = source.charAt(0).toUpperCase() + source.slice(1);
+        }
+
+        timestampParts.push(`${displaySource}: ${formattedTimestamp}`);
+    });
+
+    htmlString += timestampParts.join(' | ');
+    scrapingTimestampsElement.innerHTML = htmlString;
 }
 
 // Funzione per applicare l'ordinamento corrente e visualizzare gli item
