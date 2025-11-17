@@ -91,7 +91,7 @@ def compare_and_store_items(directory, pairs):
             total_new_items.extend(new_items_group)
 
             summary_line = "=" * 40
-            logging.info(f"n{summary_line}")
+            logging.info(f"{summary_line}")
             logging.info(f"Summary for pair {current_file} and {ieri_file}:")
             logging.info(f"Total items in current file: {len(current_dict)}")
             logging.info(f"Total items in ieri file: {len(ieri_dict)}")

@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-14 05:14:36",
+    "scraping_timestamp": "2025-11-17 05:31:13",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -821,15 +821,6 @@
             }
         },
         {
-            "deadline": "2025-11-14",
-            "title": "Practical career orientation for low-skilled employees to enter in-demand occupational fields in Vienna and promote non-stereotypical career choices",
-            "description": "The European Social Fund plus (ESF+) finances a measure to achieve the Specific Objective ESO4.8 \"Promote active inclusion with a view to improving equal opportunities, non-discrimination and active participation and increasing employability, in particular of disadvantaged groups\" via the Vienna Workers' Promotion Fund as the ESF+ Intermediary Body for Vienna as part of the \"ESF+ Program Employment Austria & JTF 2021 - 2027\" (CCI 2021AT05FFPR001) in Priority 6 \"Social Innovation\".",
-            "link": "https://www.euro-access.eu/en/calls/2396/Practical-career-orientation-for-low-skilled-employees-to-enter-in-demand-occupational-fields-in-Vienna-and-promote-non-stereotypical-career-choices",
-            "custom": {
-                "Funding Program": "European Social Fund+"
-            }
-        },
-        {
             "deadline": "2025-12-03",
             "title": "TV and online content Documentary projects - 1st cut-off date",
             "description": "The objective of the support to TV and online content is the production of innovative and quality TV content and serial storytelling, addressing diverse audiences, by European independent production companies.",
@@ -1268,6 +1259,51 @@
             "link": "https://www.euro-access.eu/en/calls/2447/ELEVATE-European-League-of-Advanced-Digital-Skills-Academies",
             "custom": {
                 "Funding Program": "Digital Europe"
+            }
+        },
+        {
+            "deadline": "2026-02-12",
+            "title": "Erasmus Mundus Design Measures",
+            "description": "The main objective of the Erasmus Mundus Design Measures is to encourage the development of innovative, highly integrated new international study programmes at Master level.",
+            "link": "https://www.euro-access.eu/en/calls/2452/Erasmus-Mundus-Design-Measures",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-01-23",
+            "title": "Interreg SI-HU: 2nd open call for standard projects",
+            "description": "The Interreg programme Slovenia-Hungary is a European Union funding programme that supports crossborder cooperation. The vision of the cross-border programme is to contribute to an active and cooperating border/programme region aware of its environmental, natural and cultural values, through promoting sustainable utilisation, preservation and exploitation for tourism purposes, setting up a well identifiable and attractive green tourism destination.",
+            "link": "https://www.euro-access.eu/en/calls/2448/Interreg-SI-HU-2nd-open-call-for-standard-projects",
+            "custom": {
+                "Funding Program": "Interreg Slovenia-Hungary"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Interreg Mecklenburg-Vorpommern / Brandenburg / Poland: 7th Call Small-scale projects",
+            "description": "The cooperation program Interreg VI A Mecklenburg-Vorpommern / Brandenburg / Poland 2021-2027 has published a new call for small-scale projects in priorities 1-3.",
+            "link": "https://www.euro-access.eu/en/calls/2449/Interreg-Mecklenburg-Vorpommern-Brandenburg-Poland-7th-Call-Small-scale-projects",
+            "custom": {
+                "Funding Program": "Interreg Mecklenburg-Vorpommern- Brandenburg- Poland"
+            }
+        },
+        {
+            "deadline": "2026-01-19",
+            "title": "Catalyse NEB - Open Call 2026",
+            "description": "N/A",
+            "link": "https://www.euro-access.eu/en/calls/2450/Catalyse-NEB-Open-Call-2026",
+            "custom": {
+                "Funding Program": "European Institute of Innovation and Technology"
+            }
+        },
+        {
+            "deadline": "2026-01-22",
+            "title": "Large scale not-for-profit European sport event",
+            "description": "Large-scale European sport events aim to reach a very high impact and implement follow up activities to ensure legacy in terms of societal benefits and promotion of inclusion through sport.",
+            "link": "https://www.euro-access.eu/en/calls/2451/Large-scale-not-for-profit-European-sport-event",
+            "custom": {
+                "Funding Program": "Erasmus+ - Sport Actions"
             }
         }
     ]

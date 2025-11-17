@@ -1,78 +1,6 @@
 {
-    "scraping_timestamp": "2025-11-12 06:22:30",
+    "scraping_timestamp": "2025-11-14 05:10:56",
     "data": [
-        {
-            "deadline": "2025-11-12",
-            "title": "Sicurezza civile per la società: pubblicato il bando ECCC 2025 di Horizon Europe",
-            "description": "Il bando HORIZON-CL3-2025-02-CS-ECCC è pubblicato nel Work Programme Sicurezza Civile per la Società 2025 di Horizon Europe e contiene 6 topic dedicati all'European Cybersecurity Competence Center",
-            "link": "https://first.art-er.it/news/horizon-europe-aperta-call-sicurezza-civile-eccc-2025",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 90.550.000"
-            }
-        },
-        {
-            "deadline": "2025-11-12",
-            "title": "Sicurezza civile per la società: pubblicato il bando 2025 di Horizon Europe",
-            "description": "Il bando HORIZON-CL3-2025-01 è pubblicato nel Work Programme Sicurezza civile per la società 2025 di Horizon Europe e contiene 19 topic",
-            "link": "https://first.art-er.it/news/horizon-europe-aperta-la-call-sicurezza-civile-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 156.000.000"
-            }
-        },
-        {
-            "deadline": "2025-11-12",
-            "title": "New European Bauhaus Facility: il bando 2025 di Horizon Europe",
-            "description": "Il bando \"A research agenda for a beautiful, inclusive and sustainable transformation of neighbourhoods\" finanzia sia progetti che dimostrano soluzioni innovative sia attività di ricerca fondamentale",
-            "link": "https://first.art-er.it/news/new-european-bauhaus-facility-call-2025-di-heu",
-            "custom": {
-                "Topics": "NEB - New European Bauhaus",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 118.68 milioni"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "Water4All: aperto il nuovo bando “Acqua e Salute\"",
-            "description": "Il MUR stanzia 2 milioni di euro per sostenere la partecipazione italiana al bando",
-            "link": "https://first.art-er.it/news/ricerca-idrica-238-milioni-progetti-transnazionali-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 23.800.000"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "I3: pubblicato un nuovo bando per progetti di innovazione interregionale",
-            "description": "L'obiettivo è sostenere gli ecosistemi di innovazione delle regioni europee meno sviluppate",
-            "link": "https://first.art-er.it/news/innovazione-regionale-aperto-nuovo-bando-i3-0",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 23.000.000 - Strand 1€ 24.000.000 - Strand 2a"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "EIT Food: in partenza nuovi bandi per azioni d'impatto sul sistema alimentare",
-            "description": "I bandi a disposizione riguardano il programma per missioni collaborative e quello per opportunità di cofinanziamento per singoli progetti",
-            "link": "https://first.art-er.it/news/eit-food-bandi-azioni-dimpatto",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "tra € 250.000 e € 750.000 per proposta all'anno € 30.000.000 complessivi per i progetti singoli"
-            }
-        },
         {
             "deadline": "2025-11-14",
             "title": "Progetto I3-4-Biofertilizers: al via la call per l’agricoltura sostenibile",
@@ -124,7 +52,7 @@
         {
             "deadline": "2025-11-17",
             "title": "EIT Food: al via la Biotech Innovation Call per soluzioni sostenibili e ad alto impatto nel settore agroalimentare",
-            "description": "Aperta fino al 17 novembre 2025, la call finanzia progetti che riducono consumi energetici e sviluppano tecnologie di controllo in tempo reale",
+            "description": "Ancora aperta fino al 17 novembre 2025, la call finanzia progetti che riducono consumi energetici e sviluppano tecnologie di controllo in tempo reale",
             "link": "https://first.art-er.it/news/eit-food-lancia-la-biotech-innovation-call-2025",
             "custom": {
                 "Topics": "",
@@ -148,7 +76,7 @@
         {
             "deadline": "2025-11-17",
             "title": "SBEP: lanciato il terzo bando congiunto per la blue economy sostenibile",
-            "description": "Dal 15 settembre è aperto il bando su innovazione, sostenibilità e inclusione per mari e comunità costiere",
+            "description": "Ultimi giorni per partecipare al bando su innovazione, sostenibilità e inclusione per mari e comunità costiere",
             "link": "https://first.art-er.it/news/economia-blu-terzo-bando-europeo-ri",
             "custom": {
                 "Topics": "Blue Economy",
@@ -806,6 +734,18 @@
             }
         },
         {
+            "deadline": "2026-01-27",
+            "title": "Trials4Health: nuovo bando europeo per studi clinici multi-paese su malattie cardiovascolari, metaboliche e autoimmuni",
+            "description": "Il bando della partnership europea ERA4Health finanzia studi clinici randomizzati pragmatici e progetti di riposizionamento di farmaci",
+            "link": "https://first.art-er.it/news/trials4health-nuovo-bando-studi-clinici",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 32.190.000"
+            }
+        },
+        {
             "deadline": "2026-01-30",
             "title": "ECHOES: pubblicato il bando dedicato alle istituzioni culturali europee che investono nel digitale",
             "description": "L'open call del programma ECHOES, aperta dall'11 novembre 2025 al 30 gennaio 2026, intende sostenere la digitalizzazione del patrimonio culturale europeo",
@@ -1131,6 +1071,18 @@
         },
         {
             "deadline": "2026-06-30",
+            "title": "In arrivo il bando JTC 2026 a sostegno della ricerca europea per un accesso equo alle cure",
+            "description": "Il programma sostiene ricerca e innovazione per ridurre le disuguaglianze sanitarie e promuovere sistemi di cura sostenibili",
+            "link": "https://first.art-er.it/news/al-il-bando-jtc-2026-laccesso-alle-cure",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-06-30",
             "title": "Aperta la Call EEN2EIC per il supporto alle PMI sull’Investment Readiness",
             "description": "Il bando mira a selezionare organizzazioni EEN per fornire servizi di awareness e supporto sull’Investment Readiness alle PMI europee",
             "link": "https://first.art-er.it/news/een2eic-call-il-supporto-sullinvestment-readiness",
@@ -1151,6 +1103,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-11-25",
+            "title": "Aperto il nuovo bando STEP Scale Up dello European Innovation Council",
+            "description": "Investimenti tra 10 e 30 milioni di euro per scale-up deep-tech europee",
+            "link": "https://first.art-er.it/news/eic-step-scale",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 300.000.000"
+            }
+        },
+        {
+            "deadline": "2026-12-17",
+            "title": "EIC Accelerator 2026: sostegno a start-up e piccole e medie imprese innovative",
+            "description": "Fino al 17 dicembre 2026, le PMI e le start-up possono candidarsi al bando per sviluppare tecnologie ad alto impatto e scalare nuovi mercati",
+            "link": "https://first.art-er.it/news/eic-accelerator-2026-start-e-pmi-innovative",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "634 milioni €"
             }
         },
         {
@@ -1427,18 +1403,6 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "A sportello",
                 "Stanziamento": "€ 470.000.000"
-            }
-        },
-        {
-            "deadline": "",
-            "title": "MIMIT - Transizione 5.0",
-            "description": "Il Piano Transizione 5.0 vuole favorire la trasformazione dei processi produttivi delle imprese, rispondendo alle sfide della transizione digitale ed energetica",
-            "link": "https://first.art-er.it/news/mimit-transizione-50",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "N/A"
             }
         },
         {

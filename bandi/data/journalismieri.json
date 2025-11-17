@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-12 06:26:15",
+    "scraping_timestamp": "2025-11-14 05:15:10",
     "data": [
         {
             "deadline": "2025-11-24",
@@ -35,18 +35,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€3,800 stipend"
-            }
-        },
-        {
-            "deadline": "2025-11-07",
-            "title": "International Mobility Grants",
-            "description": "House of Europe",
-            "link": "https://gfmd.info/fundings/international-mobility-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to €4,000"
             }
         },
         {
@@ -107,30 +95,6 @@
                 "Area Classification": "Asia, Pacific, and Oceania",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Project-based funding"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "FPD Low Countries",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/fpd-low-countries/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€80,000"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "Pascal Decroos Fund",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/pascal-decroos-fund-2/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€320,000"
             }
         },
         {
@@ -239,18 +203,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "$3 million"
-            }
-        },
-        {
-            "deadline": "2025-11-13",
-            "title": "Pascal Decroos Fund for Investigative Journalism",
-            "description": "Journalismfund Europe",
-            "link": "https://gfmd.info/fundings/pascal-decroos-fund-for-investigative-journalism-2/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€80,000 allocated per round."
             }
         },
         {
