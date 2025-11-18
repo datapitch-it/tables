@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-17 05:31:13",
+    "scraping_timestamp": "2025-11-18 06:06:50",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -524,15 +524,6 @@
             }
         },
         {
-            "deadline": "2025-11-17",
-            "title": "DUT Call 2025",
-            "description": "The aim of this call for proposals is to support transnational research and/or innovation projects that help cities tackle urban challenges and transition towards a climate neutral and resilient future for all. Projects should contribute to one or more of our three thematic areas, the Transition Pathways: 15-minute City, Circular Urban Economies and Positive Energy Districts.",
-            "link": "https://www.euro-access.eu/en/calls/2357/DUT-Call-2025",
-            "custom": {
-                "Funding Program": "Driving Urban Transitions Partnership (DUT)"
-            }
-        },
-        {
             "deadline": "2025-12-04",
             "title": "Call for proposals to support the development of innovative medical countermeasures for chemical, biological, radiological and nuclear threats (HERA) - Detection and diagnosis",
             "description": "The objective is to improve the Union’s readiness to respond to intentional health threats, including cross-border ones, by supporting the development of medical countermeasures to biological, chemical and radio-nuclear agents for which there currently are no or only limited treatment options.",
@@ -863,15 +854,6 @@
             "link": "https://www.euro-access.eu/en/calls/2403/Interreg-Northern-Periphery-and-Arctic-6th-call-for-small-scale-capacity-building-projects",
             "custom": {
                 "Funding Program": "Interreg Northern Periphery and Arctic"
-            }
-        },
-        {
-            "deadline": "2025-11-17",
-            "title": "Biotech Innovation Call",
-            "description": "N/A",
-            "link": "https://www.euro-access.eu/en/calls/2404/Biotech-Innovation-Call",
-            "custom": {
-                "Funding Program": "European Institute of Innovation and Technology"
             }
         },
         {

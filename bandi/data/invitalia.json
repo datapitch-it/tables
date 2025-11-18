@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-17 05:31:52",
+    "scraping_timestamp": "2025-11-18 06:07:14",
     "data": [
         {
             "deadline": "N/A",
@@ -506,18 +506,6 @@
             }
         },
         {
-            "deadline": "N/A",
-            "title": "Contratto di sviluppo",
-            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2017-03-03",
             "title": "Finanziamenti a vittime di mancati pagamenti",
             "description": "Sostengono le PMI e i professionisti a fronte della mancata riscossione dei pagamenti",
@@ -653,7 +641,7 @@
             "deadline": "N/A",
             "title": "Albi fornitori Invitalia",
             "description": "L'albo per favorire economicità e rapidità nell’affidamento degli incarichi e selezionare fornitori affidabili e qualificati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/albi-fornitori-invitalia?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/albi-fornitori-invitalia",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -786,6 +774,18 @@
             "title": "Fondo impresa femminile",
             "description": "L’incentivo per le imprese guidate da donne",
             "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2022-11-23",
+            "title": "Confidi",
+            "description": "Garanzie agevolate e finanziamenti agevolati da parte dei confidi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1226,6 +1226,18 @@
             }
         },
         {
+            "deadline": "2022-11-16",
+            "title": "Concerie",
+            "description": "L’incentivo per l’industria e la filiera del settore conciario",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/concerie",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2024-03-02",
             "title": "Rilancio PMI Cratere Sismico",
             "description": "L'incentivo volto a sostenere le PMI danneggiate dal sisma del 2016 e del 2017",
@@ -1350,18 +1362,6 @@
             "title": "Cultura Crea",
             "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
             "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2024-12-31",
-            "title": "Tessile, Moda e Accessori",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",

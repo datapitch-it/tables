@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-11-14 05:15:10",
+    "scraping_timestamp": "2025-11-17 05:31:57",
     "data": [
+        {
+            "deadline": "2025-12-04",
+            "title": "LatAm Climate Culture Story Grant",
+            "description": "Syli",
+            "link": "https://gfmd.info/fundings/latam-climate-culture-story-grant/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Latin America and the Caribbean",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "USD 2,000"
+            }
+        },
+        {
+            "deadline": "2025-12-03",
+            "title": "JournalismAI Innovation Challenge",
+            "description": "JournalismAI",
+            "link": "https://gfmd.info/fundings/journalismai-innovation-challenge-2/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to USD 100,000"
+            }
+        },
         {
             "deadline": "2025-11-24",
             "title": "Media Grants for 30×30 Marine Conservation Coverage (2026)",
@@ -23,30 +47,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€6.9 million."
-            }
-        },
-        {
-            "deadline": "2025-11-15",
-            "title": "The German-Northern European Programme",
-            "description": "International Journalists’ Programmes",
-            "link": "https://gfmd.info/fundings/the-german-northern-european-programme/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€3,800 stipend"
-            }
-        },
-        {
-            "deadline": "2025-11-17",
-            "title": "HEAL Fellowship (2025)",
-            "description": "Solutions Journalism Network (SJN)",
-            "link": "https://gfmd.info/fundings/heal-fellowship-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "North America",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to $5,000,"
             }
         },
         {
