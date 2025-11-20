@@ -1,6 +1,54 @@
 {
-    "scraping_timestamp": "2025-11-18 06:07:17",
+    "scraping_timestamp": "2025-11-19 08:55:57",
     "data": [
+        {
+            "deadline": "2026-02-04",
+            "title": "Journalism Partnerships – Collaborations (2026)",
+            "description": "European Commission",
+            "link": "https://gfmd.info/fundings/journalism-partnerships-collaborations-2026/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€2 million."
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "AI Reporting Grants",
+            "description": "Pulitzer Center",
+            "link": "https://gfmd.info/fundings/ai-reporting-grants/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Funding covers hard reporting costs"
+            }
+        },
+        {
+            "deadline": "2025-12-10",
+            "title": "Content Production Fund",
+            "description": "Balkan Investigative Reporting Network (BIRN)",
+            "link": "https://gfmd.info/fundings/content-production-fund/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "up to €60,000."
+            }
+        },
+        {
+            "deadline": "Invalid Date",
+            "title": "Tech Journalism Fund",
+            "description": "Omidyar Network",
+            "link": "https://gfmd.info/fundings/tech-journalism-fund/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "North America",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "Up to to $25,000."
+            }
+        },
         {
             "deadline": "2025-12-04",
             "title": "LatAm Climate Culture Story Grant",

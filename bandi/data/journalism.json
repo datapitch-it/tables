@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-11-19 08:55:57",
+    "scraping_timestamp": "2025-11-20 06:55:45",
     "data": [
+        {
+            "deadline": "Invalid Date",
+            "title": "Democracy x AI Cohort",
+            "description": "Mozilla",
+            "link": "https://gfmd.info/fundings/democracy-x-ai-cohort/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "$1,000,000 globally."
+            }
+        },
+        {
+            "deadline": "2025-11-25",
+            "title": "AI Journalism Innovation Fellowship",
+            "description": "Deutsche Welle Akademie",
+            "link": "https://gfmd.info/fundings/ai-journalism-innovation-fellowship/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Sub-Saharan Africa",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€4,000"
+            }
+        },
         {
             "deadline": "2026-02-04",
             "title": "Journalism Partnerships – Collaborations (2026)",

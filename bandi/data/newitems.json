@@ -1,67 +1,39 @@
 {
-    "scraping_timestamp": "2025-11-19 08:59:48",
+    "scraping_timestamp": "2025-11-20 06:59:28",
     "data": [
         {
-            "deadline": "2026-02-04",
-            "title": "Journalism Partnerships – Collaborations (2026)",
-            "description": "European Commission",
-            "link": "https://gfmd.info/fundings/journalism-partnerships-collaborations-2026/",
+            "deadline": "Invalid Date",
+            "title": "Democracy x AI Cohort",
+            "description": "Mozilla",
+            "link": "https://gfmd.info/fundings/democracy-x-ai-cohort/",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "Global (working in 2 or more regions)",
                     "Tipologia Scadenza": "Open",
-                    "Stanziamento": "€2 million."
+                    "Stanziamento": "$1,000,000 globally."
                 }
             }
         },
         {
-            "deadline": "Invalid Date",
-            "title": "AI Reporting Grants",
-            "description": "Pulitzer Center",
-            "link": "https://gfmd.info/fundings/ai-reporting-grants/",
+            "deadline": "2025-11-25",
+            "title": "AI Journalism Innovation Fellowship",
+            "description": "Deutsche Welle Akademie",
+            "link": "https://gfmd.info/fundings/ai-journalism-innovation-fellowship/",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "Global (working in 2 or more regions)",
+                    "Area Classification": "Sub-Saharan Africa",
                     "Tipologia Scadenza": "Open",
-                    "Stanziamento": "Funding covers hard reporting costs"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "Content Production Fund",
-            "description": "Balkan Investigative Reporting Network (BIRN)",
-            "link": "https://gfmd.info/fundings/content-production-fund/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "up to €60,000."
-                }
-            }
-        },
-        {
-            "deadline": "Invalid Date",
-            "title": "Tech Journalism Fund",
-            "description": "Omidyar Network",
-            "link": "https://gfmd.info/fundings/tech-journalism-fund/",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "North America",
-                    "Tipologia Scadenza": "Open",
-                    "Stanziamento": "Up to to $25,000."
+                    "Stanziamento": "€4,000"
                 }
             }
         },
         {
             "deadline": "N/A",
-            "title": "Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agromeccaniche – Terza apertura anno 2025",
-            "description": "Dotazione finanziaria di € 1.185.883,77. Presentazione domande dal 2 dicembre 2025 al 2 febbraio 2026. Possono partecipare:  imprese agromeccaniche, costituite in forma di micro, piccole e medie imprese secondo la definizione dalla Raccomandazione Commissione Europea 2003/361/CE, recepita con il DM del 18 aprile 2005.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/azione-regionale-volta-riduzione-emissioni-prodotte-attivit-agromeccaniche-terza-apertura-anno-2025-RLM12025050723",
+            "title": "Percorsi Personalizzati per allievi con Disabilità (PPD) nei corsi di IeFP I - II - III anno - a.f. 2025/2026",
+            "description": "Il bando promuove percorsi formativi inclusivi, per favorire l’apprendimento e l’inserimento professionale di studenti con disabilità, iscritti al 1°, 2° e 3° anno dei corsi di Istruzione e Formazione Professionale (IeFP) nell’anno formativo 2025/26.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/percorsi-personalizzati-allievi-disabilit-ppd-corsi-iefp-ii-iii-anno-f-2025-2026-RLW12025047723",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -72,10 +44,10 @@
             }
         },
         {
-            "deadline": "2025-11-30",
-            "title": "Procedura selettiva comparativa per individuare musicisti professionisti esterni e tecnico esperto esterno da contrattualizzare secondo necessità di produzioni artistiche per Orchestra e/o Big Band e/o ensemble vari del Conservatorio Toscanini di Ribera",
-            "description": "<p>Procedura selettiva comparativa per individuare musicisti professionisti esterni e tecnico esperto esterno da contrattualizzare secondo necessità di produzioni artistiche per Orchestra e/o Big Band e/o ensemble vari del Conservatorio A. Toscanini.</p>\n<h3>ORCHESTRA DEL CONSERVATORIO A. TOSCANINI DI RIBERA</h3>\n<ul>\n <li>FLAUTI (con obbligo dell’OTTAVINO)</li>\n <li>OBOI (con obbligo del CORNO INGLESE)</li>\n <li>CLARINETTI</li>\n <li>FAGOTTI</li>\n <li>CORNI</li>\n <li>TROMBE</li>\n <li>TROMBONI</li>\n <li>TUBA</li>\n <li>ARPA</li>\n <li>VIOLINI</li>\n <li>VIOLE</li>\n <li>VIOLONCELLI</li>\n <li>CONTRABBASSI</li>\n</ul>\n<h3>BIG BAND DEL CONSERVATORIO A. TOSCANINI DI RIBERA</h3>\n<ul>\n <li>SASSOFONO SOPRANO</li>\n <li>SASSOFONO CONTRALTO</li>\n <li>SASSOFONO TENORE</li>\n <li>TROMBONE</li>\n <li>BATTERIA</li>\n <li>BASSO ELETTRICO</li>\n</ul>\n<h3>GRAFICO PER REALIZZAZIONE STAGE PLAN</h3>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=62cab3392ff049bc9ac3642a8bdba5cb",
+            "deadline": "2025-11-26",
+            "title": "RIAPERTURA TERMINI Avviso pubblico, soli titoli, per la formulazione di una graduatoria per assunzioni a tempo determinato nel profilo professionale di Dirigente Medico Anatomia Patologica – Ai sensi degli art. 36 D.Lgs. 165/2001 ed art. 4 comma 4 del DL 215/2023",
+            "description": "<p>È stata disposta la riapertura dei termini dell’Avviso pubblico, per soli titoli, per la formulazione di una graduatoria per assunzioni a tempo determinato nel profilo di Dirigente Medico in&nbsp; Anatomia Patologica - Ai sensi degli art. 36 D.Lgs. 165/2001 ed art. 2-ter D.L. 18/2020 e ss.mm.ii.</p>\n<p><strong>Tutti i requisiti prescritti,</strong>&nbsp;compresa la dichiarazione di equivalenza dell’eventuale titolo di studio conseguito all’estero o la dichiarazione di avvio della richiesta di equivalenza,&nbsp;<strong>devono essere posseduti alla data di&nbsp;scadenza del bando.</strong></p>\n<p><strong>Le candidature potranno essere presentate da giovedì 20 novembre 2025 fino alle ore 23:59 di mercoledì 26 novembre 2025</strong></p>\n<p>Per partecipare al concorso è necessario registrarsi, con i propri dati anagrafici, sul sito&nbsp;<a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a>&nbsp;(a cui rimanda la procedura pubblicata sul portale Inpa)&nbsp;selezionare la procedura d’interesse e compilare, in ogni sua parte, il form online.</p>\n<p>Si invitano, altresì, i candidati che vogliano integrare o/e modificare e/o aggiornare la propria istanza di partecipazione ad utilizzare ESCLUSIVAMENTE il seguente link&nbsp;<a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a> e selezionare “Avviso pubblico, per soli titoli, per la formulazione di una graduatoria per assunzioni a tempo determinato nel profilo di Dirigente Medico” nella disciplina di interesse. In caso contrario, sono fatte salve le istanze già presentate utilizzando il precedente format. Per ulteriori informazioni, si prega di scrivere all’indirizzo mail tempodeterminato@asptrapani.it</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e2b40a664d174a5ca30d0b82b68b7ffb",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -86,10 +58,10 @@
             }
         },
         {
-            "deadline": "2025-12-07",
-            "title": "Avviso pubblico per la ricerca di n. 1 unità competente in materia di sanità digitale, cui conferire incarico di collaborazione con contratto di lavoro autonomo, fino al 31 dicembre 2026",
-            "description": "<p><strong><span style=\"font-family: 'Times New Roman',serif;\">Avviso pubblico per la ricerca di n. 1 unità competente in materia di sanità digitale, cui conferire incarico di collaborazione con contratto di lavoro autonomo, fino al 31 dicembre 2026, ai sensi dell’art. 7, comma 6 del decreto legislativo 30 marzo 2001, n. 165, da destinare al supporto nell’attività di progettazione esecutiva della nuova Agenzia per la Sanità Digitale (ASD),</span></strong> <strong><span style=\"font-family: 'Times New Roman',serif;\">nell’ambito della Convenzione stipulata tra il Dipartimento per la trasformazione digitale della Presidenza del Consiglio dei Ministri ed Agenas.</span></strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7b57c4a90ccf4829a7c69db16b820a31",
+            "deadline": "2025-12-08",
+            "title": "Avviso pubblico per la ricerca di n. 1 esperto in economia sanitaria, cui conferire il contratto di lavoro autonomo, fino al 31 dicembre 2026",
+            "description": "<p><strong><span style=\"font-family: 'Times New Roman',serif;\">Avviso pubblico per la ricerca di n. 1 esperto in economia sanitaria, cui conferire il contratto di lavoro autonomo, fino al 31 dicembre 2026, ai sensi dell’art. 7 comma 6 del decreto legislativo 30 marzo 2001, n. 165, da destinare al supporto delle attività previste nel piano operativo della Convenzione stipulata tra il Dipartimento per la trasformazione digitale della Presidenza del Consiglio dei Ministri ed Agenas.</span></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ffca83606581497788a6fcc2c58d027c",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -100,518 +72,10 @@
             }
         },
         {
-            "deadline": "2025-12-03",
-            "title": "SELEZIONE PUBBLICA PER TITOLI FINALIZZATA ALL’INDIVIDUAZIONE DI UN ADDETTO ALL’UFFICIO STAMPA E ALLA COMUNICAZIONE",
-            "description": "<p><span>È </span>indetta presso l’Accademia di Bologna una procedura selettivo-comparativa pubblica&nbsp;<strong>per soli titoli</strong> finalizzata all’individuazione di un esperto <em>Addetto all’Ufficio stampa e alla comunicazione</em> con conseguente stipulazione di un contratto di collaborazione.</p>\n<p>Per l’ammissione alla selezione i candidati devono possedere i seguenti requisiti:</p>\n<p>a) cittadinanza italiana o cittadinanza di uno degli Stati membri dell'Unione Europea o di Paesi terzi che si trovino nelle condizioni di cui all'art. 38, commi 1, 2 e 3-bis, del D. Lgs. 30/03/2001 n. 165;</p>\n<p>b)&nbsp;età non inferiore agli anni 18;</p>\n<p>c) godimento dei diritti civili e politici. I candidati stranieri devono godere dei diritti civili e politici anche negli Stati di appartenenza o provenienza;</p>\n<p>d) assenza di condanne penali passate in giudicato anche se beneficiate della non menzione; assenza di procedimenti penali in corso o di procedimenti amministrativi per l’applicazione di misure di sicurezza o di prevenzione;</p>\n<p>e) buona conoscenza della lingua inglese;</p>\n<p>f) assenza di situazioni di incompatibilità previste dalla normativa vigente;</p>\n<p>g) essere in possesso diploma accademico di I livello, diploma di laurea o titoli ad essi equiparati, nonché di titoli equipollenti conseguiti all’estero;</p>\n<p>h) iscrizione all’Albo nazionale dei giornalisti;</p>\n<p>i) esperienza almeno triennale nel settore dell’informazione e/o della comunicazione istituzionale.</p>\n<p>La domanda di partecipazione alla selezione dovrà essere presentata, a pena di esclusione, unicamente per via telematica utilizzando autenticandosi con il “Sistema pubblico d’identità digitale” (SPID) o con la “Carta d’identità elettronica” (CIE), ovvero la “Carta nazionale dei servizi” (CNS) mediante la compilazione del modello di candidatura presente sul portale “inPA” disponibile all’indirizzo <a href=\"https://www.inpa.gov.it\">https://www.inpa.gov.it</a>, previa registrazione sul portale stesso, entro il quindicesimo giorno decorrente (dies a quo non computatur) dalla data di pubblicazione del presente bando, ossia <strong>entro le ore 23.59 del 03/12/2025</strong>.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ec62692daa5b472480fbf3b351101b40",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE RIVOLTO AD ESPERTI IN LINGUA INGLESE ED INFORMATICA PER L'INDIVIDUAZIONE DEI COMPONENTI AGGIUNTI DELLA COMMISSIONE ESAMINATRICE DEL CONCORSO PUBBLICO PER LA COPERTURA DI N. 1 POSTO A TEMPO PARZIALE ED INDETERMINATO CON QUALIFICA DI FUNZIONARIO TECNICO CCNL 2022 COMPARTO FUNZIONI LOCALI",
-            "description": "<p>Avviso pubblico rivolto ad esperti di lingua inglese ed esperti informatici finalizzato alla individuazione dei componenti aggiunti della commissione esaminatrice del concorso pubblico per la copertura di 1 posto di Funzionario Tecnico a tempo indeterminato e parziale (18 ore settimanali).</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=14073863e6054b6e9f9113e01e5dd62e",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-03",
-            "title": "CENTRO PER IL LIBRO E LA LETTURA - Ricerca di n. 2 esperti in gestione, rendicontazione e controlli da destinarsi all'attuazione del Piano Nazionale d'Azione ai sensi dell’art. 2, comma 7, della legge n. 15/2020.",
-            "description": "<p>Ricerca di n. 2 esperti in gestione, rendicontazione e controlli da destinarsi all'attuazione del Piano Nazionale d'Azione ai sensi dell’art. 2, comma 7, della legge n. 15/2020.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=dde26e87086f40a2a51ea9be9d6f0305",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "AVVISO PUBBLICO DI PROCEDURA COMPARATIVA PER SOLI TITOLI PER URGENTE FORMAZIONE DI UNA GRADUATORIA DA UTILIZZARE PER L’EVENTUALE CONFERIMENTO DI INCARICHI IN REGIME LIBERO-PROFESSIONALE PER “FISIOTERAPISTA” DA DESTINARE ALLE STRUTTURE GESTITE DALL’AZIENDA SERVIZI ALLA PERSONA DEL FORLIVESE",
-            "description": "<p><strong><span style=\"mso-bidi-font-family: 'Arial Narrow'; mso-bidi-theme-font: minor-latin; mso-bidi-font-style: italic;\">SI RENDE NOTO</span></strong></p>\n<p>che questa Azienda Servizi alla Persona del Forlivese, in esecuzione della Determinazione del Responsabile del Servizio Risorse Umane Affari Generali, Pianificazione, Organizzazione e Controllo di gestione n.227<strong>&nbsp; </strong>del 13/11/2025, indice procedura comparativa pubblica per soli titoli per la formazione urgente di una graduatoria da utilizzare per l’eventuale conferimento di incarichi in regime libero professionale per “Fisioterapista”, da destinare alle proprie Strutture Residenziali. Si dà espressamente atto che il presente avviso viene pubblicato nel rispetto del principio di trasparenza dell’azione amministrativa, fermo restando il carattere fiduciario degli incarichi di natura libero-professionale eventualmente conferiti.</p>\n<p><strong><span style=\"mso-bidi-font-family: 'Arial Narrow'; mso-bidi-theme-font: minor-latin; mso-bidi-font-style: italic;\">OGGETTO E NATURA DELL’INCARICO&nbsp;</span></strong></p>\n<p><span style=\"mso-bidi-font-family: 'Arial Narrow'; mso-bidi-theme-font: minor-latin; mso-bidi-font-weight: bold; mso-bidi-font-style: italic;\">L’incarico conferito è finalizzato all’erogazione di attività fisioterapiche presso i Servizi gestiti presso le Strutture di ASP del Forlivese: C.R.A. “P. ARTUSI” – FORLIMPOPOLI; C.R.A. “O.P. SPEDALE G. ZAULI DA MONTEPOLO” – DOVADOLA; C.R.A. “O.P. PICCININI” – PREDAPPIO; C.R.A. “C.S. L. GIOVANNINI-MIGNANI E G. BACCARINI” – CASTROCARO TERME E TERRA DEL SOLE; C.R.A. “VILLA DEL PENSIONATO” – ROCCA SAN CASCIANO. L’incarico ha natura di prestazione d’opera intellettuale ai sensi degli artt. 2229 e seguenti del codice civile e pertanto NON costituisce rapporto di pubblico impiego. L’incarico ha natura biennale, con possibilità di rinnovo per ulteriori anni 1 (uno).</span></p>\n<p><strong><span style=\"mso-bidi-font-family: 'Arial Narrow'; mso-bidi-theme-font: minor-latin;\">TRATTAMENTO ECONOMICO&nbsp;</span></strong></p>\n<p><span style=\"mso-bidi-font-family: 'Arial Narrow'; mso-bidi-theme-font: minor-latin;\">Il trattamento economico attribuito per gli incarichi conferiti è stato fissato nell’importo orario di<strong> €. 24,00 </strong>onnicomprensivi.</span></p>\n<p><span style=\"mso-bidi-font-family: 'Arial Narrow'; mso-bidi-theme-font: minor-latin;\">Il numero delle posizioni ricercate è indicativo e può variare a seconda delle esigenze di servizio dell'Azienda.</span></p>\n<p>&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=29c350543fec4a30a4b51d3f8c3825fc",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-21",
-            "title": "Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente delle commissioni esaminatrici dei concorsi pubblici, per titoli ed esami, per il reclutamento di funzionari e assistenti da inquadrare nei ruoli dell’Avvocatura dello Stato e nei ruoli del Consiglio di Stato e dei Tribunali amministrativi regionali",
-            "description": "<p><em>Avviso pubblico per la costituzione di un elenco di candidati idonei alla nomina di componente delle commissioni esaminatrici dei concorsi pubblici, per titoli ed esami, per il reclutamento di funzionari e assistenti da inquadrare nei ruoli dell’Avvocatura dello Stato e nei ruoli del Consiglio di Stato e dei Tribunali amministrativi regionali</em></p>\n<p>La Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica con il presente avviso intende costituire elenchi di soggetti dotati di comprovata esperienza e professionalità da sottoporre alla Commissione RIPAM per la nomina dei componenti delle commissioni esaminatrici del concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di un contingente complessivo di n. 32 unità di personale non dirigenziale, a tempo pieno e indeterminato, da inquadrare nei ruoli dell’Avvocatura dello Stato e nei ruoli del Consiglio di Stato e dei Tribunali amministrativi regionali, nell’Area dei funzionari e del concorso pubblico su base territoriale, per titoli ed esami, per il reclutamento di un contingente complessivo di n. 101 unità di personale non dirigenziale, a tempo pieno e indeterminato, da inquadrare nei ruoli dell’Avvocatura dello Stato e nei ruoli del Consiglio di Stato e dei Tribunali amministrativi regionali, nell’Area degli assistenti, ai sensi degli articoli 35, 35-<em>bis</em> e 35-<em>ter</em> del decreto legislativo 30 marzo 2001, n. 165, nonché ai sensi dell’articolo 9 del decreto del Presidente della Repubblica del 9 maggio 1994, n. 487.</p>\n<p>Le commissioni esaminatrici, ferme restando le specifiche previsioni contenute nel bando di concorso, sono composte da:\n <br>\n - n. 1 componente con funzioni di Presidente;\n <br>\n - n. 2 componenti;\n <br>\n - n. 1 segretario;\n <br>\n - n. 1 componente aggiuntivo (eventuale) per la valutazione delle competenze informatiche e digitali;\n <br>\n - n. 1 componente aggiuntivo (eventuale) per la valutazione della conoscenza della lingua inglese.\n <br>\n Saranno nominati componenti supplenti in numero pari o superiore a quello dei componenti della commissione esaminatrice (incluso il Presidente), qualora il numero delle candidature lo consenta.</p>\n<p><strong>Entro le ore 12:00 del 21 novembre 2025</strong> gli interessati, in possesso dei requisiti richiesti, previa registrazione sul Portale inPA (<a href=\"https://www.inpa.gov.it/\">https://www.inpa.gov.it</a>), possono aderire all’avviso presentando la candidatura per una delle figure professionali indicate in seguito e per un unico ruolo (Presidente, componente, segretario, componente aggiuntivo).\n <br>\n I candidati, in possesso dei requisiti del presente avviso, potranno essere inseriti in un elenco, generato dal Portale inPA, per l’incarico da conferire in relazione al ruolo richiesto e alle competenze professionali dichiarate nel proprio <em>curriculum vitae</em> compilato sul Portale inPA, come risultante dalla domanda di partecipazione all’avviso.\n <br>\n Le candidature acquisite per le finalità di cui al presente avviso pubblico non comportano l’assunzione di alcun obbligo di nomina da parte della Commissione RIPAM.&nbsp;</p>\n<p>L’Ufficio per i concorsi e il reclutamento del Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri effettuerà controlli sulla veridicità delle dichiarazioni fornite ai sensi degli articoli 71 e 75 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445. In caso di dichiarazione mendace il dichiarante decadrà dai benefici conseguiti sulla base delle dichiarazioni non veritiere, fermo restando quanto previsto dall’articolo 76 della predetta normativa in materia di sanzioni penali.</p>\n<p><strong>Oggetto dell’incarico&nbsp;</strong></p>\n<p>La commissione esaminatrice, in base al bando di concorso e alla normativa vigente, è competente per l’espletamento di tutte le fasi del concorso, compresa la preventiva verifica della correttezza e dell’omogeneità del livello di difficoltà dei quesiti scritti, dai quali saranno estratti quelli oggetto della prova concorsuale, la formazione e l’approvazione delle graduatorie finali di merito. &nbsp;</p>\n<p>La commissione organizzerà i propri lavori garantendo la conclusione della procedura nel rispetto dei tempi indicati dal Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri.\n <br>\n Secondo quanto disposto dall’articolo 9, comma 12, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487, la commissione esaminatrice e le sottocommissioni possono svolgere i propri lavori in modalità telematica, garantendo comunque la sicurezza e la tracciabilità delle comunicazioni.&nbsp;</p>\n<p>Ai membri saranno riconosciuti i compensi previsti dal decreto del Presidente del Consiglio dei ministri del 24 aprile 2020. Ai membri e ai membri supplenti che cessano anticipatamente dall’incarico i compensi base sono dovuti in misura proporzionale al numero delle sedute della commissione cui hanno partecipato.&nbsp;</p>\n<p>Ai sensi dell’articolo 9, comma 10, del decreto del Presidente della Repubblica 9 maggio 1994, n. 487 i membri supplenti interverranno alle sedute della commissione nelle sole ipotesi di impedimento grave e documentato dei membri effettivi.&nbsp;</p>\n<p><strong>Requisiti generali&nbsp;</strong></p>\n<p>Coloro che intendono presentare la propria candidatura devono essere in possesso dei seguenti requisiti:&nbsp;</p>\n<ul>\n <li>cittadinanza italiana o possesso dei requisiti previsti dall’articolo 38 del decreto legislativo 30 marzo 2001, n. 165;</li>\n <li>maggiore età;</li>\n <li>godimento dei diritti civili e politici;</li>\n <li>essere in possesso di uno dei titoli di studio di seguito indicati: laurea, diploma di laurea, laurea specialistica, laurea magistrale o titoli equiparati;</li>\n <li>non essere stati esclusi dall’elettorato politico attivo ;</li>\n <li>non essere stati destituiti o dispensati dall’impiego presso una pubblica amministrazione per persistente insufficiente rendimento, in forza di norme di settore, o licenziati per le medesime ragioni ovvero per motivi disciplinari ai sensi della vigente normativa di legge o contrattuale, ovvero dichiarati decaduti per aver conseguito la nomina o l’assunzione mediante la produzione di documenti falsi o viziati da nullità insanabile, o non essere stati condannati, anche con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del codice penale. Coloro che hanno in corso procedimenti penali, procedimenti amministrativi per l’applicazione di misure di sicurezza o di prevenzione o precedenti penali a proprio carico iscrivibili nel casellario giudiziale, ai sensi dell’articolo 3 del decreto del Presidente della Repubblica 14 novembre 2002, n. 313, ne danno notizia al momento della candidatura, precisando la data del provvedimento e l’autorità giudiziaria che lo ha emanato ovvero quella presso la quale penda un eventuale procedimento penale;</li>\n <li>non essere componenti di organi di direzione politica dell’amministrazione interessata;</li>\n <li>non ricoprire cariche politiche elettive;</li>\n <li>non essere rappresentanti sindacali o designati dalle confederazioni, organizzazioni sindacali o associazioni professionali.</li>\n</ul>\n<p>I requisiti richiesti dal presente avviso devono essere posseduti sia alla data di scadenza del termine stabilito nell’avviso sia all’atto della sottoscrizione del contratto di conferimento dell’incarico. &nbsp;</p>\n<p>Per la nomina di Presidente di commissione è richiesto altresì il possesso delle qualifiche di cui al decreto del Presidente della Repubblica 9 maggio 1994, n. 487, articolo 9, comma 7, lettera a)<sup>1</sup>.&nbsp;</p>\n<p>Per la nomina di segretario è richiesto altresì il possesso delle qualifiche di cui al decreto del Presidente della Repubblica 9 maggio 1994, n. 487, articolo 9, comma 7, lettera d)<sup>2</sup></p>\n<p>Il Presidente e i membri delle commissioni esaminatrici possono essere scelti anche tra il personale in quiescenza che abbia posseduto, durante il servizio attivo, la qualifica richiesta per i concorsi. L’utilizzo del personale in quiescenza non è consentito se il rapporto di servizio sia stato risolto per motivi disciplinari, per ragioni di salute o per decadenza dall’impiego comunque determinata e, in ogni caso, qualora la decorrenza del collocamento a riposo risalga a oltre un triennio dalla data di pubblicazione del bando di concorso.&nbsp;</p>\n<p>Resta fermo che all’atto della nomina tutti i membri della commissione esaminatrice devono dichiarare, in relazione all’incarico, l’assenza di conflitto di interessi e l’insussistenza delle cause di inconferibilità e incompatibilità, con particolare riguardo all’articolo 6-bis della legge 7 agosto 1990, n. 241, agli articoli 35, comma 3, e 35-bis del decreto legislativo 30 marzo 2001, n. 165 nonché agli articoli 6 e 7 del decreto del Presidente della Repubblica 16 aprile 2013, n. 62.&nbsp;</p>\n<p><strong>Requisiti specifici</strong></p>\n<p>Fermi restando i requisiti generali, possono candidarsi al ruolo di Presidente e componente coloro che sono in possesso di almeno 5 anni di comprovata conoscenza ed esperienza per uno o più degli ambiti di seguito indicati con riferimento alle relative figure professionali:</p>\n<p><strong>A) funzionari con competenze amministrative, giuridiche, economiche e contabili; assistenti con competenze amministrative, giuridiche, contabili e nei servizi economico finanziari:</strong></p>\n<ul>\n <li>diritto amministrativo, anche con riguardo al codice del processo amministrativo;</li>\n <li>disciplina del rapporto di lavoro alle dipendenze della Pubblica Amministrazione;</li>\n <li>contabilità pubblica;</li>\n <li>diritto civile;</li>\n <li>contrattualistica pubblica;</li>\n <li>diritto penale, con particolare riferimento ai reati contro la pubblica amministrazione di cui al Libro II, titolo II del codice penale;</li>\n <li>ordinamento del Consiglio di Stato e dei Tribunali Amministrativi Regionali e dell’Avvocatura generale dello Stato.</li>\n</ul>\n<p><strong>B) funzionari con competenze informatiche e statistiche:&nbsp;</strong></p>\n<ul>\n <li>protezione dei dati personali (GDPR – Regolamento UE 2016/679);</li>\n <li>architetture di calcolatori;</li>\n <li>reti di calcolatori TCP/IP e principali servizi;</li>\n <li>ciclo di vita del software con particolare riferimento alla progettazione e all’analisi nell’ambito dello sviluppo di sistemi informatici;</li>\n <li>basi di dati relazionali, linguaggio SQL e tecniche per la modellizzazione dei dati;</li>\n <li>sviluppo e manutenzione di applicazioni web;</li>\n <li>gestione di tecnologie e software di virtualizzazione con riferimento anche alle tecnologie e metodologie di sviluppo (containerizzazione, orchestrazione e microservizi);</li>\n <li>integrazione di ambienti e tecnologie informatiche ad elevata complessità e interoperabilità;</li>\n <li>amministrazione di sistemi di identità e di autenticazione eterogenei;</li>\n <li>intelligenza artificiale;</li>\n <li>internet delle cose (Internet of Things - IoT);</li>\n <li>blockchain;</li>\n <li>principi del cloud pubblico e privato;</li>\n <li>risk management e strumenti per la protezione dei sistemi informativi (NIS 2 – Direttiva UE 2022/2555);</li>\n <li>diritto amministrativo;</li>\n <li>diritto civile, con particolare riferimento ad obbligazioni e contratti;</li>\n <li>disciplina del rapporto di lavoro alle dipendenze della Pubblica Amministrazione;</li>\n <li>contrattualistica pubblica;</li>\n <li>contabilità pubblica;</li>\n <li>norme di riferimento in materia di e-government, dematerializzazione, cooperazione informatica e, più in generale, temi trattati dal Codice dell’Amministrazione Digitale;</li>\n <li>diritto processuale amministrativo, anche con riferimento al processo amministrativo telematico.</li>\n</ul>\n<p>Possono candidarsi al ruolo di componente aggiuntivo per la valutazione delle competenze informatiche e digitali coloro che sono in possesso di un elevato grado di conoscenza e uso delle tecnologie informatiche e delle tecnologie dell’informazione e della comunicazione, nonché delle competenze digitali.\n <br>\n Possono candidarsi al ruolo di componente aggiuntivo per la valutazione della conoscenza della lingua inglese coloro che sono in possesso di un elevato grado di&nbsp;conoscenza della lingua straniera (di livello pari o superiore al livello B2 del Quadro Comune Europeo di Riferimento per le lingue).&nbsp;</p>\n<p><strong>Titoli preferenziali&nbsp;</strong></p>\n<p>Nell’ambito delle candidature acquisite per i ruoli di componente saranno considerati i seguenti titoli preferenziali: &nbsp;</p>\n<ul>\n <li>qualifica dirigenziale;</li>\n <li>titoli di studio <em>post lauream</em> e professionali inerenti all’area professionale oggetto del presente avviso (abilitazione professionale, dottorato di ricerca, diploma di specializzazione, master di I livello e di II livello).</li>\n</ul>\n<p><strong>Modalità di nomina&nbsp;</strong></p>\n<p>Il Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri - Ufficio per i concorsi e il reclutamento assicura il supporto tecnico-amministrativo per l’inoltro alla Commissione RIPAM degli elenchi delle candidature utili, generati dal Portale inPA, numerati progressivamente sulla base dei requisiti e dei titoli preferenziali dichiarati dai candidati, al fine di garantire la più elevata professionalità della composizione della commissione esaminatrice in relazione al profilo professionale da reclutare.&nbsp;</p>\n<p>Al fine di garantire la rotazione degli incarichi nell’ambito delle commissioni esaminatrici dei concorsi unici, la Commissione RIPAM terrà conto, di norma, dei seguenti criteri:&nbsp;</p>\n<ul>\n <li>non essere stato nominato nei dodici mesi precedenti la data di nomina membro di commissione, in qualunque ruolo (presidente, componente, segretario, componente aggiuntivo), nell’ambito di concorsi unici destinati alla stessa amministrazione;</li>\n <li>non essere stato nominato nei ventiquattro mesi precedenti la data di nomina per tre volte membro di commissione, in qualunque ruolo (presidente, componente, segretario, componente aggiuntivo), nell’ambito di concorsi unici destinati ad amministrazioni diverse.&nbsp;</li>\n</ul>\n<p>Con riferimento ai supplenti nominati si terrà conto dell’effettivo svolgimento dell’incarico.&nbsp;</p>\n<p>La Commissione RIPAM individuerà, mediante estrazione a sorte e nel seguente ordine, i nominativi del Presidente (titolare e supplente), dei due componenti titolari e di due o più componenti supplenti della commissione esaminatrice, dei componenti aggiuntivi per la valutazione delle competenze informatiche e digitali, per la conoscenza della lingua inglese, nonché del segretario.&nbsp;</p>\n<p>Ai fini del rispetto dei principi della parità di genere, qualora il Presidente e il primo componente nominati appartengano tutti al medesimo genere, si provvederà a estrarre dall’elenco, ritenendo utile per la nomina all’ultimo incarico disponibile, il primo nominativo appartenente all’altro genere. I candidati pretermessi nello scorrimento saranno ammessi alla successiva fase di nomina dei componenti supplenti.&nbsp;</p>\n<p>All’esito della procedura di estrazione la Commissione RIPAM, previa verifica dei curricula vitae, nominerà componenti della commissione esaminatrice i candidati il cui nominativo corrisponde, nei predetti elenchi progressivi, al numero estratto con le modalità sopra descritte.</p>\n<p>Nel caso in cui il numero delle domande di partecipazione pervenute non dovesse essere sufficiente per consentire il ricorso all’estrazione a sorte, la Commissione RIPAM, previa verifica dei <em>curricula vitae</em>, procederà alla nomina del Presidente, dei componenti e del segretario della commissione esaminatrice sulla base delle candidature utili.\n <br>\n Quanto ai ruoli di Presidente, di componente o di segretario, nel caso in cui il numero delle domande di partecipazione pervenute non dovesse consentire la nomina diretta prevista dal precedente punto, la Commissione RIPAM potrà rivolgersi all’amministrazione interessata alla procedura concorsuale per la costituzione o il completamento della commissione esaminatrice.</p>\n<p><strong>Trattamento dei dati personali&nbsp;</strong></p>\n<p>La Presidenza del Consiglio dei ministri e il Capo del Dipartimento della funzione pubblica, in qualità di titolare del trattamento (di seguito, il “Titolare”), tratta i dati personali relativi al presente avviso (di seguito “avviso”) in conformità con il Regolamento UE 2016/679 (di seguito “RGPD”) e, ai sensi dell’articolo 12 del RGPD, fornisce agli interessati le informazioni di cui agli articoli 13 e 14 del RGPD in forma concisa, trasparente, intellegibile e facilmente accessibile con un linguaggio semplice e chiaro. Le ulteriori informazioni relative al trattamento dei dati personali effettuato mediante il Portale “inPA” sono accessibili sul sito web del Portale al link “<a href=\"https://www.inpa.gov.it/privacy-policy/\">Privacy Policy</a>”.</p>\n<p>I dati personali dell’interessato sono raccolti mediante domanda di partecipazione alla procedura di selezione e saranno trattati esclusivamente al fine dell’espletamento delle attività connesse all’avviso.&nbsp;</p>\n<p>La base giuridica del trattamento è l’assolvimento degli obblighi di legge al quale è soggetto il Titolare (articoli 35 e 35-<em>ter </em>del decreto legislativo 30 marzo 2001, n. 165, articolo 2 del decreto-legge 30 aprile 2022, n. 36, convertito con modificazioni dalla legge 29 giugno 2022, n. 79, decreto del Ministro della Pubblica Amministrazione adottato il 3 novembre 2023 nonché il presente avviso), ai sensi dell’articolo 6, par. 1, lett. c), RGPD.&nbsp;</p>\n<p>Ulteriore finalità del trattamento è la tutela da parte del Titolare dei propri diritti e interessi, anche ai fini dell’esercizio del diritto di difesa la cui base giuridica risiede all’articolo 6, par. 1, lett. f), RGPD.\n <br>\n I dati personali sono raccolti direttamente presso l’interessato e, nel caso in cui sia imposto per legge o dal presente avviso, sono raccolti presso soggetti terzi, ove sia necessario effettuare le apposite verifiche in ordine al possesso dei requisiti di partecipazione al presente avviso.\n <br>\n Il trattamento dei dati personali è effettuato mediante l’ausilio di strumenti manuali, informatici e telematici atti a garantire la sicurezza e la riservatezza dei dati personali.</p>\n<p>I dati personali sono trattati per conto del Titolare solo da:\n <br>\n a) soggetti autorizzati al trattamento che hanno ricevuto apposite istruzioni da parte del Titolare;\n <br>\n b) soggetti terzi che agiscono per conto del Titolare, solo ove questi ultimi siano stati appositamente nominati responsabili del trattamento, ai sensi dell’articolo 28 del RGPD;\n <br>\n c) soggetti terzi qualificati come titolari autonomi del trattamento, qualora la comunicazione sia prevista da obblighi di legge ovvero dall’avviso all’esito della relativa procedura.\n <br>\n I dati personali dell’interessato non sono trasferiti in territorio Extra UE.</p>\n<p>Salvo quanto previsto nell’informativa privacy del Portale “inPA”, i dati personali sono trattati dalla compilazione della domanda di candidatura fino alla conclusione della relativa procedura di selezione. Successivamente, il Titolare conserva i dati personali unicamente per l’assolvimento degli ulteriori obblighi di legge e per tutela dei propri diritti e interessi, anche in sede giudiziale e stragiudiziale, entro il termine di prescrizione previsto dalla normativa di settore. Scaduti i rispettivi termini, i dati personali sono cancellati e/o resi anonimi in modo da impedire, anche indirettamente, l’identificazione dell’interessato.&nbsp;\n <br>\n Il conferimento dei dati personali da parte dell’interessato è obbligatorio e l’eventuale rifiuto di fornirli comporta l’impossibilità di dar corso alla valutazione della domanda di partecipazione alla selezione, nonché agli adempimenti conseguenti e inerenti alla presente procedura.</p>\n<p>Per il perseguimento delle sopraindicate finalità, il titolare tratta, altresì, categorie particolari di dati personali, ai sensi dell’articolo 9, par. 2, lett. g) ed f) e dell’articolo 10 del RGPD.\n <br>\n Nessun dato trattato sarà soggetto a processo decisionale automatizzato e, in particolare, nessun dato trattato sarà soggetto ad attività di profilazione.\n <br>\n I dati personali raccolti non sono oggetto di diffusione salvo nei casi previsti dalla legge, in conformità alle delibere dell’Autorità Garante per la Protezione dei Dati Personali.\n <br>\n Il responsabile della protezione dei dati (Rpd) della Presidenza del Consiglio dei ministri è la dott.ssa Stefania Tilia, i cui riferimenti sono disponibili sul sito istituzionale:&nbsp;<a href=\"https://www.inpa.gov.it/privacy-policy/\">https://www.governo.it/privacy-policy</a>.&nbsp;</p>\n<p>L’interessato, ai sensi degli articoli da 15 a 22 del RGPD, può esercitare in ogni momento i suoi diritti, ove applicabili, nei confronti del Titolare, rivolgendo le relative istanze alla “Presidenza del Consiglio dei ministri - Dipartimento della funzione pubblica” ai seguenti indirizzi di contatto:&nbsp;\n <br>\n PEC:&nbsp;<a href=\"mailto:protocollo_dfp@mailbox.governo.it\">protocollo_dfp@mailbox.governo.it</a>;\n <br>\n E-mail:&nbsp;<a href=\"mailto:ufficioconcorsidfp@governo.it\">ufficioconcorsidfp@governo.it</a>.&nbsp;\n <br>\n L’interessato può esercitare il diritto di proporre reclamo all’Autorità Garante per la Protezione dei Dati Personali.&nbsp;</p>\n<p><strong>Responsabile del procedimento&nbsp;</strong></p>\n<p>Il Responsabile del procedimento per la presente procedura è il dirigente del Servizio per la gestione e il supporto dell’Ufficio per i concorsi e il reclutamento del Dipartimento della funzione pubblica.\n <br>\n Eventuali chiarimenti e informazioni possono essere richiesti al seguente indirizzo mail: <a href=\"mailto:ufficioconcorsidfp@governo.it\">ufficioconcorsidfp@governo.it</a>.&nbsp;</p>\n<p><strong>Disposizioni generali </strong></p>\n<p>Il presente avviso ed eventuali successive comunicazioni sono pubblicati sul Portale inPA (<a href=\"https://www.inpa.gov.it/\">https://www.inpa.gov.it</a>) del Dipartimento della funzione pubblica della Presidenza del Consiglio dei ministri.&nbsp;\n <br>\n Tutte le comunicazioni pubblicate sul Portale&nbsp;inPA sopra citato hanno valore di notifica nei confronti dei partecipanti.&nbsp;</p>\n<p>------------------------------------------------------------------------</p>\n<p><sup>1</sup> Personale dirigenziale o equiparato, con funzione di presidente, appartenente all’amministrazione che ha bandito il concorso o anche appartenente ad altra amministrazione.</p>\n<p><sup>2</sup> Personale non dirigenziale appartenente all’amministrazione che ha bandito il concorso, anche con funzione di segretario.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0efc666ecb2c423aa4787452f0d99f05",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "Avviso n° 71/2025 Dipartimento di Ingegneria Civile, Ambientale e Architettura",
-            "description": "<p>Avviso pubblico di selezione per il conferimento di un contratto di lavoro autonomo nell'ambito del Progetto PRIN 2022 “MOVING StEPS – MOVING from STreet Experiments to adaptive Planned Solutions” (Project protocol: 2022BLK9TS; CUP Master Code: D53D23011060006, CUP Code: F53D23005550006), finanziato da Ministero dell’Università e Ricerca (MIUR).\n <br>\n Responsabile scientifico: Dott. Francesco Pinna</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=12084edfa3024f70947a578055fbe40d",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "Avviso n° 72/2025 - Dipartimento di Ingegneria Civile, Ambientale e Architettura",
-            "description": "<p>Avviso pubblico di selezione per il conferimento di un contratto di lavoro autonomo nell'ambito del Progetto di ricerca PRIN – PNRR “2022PMRYCF - RE-PLACE. REframing PLace-based Approach through the Cultural Ecosystem services of inner areas”, Codice CUP: F53D23005690006, finanziato dal Ministero dell'Istruzione, dell'Università e della Ricerca (MIUR).\n <br>\n Responsabile scientifico: Prof.ssa Anna Maria Colavitti</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0d4d1e1fd95749c7b07149bb02631fd6",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "selezione per la nomina del nucleo di valutazione",
-            "description": "<p>REQUISITI\n <br>\n Per la nomina a componente del nucleo di valutazione sono richiesti:\n <br>\n - Possesso della cittadinanza italiana o di uno dei Paesi dell’Unione europea. In\n <br>\n quest’ultimo caso, il candidato dovrà possedere un’adeguata conoscenza della\n <br>\n lingua italiana.\n <br>\n AREA DELLE CONOSCENZE:\n <br>\n Laurea specialistica o laurea conseguita nel previgente ordinamento nelle seguenti\n <br>\n discipline:\n <br>\n - Giurisprudenza, Scienze Politiche, Economia, Ingegneria Gestionale;\n <br>\n Per le lauree in discipline diverse è richiesto, altresì, un titolo di studio postuniversitario in profili afferenti alle materie suddette, nonché in materia di\n <br>\n organizzazione e gestione del personale delle pubbliche amministrazioni, del\n <br>\n management, della pianificazione e controllo di gestione, o della misurazione e\n <br>\n valutazione delle performance.\n <br>\n Sono ammessi anche titoli di studio post-universitario in discipline attinenti alle\n <br>\n specificità di questa Amministrazione.\n <br>\n In alternativa al possesso di un titolo di studio post-universitario, è sufficiente il\n <br>\n possesso dell'esperienza, prevista dal successivo paragrafo\" Area delle esperienze\n <br>\n professionali\", di almeno cinque anni.\n <br>\n Titoli Valutabili: Sono valutabili i titoli di studio, nelle materie di cui al precedente\n <br>\n punto, conseguiti successivamente al diploma di laurea e rilasciati da istituti\n <br>\n universitari italiani o stranieri o da primarie istituzioni formative pubbliche.\n <br>\n Ai fini della relativa ponderazione sarà fatta distinzione tra titoli conseguiti all’esito di\n <br>\n un percorso formativo di durata comunque superiore a quella annuale (dottorato di\n <br>\n ricerca, master di II livello, corsi di specializzazione) e altri titoli di specializzazione.\n <br>\n AREA DELLE ESPERIENZE PROFESSIONALI\n <br>\n Il componente dovrà essere in possesso di un'esperienza di almeno cinque anni, in\n <br>\n posizioni di responsabilità, anche presso aziende private, nel campo del management,\n <br>\n della pianificazione e controllo di gestione, dell'organizzazione e della gestione del\n <br>\n personale, della misurazione e valutazione delle performance e dei risultati, ovvero in\n <br>\n possesso di un'esperienza nel campo giuridico-amministrativo, tenendo anche conto\n <br>\n dei compiti che derivano dall’applicazione della L. n. 190/2012.\n <br>\n In alternativa assume rilievo anche un’esperienza presso un O.I.V. o presso organismi\n <br>\n simili (Nucleo di Valutazione) di almeno due anni, purchè non siano incorse eventuali\n <br>\n cause di rimozione dall’incarico prima della scadenza.\n <br>\n AREA DELLE CAPACITÀ\n <br>\n Il componente dovrà possedere, anche in relazione alla natura ed ai compiti di questa\n <br>\n Amministrazione, adeguate competenze e capacità manageriali e relazionali dovendo\n <br>\n promuovere i valori del miglioramento continuo della performance e della qualità del\n <br>\n servizio, nonché della trasparenza ed integrità. Le predette capacità e competenze\n <br>\n specifiche saranno accertate dagli elementi desumibili dal curriculum.\n <br>\n Qualora il candidato abbia già rivestito il ruolo di componente di OIV/NUCLEO DI\n <br>\n VALUTAZIONE, anche presso altra amministrazione, dovrà darne indicazione nel\n <br>\n curriculum e nella relazione di accompagnamento e illustrare l’attività\n <br>\n precedentemente svolta.\n <br>\n CONOSCENZE INFORMATICHE:\n <br>\n Il candidato dovrà possedere buone e comprovate conoscenze informatiche;\n <br>\n Ai fini dell’accertamento di tutti i requisiti richiesti, alla domanda vanno allegati il\n <br>\n curriculum vitae e una relazione accompagnatoria.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a4fc1615a2c4437fa835b63b8b2a255b",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-02",
-            "title": "AVVISO PUBBLICO DI SELEZIONE, PER TITOLI, AFFIDAMENTO DI UN INCARICO DI LAVORO AUTONOMO, PER LO SVOLGIMENTO DI ATTIVITA’ DI SUPPORTO ALLA RICERCA",
-            "description": "<p>Supporto alle attività di reclutamento e monitoraggio clinico dei volontari sani coinvolti nel progetto;&nbsp;</p>\n<p>Coordinamento con gli sperimentatori dello stabulario per la consegna dei campioni e per l'organizzazione e la realizzazione delle procedure sperimentali con gli stessi campioni; raccolta, gestione e organizzazione, dei dati clinici e documentali; collaborazione nella valutazione della sicurezza delle nanoformulazioni oggetto di studio e compilazione della documentazione clinica correlata; supporto nella gestione e nella conclusione delle attività progettuali, incluse le fasi di analisi e origanizzazione dei dati raccolti.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=db10f36fe27844f69e5f17de39b9d45e",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-02",
-            "title": "AVVISO PUBBLICO DI SELEZIONE, PER TITOLI, PER AFFIDAMENTO DI UN INCARICO DI LAVORO AUTONOMO, PER ATTIVITA’ DI SUPPORTO ALLA RICERCA",
-            "description": "<p>Supporto allo studio di biomarkers molecolari in patologie croniche infiammatorie-immunologiche.</p>\n<p>Colture cellulari ed isolamento di cellule infiammatorie da sangue periferico; esame citofluorimetrico di markers di superficie in eosinofili e mastociti, di proteine plasmatiche mediante saggi ELISA.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=50bfaa869b174aecb40b0e2fd8051f16",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-02",
-            "title": "AVVISO PUBBLICO DI SELEZIONE, PER TITOLI, PER AFFIDAMENTO DI UN INCARICO DI LAVORO AUTONOMO, PERATTIVITA’ DI SUPPORTO ALLA RICERCA",
-            "description": "<p>Analisi multi-omiche nell’ambito del Progetto di ricerca “La biologia dei Sistemi nella Steatosi Epatica Post-HCV: fisiopatologia e impatto della terapia farmacologica delle comorbilità metaboliche e degli stili di vita sulla evoluzione clinica della patologia”</p>\n<p>Raccolta, processazione e stoccaggio dei campioni biologici dei pazienti e dei controlli arruolati nell’ambito dello studio; analisi genetiche per l’identificazione in PCR di polimorfismi del singolo nucleotide (SNP) di rischio peer steatosi metabolica; analisi dei dati raccolti e gestione del database di laboratorio</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=80998890e64a495cab6282befe03e87b",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-14",
-            "title": "Avviso pubblico per la formazione di un elenco di esperti - INGEGNERI E ARCHITETTI - finalizzato alla designazione di componenti delle commissioni esaminatrici dei concorsi banditi dall'IRSAP",
-            "description": "<p>L’Istituto Regionale per lo Sviluppo delle Attività Produttive (IRSAP) ha pubblicato un avviso per la formazione di un elenco di Ingegneri e architetti esperti esterni, finalizzato alla designazione dei componenti delle commissioni esaminatrici dei concorsi pubblici banditi il 30 dicembre 2024. Possono candidarsi ingegneri e architetti iscritti all’albo con almeno dieci anni di esperienza in materia di lavori pubblici, edilizia e urbanistica. La domanda deve essere presentata entro il 9 novembre 2025 tramite il Portale InPA. La selezione avverrà tramite sorteggio e verifica dei requisiti. Ai commissari spettano compensi secondo quanto previsto dal D.P.C.M. 24 aprile 2020, oltre al rimborso spese. I dati personali saranno trattati nel rispetto della normativa vigente. L’avviso è disponibile sul sito IRSAP e sul Portale InPA.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b04f0fd880e04c6fb8190a3be3b5ae30",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-14",
-            "title": "Avviso pubblico per la formazione di un elenco di esperti – AVVOCATI – finalizzato alla designazione di componenti delle commissioni esaminatrici dei concorsi banditi dall’IRSAP in data 30 dicembre 2024",
-            "description": "<p>L’Istituto Regionale per lo Sviluppo delle Attività Produttive (IRSAP) pubblica un avviso per la formazione di un elenco di avvocati esperti, finalizzato alla designazione dei componenti delle commissioni esaminatrici dei concorsi pubblici banditi il 30 dicembre 2024. Possono candidarsi avvocati iscritti all’albo con almeno dieci anni di esperienza in diritto amministrativo e/o diritto del lavoro pubblico. La domanda deve essere presentata entro il 9 novembre 2025 tramite il Portale InPA. La selezione avverrà tramite sorteggio e verifica dei requisiti. Ai commissari spettano compensi secondo quanto previsto dal D.P.C.M. 24 aprile 2020, oltre al rimborso spese. I dati personali saranno trattati nel rispetto della normativa vigente. L’avviso è disponibile sul sito IRSAP e sul Portale InPA.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d50cb589514649c89d744f4eb0572d19",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-14",
-            "title": "Avviso pubblico per la formazione di un elenco di esperti – DOTTORI COMMERCIALISTI – finalizzato alla designazione di componenti delle commissioni esaminatrici dei concorsi banditi dall’IRSAP in data 30 dicembre 2024",
-            "description": "<p>L’Istituto Regionale per lo Sviluppo delle Attività Produttive (IRSAP) pubblica un avviso per la formazione di un elenco di dottori commercialisti esperti, finalizzato alla designazione dei componenti delle commissioni esaminatrici dei concorsi pubblici banditi il 30 dicembre 2024. Possono candidarsi dottori commercialisti iscritti all’albo con almeno dieci anni di esperienza in Economia politica, economia pubblica e contabilità di stato. La domanda deve essere presentata entro il 9 novembre 2025 tramite il Portale InPA. La selezione avverrà tramite sorteggio e verifica dei requisiti. Ai commissari spettano compensi secondo quanto previsto dal D.P.C.M. 24 aprile 2020, oltre al rimborso spese. I dati personali saranno trattati nel rispetto della normativa vigente. L’avviso è disponibile sul sito IRSAP e sul Portale InPA.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=61e6a01940744c0ab6fed3591aa14214",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-15",
-            "title": "Campania - SRD06 - Investimenti per la prevenzione ed il ripristino del potenziale produttivo agricolo",
-            "description": "L’intervento ha l’obiettivo di assicurare il mantenimento dei redditi alle aziende agricole e la resilienza economica delle stesse, in tal senso la tipologia d’intervento SRD 06 Azione 2, sostiene la realizzazione di investimenti per il ripristino del potenziale produttivo agricolo aziendale danneggiato o distrutto dal verificarsi di eventi avversi a carattere eccezionale ai sensi dell’art.73 del Reg. (UE) n. 2021/2115), in conformità alla normativa comunitaria e nazionale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/campania-srd06-investimenti-per-la-prevenzione-ed-il-ripristino-del-potenziale-produttivo-agricolo",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale",
-                    "Stanziamento": "€ 4.500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-16",
-            "title": "Sardegna - Aiuti per Progetti di R&S di MPMI in collaborazione con OdR e GI",
-            "description": "Il bando intende erogare dei contributi a sostegno di progetti di ricerca e sviluppo nell’ambito dell’area di specializzazione “Reti Intelligenti per la gestione efficiente dell’energia” della Strategia di specializzazione intelligente regionale (S3), con particolare riferimento alle tecnologie per la transizione energetica.",
-            "link": "https://www.obiettivoeuropa.com/bandi/sardegna-aiuti-per-progetti-di-rs-di-mpmi-in-collaborazione-con-odr-e-gi",
-            "custom": {
-                "custom": {
-                    "Topics": "Ricerca Scientifica",
-                    "Stanziamento": "€ 10.500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "Sardegna - Concessione di contributi a sostegno delle emittenti radiofoniche private e locali",
-            "description": "La Regione intende erogare dei contributi alle emittenti radiofoniche private e locali quale riconoscimento delle spese che le stesse sostengono nel corso dell’anno per il quale è richiesto il contributo, per la produzione e messa in onda di programmi in lingua italiana esclusivamente sui temi della cultura (storia, archeologia, arte, spettacolo e cinema), della scuola e dello sport in Sardegna, ai sensi della D.G.R. 57/27 del 05.11.2025.",
-            "link": "https://www.obiettivoeuropa.com/bandi/sardegna-concessione-di-contributi-a-sostegno-delle-emittenti-radiofoniche-private-e-locali",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Emittenti radiofoniche, Supporto alle imprese",
-                    "Stanziamento": "€ 300.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-26",
-            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Sviluppo di capacità nel campo della gioventù",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo. Nel contesto dell’Azione chiave 2, i progetti di sviluppo delle capacità sono progetti di cooperazione internazionale basati su partenariati multilaterali tra organizzazioni attive nel campo della gioventù nei paesi aderenti al programma e nei paesi terzi non associati al programma. Essi mirano a sostenere la cooperazione internazionale e il dialogo politico nel campo della gioventù e dell'apprendimento non formale, ritenuti motori dello sviluppo socio-economico sostenibile e del benessere delle organizzazioni giovanili e dei giovani.L'azione ha i seguenti obiettivi:aumentare la capacità delle organizzazioni che lavorano con i giovani al di fuori dell'apprendimento formale;promuovere attività di apprendimento non formale nei paesi terzi ammissibili non associati al programma, in particolare nelle organizzazioni che si rivolgono ai giovani con minori opportunità e promuovono la partecipazione dei giovani in tutta la loro diversità, al fine di migliorare il livello di competenze e le opportunità di agire di tali organizzazioni, consentendo loro di garantire la partecipazione attiva dei giovani alla società;sostenere lo sviluppo dell'animazione socioeducativa nei paesi terzi ammissibili non associati al programma, migliorandone la qualità e il riconoscimento;favorire lo sviluppo, la sperimentazione e l'avvio di sistemi e programmi che consentano alle organizzazioni di migliorare la mobilità per l'apprendimento non formale nei paesi terzi ammissibili non associati al programma;sostenere le organizzazioni dei paesi terzi ammissibili non associati al programma per contribuire all'attuazione della strategia dell'UE per la gioventù (2019-2027), compresi gli 11 obiettivi per la gioventù europea, l'agenda europea per l'animazione socioeducativa, il piano d'azione per la gioventù nell'azione esterna dell'UE (2022-2027) e il follow-up dell'Anno europeo delle competenze avviato nel 2023;sostenere, nel settore della gioventù, gli obiettivi del patto per il Mediterraneo nei suoi paesi destinatari;promuovere la cooperazione attraverso iniziative congiunte tra, da un lato, le organizzazioni giovanili degli Stati membri dell'UE e dei paesi terzi associati al programma e, dall'altro lato, quelle dei paesi terzi non associati al programma nelle diverse regioni del mondo ammissibili a tale azione;promuovere la partecipazione delle organizzazioni più piccole, nonché delle organizzazioni delle zone remote e delle località più piccole;rafforzare le sinergie e le complementarità delle organizzazioni giovanili che lavorano con i giovani al di fuori dell'apprendimento formale con i sistemi di istruzione formale e/o il mercato del lavoro.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-sviluppo-di-capacita-nel-campo-della-gioventu",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Internazionalizzazione, Media e informazione, Parità di genere",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-01",
-            "title": "Sardegna - Sviluppo sceneggiatura di opere cinematografiche di interesse regionale",
-            "description": "Il bando ha quale scopo l’assegnazione di contributi a fondo perduto con procedura selettiva a favore di imprese cinematografiche e audiovisive, in forma singola o di reti di imprese, per progetti di sceneggiatura finalizzati alla produzione di lungometraggi di interesse regionale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/sardegna-sviluppo-sceneggiatura-di-opere-cinematografiche-di-interesse-regionale",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Audiovisivi e Cinema",
-                    "Stanziamento": "€ 400.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-26",
-            "title": "Bando Erasmus+ 2026: Azione chiave 3 – Sostegno alla definizione delle politiche – European Youth Together",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoL'Azione chiave 3 fornisce sostegno allo sviluppo delle politiche e alla cooperazione, contribuendo in tal modo all'attuazione delle politiche esistenti e all'elaborazione di nuove politiche in grado di innescare la modernizzazione e le riforme a livello sistemico nel campo dell'istruzione, della formazione, della gioventù e dello sport.In questo contesto, i progetti “European Youth Together” hanno lo scopo di creare reti che promuovono i partenariati regionali, attuati in stretta cooperazione con i giovani di tutta Europa. Queste reti dovranno organizzare gli scambi, promuovere le iniziative di formazione (ad esempio per animatori) e consentire ai giovani stessi di creare progetti congiunti mediante attività sia fisiche sia online.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-3-sostegno-alla-definizione-delle-politiche-european-youth-together",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Sport",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-27",
-            "title": "Campania - Avviso Pubblico per il finanziamento di progetti per i Distretti del Commercio",
-            "description": "Obiettivo dell'Avviso è concorrere al miglioramento dei servizi erogati ai cittadini e favorire lo sviluppo delle economie locali, mediante l’erogazione di contributi a sostegno dei programmi di intervento dei Distretti del Commercio riconosciuti ai sensi dell’art. 11 della Legge Regionale del 21 aprile 2020 n. 7, concepiti come uno strumento capace, attraverso strategie comuni e sinergiche tra le imprese, le istituzioni pubbliche e gli attori sociali, di recepire le esigenze e le vocazioni commerciali esistenti sui territori, integrandole con altri settori produttivi quali attività artigianali, di servizi e turistico - ricettive e di valorizzare tutte le risorse di cui dispone il territorio, per accrescere l'attrattività complessiva, rigenerare il tessuto urbano e sostenere la competitività delle sue polarità commerciali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/campania-avviso-pubblico-per-il-finanziamento-di-progetti-per-i-distretti-del-commercio",
-            "custom": {
-                "custom": {
-                    "Topics": "Supporto alle imprese, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 13.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Bando Erasmus+ 2026: Azioni Jean Monnet – Dibattito Politico",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe Azioni Jean Monnet offrono opportunità nel campo dell'istruzione superiore e in altri ambiti dell'istruzione e della formazione. Esse contribuiscono alla diffusione delle conoscenze sulle questioni di integrazione dell'Unione europea.L'obiettivo generale delle Azioni Jean Monnet consiste nel promuovere una migliore comprensione dell'Unione europea e del funzionamento delle sue istituzioni sia nell'istruzione generale che nella formazione professionale (ISCED 1-4) e nell'affrontare la diffusa mancanza di conoscenza dell'Unione europea e la notevole disinformazione al riguardo, che a loro volta aumentano il disincanto dei cittadini nei confronti dell'Unione e delle sue politiche.Il Programma propone l’azione specifica “Dibattito Politico”, che si dirama in due filoni:Reti tematiche nell'istruzione superioreReti Jean Monnet in altri campi dell'istruzione e della formazione",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azioni-jean-monnet-dibattito-politico",
-            "custom": {
-                "custom": {
-                    "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-09-03",
-            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Centri di eccellenza professionale",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, il programma prevede il sostegno a “partenariati per l'eccellenza”, finalizzati a sostenere progetti con una prospettiva sostenibile a lungo termine. Nell'ambito di questo tipo di partenariato sono sostenute le azioni seguenti:Centri di eccellenza professionale (CoVE)Accademie degli insegnanti Erasmus+Azione Erasmus MundusL'obiettivo principale dell'iniziativa CoVE è la creazione e lo sviluppo di reti di collaborazione transnazionali che riuniscono i portatori di interessi dell'IFP a livello locale e regionale in partenariati pubblico-privato solidi e di ampia portata, creando in tal modo ecosistemi globali delle competenze per l'innovazione, lo sviluppo regionale e l'inclusione sociale e sostenendo la competitività europea. I partenariati mirano a conseguire gli obiettivi seguenti:garantire competenze di alta qualità attraverso un'erogazione di IFP flessibile e incentrata sul discente, che favorisca opportunità di occupazione e di carriera qualitativamente elevate, rispondendo rapidamente alle esigenze di un'economia innovativa, inclusiva e sostenibile, come pure alle esigenze della società;sostenere e fungere da volano per lo sviluppo locale e regionale, l'innovazione e l'inclusione sociale;contribuire alla convergenza verso l'alto dell'eccellenza dell'IFP, migliorare la qualità dell'IFP a livello di sistema in un numero sempre maggiore di paesi;fare in modo che le realizzazioni e i risultati siano utilizzati e abbiano un impatto al di là delle organizzazioni partner del progetto e oltre il periodo del progetto.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-centri-di-eccellenza-professionale",
-            "custom": {
-                "custom": {
-                    "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Internazionalizzazione, Media e informazione, Ricerca Scientifica, Sviluppo e promozione territoriale",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-27",
-            "title": "ERA4Health - Trials4Health: Studi clinici multinazionali avviati da ricercatori su malattie cardiovascolari, autoimmuni e metaboliche",
-            "description": "Il partenariato “Fostering a European Research Area for Health” (ERA4Health) offre l’opportunità di aumentare i finanziamenti europei per la ricerca collaborativa transnazionale, creando un organismo di finanziamento dedicato alla programmazione congiunta in aree prioritarie che affrontano le esigenze della salute pubblica europea. L’obiettivo generale di ERA4Health è quello di raggiungere un approccio congiunto efficace e generare conoscenze e prodotti nei settori di ricerca identificati.Nello specifico, gli obiettivi del bando sono:Sostenere studi clinici interventistici randomizzati multi-paese, iniziati da ricercatori, progettati come studi pragmatici di efficacia comparativa e/o di riutilizzo di farmaci (drug repurposing);Promuovere e facilitare la collaborazione transnazionale tra gruppi di ricerca clinica e di sanità pubblica (provenienti da ospedali, servizi di sanità pubblica, strutture sanitarie e altre organizzazioni del settore) che conducano studi clinici multi-paese iniziati da ricercatori (IICS), sia di efficacia comparativa sia di riutilizzo di farmaci.",
-            "link": "https://www.obiettivoeuropa.com/bandi/era4health-trials4health-studi-clinici-multinazionali-avviati-da-ricercatori-su-malattie-cardiovascolari-autoimmuni-e-metaboliche",
-            "custom": {
-                "custom": {
-                    "Topics": "Farmaceutico, Farmacia e/o chimica, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Salute e medicina, Sanità",
-                    "Stanziamento": "€ 32.190.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-16",
-            "title": "Gal Altra Romagna - Investimenti produttivi non agricoli in aree rurali",
-            "description": "L’Intervento è finalizzato ad incentivare la creazione e lo sviluppo di attività extra agricole nelle aree rurali sostenendo investimenti di attività imprenditoriali con finalità produttive. In tal senso l’obiettivo dell’intervento è il mantenimento dell’attrattività delle aree rurali contrastando il progressivo spopolamento al quale queste sono soggette. Allo stesso tempo l’intervento mira a migliorare la qualità della vita nelle aree rurali supportando i servizi, le attività imprenditoriali e più in generale le iniziative e gli investimenti che valorizzino le risorse locali contribuendo alla rivitalizzazione del mercato del lavoro in particolare per i giovani e per le donne.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-altra-romagna-investimenti-produttivi-non-agricoli-in-aree-rurali",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 593.599"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Bando Erasmus+ 2026: Azioni Jean Monnet nel campo dell’istruzione superiore",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni Jean Monnet offrono opportunità nel campo dell'istruzione superiore e in altri ambiti dell'istruzione e della formazione, contribuendo alla diffusione delle conoscenze sulle questioni di integrazione dell'Unione europea. Sono sostenute le azioni seguenti:azioni Jean Monnet nel campo dell'istruzione superioreazioni Jean Monnet in altri ambiti dell'istruzione e della formazionedibattito politico Jean Monnet (istruzione superiore e altri ambiti dell'istruzione e formazione)Le azioni Jean Monnet nel campo dell'istruzione superiore sostengono l'insegnamento e la ricerca nel campo degli studi sull'Unione europea in tutto il mondo. Gli studi sull'Unione europea si riferiscono all'insegnamento, all'apprendimento e alla ricerca sull'Unione europea, la sua storia, i suoi obiettivi, le sue strutture, le sue funzioni e/o le sue politiche.Concentrandosi sulla dimensione europea, le attività Jean Monnet promuovono la cittadinanza europea attiva e i valori fondanti dell'Unione europea quali il rispetto della dignità umana, la libertà, la democrazia, l'uguaglianza, lo Stato di diritto e il rispetto dei diritti umani, compresi i diritti delle persone appartenenti a minoranze.Nel caso delle politiche dell'Unione europea, le azioni Jean Monnet contribuiscono a diffondere conoscenze sulle modalità con cui tali politiche possono giovare alla vita quotidiana dei cittadini nell'UE e/o all'estero e/o sulle modalità con cui possono influenzare l'elaborazione delle politiche in settori analoghi a livello degli Stati membri o all'estero a livello nazionale, regionale o mondiale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azioni-jean-monnet-nel-campo-dellistruzione-superiore",
-            "custom": {
-                "custom": {
-                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Media e informazione, Ricerca Scientifica",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Sviluppo delle capacità nell’istruzione superiore",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, l’azione Cross-Border Higher Education (CBHE) sostiene progetti di cooperazione internazionale tra istituzioni dell’istruzione superiore, con l’obiettivo di migliorare la qualità e la modernizzazione dell’istruzione nei paesi terzi non associati al programma. I progetti devono contribuire allo sviluppo sostenibile, alla ripresa socioeconomica e alla riduzione delle disuguaglianze, in linea con gli Obiettivi di Sviluppo Sostenibile e l’accordo di Parigi. Ci si attende che l'azione contribuisca alle priorità generali della Commissione europea:Green DealTrasformazione digitaleIntegrazione dei migrantiGovernance, pace, sicurezza e sviluppo umanoCrescita sostenibile e occupazione",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-sviluppo-delle-capacita-nellistruzione-superiore",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Giustizia e sicurezza, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Migrazione e sviluppo, Transizione digitale",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Bando Erasmus+ 2026: Azioni Jean Monnet in altri ambiti dell’istruzione e della formazione",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe Azioni Jean Monnet offrono opportunità nel campo dell'istruzione superiore e in altri ambiti dell'istruzione e della formazione. Esse contribuiscono alla diffusione delle conoscenze sulle questioni di integrazione dell'Unione europea.L'obiettivo generale delle Azioni Jean Monnet in altri ambiti dell'istruzione e della formazione consiste nel promuovere una migliore comprensione dell'Unione europea e del funzionamento delle sue istituzioni sia nell'istruzione generale che nella formazione professionale (ISCED 1-4) e nell'affrontare la diffusa mancanza di conoscenza dell'Unione europea e la notevole disinformazione al riguardo, che a loro volta aumentano il disincanto dei cittadini nei confronti dell'Unione e delle sue politiche.L’invito prevede due sotto-azioni specifiche:Azione formazione degli insegnanti Jean MonnetIniziative \"Apprendere l'UE\" in altri campi dell'istruzione e formazione",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azioni-jean-monnet-in-altri-ambiti-dellistruzione-e-della-formazione",
-            "custom": {
-                "custom": {
-                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Giustizia e sicurezza, Media e informazione",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-05",
-            "title": "Puglia - Interventi a valere sul fondo nazionale per il contrasto al consumo di suolo",
-            "description": "Il bando ha la finalità di favorire il contrasto al consumo di suolo finanziando interventi volti a invertire il processo di urbanizzazione che causa l’impermeabilizzazione e il degrado dei suoli mediante il ripristino delle aree compromesse in aree verdi fruibili e ad uso pubblico, migliorare la qualità dell’ambiente e sensibilizzare la popolazione sull’importanza della tutela del suolo, promuovendo una maggiore consapevolezza riguardo ai benefici ecologici e sociali derivanti dalla sua conservazione.",
-            "link": "https://www.obiettivoeuropa.com/bandi/puglia-interventi-a-valere-sul-fondo-nazionale-per-il-contrasto-al-consumo-di-suolo",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-10",
-            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Partenariati per l’innovazione: Alleanze per l’innovazione",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, i Partenariati per l'innovazione sostengono progetti volti a ottenere un impatto sistemico a livello europeo mediante la capacità di diffondere i risultati dei progetti su scala europea e/o di trasferirli in diversi contesti tematici o geografici. Nell'ambito di questo tipo di partenariato sono comprese le alleanze per l'innovazione. Queste azioni sono volte a rafforzare la capacità di innovazione dell'Europa mediante la cooperazione e il flusso di conoscenze tra l'istruzione superiore, l'istruzione e formazione professionale (sia iniziale che continua) e l'ambiente socio-economico in generale, compresa la ricerca. Sono volte inoltre a potenziare l'offerta di nuove competenze e a superare lo squilibrio tra domanda e offerta di competenze, progettando e creando nuovi programmi di studio per l'istruzione superiore e l'istruzione e formazione professionale, sostenendo lo sviluppo dello spirito di iniziativa e della mentalità imprenditoriale nell'UE.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-partenariati-per-linnovazione-alleanze-per-linnovazione",
-            "custom": {
-                "custom": {
-                    "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, STEM, Supporto alle imprese, Sviluppo e promozione territoriale",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-04-09",
-            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Partenariati europei per lo sviluppo scolastico",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, il bando sostiene Partenariati europei per lo sviluppo scolastico, con l'obiettivo di migliorare l'innovazione strategica e la condivisione di pratiche tra i principali attori dei sistemi di istruzione scolastica in settori chiave quali la promozione dello sviluppo professionale continuo degli insegnanti, l'aumento dell'attrattiva della professione di insegnante e il miglioramento della qualità dell'insegnamento e della formazione in generale.Nello specifico, i partenariati europei per lo sviluppo scolastico mirano a: migliorare la qualità dell'apprendimento e dell'insegnamento nelle scuole attraverso la cooperazione europea;rafforzare la capacità istituzionale e le strutture necessarie per ampliare le opportunità di mobilità ai fini dell'apprendimento nell'istruzione scolastica, creando sinergie con le opportunità dell'azione chiave 1 di Erasmus+;stimolare l'innovazione nelle pratiche, nelle procedure e nelle politiche in materia di istruzione scolastica, applicando i risultati e le migliori pratiche derivanti da progetti transnazionali di successo, ampliandone l'impatto.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-partenariati-europei-per-lo-sviluppo-scolastico",
-            "custom": {
-                "custom": {
-                    "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Fiere ed eventi, Formazione e lavoro, Inclusione Sociale e Solidarietà, Media e informazione",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-09-29",
-            "title": "Bando Erasmus+ 2026 Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento - Accreditamento Erasmus nel campo dell'istruzione e formazione professionale, dell'istruzione scolastica e dell'istruzione degli adulti",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. Nel contesto dell’Azione chiave 1, è possibile ottenere l’accreditamento Erasmus nel campo dell'istruzione e formazione professionale, dell'istruzione scolastica e dell'istruzione degli adulti. L'accreditamento Erasmus è uno strumento destinato alle organizzazioni nel campo dell'istruzione e formazione professionale (IFP), dell'istruzione scolastica e dell'istruzione degli adulti che desiderano aprirsi alla dimensione transfrontaliera degli scambi e della cooperazione. L'assegnazione di un accreditamento Erasmus è la conferma del fatto che il richiedente ha messo a punto un piano per realizzare attività di mobilità di qualità elevata nel quadro di un'iniziativa più ampia di sviluppo della propria organizzazione. I candidati selezionati per l'accreditamento Erasmus beneficeranno di un accesso semplificato alle opportunità di finanziamento previste nell'ambito dell'azione chiave 1 sotto forma di progetti di mobilità accreditati.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-accreditamento-erasmus-nel-campo-dellistruzione-e-formazione-professionale-dellistruzione-scolastica-e-dellistruzione-degli-adulti",
-            "custom": {
-                "custom": {
-                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-05",
-            "title": "Puglia - Avviso pubblico con procedura valutativa a sportello per il sostegno alle attività di Spettacolo dal vivo",
-            "description": "La Regione Puglia con il bando sostiene la realizzazione di progetti, con le seguenti finalità:promuovere le attività teatrali, musicali, coreutiche, cinematografiche e audiovisive, dello spettacolo viaggiante e circense;incentivare gli operatori del settore ad una programmazione organica, coerente e continua che persegua obiettivi di qualificazione degli spettacoli, attraverso la presentazione di una programmazione triennale;sostenere i progetti di spettacolo che sono parte integrante dell’identità territoriale pugliese e che, per le loro specificità, si qualificano come progetti a bassa o media intensità economica.",
-            "link": "https://www.obiettivoeuropa.com/bandi/puglia-avviso-pubblico-con-procedura-valutativa-a-sportello-per-il-sostegno-alle-attivita-di-spettacolo-dal-vivo",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Danza, Musica, Sviluppo e promozione territoriale, Teatro",
-                    "Stanziamento": "€ 4.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Bando Fondo Regionale per l'occupazione delle persone con disabilità - 2025 - Avviso pubblico per la concessione di contributi ai datori di lavoro privati – Legge 68/99 - Lucca e Pistoia",
-            "description": "Cos'è L'Avviso prevede l’erogazione di contributi a favore di datori di lavoro privati con unità operativa localizzata in un Comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Lucca e Pistoia, per sostenere e favorire l’occupazione e l’integrazione lavorativa di persone con disabilità iscritte negli elenchi di cui all’art.8 della L.68/1999.  A chi si rivolge Datori di lavoro privati, ivi comprese le partecipate che abbiano la forma giuridica di società, a prescindere dal regime proprietario, ad esclusione delle persone fisiche in qualità di datori di lavoro domestico, anche non obbligati ai sensi della L. 68/1999, con unità operativa ubicata in un comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Lucca e Pistoia.  Cosa prevede Possibilità per i soggetti beneficiari, datori di lavoro privati, di riceve contributi finalizzati a sostenere e favorire l'integrazione lavorativa di persone con disabilità iscritte negli elenchi di cui all'art 8 della L. 68/99 della Regione Toscana per assunzioni, inserimento e mantenimento lavorativo, attivazione di tirocini, adozione di accomodamenti ragionevoli, spese sostenute dalla Cooperative Sociali di tipo B per la creazione di nuovi posti di lavoro anche in collaborazione con Imprese ed Enti Pubblici. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/bando-fondo-regionale-loccupazione-delle-persone-con-disabilita-2025-avviso-pubblico-la-0",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Bando Fondo Regionale per l'occupazione delle persone con disabilità di natura psichica - 2025 - Avviso pubblico per la concessione di contributi ai datori di lavoro privati – Legge 68/99 - Lucca e Pistoia",
-            "description": "Cos'è L'avviso prevede l’erogazione di contributi a favore di datori di lavoro privati con unità operativa localizzata in un Comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Lucca e Pistoia, per sostenere e favorire l’occupazione e l’integrazione lavorativa di persone con disabilità di natura psichica, iscritte negli elenchi di cui all’art. 8 della L.68/1999 della Regione Toscana.  A chi si rivolge L'avviso è rivolto ai datori di lavoro privati, comprese le partecipate che abbiano la forma giuridica di società, a prescindere dal regime proprietario, ad esclusione delle persone fisiche in qualità di datori di lavoro domestico, anche non obbligati ai sensi della L. 68/1999, con unità operativa ubicata in un comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Lucca e Pistoia.  Cosa prevede I contributi sono concessi per assunzioni, inserimento e mantenimento lavorativo, attivazione di tirocini, adozione di accomodamenti ragionevoli, spese sostenute dalla Cooperative Sociali di tipo B per la creazione di nuovi posti di lavoro anche in collaborazione con Imprese ed Enti Pubblici. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/bando-fondo-regionale-loccupazione-delle-persone-con-disabilita-di-natura-psichica-2025-0",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-05-26",
-            "title": "Partecipazione alla IGTM 2025 - Regione Toscana",
-            "description": "Cos'è Fiera Bto B internazionale dedicata al golf in programma dal 20 al 23 ottobre 2025 a Cannes .  A chi si rivolge Operatori turistici della Toscana del settore del golf.  Cosa prevede Postazione con agenda appuntamenti. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/partecipazione-alla-igtm-2025-regione-toscana",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-04-30",
-            "title": "Promozione della diffusione del teleriscaldamento efficiente in Piemonte",
-            "description": "Cos'è L’azione sostiene la diffusione dei sistemi di teleriscaldamento efficienti, di cui alla Direttiva 2012/27/UE e alla Direttiva 2023/1791/UE, attraverso la costruzione o l'ammodernamento di impianti di teleriscaldamento alimentati o integrati da fonti rinnovabili e/o da calore di scarto.  A chi si rivolge Possono richiedere le agevolazioni di cui al presente bando:- le Micro, Piccole e Medie imprese (MPMI);- le Grandi Imprese (GI).  Cosa prevede L’agevolazione, che può coprire fino al 100% dei costi ammissibili dell’investimento, è costituita da un finanziamento agevolato e da una quota di sovvenzione a fondo perduto. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/promozione-della-diffusione-del-teleriscaldamento-efficiente-piemonte",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Bando Fondo Regionale per l'occupazione delle persone con disabilità - 2025 - Avviso pubblico per la concessione di contributi ai datori di lavoro privati – Legge 68/99 - Firenze e Prato",
-            "description": "Cos'è Il presente avviso prevede l’erogazione di contributi a favore di datori di lavoro privati con unità operativa localizzata in un Comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Firenze e Prato, per sostenere e favorire l’occupazione e l’integrazione lavorativa di persone con disabilità iscritte negli elenchi di cui all’art.8 della L.68/1999.  A chi si rivolge Ai datori di lavoro privati, ivi comprese le partecipate che abbiano la forma giuridica di società, a prescindere dal regime proprietario, ad esclusione delle persone fisiche in qualità di datori di lavoro domestico, anche non obbligati ai sensi della L. 68/1999, con unità operativa ubicata in un comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Firenze e Prato.  Cosa prevede Possibilità per i soggetti beneficiari, datori di lavoro privati, di riceve contributi finalizzati a sostenere e favorire l'integrazione lavorativa di persone con disabilità iscritte negli elenchi di cui all'art 8 della L. 68/99 della Regione Toscana per assunzioni, inserimento e mantenimento lavorativo, attivazione di tirocini, adozione di accomodamenti ragionevoli, spese sostenute dalla Cooperative Sociali di tipo B per la creazione di nuovi posti di lavoro anche in collaborazione con Imprese ed Enti Pubblici. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/bando-fondo-regionale-loccupazione-delle-persone-con-disabilita-2025-avviso-pubblico-la",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Bando Fondo Regionale per l'occupazione delle persone con disabilità di natura psichica - 2025 - Avviso pubblico per la concessione di contributi ai datori di lavoro privati – Legge 68/99 - Firenze e Prato",
-            "description": "Cos'è Il presente avviso prevede l’erogazione di contributi a favore di datori di lavoro privati con unità operativalocalizzata in un Comune ricompreso nell’ambito territoriale del Settore Servizi per il lavoro di Firenze e Prato,per sostenere e favorire l’occupazione e l’integrazione lavorativa di persone con disabilità di natura psichica, iscritte negli elenchi di cui all’art.8 della L.68/1999.  A chi si rivolge Ai datori di lavoro privati, ivi comprese le partecipate che abbiano la forma giuridica di società, a prescindere dal regime proprietario, ad esclusione delle persone fisiche in qualità di datori di lavoro domestico, anche nonobbligati ai sensi della L. 68/1999, con unità operativa ubicata in un comune ricompreso nell’ambitoterritoriale del Settore Servizi per il lavoro di Firenze e Prato.  Cosa prevede Possibilità per i soggetti beneficiari, datori di lavoro privati, di riceve contributi finalizzati a sostenere e favorire l'integrazione lavorativa di persone con disabilità di natura psichica, iscritte negli elenchi di cui all'art 8 della L. 68/99 della Regione Toscana per assunzioni, inserimento e mantenimento lavorativo, attivazione di tirocini, adozione di accomodamenti ragionevoli, spese sostenute dalla Cooperative Sociali di tipo B per la creazione dinuovi posti di lavoro anche in collaborazione con Imprese ed Enti Pubblici. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/bando-fondo-regionale-loccupazione-delle-persone-con-disabilita-di-natura-psichica-2025",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "Comune di Valpelline - Contributi a favore delle nuove imprese",
-            "description": "Cos'è L'Amministrazione Comunale, nell'ambito delle politiche di promozione, riqualificazione e rivitalizzazione del territorio, ha destinato per l’anno 2025 la somma di € 6.000,00 a favore delle nuove attività che si insedieranno nel Comune di Valpelline. Il bando in oggetto prevede, dunque, la concessione di contributi ai soggetti privati che aprono un’attività commerciale sul territorio comunale.  A chi si rivolge Il bando è rivolto a imprenditori, microimprese e piccole Imprese.  Cosa prevede Il contributo a fondo perduto potrà essere concesso fino a un massimale di € 6.000,00. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-valpelline-contributi-favore-delle-nuove-imprese",
+            "deadline": "2025-12-08",
+            "title": "Avviso pubblico per la ricerca di n. 1 unità competente in materia di sanità digitale per data governance, cui conferire il contratto di lavoro autonomo, fino al 31 dicembre 2026.",
+            "description": "<p><strong><span style=\"font-family: 'Times New Roman',serif;\">Avviso pubblico per la ricerca di n. 1 unità competente in materia di sanità digitale per data governance, cui conferire il contratto di lavoro autonomo, fino al 31 dicembre 2026, ai sensi dell’art. 7 comma 6 del decreto legislativo 30 marzo 2001, n. 165, da destinare al supporto delle attività previste nel Piano operativo della Convenzione stipulata tra il Dipartimento per la trasformazione digitale della Presidenza del Consiglio dei Ministri ed Agenas.</span></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3a22c03d8ae34801b2bc2c6965e29477",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -623,9 +87,9 @@
         },
         {
             "deadline": "2025-12-04",
-            "title": "Avviso di selezione percorso formativo Energy Specialist: efficienza energetica e risparmio energetico - Anno 2025 - CCIAA di Varese",
-            "description": "Cos'è L'avviso è finalizzato a selezionare 20 imprese varesine che potranno fruire di un percorso formativo, che consente loro di sviluppare una conoscenza dei principi fondamentali dell’efficienza energetica, analizzando le tecnologie e le strategie più efficaci per migliorarla. Al termine del percorso, gli Energy specialist saranno in grado di elaborare un piano d’azione per implementare soluzioni di efficienza energetica all’interno della propria organizzazione, contribuendo alla sostenibilità e all’ottimizzazione dei consumi energetici.  A chi si rivolge Alle micro, piccole e medie imprese varesine (sede legale e/o unità locale operativa), di tutti i settori economici. I partecipanti al corso possono essere: titolari, soci e dipendi dell'impresa. E' consigliata l'individuazione di partecipanti con conoscenze di base in ambito energetico, anche tecniche.  Cosa prevedel servizio, reso con il supporto tecnico dagli esperti di DINTEC – Consorzio per l’innovazione tecnologica(società del sistema camerale), consente alle imprese selezionate di fruire del percorso formativo “Energy Specialist: efficienza energetica e risparmio energetico”. Il percorso formativo si svolge nel periodo compreso tra dicembre 2025 e marzo 2026 e ha una durata complessiva di 29 ore, così articolato:- 20 ore online (5 moduli di 4 ore ciascuno);- 8 ore in presenza per la realizzazione di due project work (2 moduli di 4 ore ciascuno) presso una delle sedi di Camera di commercio;- 1 ora test finale (online) - per l'ottenimento del competence badge digitale o dell'open badge di partecipazione. Le imprese selezionate beneficeranno di un aiuto di stato “indiretto”, il cui valore è quantificato in 750,00 euro. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/avviso-di-selezione-percorso-formativo-energy-specialist-efficienza-energetica-e-risparmio",
+            "title": "AVVISO SELEZIONE PER IL CONFERIMENTO DI INCARICO DI RESPONSABILE DEL SERVIZIO TRIBUTI",
+            "description": "<p>L'Amministrazione intende conferire un incarico di Responsabile del Servizio tributi mediante stipula di contratto a tempo determinato di durata pari a 12 mesi, eventualmente prorogabile, ai sensi dell’art. 110, co. 1<span style=\"mso-spacerun: yes;\">&nbsp; </span>a mezzo di selezione pubblica.</p>\n<p><span style=\"font-size: 11.5pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast;\">L’incarico dovrà essere espletato nel rispetto delle direttive impartite dagli Organi di Governo dell’Ente e degli obiettivi prefissati, con i poteri gestionali tipici del dirigente come previsti dall’art. 107 del D.lgs. 267/2000, e sarà regolato dalle disposizioni di cui ai vigenti CCNL.</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9718ad24d28a4f1f928d9462957a2648",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -636,10 +100,10 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "Esenzione immobili posseduti da società cooperative sociali ed onlus- Comune di Castel Ivano",
-            "description": "Cos'è Esenzione rivolta agli immobili posseduti da persone giuridiche qualificate come cooperativa sociale ai sensi della normativa provinciale di settore, destinati alle attività, anche svolte con modalità commerciali, di cui all'articolo 7, comma 1, lettera i), del decreto legislativo n. 504 del 1992. L'esenzione si applica anche agli immobili posseduti da ONLUS diverse dalle cooperative sociali che abbiano stipulato o stipulino nel medesimo periodo d'imposta convenzioni con la Provincia, i comuni, le comunità, gli enti del servizio sanitario nazionale e le aziende sanitarie  A chi si rivolge Si rivolge a persone giuridiche qualificate come cooperativa sociale ai sensi della normativa provinciale di settore, destinati alle attività, anche svolte con modalità commerciali, di cui all'articolo 7, comma 1, lettera i), del decreto legislativo n. 504 del 1992. L'esenzione si applica anche agli immobili posseduti da ONLUS diverse dalle cooperative sociali che abbiano stipulato o stipulino nel medesimo periodo d'imposta convenzioni con la Provincia, i comuni, le comunità, gli enti del servizio sanitario nazionale e le aziende sanitarie  Cosa prevede Esenzione dell'imposta IM. I. S. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/esenzione-immobili-posseduti-da-societa-cooperative-sociali-ed-onlus-comune-di-castel",
+            "deadline": "2025-12-04",
+            "title": "Progetto PNRR AFAM Internazionalizzazione MTNT - AVVISO FINALIZZATO ALLA SELEZIONE, PER SOLI TITOLI, DI STRUMENTISTI PER LA FORMAZIONE DELL’ORCHESTRA PER LA REALIZZAZIONE DELL’OPERA “LA VENDEMMIA OSSIA LA DAMA INCOGNITA” DI G. GAZZANIGA",
+            "description": "<p><strong><span style=\"font-size: 16.0pt; line-height: 115%; font-family: 'Book Antiqua',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: windowtext; mso-ansi-language: EN-US;\">Progetto PNRR AFAM Internazionalizzazione “MTNT-Music Theatre &amp; New Technologies Toward a New Paradigm in Opera Studies and Performance”</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%; font-family: 'Book Antiqua',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: windowtext;\">Codice INTAFAM-00032</span></strong></p>\n<p><span style=\"mso-bookmark: _Hlk209435491;\"><strong><span style=\"font-size: 12.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%; font-family: 'Book Antiqua',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: windowtext;\">CUP </span></strong></span><span style=\"mso-bookmark: _Hlk209435491;\"><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Book Antiqua',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; color: windowtext;\">B26E24000320006</span></strong></span><span style=\"font-size: 14.0pt; font-family: 'Book Antiqua',serif;\">&nbsp;</span></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Book Antiqua',serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-font-kerning: 0pt; mso-ligatures: none; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">AVVISO FINALIZZATO ALLA SELEZIONE, PER SOLI TITOLI, DI STRUMENTISTI PER LA FORMAZIONE DELL’ORCHESTRA PER LA REALIZZAZIONE DELL’OPERA “LA VENDEMMIA OSSIA LA DAMA INCOGNITA” DI G. GAZZANIGA</span></strong></p>\n<p><span style=\"font-size: 11.0pt; font-family: 'Book Antiqua',serif;\">La selezione è finalizzata ad individuare 12 strumentisti e una cantante per la costituzione dell’orchestra secondo il seguente organico:&nbsp;</span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 1 cantante per la parte di Artemisia;</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 5 violini;</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 1 viola;</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 1 violoncello;</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 1 contrabbasso; </span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 1 oboe;</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">n. 2 trombe;</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk213832365;\"><span style=\"font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">·<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-family: 'Book Antiqua',serif;\">clavicembalo.</span></span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=85b071cb88944b6b940177c24a1939ee",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -650,10 +114,10 @@
             }
         },
         {
-            "deadline": "2025-10-16",
-            "title": "Contributi alle attività danneggiate dalla chiusura del Ponte sul Cavalcavia ferroviario di Casalecchio di Reno",
-            "description": "Cos'è Il bando prevede l'assegnazione di contributi a ristoro delle imprese che hanno subito disagi a causa della chiusura del cavalcaferrovia nell’ambito del cantiere del nodo ferrostradale del centro di Casalecchio di Reno. l’Amministrazione ha deliberato di destinare risorse economiche mirate a interventi compensativi, finalizzate a garantire un sostegno concreto e un parziale ristoro dei disagi subiti dagli operatori economici.  A chi si rivolge Il bando è rivolto alle imprese che abbiano, o abbiano avuto, la sede o un’unità locale ubicata in una delle vie o piazze situate all’interno dell’Areale. Possono presentare domanda le imprese riconducibili al settore del cosiddetto piccolo commercio di vicinato, ed in particolare:- esercizi commerciali al dettaglio, alimentari e non alimentari (quali panifi ci, macellerie, cartolerie, edicole, negozi di abbigliamento, esercizi legati alla cultura e al tempo libero, ecc.);- attività di somministrazione al pubblico di alimenti e bevande (bar, pub, ristoranti, ecc.);- attività artigianali, comprese quelle del comparto alimentare, nonché i servizi alla persona (ad es. parrucchieri, estetisti, tatuatori, autoriparatori, meccanici e carrozzerie).  Cosa prevede Il ristoro è determinato secondo le misure di seguito riportate, sulla base della percentuale di riduzione del volume d’affari risultante dal confronto tra le annualità 2024 e 2023, riferito alla sede o unità locale oggetto della domanda: - Percentuale perdita di volume d’affari dal 15 % e fino al 25%: misura forfetaria del ristoro pari a 2.000 euro. - Percentuale perdita di volume d’affari oltre il 25% e fino al 50%: misura forfetaria del ristoro pari a 3.000 euro. - Percentuale perdita di volume d’affari oltre il 50% e fino al 75%: misura forfetaria del ristoro pari a 4.000 euro. - Percentuale perdita di volume d’affari oltre il 75%: misura forfetaria del ristoro pari a 5.000 euro. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/contributi-alle-attivita-danneggiate-dalla-chiusura-del-ponte-sul-cavalcavia-ferroviario",
+            "deadline": "2025-12-05",
+            "title": "Avviso di selezione pubblica per il conferimento dell'incarico di responsabile del settore amministrativo, da inquadrare nella categoria funzionari, profilo amministrativo, posizione economica ex D1, a tempo determinato e parziale -18 ore settimanali (eventualmente modificabile a tempo pieno) ai sensi dell'art.110, colla 1, D. Lgs. n. 267/2000.",
+            "description": "<p>AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO DELL'INCARICO DI RESPONSABILE DEL SETTORE AMMINISTRATIVO, DA INQUADRARE NELLA CATEGORIA FUNZIONARI, PROFILO AMMINISTRATIVO, POSIZIONE ECONOMICA EX D1, A TEMPO DETERMINATO E PARZIALE – 18 ORE SETTIMANALI -(EVENTUALMENTE MODIFICABILE A TEMPO PIENO) AI SENSI DELL'ART. 110, COMMA 1, D.LGS. N. 267/2000.\n <br>\n IL SEGRETARIO COMUNALE\n <br>\n In esecuzione della deliberazione di Giunta Comunale n. 4 del 29.1.2025, esecutiva, avente ad oggetto il Piano triennale del fabbisogno di personale 2025/2027 modificato con successiva Deliberazione di Giunta Comunale n. 58 del 27.8.2025, quale sezione del PIAO (Piano di Attività e Organizzazione);\n <br>\n Richiamata la propria determinazione n. 19 del 14.11.2025;\n <br>\n Visto l'art. 110, comma 1, del D.gs 267/2000;\n <br>\n Visto lo Statuto Comunale;\n <br>\n Visto il Regolamento di organizzazione degli uffici e dei servizi del Comune di Stimigliano; Visto il vigente CCNL Funzioni Locali;\n <br>\n RENDE NOTO\n <br>\n che è indetta una valutazione comparativa di idoneità per l’individuazione del candidato a cui conferire la responsabilità del Settore amministrativo del Comune di Stimigliano.\n <br>\n Il Comune intende acquisire e valutare, nel rispetto del D. Lgs 198/2006 e dell'art. 35 del D. Lgs 165/2000, in materia di pari opportunità tra uomini e donne, domande di soggetti interessati all'assunzione presso questo Ente nel predetto ruolo di Responsabile del Settore Amministrativo, mediante stipula di contratto a tempo parziale (eventualmente elevabile a tempo pieno) e determinato, ai sensi del comma 1 dell'art.110 del D. Lgs. 267/2000, da inquadrarsi nella categoria Funzionari profilo Amministrativo, posizione economica D1 del C.C.N.L. del Comparto Funzioni Locali.\n <br>\n L’incarico sarà attribuito dal Sindaco ai sensi dell’art. 50, comma 10, del d.lgs. 267/2000 ed avrà decorrenza dalla stipulazione del contratto individuale di lavoro e avrà durata per n. 1 anno, eventualmente prorogabile per tutto il mandato del Sindaco.\n <br>\n L’incarico si risolverà di diritto qualora il Comune dichiari il dissesto, versi in situazioni strutturalmente deficitarie o comunque entro quindici (15) giorni dall’anticipata cessazione del mandato del Sindaco, dovuta a qualsiasi causa.\n <br>\n La selezione avviene per mezzo di valutazione dei candidati, sulla base del curriculum vitae professionale e di un colloquio. La Commissione, all’esito della selezione, esprimerà un giudizio di idoneità/non idoneità. I nomi dei candidati idonei verranno quindi trasmessi al Sindaco per la nomina di uno di essi ai sensi del precitato art. 50 Tuel.\n <br>\n ART 1. DURATA DELL’INCARICO E TRATTAMENTO ECONOMICO\n <br>\n Il candidato utilmente selezionato, a cui verrà affidato l’incarico, stipulerà un contratto di lavoro a tempo parziale (18 ore settimanali, eventualmente elevabile a tempo pieno) e determinato per n. 1 anno, eventualmente prorogabile per tutto il mandato del Sindaco.\n <br>\n Il trattamento economico annuo tabellare è quello previsto dal vigente contratto collettivo nazionale Funzioni Locali per la categoria dei Funzionari (ex D1), comprensivo di ogni onere anche a carico dell’Ente, oltre ad un trattamento economico accessorio spettante al personale incaricato di posizioni organizzative, costituito dalla indennità di posizione stabilita dall’Ente e da un’indennità di risultato che verrà corrisposta solo a seguito del perfezionamento del ciclo della performance. Eventualmente può essere corrisposta un’indennità ad personam ai sensi del precitato art. 110 Tuel.\n <br>\n ART2. REQUISITI GENERALI DI PARTECIPAZIONE\n <br>\n Per l’ammissione alla selezione è richiesto il possesso dei seguenti requisiti:\n <br>\n a)avere la cittadinanza italiana oppure la cittadinanza di uno degli stati membri dell’Unione Europea;\n <br>\n b)di godere dei diritti di elettorato politico attivo;\n <br>\n c)idoneità fisica allo svolgimento delle mansioni proprie del profilo del posto oggetto di selezione, che l’Amministrazione si riserva di accertare ai sensi della normativa vigente;\n <br>\n d)età non inferiore agli anni 18 e non superiore a quella prevista dalle norme vigenti per il collocamento a riposo;\n <br>\n e)per i candidati di sesso maschile, posizione regolare nei confronti degli obblighi militari (solo per i concorrenti nati anteriormente al 1986);\n <br>\n f)non aver riportato condanne penali e non essere stati interdetti o sottoposti a misure che impediscono, secondo le leggi vigenti, la costituzione di rapporti di impiego con la Pubblica Amministrazione;\n <br>\n g)non essere stati licenziati ovvero destituiti o dispensati dall’impiego presso una pubblica amministrazione per persistente insufficiente rendimento o dichiarati decaduti da un impiego pubblico per averlo conseguito mediante la produzione di documenti falsi o viziati da invalidità non sanabile;\n <br>\n h)non trovarsi in alcuna condizione di incompatibilità e inconferibilità previste dal D. Lgs n. 39/2013; I requisiti prescritti per l’ammissione devono essere posseduti alla data di scadenza del termine stabilito per la presentazione delle domande di partecipazione alla Selezione.\n <br>\n L'Amministrazione può disporre, in ogni momento con provvedimento motivato, l’esclusione dalla Selezione per difetto dei requisiti prescritti; il provvedimento di esclusione ha carattere definitivo.\n <br>\n ART.3 REQUISITI SPECIFICI DI AMMISSIONE\n <br>\n Per l’ammissione alla selezione è altresì richiesto almeno il possesso dei seguenti specifici requisiti.\n <br>\n a) TITOLO DI STUDIO:\n <br>\n ⮚ LAUREA TRIENNALE\n <br>\n OPPURE\n <br>\n ⮚ DIPLOMA DI LAUREA, conseguita secondo l’ordinamento antecedente al D.M. 509/99\n <br>\n (c.d. vecchio ordinamento).\n <br>\n I requisiti specifici prescritti devono essere posseduti alla data di scadenza del termine stabilito per la\n <br>\n presentazione della domanda di ammissione alla selezione;\n <br>\n L’Amministrazione può disporre, in ogni momento con provvedimento motivato, l’esclusione dalla\n <br>\n Selezione per difetto dei requisiti prescritti; il provvedimento di esclusione ha carattere definitivo.\n <br>\n 4. TERMINI E MODALITA’ PER LA PRESENTAZIONE DELLA CANDIDATURA\n <br>\n Il presente avviso sarà pubblicato sul Portale “InPA”, disponibile all’indirizzo internet\n <br>\n https://www.inpa.gov.it e sul sito ufficiale del Comune di Stimigliano nella sezione “Amministrazione\n <br>\n Trasparente” – “Bandi di concorso”.\n <br>\n Il candidato dovrà inviare la domanda di ammissione esclusivamente per via telematica, autenticandosi\n <br>\n con SPID/CIE/CNS/eIDAS, compilando il format di candidatura sul Portale “InPA”, previa\n <br>\n registrazione sullo stesso. La registrazione, la compilazione e l’invio on line della domanda devono\n <br>\n essere completati entro il termine di trenta giorni decorrenti dal giorno successivo alla data di\n <br>\n pubblicazione del presente avviso sul Portale InPA. Tale termine è perentorio e sono accettate\n <br>\n esclusivamente le domande inviate entro la scadenza dello stesso. La data di presentazione on line della\n <br>\n domanda di partecipazione è certificata e comprovata da apposita ricevuta scaricabile, al termine della\n <br>\n procedura di invio, dal Portale InPA che, allo scadere del suddetto termine per la presentazione della\n <br>\n domanda, non permette più l’accesso alla procedura di candidatura. Nell’apposito format di\n <br>\n presentazione della domanda, tenuto conto dell’effettivo possesso dei requisiti che vengono in tal modo\n <br>\n autocertificati ai sensi dell’articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000,\n <br>\n n. 445, i candidati devono dichiarare negli appositi spazi, a pena di esclusione:\n <br>\n a)il cognome e il nome, la data, il luogo di nascita;\n <br>\n b)il codice fiscale;\n <br>\n c)la residenza, con l’esatta indicazione del numero di codice di avviamento postale, il domicilio, ove differente dalla residenza;\n <br>\n d)di non essere stati destituiti o dispensati dall’impiego presso una pubblica amministrazione per persistente insufficiente rendimento, ovvero non essere stati dichiarati decaduti o licenziati da un impiego statale, ai sensi dell’articolo 127, comma 1, lettera d), del testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3 e ai sensi delle corrispondenti disposizioni di legge e dei contratti collettivi nazionali di lavoro relativi al personale dei vari comparti;\n <br>\n e)di non avere in corso procedimenti penali pendenti e non aver riportato condanne penali che impediscano, ai sensi delle vigenti disposizioni in materia, la costituzione di un rapporto di lavoro con pubbliche amministrazioni;\n <br>\n f)di godere dei diritti civili e politici;\n <br>\n g)di essere in possesso dell’idoneità fisica all’impiego;\n <br>\n h)di aver preso visione e di accettare in modo pieno e incondizionato le informazioni, disposizioni e condizioni del bando, ivi incluso l’articolo 9 relativo al “Trattamento dei dati personali”.\n <br>\n Non sono ammesse altre modalità di presentazione della domanda.\n <br>\n 5. AMMISSIONE DEI CANDIDATI\n <br>\n Dopo la scadenza del termine per la ricezione delle domande, le stesse saranno esaminate, ai fini della loro ammissibilità, dal Segretario Comunale. Il candidato è escluso dalla partecipazione alla selezione nei seguenti casi:\n <br>\n •mancanza dei requisiti prescritti dal presente bando;\n <br>\n Redatta la lista degli ammessi alla selezione, il Segretario comunale nomina una Commissione formata dal Segretario stesso e da n. 2 componenti interni o esterni.\n <br>\n La Commissione, sulla base dei criteri di cui al successivo articolo 6 e di un colloquio, esprimerà un giudizio di idoneità/non idoneità e non verrà redatta alcuna graduatoria.\n <br>\n I nominativi degli idonei, con tutta la documentazione a corredo, verranno inviati al Sindaco il quale sceglie discrezionalmente tra questi il soggetto da incaricare, motivando adeguatamente le ragioni della scelta in premessa al Decreto di nomina, con riferimento alle competenze emerse dalla selezione, al profilo professionale richiesto, allo specifico incarico e alle esigenze derivanti dal mandato elettorale. Qualora lo riterrà opportuno, il Sindaco potrà convocare per un ulteriore colloquio uno o più candidati idonei.\n <br>\n 6. PROCEDURA DI SELEZIONE E CRITERI DI VALUTAZIONE\n <br>\n La Commissione esprime un giudizio di idoneità/non idoneità per ogni candidato, sulla base dei criteri che seguono.\n <br>\n Per la scelta degli idonei all’incarico si considereranno la professionalità, l'esperienza, le attitudini e le capacità attestate dal curriculum e emerse nel colloquio, e precisamente:\n <br>\n A)professionalità che emerge dal curriculum:\n <br>\n a)verranno preferite le lauree in materie giuridiche, economiche, scienze dell’amministrazione ed equiparate;\n <br>\n b)voto conseguito nel titolo di studio richiesto;\n <br>\n c)master universitari attinenti;\n <br>\n d)corsi universitari professionalizzanti attinenti e corsi di formazione professionale organizzati dall'ordine di riferimento;\n <br>\n e)iscrizione ad albi professionali attinenti;\n <br>\n f)pubblicazioni attinenti e ogni altro corso professionalizzante non rientrante espressamente nella precedente lettera c);\n <br>\n Fin da ora si comunica che\n <br>\n il colloquio si terrà il giorno 10 dicembre alle ore 11.00 presso la sede del Comune di Stimigliano in Piazza Roma, 6\n <br>\n L’assenza del candidato nel giorno e nell’ora sopra indicati equivalgono a rinuncia.\n <br>\n Tutte le comunicazioni di carattere generale relative alla selezione saranno pubblicate esclusivamente\n <br>\n sul Portale “InPA”, disponibile all’indirizzo internet https://www.inpa.gov.it e sul sito ufficiale del Comune di Stimigliano nella sezione “Amministrazione Trasparente” – “Bandi di concorso”.\n <br>\n Le pubblicazioni sui siti web hanno valore di notifica a tutti gli effetti delle comunicazioni ai/alle candidati/te, ai/alle quali non saranno inviati individualmente ulteriori avvisi relativamente a:\n <br>\n •ammissione, ammissione con riserva, esclusione dalla selezione;\n <br>\n •scelta del Sindaco.\n <br>\n Dalla data di pubblicazione delle sopra indicate comunicazioni decorreranno eventuali termini assegnati per regolarizzazioni, presentazione documentazione o ricorsi. Le sole comunicazioni contenenti le esclusioni per mancanza dei requisiti richiesti, saranno oggetto di informazione personale inviata all’indirizzo di posta elettronica indicato nella domanda.\n <br>\n In ogni caso nessuna comunicazione o convocazione sarà inviata a mezzo posta ordinaria.\n <br>\n 8. CESSAZIONE DELL’INCARICO\n <br>\n E’ facoltà del Sindaco ai sensi dell’art. 110 comma 1 del D.Lgs 267/2000, revocare l’incarico in qualunque momento con provvedimento motivato, per i seguenti motivi:\n <br>\n •inosservanza delle direttive del Sindaco e mancato raggiungimento degli obiettivi assegnati;\n <br>\n •inadempienza grave e reiterata;\n <br>\n •in relazione a intervenuti mutamenti organizzativi e/o sopravvenuta incompatibilità della spesa relativa al presente incarico con la normativa vigente in materia di contenimento dei costi del personale;\n <br>\n 9. TRATTAMENTO DEI DATI PERSONALI\n <br>\n Ai sensi del Codice in materia di protezione dei dati personali approvato con D. Lgs. n. 196/2003 e del Regolamento UE n. 2016/679, si informano gli interessati che il trattamento dei dati personali da essi forniti in sede di partecipazione alla procedura de quo o comunque acquisiti a tal fin dal Comune di Stimigliano, in qualità di titolare del trattamento è finalizzato all’espletamento delle attività, dei compiti e degli obblighi legali connessi alla selezione in oggetto ed avverrà a cura delle persone preposte al relativo procedimento, con l’utilizzo di procedure anche informatizzate, nei modi e nei limiti necessari per perseguire le predette finalità, anche in caso di eventuale comunicazione a terzi. Il conferimento di tali dati è necessario per verificare il possesso dei requisiti richiesti ai fini della partecipazione alla procedura nonché, in generale, per consentire l’espletamento della procedura; la loro mancata\n <br>\n indicazione può precludere tale verifica e la partecipazione alla selezione. I dati saranno trattati per tutta la durata del procedimento e, in seguito, saranno conservati in conformità alle norme sulla conservazione della documentazione amministrativa. I dati non saranno trasferiti al di fuori dell’Unione Europea né saranno oggetto di processi decisionali automatizzati compresa la profilazione. I dati non saranno comunicati a terzi né diffusi, se non nei casi specificamente previsti dal diritto nazionale o dell’Unione europea, in particolare sul sito istituzionale per finalità di pubblicità legale e trasparenza. Gli interessati hanno il diritto di ottenere dal Comune, nei casi previsti, l'accesso ai dati personali e la rettifica o la cancellazione degli stessi o la limitazione del trattamento che li riguarda o di opporsi al trattamento (artt. 15 e ss. del RGPD). L’apposita istanza al Comune di Stimigliano è presentata contattando l’Ente ai recapiti indicati. Gli interessati che ritengono che il trattamento dei dati personali a loro riferiti avvenga in violazione di quanto previsto dal RGPD hanno il diritto di proporre reclamo al Garante, come previsto dall'art. 77 del Regolamento stesso, o di adire le opportune sedi giudiziarie (art. 79 del RGPD).\n <br>\n Il Titolare del trattamento dei dati è l’Amministrazione che ha indetto il presente bando, a cui il candidato potrà rivolgersi per far valere i propri diritti al seguente recapito: ragioneria@comune.stimigliano.ri.it .\n <br>\n Il Dpo del Comune di Stimigliano è Giacomo Briga\n <br>\n e-mail: brigagiacomo@tiscali.it\n <br>\n pec: brigagiacomo@pec.it\n <br>\n Tel.: 0935-933337 Mobile: 333-2068662\n <br>\n 10. DISPOSIZIONI FINALI\n <br>\n L’Ente si riserva di modificare, prorogare o eventualmente revocare il presente avviso a suo insindacabile giudizio.\n <br>\n Per tutto quanto non espressamente previsto nel presente avviso pubblico si rinvia alla normativa vigente\n <br>\n in materia, con particolare riguardo alle norme concernenti il reclutamento del personale presso le Am-\n <br>\n ministrazioni Pubbliche.\n <br>\n Copia del presente avviso ed ulteriori informazioni potranno essere richieste all'Ufficio Personale del Comune di Stimigliano, al n. 0765-576038\n <br>\n Il Responsabile del procedimento ex art. 5 L. 241 del 07.08.1990 è il Segretario Comunale Federica Bifulco.\n <br>\n Stimigliano, lì 14 novembre 2025\n <br>\n Il Segretario comunale\n <br>\n Federica Bifulco\n <br>\n <br>\n <br></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=302abb26f6634bfdba139cff29c15548",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -664,10 +128,10 @@
             }
         },
         {
-            "deadline": "2025-05-31",
-            "title": "Contributo per l'organizzazione di soggiorni socio-educativi estivi - anno 2025 - Provincia autonoma di Trento",
-            "description": "Cos'è Sono oggetto di contributo le colonie diurne, i campeggi e i soggiorni permanenti organizzati esclusivamente sul territorio della Provincia di Trento tra il 1° giugno e il 15 settembre di ogni anno in favore di giovani residenti in Provincia di Trento, in età per la frequenza della scuola dell'infanzia e del primo e secondo ciclo di istruzione e formazione scolastica, che non abbiano superato il diciottesimo anno di età.  A chi si rivolge Possono beneficiare del contributo gli enti, le associazioni o altre organizzazioni senza scopo di lucro operanti sul territorio della Provincia di Trento in favore della popolazione giovanile residente in Provincia di Trento.  Cosa prevede Un contributo giornaliero per ogni utente presente e per i giorni di svolgimento del servizio nella seguente misura: a) euro 4,10 per la colonia diurna; b) euro 2,70 per il campeggio; c) euro 6,30 per il soggiorno permanente. I contributi per utenti con disabilità certificata ai sensi della Legge 5 febbraio 1992, n. 104 sono concessi nella seguente misura giornaliera: a) euro 50,00 per la colonia diurna; b) euro 40,00 per il campeggio; c) euro 60,00 per il soggiorno permanente. Il contributo complessivo è determinato moltiplicando il numero totale delle presenze giornaliere degli utenti per l'ammontare del contributo pro-capite giornaliero e per un importo massimo di euro 14.000,00 per ogni tipologia di attività. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/contributo-lorganizzazione-di-soggiorni-socio-educativi-estivi-anno-2025-provincia",
+            "deadline": "2025-12-03",
+            "title": "Università Ca' Foscari Venezia - Avviso di procedura comparativa per l’individuazione di 5 risorse a supporto del progetto Digital Education Hub – Edvance (PNRR), Missione 4 “Istruzione e ricerca” – Componente 1 “Potenziamento dell’offerta dei servizi all’istruzione: dagli asili nido alle università” – Investimento 3.4 - Sub-Investimento T3 - finanziato dall’Unione europea – Next Generation EU - DEH2023-00010 Digital Education Hub_Higher Education - Codice unico di progetto: CUP D43C23004530005)",
+            "description": "<p>Nell'ambito del progetto Digital Education Hub – Edvance (Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 “Istruzione e ricerca” – Componente 1 “Potenziamento dell’offerta dei servizi all’istruzione: dagli asili nido alle università” – Investimento 3.4 “Didattica universitaria e competenze avanzate” – Sub-Investimento T3 “Digital Education Hubs (DEH)”, finanziato dall’Unione europea – Next Generation EU - DEH2023-00010 Digital Education Hub_Higher Education - Codice unico di progetto: (CUP) D43C23004530005), sono richieste le seguenti figure professionali:</p>\n<p>n. 1 esperto in project management con esperienza in co-progettazione e facilitazione di processi decisionali complessi</p>\n<p>n. 1 risorsa a supporto delle attività di comunicazione e disseminazione per il progetto DEH</p>\n<p>n. 2 risorse a supporto dello sviluppo e dell'implementazione di un programma di formazione per docenti incentrato sulle metodologie online e blended, al fine di migliorare le competenze nell'insegnamento digitale e a distanza</p>\n<p>n. 1 esperto Content Manager per la gestione, lo sviluppo e l’allestimento di piattaforme e-learning</p>\n<p>Le attività e le principali funzioni richieste, le conoscenze, capacità e competenze attese, il titolo di studio e l’esperienza professionale richiesti, la tipologia, la durata e il compenso dell’incarico, i titoli valutabili per ciascuno dei suddetti profili sono indicate nel dettaglio nelle rispettive schede descrittive allegate al bando</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4cea9b8d64454639af761a4346dc5194",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -678,10 +142,350 @@
             }
         },
         {
-            "deadline": "2022-06-07",
-            "title": "Fondo impresa femminile",
-            "description": "L’incentivo per le imprese guidate da donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
+            "deadline": "2025-12-09",
+            "title": "COMUNE DI MILANO - AVVISO PUBBLICO PER LA RICERCA DI CANDIDATURE PER LA COPERTURA, MEDIANTE COSTITUZIONE DI RAPPORTO DI LAVORO A TEMPO DETERMINATO, AI SENSI DELL’ART. 110, COMMA 1, DEL D.LGS. 267/2000, DELLA POSIZIONE DI DIRIGENTE DELL’AREA \"PROCEDURE SANZIONATORIE” NELL’AMBITO DELLA DIREZIONE SICUREZZA URBANA",
+            "description": "<p><strong>AVVISO PUBBLICO PER LA RICERCA DI CANDIDATURE PER LA COPERTURA, MEDIANTE COSTITUZIONE DI RAPPORTO DI LAVORO A TEMPO DETERMINATO, AI SENSI DELL’ART. 110, COMMA 1, DEL D.LGS. 267/2000, DELLA POSIZIONE DI DIRIGENTE DELL’AREA \"PROCEDURE SANZIONATORIE” NELL’AMBITO DELLA DIREZIONE SICUREZZA URBANA</strong></p>\n<p>Con Determinazione del Direttore Area Acquisizione Risorse Umane n. 10464 del 18/11/2025 è stato indetto un Avviso Pubblico per la ricerca di candidature per la copertura, mediante costituzione di rapporto di lavoro a tempo determinato, ai sensi dell’art. 110, comma 1 del D.Lgs. 267/2000 e dell’art. 44 del Regolamento sull’Ordinamento degli Uffici e dei Servizi del Comune di Milano, della posizione di Dirigente dell’Area \"Procedure Sanzionatorie\" nell'ambito della Direzione Sicurezza Urbana.</p>\n<p>L'Avviso Pubblico è indetto contemporaneamente all'avvio, da parte della Direzione Organizzazione e Risorse Umane, della procedura di reperimento interno e, conseguentemente, la procedura pubblica avrà seguito a discrezione dell’Amministrazione e solo a condizione che la ricerca di analoga professionalità interna non abbia esito positivo.</p>\n<p>L'Amministrazione Comunale garantisce pari opportunità tra uomini e donne per l'accesso al lavoro e il trattamento sul lavoro, così come previsto dal D.Lgs. n. 198/2006&nbsp;<em>“Codice delle pari opportunità tra uomo e donna a norma dell’art. 6 della legge 28 novembre 2005, n. 246”&nbsp;</em>e dall’art. 57 del D.Lgs. n. 165/2001<em> “Norme generali sull’ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche”</em>. Il Comune di Milano promuove e sostiene le Pari Opportunità e la Parità di Genere, ed è Ente certificato ai sensi della Prassi UNIPdR 125: 2022.</p>\n<p>La candidatura deve essere presentata,&nbsp;<strong>a far tempo dalle ore 12:00 del 19/11/2025 e non oltre le ore 12:00 del 09/12/2025</strong>, unicamente per via telematica, attraverso SPID, CIE, CNE o eIDAS, mediante la compilazione del presente format.</p>\n<p>Si precisa che alla domanda di partecipazione, nell’apposita sezione “Allegati”, <strong>deve essere allegato il modello di CV fornito dall'Amministrazione, </strong>debitamente compilato in ogni sua parte, aggiornato e in lingua italiana, in versione pdf, sottoscritta e contenente l’autorizzazione al trattamento dei dati personali. Il modello, in formato word, è disponibile per il download nella sezione “Bando ed altri allegati” della pagina dedicata alla selezione sul sito del Comune di Milano, nonchè nella sezione “Allegati” della presente pagina. <strong>Solo questo documento sarà preso in considerazione ai fini della valutazione dei requisiti professionali di cui al paragrafo 2, lett. p).</strong></p>\n<p><strong>Per richieste di assistenza di tipo informatico legate alla procedura di iscrizione online, i candidati e le candidate devono utilizzare esclusivamente l’apposito modulo di assistenza presente su questo Portale.</strong></p>\n<p>Per qualunque altra informazione o comunicazione i candidati possono inviare una pec al seguente indirizzo:&nbsp;<a title=\"mailto:ru.selezioni@pec.comune.milano.it\" href=\"mailto:ru.selezioni@pec.comune.milano.it\">ru.selezioni@pec.comune.milano.it</a></p>\n<ul>\n <li>Avviso pubblico:&nbsp;<em>vedi Allegati&nbsp;</em></li>\n <li>Modello Curriculum Vitae:<em> vedi Allegati</em></li>\n</ul>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e74e372b20f845fc838a86048172a15d",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-10",
+            "title": "AVVISO PUBBLICO PER LA SELEZIONE DI N. 1 ESPERTO PER IL CONFERIMENTO DI INCARICHI DI LAVORO AUTONOMO EX ART. 7, COMMA 6 DEL D.LGS. N. 165/2001 PER LO SVOLGIMENTO DI ATTIVITÀ DI “DIREZIONE DEL PROGETTO TRIENNALE 2026-2028_ SAI (SISTEMA DI ACCOGLIENZA E INTEGRAZIONE)”.",
+            "description": "<p>E' indetta procedura di valutazione comparativa per il conferimento di un incarico individuale di collaborazione autonoma, di natura temporanea, ai sensi dell’art. 7, comma 6, del D.Lgs. n. 165/2001, destinato a un esperto di comprovata specializzazione universitaria e comprovata elevata professionalità per lo svolgimento delle attività di direzione del Progetto SAI (Sistema di Accoglienza e Integrazione), triennio 2026–2028.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a9decc63165241229953c90c9b9d32de",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-29",
+            "title": "Avviso n° 59/2025 Dipartimento di Ingegneria Elettrica e Elettronica",
+            "description": "<p>Avviso pubblico di selezione Per il conferimento di un contratto di lavoro autonomo nell'ambito del Progetto: “VISIONARY – Advanced VISual feedback for neurorehabilitatION systems based on virtuAl RealitY” - Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 “Istruzione e ricerca” – Componente 2 “Dalla ricerca all’impresa” - Investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN) – del Piano Nazionale di Ripresa e Resilienza, dedicata ai Progetti di ricerca di Rilevante Interesse Nazionale - finanziato dall’Unione Europea – NextGenerationEU - PRIN 2022 Avviso D.D. 104 del 02/02/2022\n <br>\n Codice Progetto: 202275443W - CUP F53D23001600006\n <br>\n Responsabile scientifico: Prof. Danilo Pani</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=66851d58482d481f8a8219f9e89faea8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-29",
+            "title": "Avviso n° 60/2025 Dipartimento di Ingegneria Elettrica e Elettronica",
+            "description": "<p>Avviso pubblico di selezione per il conferimento di un contratto di lavoro autonomo nell'ambito del Progetto: “VISIONARY – Advanced VISual feedback for neurorehabilitatION systems based on virtuAl RealitY” - Piano Nazionale di Ripresa e Resilienza (PNRR), Missione 4 “Istruzione e ricerca” – Componente 2 “Dalla ricerca all’impresa” - Investimento 1.1, Fondo per il Programma Nazionale di Ricerca e Progetti di Rilevante Interesse Nazionale (PRIN) – del Piano Nazionale di Ripresa e Resilienza, dedicata ai Progetti di ricerca di Rilevante Interesse Nazionale - finanziato dall’Unione Europea – NextGenerationEU - PRIN 2022 Avviso D.D. 104 del 02/02/2022\n <br>\n Codice Progetto: 202275443W - CUP F53D23001600006\n <br>\n Responsabile scientifico: Prof. Danilo Pani</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=785b6148dc0c436299164e45c1b2ff75",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-15",
+            "title": "Abruzzo - Bando Impegni in apicoltura",
+            "description": "L’intervento è concepito come strumento di tutela della biodiversità a sostegno della “architettura verde” della nuova politica agricola comunitaria; esso è finalizzato a garantire la presenza delle api in aree ad elevato valore naturalistico dove il servizio di impollinazione contribuisce alla salvaguardia di specie vegetali, anche se di minore interesse mellifero, importanti dal punto di vista della biodiversità e della tutela degli ecosistemi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/abruzzo-bando-impegni-per-lapicoltura",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Settore apistico",
+                    "Stanziamento": "€ 613.250"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-21",
+            "title": "ERA4Health – Call PREVENT-OO: Comprendere e prevenire sovrappeso e obesità",
+            "description": "Attraverso il bando, ERA4health offre agli scienziati di diversi Paesi la possibilità di costruire una collaborazione di valore su progetti di ricerca interdisciplinari comuni, basati sulla complementarità e sulla condivisione delle competenze nel campo dell’obesità, con un chiaro approccio di ricerca traslazionale.Un coinvolgimento approfondito e bidirezionale di diversi attori contribuirà a sviluppare strategie di ricerca efficaci promuovendo la cooperazione a livello transnazionale e aprendo la strada a nuove conoscenze e nuove strategie di prevenzione per gli europei e non solo.I risultati dei progetti finanziati contribuiranno a ridurre il peso del sovrappeso e dell’obesità in Europa grazie a una migliore comprensione dei meccanismi, ancora poco studiati, alla base di sovrappeso e obesità, il che permetterà di sviluppare nuove strategie preventive e terapeutiche più mirate.",
+            "link": "https://www.obiettivoeuropa.com/bandi/era4health-call-prevent-oo-comprendere-e-prevenire-sovrappeso-e-obesita",
+            "custom": {
+                "custom": {
+                    "Topics": "Ricerca Scientifica, Salute e medicina, Sanità",
+                    "Stanziamento": "€ 18.940.000"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-22",
+            "title": "Sardegna - Avviso pubblico per la concessione di contributi per attività di promozione di prodotti audiovisivi",
+            "description": "La Fondazione Sardegna Film Commission, in attuazione della Legge Regionale 20 settembre 2006, n. 15 e in coerenza con le proprie finalità statutarie, intende concedere dei contributi destinati al sostegno di attività di promozione, circuitazione e lancio di opere audiovisive e crossmediali riconosciute come “Made in Sardegna”.",
+            "link": "https://www.obiettivoeuropa.com/bandi/sardegna-avviso-pubblico-per-la-concessione-di-contributi-per-attivita-di-promozione-di-prodotti-audiovisivi",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Audiovisivi e Cinema",
+                    "Stanziamento": "€ 85.185"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-30",
+            "title": "Campania - Turismo eco-sociale: valorizzando l'accessibilità e la sostenibilità per destinazioni turistiche responsabili",
+            "description": "La Regione con il bando e in coerenza il FUNT - Fondo Unico Nazionale Turismo, emana l’avviso con l’obiettivo di:riconoscere il ruolo strategico del turismo per lo sviluppo economico, la promozione e la valorizzazione anche in chiave di sostenibilità delle strutture e delle proposte turistiche;favorire il miglioramento e l'ampliamento dell'offerta turistico-ricettiva, anche attraverso il sostegno all'innovazione tecnologica ed organizzativa del settore favorendo l’integrazione della filiera;orientare le politiche finalizzate alla realizzazione di un turismo sostenibile sotto il profilo ambientale, economico e sociale, nonché con interventi che abbiano tra gli obiettivi prioritari l’accessibilità.",
+            "link": "https://www.obiettivoeuropa.com/bandi/campania-turismo-eco-sociale-valorizzando-laccessibilita-e-la-sostenibilita-per-destinazioni-turistiche-responsabili",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Ristrutturazione, recupero, riqualificazione, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale, Turismo",
+                    "Stanziamento": "€ 3.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Sviluppo delle capacità nel campo dell’istruzione e formazione professionale",
+            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, i progetti di sviluppo delle capacità sono progetti di cooperazione internazionale basati su partenariati multilaterali tra organizzazioni attive nel campo dell'IFP negli Stati membri dell'UE, nei paesi terzi associati al programma e nei paesi terzi non associati al programma. Tali progetti mirano a sostenere la pertinenza, accessibilità e la reattività degli istituti e dei sistemi di IFP nei paesi terzi non associati al programma come motore di sviluppo socioeconomico sostenibile.Attraverso iniziative congiunte che promuovono la cooperazione tra diverse regioni del mondo, l'azione Sviluppo delle capacità nel campo dell'istruzione e formazione professionale intende rafforzare le capacità degli erogatori di IFP affinché siano maggiormente in grado di collaborare con il settore privato/le imprese/le associazioni imprenditoriali per esaminare le opportunità occupazionali e sviluppare congiuntamente misure di IFP reattive. I partenariati internazionali dovrebbero contribuire a migliorare la qualità dell'IFP nei paesi terzi non associati al programma, rafforzando in particolare le capacità del personale e degli insegnanti dell'IFP e consolidando il legame tra gli erogatori di IFP e il mercato del lavoro.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-sviluppo-delle-capacita-nel-campo-dellistruzione-e-formazione-professionale",
+            "custom": {
+                "custom": {
+                    "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, STEM, Transizione digitale, Transizione ecologica",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2020-12-31",
+            "title": "ESENZIONE IMU 2020 (COVID 2019)",
+            "description": "Cos'è/A chi si rivolge/Cosa prevede/",
+            "link": "https://www.incentivi.gov.it/it/catalogo/esenzione-imu-2020-covid-2019-1",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-06-16",
+            "title": "ESENZIONE ACCONTO IMU 2021",
+            "description": "Cos'è Agevolazione fiscale consistente nell'esonero del pagamento Saldo Imu 2020 alle condizioni stabilite dalla normativa nazionale A chi si rivolge Il bando è rivolto ai soggetti economici Cosa prevede L'agevolazione consiste nell'esonero dal pagamento della rata acconto IMU 2021 alle condizioni stabilite dal legislatore nazionale",
+            "link": "https://www.incentivi.gov.it/it/catalogo/esenzione-acconto-imu-2021-11",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-20",
+            "title": "Sostegno finanziario alle attività economiche e produttive del Comune di Buggiano - L.R. Regione n. 45/2025 - art. 6",
+            "description": "Cos'è E' un bando con il quale il Comune di Buggiano intende sostenere le attività economiche e produttive aventi sede operativa nel Comune di Buggiano nella perimetrazione di seguito meglio specificata, a seguito dell'interruzione della viabilità sulla SR LUCCHESE nel tratto compreso fra il Lago Azzurro e l'intersezione con Via M. Buonarroti, per consentire le opere di rifacimento e ristrutturazione del ponte sul Rio Torto in località Buggiano.  A chi si rivolge Micro, piccole e medie imprese, così come definite dall’allegato I del Reg. (UE) n. 651/2014, nonché professionisti che dal 01/04/2025 – al 31/07/2025 abbiano registrato un calo di fatturato (riferito all'attività economica complessiva e non alla singola unità locale), al netto dei costi, di almeno il 30,00% rispetto ad analogo valore dello stesso periodo dell'esercizio precedente  Cosa prevede L’aiuto, concesso nella forma di contributo a fondo perduto a titolo di ristoro delle perdite riferite al calo significativo di fatturato di almeno il 30 % rispetto all’ammontare del fatturato e dei corrispettivi realizzati nello stesso periodo dell’esercizio precedente, è determinato in misura forfettaria con un importo massimo di € 3.000,00. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/sostegno-finanziario-alle-attivita-economiche-e-produttive-del-comune-di-buggiano-lr",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-08",
+            "title": "2025 - Tabella 0 - Contributi alle Radio",
+            "description": "Cos'è Contributi a favore delle emittenti radiofoniche private e locali in possesso dei requisiti previsti e già beneficiarie dei contributi di cui alla Legge regionale n. 40 del 5 novembre 2018, art. 5 comma 45.  A chi si rivolge Possono presentare domanda di contributo le emittenti radiofoniche private e locali e web radio, costituite in qualsiasi forma giuridica, che operino nel territorio della Sardegna, nel quale realizzino almeno il 90 per cento del fatturato.  Cosa prevede Contributi alle emittenti radiofoniche private e locali quale riconoscimento delle spese che le stesse sostengono nel corso dell’anno 2025. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/2025-tabella-0-contributi-alle-radio",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-05-26",
+            "title": "Partecipazione della Regione Lazio alla manifestazione Phygital Sustainability Expo - Gli Stati Generali Europei sulla Cultura Sostenibilità 2025",
+            "description": "Cos'è La Regione Lazio, attraverso il soggetto attuatore Lazio Innova, seleziona n. 5 imprese / startup femminili operative nel sistema lusso, moda e accessori, con focus della loro attività legati alla sostenibilità e all’innovazione. Alle imprese sarà offerta la partecipazione ai lavori di “Phygital Sustainability Expo® – Gli Stati Generali Europei sulla Cultura Sostenibilità 2025” che si svolgono a Roma dal 5 al 6 giugno, presso i Mercati di Traiano.  A chi si rivolge L’opportunità di prendere parte a Phygital Sustainability Expo® 2025 è riservata a Startup e PMI con sede legale e/o operativa nella regione Lazio. Le attività dell’azienda devono essere coerenti con il settore o i settori economici cui la manifestazione è rivolta.  Cosa prevede Materiali, progettazione, studi/consulenze, servizi professionali. Altri servizi ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/partecipazione-della-regione-lazio-alla-manifestazione-phygital-sustainability-expo-gli",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-27",
+            "title": "Annualità 2022 - Comune di Mongongiori - Contributi a fondo perduto per le attività economiche, artigianali e commerciali",
+            "description": "Cos'è Sostegno alle attività economiche, artigianali e commerciali del comune di Morgongiori a valere sul Fondo di Sostegno Nazionale di cui al D. P. C. M. 24 settembre 2020 - annualità 2022.  A chi si rivolge Possono accedere al finanziamento del presente bando i titolari di attività artigianale e commerciale, svolta anche in forma associata, piccole imprese e microimprese, con unità operativa nel territorio del Comune di Morgongiori ovvero che intraprendano nuove attività economiche all'interno del territorio comunale, regolarmente costituite o iscritte al registro delle imprese.  Cosa prevede L'intervento prevede la concessione di contributi a fondo perduto, a copertura delle spese di gestione e per l'acquisto di macchinari, impianti arredi e attrezzatura varia, investimenti immateriali ed opere murarie sostenute dal 01.01.2022 al 31.12.2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/annualita-2022-comune-di-mongongiori-contributi-fondo-perduto-le-attivita-economiche",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-03-06",
+            "title": "2022 - Fondo di sostegno ai comuni marginali - Comune di Orgosolo",
+            "description": "Cos'è Avviso pubblico per l’assegnazione delle risorse previste dal “Fondo di sostegno ai comuni marginali” per l’annualità 2022.  A chi si rivolge I beneficiari del presente intervento sono le “Nuove Attività Economiche” che intraprendono attività nel settore del commercio, artigianato o agricole (con riferimento a queste ultime avranno la precedenza le attività di natura commerciale connesse all’attività agricola nell’ambito del territorio) attraverso un’unità operativa ubicata nel territorio del Comune di Orgosolo.  Cosa prevede Concessione di contributi. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/2022-fondo-di-sostegno-ai-comuni-marginali-comune-di-orgosolo",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-12-30",
+            "title": "Fondo Comuni Marginali - Comune di Canicattini Bagni - anno 2022",
+            "description": "Cos'è Il bando, in attuazione del Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico del Comune di Canicattini Bagni.  A chi si rivolge Il bando si rivolge alle nuove attività economiche che intraprendono attività commerciali, artigianali e agricole attraverso un'unità operativa ubicata nel territorio del Comune di Canicattini Bagni.  Cosa prevede L'erogazione di un contributo per l'avvio di una nuova attività economica. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-canicattini-bagni-anno-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-20",
+            "title": "Contributo enti no profit per risanamento di immobili a fini locativi",
+            "description": "Cos'èÈ un contributo in conto capitale concesso per interventi di risanamento (manutenzione straordinaria, restauro, risanamento conservativo e ristrutturazione edilizia) su unità immobiliari di proprietà di soggetti senza scopo di lucro col fine di concederle in locazione a canone moderato a favore di soggetti con bisogni abitativi. Il contributo è pari al 40% della spesa ammessa.  A chi si rivolge Può accedere al contributo il soggetto senza scopo di lucro che, alla data di presentazione della domanda:- è una società cooperativa (a esclusione di quelle di credito), un ente del terzo settore iscritto al R. U. N. T. S. (Registro Unico Nazionale del Terzo Settore) o un ente ecclesiastico civilmente riconosciuto;- è proprietario pieno ed esclusivo delle unità immobiliari, comprese le relative pertinenze. Nel caso in cui il diritto sia in corso d'iscrizione puoi presentare domanda indicando la data e il numero di G. N. dell'istanza di intavolazione;- ha sede legale e/o sede operativa nella provincia di Trento.  Cosa prevede Il contributo è pari al 40% della spesa ammessa. L'importo minimo di spesa per l’ammissione a contributo è pari a euro 15.000 per ciascuna unità immobiliare risultante dall'intervento di risanamento. La spesa massima ammessa per ogni unità immobiliare, comprese le relative pertinenze e l’eventuale quota di spesa sulle parti comuni dell’edificio, non può essere superiore a:- euro 1.900 per ogni mq di superficie utile abitabile, per interventi di restauro, risanamento conservativo, ristrutturazione edilizia;- euro 620 per ogni mq di superficie utile abitabile, per interventi di manutenzione straordinaria. Inoltre, la superficie utile abitabile massima ammessa non può essere superiore a:- 100 mq per ciascuna unità immobiliare;- 40 mq complessivi per le pertinenze dell'unità immobiliare;L'intervento è ammesso esclusivamente nelle zone periferiche e svantaggiate, identificati nei comuni del territorio provinciale a esclusione dei comuni di Trento, Rovereto, Pergine Valsugana, Arco, Riva del Garda, Mori, Lavis, Levico Terme, Mezzolombardo, Cles, Borgo Valsugana, Mezzocorona, Dro. È possibile presentare una sola domanda e richiedere il contributo per un minimo di una e fino a un massimo di sei unità abitative risultanti dagli interventi di risanamento. Sono ammessi a contributo gli interventi di risanamento per i quali il titolo edilizio abilitativo sia stato acquisito e le relative spese siano state fatturate e sostenute, a partire dal giorno successivo alla data di approvazione del bando. I vincoli previsti sono di mantenere la proprietà piena ed esclusiva e non mutare la destinazione urbanistica dell’unità immobiliare oggetto di contributo e locare l'unità immobiliare oggetto di contributo ai soggetti con bisogni abitativi. I predetti vincoli decorrono, per ciascuna unità immobiliare, dalla data di stipulazione del primo contratto di locazione e per i seguenti periodi:-20 anni in caso di contributo erogato superiore a euro 200.000;- 16 anni in caso di contributo erogato compreso tra euro 80.000 ed euro 200.000;- 12 anni in caso di contributo erogato inferiore a euro 80.000. Il soggetto senza scopo di lucro deve inoltre individuare i soggetti con bisogni abitativi secondo quanto previsto dai criteri attuativi e stipulare i relativi contratti di locazione entro il termine di 12 mesi decorrenti dalla data di presentazione della rendicontazione o dalla data di risoluzione o di mancato rinnovo del contratto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/contributo-enti-no-profit-risanamento-di-immobili-fini-locativi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2020-12-31",
+            "title": "Esenzione temporanea pagamento del canone affitto - Comune di Recanati",
+            "description": "Cos'è Aiuto di stato per l’esenzione temporanea del pagamento del canone di affitto.  A chi si rivolge Operatori economici e attività associative e di volontariato.  Cosa prevede Esenzione temporanea del pagamento del canone di affitto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/esenzione-temporanea-pagamento-del-canone-affitto-comune-di-recanati",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-04-10",
+            "title": "Erogazione contributi aree interne 2022 - Comune di Montecreto",
+            "description": "Cos'è Bando per l'erogazione dei contributi aree interne anno 2022.  A chi si rivolge Possono presentare domanda le microimprese e piccole imprese appartenenti al settore commercio e artigianato del territorio.  Cosa prevede Erogazione di contributi economici. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/erogazione-contributi-aree-interne-2022-comune-di-montecreto",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Terzo bando per l’azione “reti di teleriscaldamento” - Priorità 2 \"Green\" - Provincia autonoma di Bolzano",
+            "description": "Cos'è Invito alla presentazione di proposte progettuali nell'ambito della priorità 2 \"GREEN\" del programma \"Investimenti a favore dell'occupazione e della crescita\" FESR 2021-2027 – 3°bando azione 2.1.2 “Costruzione di condotte della rete di teleriscaldamento e teleraffreddamento\".  A chi si rivolge I beneficiari possono essere tutti i gestori di impianti di teleriscaldamento o di teleraffrescamento (p.es. comuni, aziende municipalizzate, cooperative, imprese private) all’interno di un’area servita delimitata secondo l'articolo 2 del bando.  Cosa prevede Il presente bando promuove la costruzione di condotte efficienti per il teleriscaldamento e il teleraffrescamento ai sensi dell'articolo 2, punto 41, della direttiva 2012/27/UE esclusi\u0002vamente nelle aree servite delimitate per la prima volta tramite decreto del direttore dell'Agenzia provinciale per l'Ambiente e la tutela del clima dopo il 31 dicembre 2019. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/terzo-bando-lazione-reti-di-teleriscaldamento-priorita-2-green-provincia-autonoma-di",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-05-20",
+            "title": "Agevolazione per la promozione dell'economia locale - Comune di Garessio",
+            "description": "Cos'è Agevolazione per attività economiche D. L.34/2019.  A chi si rivolge Esercenti che procedono all'ampliamento di esercizi commerciali già esistenti o alla riapertura di esercizi chiusi da almeno sei mesi.  Cosa prevede Erogazione di contributi nell'anno in cui avviene l'apertura o l'ampliamento degli esercizi e per i tre successivi. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/agevolazione-la-promozione-delleconomia-locale-comune-di-garessio",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-04",
+            "title": "Sostegno alle attività economiche extra - agricole a seguito chiusura SR Lucchese - Comune di Uzzano (PT)",
+            "description": "Cos'è Contributo a sostegno delle imprese extra - agricole poste nel Comune di Uzzano, che hanno subìto perdite di fatturato durante il periodo di chiusura della SR Lucchese in località Lago Azzurro (periodo 01/04/2025 - 31/07/2025).  A chi si rivolge Imprese extra - agricole aventi la sede principale o almeno un'unità locale ubicata nel Comune di Uzzano nei tratti stradali indicati nel Bando.  Cosa prevede Ristoro per perdite di fatturato (contributo massimo erogabile euro 2000). ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/sostegno-alle-attivita-economiche-extra-agricole-seguito-chiusura-sr-lucchese-comune-di",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-04-15",
+            "title": "Fondo di sostegno ai comuni marginali - Seconda annualità 2022 - Comune di Amato",
+            "description": "Cos'è Fondo di sostegno ai comuni marginali - seconda annualità 2022. Detto fondo è finalizzato a favorire la coesione sociale e lo sviluppo economico nei comuni particolarmente colpiti dal fenomeno dello spopolamento e per i quali si riscontrano rilevanti carenze di attrattività per la ridotta offerta di servizi materiali e immateriali alle persone ed alle attività economiche, nel rispetto della complementarità con la strategia nazionale per le aree interne.  A chi si rivolge Possono partecipare al presente Bando le persone, con età minima di 18 anni, che in forma individuale o societaria intendono avviare attività commerciali, artigianali e agricole, entro e non oltre trenta giorni dalla concessione del contributo a fondo perduto. Possono beneficiare delle risorse anche le attività già esistenti che avviino una nuova attività economica nel territorio del Comune di Amato attraverso apposita unità produttiva.  Cosa prevede Concessione di contributi a fondo perduto, la finalità è quella di favorire l'erogazione di risorse finanziarie per l'avvio di nuove attività commerciali, artigianali, agricole. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-ai-comuni-marginali-seconda-annualita-2022-comune-di-amato",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "Avviso pubblico per l'installazione di impianti fotovoltaici e/o termo-fotovoltaici per l'autoconsumo delle imprese - Azione 2.2.1 - PN RIC 2021-2027",
+            "description": "Cos'è Si tratta di uno strumento agevolativo promosso dalla Direzione generale Programmi e Incentivi Finanziari del Ministero dell'Ambiente e della Sicurezza Energetica, finalizzato alla selezione di progetti di investimento che prevedono l’installazione di impianti fotovoltaici e/o termo-fotovoltaici per autoconsumo immediato e, eventualmente, differito attraverso l’installazione di correlati sistemi di stoccaggio elettrochimico dell’energia elettrica, da realizzarsi in aree industriali, produttive o artigianali dei Comuni con popolazione superiore a 5.000 abitanti delle Regioni meno sviluppate (Basilicata, Calabria, Campania, Molise, Puglia, Sardegna e Sicilia), in attuazione di quanto previsto dall’Obiettivo specifico RSO2.2 “Promuovere le energie rinnovabili in conformità della direttiva (UE) 2018/2001 sull’energia da fonti rinnovabili, compresi i criteri di sostenibilità ivi stabiliti” e dalla linea di Azione 2.2.1 “Sviluppo della produzione di energia elettrica da FER” del PN RIC 2021-2027.  A chi si rivolge Si rivolge alle imprese di qualunque dimensione, incluse le reti di imprese dotate di soggettività giuridica, che intendono realizzare i progetti di investimento di cui all'articolo 6 dell'Avviso e che, alla data di presentazione della domanda di agevolazione, sono in possesso dei requisiti di cui all'articolo 5 dell'Avviso.  Cosa prevede Prevede, nei limiti delle risorse finanziarie di cui all’articolo 3 dell’Avviso, la concessione di agevolazioni nella forma del contributo in conto impianti, ai sensi di quanto previsto dall'articolo 41 del Regolamento GBER, secondo le intensità massime definite all'articolo 7 dell'Avviso. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/avviso-pubblico-linstallazione-di-impianti-fotovoltaici-eo-termo-fotovoltaici-lautoconsumo",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-15",
+            "title": "Resto al Sud 2.0",
+            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Mezzogiorno",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud-20?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -692,10 +496,38 @@
             }
         },
         {
-            "deadline": "2021-09-22",
-            "title": "Tessile, Moda e Accessori - Edizione 2021",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "N/A",
+            "title": "Imprenditoria femminile",
+            "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-05-19",
+            "title": "ON - Oltre Nuove imprese a tasso zero",
+            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Smart&Start Italia",
+            "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
