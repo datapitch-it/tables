@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-11-20 06:51:52",
+    "scraping_timestamp": "2025-11-22 08:50:14",
     "data": [
-        {
-            "deadline": "2025-11-20",
-            "title": "Chips JU: aperte nuove call nell'ambito tecnologico dei semiconduttori",
-            "description": "La partnership europea Chips JU ha aperto nuovi bandi legati alla produzione e alla ricerca sui semiconduttori",
-            "link": "https://first.art-er.it/news/partnership-europea-chips-ju-nuovi-bandi-aperti",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cooperazione internazionale, Deep tech",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-20",
-            "title": "Widening participation and strengthening the European Research Area: i bandi 2025 di Horizon Europe",
-            "description": "Aperti 5 nuovi bandi WIDERA che finanziano progetti che affrontano il divario in Europa su R&I per progredire verso un ecosistema integrato e coeso",
-            "link": "https://first.art-er.it/news/widera-le-call-2025-di-horizon-europe",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-21",
-            "title": "Space for Metaverse: aperte le candidature al bando di ESA",
-            "description": "Il bando dell'Agenzia Spaziale Europea, aperto fino al 21 novembre 2025, sostiene progetti basati su satelliti, digital twin e soluzioni immersive in vari ambiti",
-            "link": "https://first.art-er.it/news/bando-di-esa-space-metaverse-aperte-le-candidature",
-            "custom": {
-                "Topics": "Città del futuro",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 75.000 per progetto"
-            }
-        },
         {
             "deadline": "2025-11-24",
             "title": "ESA lancia il bando per innovare il retail attraverso le tecnologie spaziali",
@@ -231,6 +195,18 @@
         },
         {
             "deadline": "2025-12-04",
+            "title": "Bando per sostenere startup e PMI innovative in Emilia-Romagna",
+            "description": "Il bando offre spazi, mentoring e supporto a startup e PMI innovative che vogliono crescere o insediarsi in Emilia-Romagna",
+            "link": "https://first.art-er.it/news/bando-le-serre-di-art-er-edizione-2025-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-04",
             "title": "EU4Health 2025: al via al nuovo bando HERA",
             "description": "Diagnostica, sviluppo di dispositivi medici e preparazione alla crisi sanitarie i settori target della call che scade il 4 dicembre 2025",
             "link": "https://first.art-er.it/news/eu4health-2025-al-al-nuovo-bando-hera",
@@ -347,6 +323,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "da € 10.000.000 a 30.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Basket Bond Emilia-Romagna: rafforzato lo strumento per gli investimenti delle imprese emiliano-romagnole",
+            "description": "Attraverso i basket bond, le PMI emiliano-romagnole potranno accedere a finanziamenti per potenziare sostenibilità, ricerca e innovazione",
+            "link": "https://first.art-er.it/news/rer-basket-bond-le-pmi-dellemilia-romagna",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 100.000.000"
             }
         },
         {
@@ -507,6 +495,18 @@
         },
         {
             "deadline": "2026-01-08",
+            "title": "UTM City2City: al via il nuovo bando per accelerare le transizioni urbane sostenibili",
+            "description": "L’obiettivo è fornire alle città strumenti concreti per accelerare la transizione climatica, integrando tecnologie avanzate e nuove competenze di governance",
+            "link": "https://first.art-er.it/news/utm-city2city-rafforza-la-cooperazione-tra-citta",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-08",
             "title": "EuroHPC JU lancia la Quantum Grand Challenge 2025 per startup in ambito quantistico",
             "description": "Aperta fino all'8 gennaio 2026, l’iniziativa di EuroHPC JU vuole stimolare la cooperazione fra innovatori nel calcolo quantistico, istituzioni finanziarie e utilizzatori finali",
             "link": "https://first.art-er.it/news/eurohpc-ju-lancia-la-quantum-grand-challenge-2025",
@@ -551,6 +551,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-19",
+            "title": "Al via la selezione delle Summer School 2026 per sviluppare talenti e innovazione nel deep-tech europeo",
+            "description": "Le Summer School 2026 dell'ex EIT Digital mirano a rafforzare le competenze europee nel settore deep-tech e sostenere un ecosistema imprenditoriale competitivo",
+            "link": "https://first.art-er.it/news/call-summer-school-formare-le-skills-deep-tech",
+            "custom": {
+                "Topics": "Talenti e competenze",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 170.000"
             }
         },
         {
@@ -614,6 +626,18 @@
             }
         },
         {
+            "deadline": "2026-01-21",
+            "title": "Aperta la nuova FORTIS Open Call #1 a supporto dell’innovazione nella robotica collaborativa",
+            "description": "La scadenza per partecipare al bando è fissata al 21 gennaio 2026 e l'obiettivo è di incrementare efficienza, sicurezza e produttività negli ambienti industriali",
+            "link": "https://first.art-er.it/news/spazio-rilanciato-il-primo-bando-del-progetto-fortis",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Fino a € 250.000 per progetto"
+            }
+        },
+        {
             "deadline": "2026-01-24",
             "title": "Premio Impresa Ambiente 2026: aperte le candidature per la XIII edizione",
             "description": "Il premio valuta innovazione e sostenibilità in processi, prodotti e servizi aziendali",
@@ -639,6 +663,18 @@
         },
         {
             "deadline": "2026-01-30",
+            "title": "Al via il bando 2025 per rafforzare lo sviluppo delle startup innovative in Emilia-Romagna",
+            "description": "Il bando 2025 sostiene startup innovative con contributi fino al 60% per progetti ad alto contenuto tecnologico e strategico",
+            "link": "https://first.art-er.it/news/sostegno-alle-startup-innovative-aperto-il-bando-rer",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 5.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-30",
             "title": "ECHOES: pubblicato il bando dedicato alle istituzioni culturali europee che investono nel digitale",
             "description": "L'open call del programma ECHOES, aperta dall'11 novembre 2025 al 30 gennaio 2026, intende sostenere la digitalizzazione del patrimonio culturale europeo",
             "link": "https://first.art-er.it/news/nuova-open-call-il-patrimonio-culturale-digitale",
@@ -647,18 +683,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 29.800 per progetto"
-            }
-        },
-        {
-            "deadline": "2026-02-02",
-            "title": "EUP OHAMR: in arrivo un bando per nuove terapie contro la resistenza antimicrobica",
-            "description": "L'obiettivo del bando è di migliorare i tassi di successo dei trattamenti per pazienti, animali o piante",
-            "link": "https://first.art-er.it/news/eup-ohamr-bando-su-resistenza-antimicrobica",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 28.000.000"
             }
         },
         {
@@ -671,6 +695,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 1.350.000"
+            }
+        },
+        {
+            "deadline": "2026-02-05",
+            "title": "Tecnologie energetiche sostenibili: al via la seconda Joint Call Africa-UE",
+            "description": "La partnership UE-Africa LEAP-SE ha l'obiettivo di sviluppare energia sostenibile come fonte di energia per il continente africano",
+            "link": "https://first.art-er.it/news/aperto-il-bando-leap-se-energia-sostenibile",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 14.529.000"
             }
         },
         {
@@ -947,6 +983,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 38.000.000"
+            }
+        },
+        {
+            "deadline": "2026-06-11",
+            "title": "ERA4Health: aperto il bando “Prevent-OO” per contrastare sovrappeso e obesità in chiave preventiva",
+            "description": "Il bando è dedicato al sostegno di progetti di ricerca collaborativa volti a comprendere le cause del sovrappeso e dell’obesità e a individuare soluzioni efficaci di prevenzione",
+            "link": "https://first.art-er.it/news/era4health-aperto-il-bando-prevent-oo",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "18 940 000,00 €"
+            }
+        },
+        {
+            "deadline": "2026-06-17",
+            "title": "EUP OHAMR: lanciato il bando per nuove terapie contro la resistenza antimicrobica",
+            "description": "L'obiettivo del bando è di migliorare i tassi di successo dei trattamenti per pazienti, animali o piante",
+            "link": "https://first.art-er.it/news/eup-ohamr-bando-su-resistenza-antimicrobica-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 31.000.000"
             }
         },
         {
