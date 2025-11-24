@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-20 06:55:18",
+    "scraping_timestamp": "2025-11-22 08:53:30",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -89,15 +89,6 @@
             "link": "https://www.euro-access.eu/en/calls/2192/Call-Interreg-CZ-PL-Priority-12",
             "custom": {
                 "Funding Program": "Interreg Czechia-Poland"
-            }
-        },
-        {
-            "deadline": "2025-11-20",
-            "title": "Interreg Baltic Sea Region - Project Platforms 2025",
-            "description": "The Programme is launching the second call for project platforms, under Priority 4 ‘Cooperation governance’, Programme objective 4.1 ‘Project platforms’.",
-            "link": "https://www.euro-access.eu/en/calls/2193/Interreg-Baltic-Sea-Region-Project-Platforms-2025",
-            "custom": {
-                "Funding Program": "Interreg Baltic Sea Region"
             }
         },
         {
@@ -1277,6 +1268,33 @@
             "link": "https://www.euro-access.eu/en/calls/2451/Large-scale-not-for-profit-European-sport-event",
             "custom": {
                 "Funding Program": "Erasmus+ - Sport Actions"
+            }
+        },
+        {
+            "deadline": "2026-03-04",
+            "title": "European Universities",
+            "description": "The European Universities initiative is pivotal to achieving the ambitious vision of the Union of Skills. It contributes to an innovative, globally competitive, and attractive European Education Area, in full synergy with the European Research Area and the European Higher Education Area. The initiative aims to transform the institutional cooperation between higher education institutions, strengthening the European higher education system and enabling it to compete on the global scene.",
+            "link": "https://www.euro-access.eu/en/calls/2453/European-Universities",
+            "custom": {
+                "Funding Program": "Erasmus+"
+            }
+        },
+        {
+            "deadline": "2026-02-12",
+            "title": "Erasmus Mundus Joint Masters",
+            "description": "EMJMs are programmes of excellence and should contribute to the integration and internationalisation of the European Higher Education Area (EHEA). The specificity of EMJMs lies in the high degree of jointness/integration among the participating institutions and the excellence of their academic content.",
+            "link": "https://www.euro-access.eu/en/calls/2454/Erasmus-Mundus-Joint-Masters",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-01-23",
+            "title": "Strengthening Capacities and introducing EU practices for sustainable operation and management of the BIO4 Campus",
+            "description": "The project aims to support establishment of the BIO4 Campus, as a renowned hub for cutting-edge research, innovation and collaboration in the life sciences within the Southeast Europe (SEE) region. The goal is to strengthen capacities to operate and manage the BIO4 Campus and increase international visibility.",
+            "link": "https://www.euro-access.eu/en/calls/2456/Strengthening-Capacities-and-introducing-EU-practices-for-sustainable-operation-and-management-of-the-BIO4-Campus",
+            "custom": {
+                "Funding Program": "Instrument for Pre-accession Assistance"
             }
         }
     ]
