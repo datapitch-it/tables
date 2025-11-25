@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-22 08:53:30",
+    "scraping_timestamp": "2025-11-24 05:44:40",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -1286,6 +1286,15 @@
             "link": "https://www.euro-access.eu/en/calls/2454/Erasmus-Mundus-Joint-Masters",
             "custom": {
                 "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "EU4CSOs In Ukraine - Call for Proposals 2025",
+            "description": "The global objective of this call for proposals is to involve civil society in Ukraine in building and maintaining a resilient and inclusive democratic country, amid challenges created by the war of the Russian Federation against Ukraine and in the context of Ukraine’s EU accession reforms. Emphasis shall be on supporting medium-size, small and grassroots organisations, including those with their operational base located outside the capital city Kyiv.",
+            "link": "https://www.euro-access.eu/en/calls/2455/EU4CSOs-In-Ukraine-Call-for-Proposals-2025",
+            "custom": {
+                "Funding Program": "Ukraine Facility"
             }
         },
         {
