@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-11-26 06:17:18",
+    "scraping_timestamp": "2025-11-27 09:57:00",
     "data": [
+        {
+            "deadline": "2026-01-09 12:00",
+            "title": "AVVISO DI MANIFESTAZIONE DI INTERESSE PER LA CESSIONE DEI DISPOSITIVI ELETTRONICI UTILIZZATI DURANTE LA CONSULTAZIONE REFERENDARIA REGIONALE DEL 2017",
+            "description": "Manifestazione di interessi finalizzata ad individuare soggetti interessati al ritiro e all’acquisizione di dispositivi elettronici ed annessi kit di proprietà regionale impiegati per la consultazione referendaria regionale del 2017 e non più utilizzati.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ricerca-innovazione/infrastrutture-tecnologiche/avviso-manifestazione-interesse-cessione-dispositivi-elettronici-utilizzati-durante-consultazione-referendaria-regionale-2017-RLAT2025050424",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "N/A",
             "title": "Interventi per la ripresa economica - DGR 5140 - Allegato 3",
@@ -90,18 +102,6 @@
             "title": "Apprendistato nelle scuole, anno formativo 2025/2026",
             "description": "L' avviso pubblico promuove la realizzazione di percorsi formativi in apprendistato di primo livello, ai sensi dell’ art. 43 del d.lgs. 81/2015, per il conseguimento del diploma di istruzione secondaria superiore, anche nell’ambito della filiera formativa tecnologico-professionale (modello 4+2) e del titolo di qualifica e diploma professionale, in sussidiarietà. L’iniziativa è dedicata ai giovani che intendono completare il proprio percorso di studi e avvicinarsi al mondo del lavoro attraverso l’apprendistato.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/apprendistato-scuole-2025-2026-RLE12025048743",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-26 16:00",
-            "title": "Bando per l’individuazione dei soggetti che svolgono attività di rilevanza regionale nel settore della promozione educativa culturale - Art. 7 della L.R. 25/2016 attivazione del monitoraggio per il mantenimento dei requisiti da parte dei soggetti già riconosciuti nel 2025 e invio nuove richieste per il triennio 2026-2028",
-            "description": "Regione Lombardia concede il riconoscimento di rilevanza regionale a soggetti che operano con continuità e professionalità sul territorio lombardo e propongono iniziative di promozione educativa culturale contraddistinte per la continuità pluriennale nella formula di offerta culturale, pur nella differenziazione dei temi proposti al pubblico di anno in anno.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/bando-l-individuazione-soggetti-che-svolgono-attivita-rilevanza-regionale-settore-promozione-educativa-culturale-art-7-l-r-25-2016-anni-2025-2028-RLL12024041723",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -638,9 +638,9 @@
             }
         },
         {
-            "deadline": "2025-11-27 16:00",
+            "deadline": "2025-12-18 16:00",
             "title": "PSN/PAC 2023-2027 “Investimenti produttivi forestali - Ammodernamenti e miglioramenti\" - Sviluppo Rurale/bando 2025",
-            "description": "INTERVENTO SRD15 - Azione SRD15.2. Dotazione finanziaria di € 4.000.000,00. Domande dal 12 settembre al 27 novembre 2025. Possono partecipare: PMI iscritte nel registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580 della Camera di \ncommercio territorialmente competente, che esercitano un’attività economica nel settore della selvicoltura e delle utilizzazioni forestali, nella gestione, difesa e tutela del territorio, nonché nel settore della prima trasformazione e commercializzazione (non industriale) dei prodotti legnosi del bosco.",
+            "description": "INTERVENTO SRD15 - Azione SRD15.2. Dotazione finanziaria di € 4.000.000,00. Domande dal 12 settembre al 18 dicembre 2025 (dopo proroga). Possono partecipare: PMI iscritte nel registro di cui all'articolo 8 della legge 29 dicembre 1993, n. 580 della Camera di \ncommercio territorialmente competente, che esercitano un’attività economica nel settore della selvicoltura e delle utilizzazioni forestali, nella gestione, difesa e tutela del territorio, nonché nel settore della prima trasformazione e commercializzazione (non industriale) dei prodotti legnosi del bosco.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-produttivi-forestali-ammodernamenti-miglioramenti-sviluppo-rurale-bando-2025-RLM12025047383",
             "custom": {
                 "Topics": "N/A",
@@ -722,9 +722,9 @@
             }
         },
         {
-            "deadline": "2025-11-26 16:00",
+            "deadline": "2025-12-05 12:00",
             "title": "PSN/PAC 2023-2027 \"Investimenti produttivi agricoli per ambiente, clima e benessere animale\" - Sviluppo Rurale/bando 2025",
-            "description": "INTERVENTO SRD02 - Azione C. Dotazione finanziaria di € 7.000.000,00. Domande dal 30 luglio al 26 novembre 2025. Possono partecipare: imprenditore agricolo individuale; società agricola di persone, di capitali o cooperativa.",
+            "description": "INTERVENTO SRD02 - Azione C. Dotazione finanziaria di € 7.000.000,00. Domande dal 30 luglio al 5 dicembre 2025 (dopo proroga). Possono partecipare: imprenditore agricolo individuale; società agricola di persone, di capitali o cooperativa.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-produttivi-agricoli-ambiante-clima-benessere-animale-sviluppo-rurale-bando-2025-RLM12025047243",
             "custom": {
                 "Topics": "N/A",

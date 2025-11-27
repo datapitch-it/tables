@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-11-25 06:46:37",
+    "scraping_timestamp": "2025-11-26 06:13:19",
     "data": [
         {
             "deadline": "2025-11-26",
@@ -752,7 +752,7 @@
             "link": "https://first.art-er.it/news/accordi-innovazione-2025-731-milioni-la-ricerca-0",
             "custom": {
                 "Topics": "N/A",
-                "Area Classification": "Unione Europea",
+                "Area Classification": "Italia",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 731.000.000"
             }
@@ -1031,6 +1031,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-10-01",
+            "title": "Erasmus+: invito a presentare proposte 2026",
+            "description": "Oltre 4,4 miliardi di euro per mobilità, cooperazione e partecipazione nei settori istruzione, formazione, gioventù e sport",
+            "link": "https://first.art-er.it/news/erasmus-2021-2027-invito-presentare-proposte-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "€ 4.473.000.000"
             }
         },
         {
