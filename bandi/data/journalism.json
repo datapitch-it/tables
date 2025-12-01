@@ -1,6 +1,30 @@
 {
-    "scraping_timestamp": "2025-11-27 09:56:43",
+    "scraping_timestamp": "2025-12-01 10:16:35",
     "data": [
+        {
+            "deadline": "2026-01-02",
+            "title": "Global Media Defence Fund 2025",
+            "description": "UNESCO",
+            "link": "https://gfmd.info/fundings/global-media-defence-fund-gmdf-2025/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "USD 15,000 to USD 50,000."
+            }
+        },
+        {
+            "deadline": "2026-01-08",
+            "title": "TED Call for Proposals",
+            "description": "The Team Europe Democracy (TED)",
+            "link": "https://gfmd.info/fundings/ted-call-for-proposals/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Global (working in 2 or more regions)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€60,000 per project."
+            }
+        },
         {
             "deadline": "2026-01-08",
             "title": "Official Development Assistance (ODA) Germany Grants",
