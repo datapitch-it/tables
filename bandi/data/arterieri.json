@@ -1,102 +1,6 @@
 {
-    "scraping_timestamp": "2025-11-27 09:52:45",
+    "scraping_timestamp": "2025-12-01 10:12:57",
     "data": [
-        {
-            "deadline": "2025-11-27",
-            "title": "Al via il nuovo bando Interreg CENTRAL EUROPE per la capitalizzazione di progetti strategici",
-            "description": "Il bando sostiene progetti transnazionali per la capitalizzazione dei risultati e di esperienze di successo",
-            "link": "https://first.art-er.it/news/nuovo-bando-interreg-central-europe-progetti-ue",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 23.000.000"
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "SYNAPSE: aperta la call per soluzioni innovative nel settore della cybersicurezza",
-            "description": "L’iniziativa sostiene PMI e organizzazioni pubbliche nello sviluppo di tecnologie avanzate per la sicurezza informatica",
-            "link": "https://first.art-er.it/news/aperta-la-open-call-europea-del-progetto-synapse",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 700.000"
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "Laboratorio di Nanobiotecnologie del JRC: aperta la call 2025 per la formazione avanzata",
-            "description": "Il JRC ha aperto una call per ricercatori e PMI che potranno accedere al laboratorio europeo di Ispra per attività di training e capacity building",
-            "link": "https://first.art-er.it/news/aperta-la-call-del-laboratorio-ue-di-nanobiotecnologie",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "Ponti Digitali: al via il bando per idee digitali a impatto sociale",
-            "description": "Il Comune di Cesena e Romagna Tech sostengono startup, associazioni e singoli con soluzioni innovative per categorie fragili, offrendo formazione, tutoraggio e voucher fino a 2.000 euro",
-            "link": "https://first.art-er.it/news/al-il-bando-ponti-digitali",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "EIT Raw Materials: aperti due bandi per i progetti RIS",
-            "description": "Lo scopo è quello di costruire una catena di approvvigionamento resiliente e sostenibile per le materie prime critiche e i materiali avanzati in Europa",
-            "link": "https://first.art-er.it/news/bandi-eit-i-progetti-ris-di-sviluppo-e-innovazione",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-11-28",
-            "title": "EIT RawMaterials: lanciata la call KAVA 13 per progetti innovativi nel settore delle materie prime",
-            "description": "I progetti selezionati dovranno mirare a una rapida commercializzazione, dimostrando un elevato potenziale di mercato e benefici ecologici significativi",
-            "link": "https://first.art-er.it/news/eit-rawmaterials-lancia-la-call-kava-13",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "€ 500.000 - € 2.500.000"
-            }
-        },
-        {
-            "deadline": "2025-11-30",
-            "title": "EIT Food Proof-of-Concept: bando a sostegno delle startup agrifood innovative",
-            "description": "L’obiettivo è sostenere la fase di sperimentazione e validazione di tecnologie, prodotti e servizi innovativi nell'ambito del sistema alimentare europeo",
-            "link": "https://first.art-er.it/news/eit-food-proof-concept-call-startup-agrifood",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "fino a € 100.000"
-            }
-        },
-        {
-            "deadline": "2025-11-30",
-            "title": "Al via il bando ScienceUs Upscale Academy per progetti di citizen science",
-            "description": "La call prevede un percorso in tre fasi progressive per i progetti di citizen science selezionati",
-            "link": "https://first.art-er.it/news/bando-progetti-citizen-science-scienceus",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 220.000"
-            }
-        },
         {
             "deadline": "2025-12-01",
             "title": "Next Generation Internet: nuova serie di bandi per progetti di ricerca e innovazione sul futuro di internet",
@@ -291,6 +195,18 @@
         },
         {
             "deadline": "2025-12-31",
+            "title": "Emilia-Romagna: bando per talenti altamente specializzati",
+            "description": "La Regione rilancia il proprio impegno per sostenere servizi territoriali innovativi rivolti ai talenti",
+            "link": "https://first.art-er.it/news/rer-bando-giovani-elevata-specializzazione",
+            "custom": {
+                "Topics": "Talenti e competenze",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
             "title": "Basket Bond Emilia-Romagna: rafforzato lo strumento per gli investimenti delle imprese emiliano-romagnole",
             "description": "Attraverso i basket bond, le PMI emiliano-romagnole potranno accedere a finanziamenti per potenziare sostenibilità, ricerca e innovazione",
             "link": "https://first.art-er.it/news/rer-basket-bond-le-pmi-dellemilia-romagna",
@@ -479,6 +395,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-13",
+            "title": "Horizon Europe: bando ERC Consolidator Grants 2026",
+            "description": "Si è aperto il bando ERC Consolidator Grant per supportare ricercatori eccellenti nella fase della carriera in cui vogliono consolidare il proprio team o rafforzare le attività di ricerca indipendente",
+            "link": "https://first.art-er.it/news/ricerca-deccellenza-bando-erc-consolidator-grant-2026",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 673.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "Aperto il bando EUROLakes per il ripristino dei laghi",
+            "description": "Fino a € 75.000 per autorità locali e regionali che vogliono replicare soluzioni innovative per gli ecosistemi lacustri",
+            "link": "https://first.art-er.it/news/aperto-il-bando-eurolakes-il-ripristino-dei-laghi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 225.000"
             }
         },
         {

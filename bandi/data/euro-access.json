@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-01 10:16:02",
+    "scraping_timestamp": "2025-12-04 06:00:03",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -506,15 +506,6 @@
             }
         },
         {
-            "deadline": "2025-12-02",
-            "title": "Building a trustworthy social media sphere: countering disinformation on social media  for young Europeans",
-            "description": "The objective of this call is to foster the awareness and resilience of young Europeans related to information integrity risks, strengthening relevant media and digital literacy skills. This to equip them with the skills and knowledge to navigate safely and critically in the online information space and participate in society as active and informed citizens. This should be achieved by developing engaging, multilingual content tailored to the consumption patterns and interests of young Europeans. Ensuring a broad coverage of at least thirteen EU Member States is a key criterion for the proposal evaluation.",
-            "link": "https://www.euro-access.eu/en/calls/2362/Building-a-trustworthy-social-media-sphere-countering-disinformation-on-social-media-for-young-Europeans",
-            "custom": {
-                "Funding Program": "Pilot Projects and Preparatory Actions (PPPAs)"
-            }
-        },
-        {
             "deadline": "2026-01-06",
             "title": "Call for proposals for health data for biotech innovation leveraging the European Health Data Space",
             "description": "The general objective of this action is to accelerate the development and deployment of AI and digital solutions in the biotech sector driven by health data, ensuring its secure and responsible use through the EHDS and leveraging AI Factories to augment these efforts.",
@@ -650,28 +641,10 @@
             }
         },
         {
-            "deadline": "2025-12-03",
-            "title": "TV and online content Fiction projects - 1st cut-off date",
-            "description": "The objective of the support to TV and online content is the production of innovative and quality TV content and serial storytelling, addressing diverse audiences, by European independent production companies.",
-            "link": "https://www.euro-access.eu/en/calls/2398/TV-and-online-content-Fiction-projects-1st-cut-off-date",
-            "custom": {
-                "Funding Program": "Creative Europe - Media Strand"
-            }
-        },
-        {
             "deadline": "2026-04-08",
             "title": "European VOD networks and operators",
             "description": "The MEDIA strand shall provide support for the European Video on Demand (VOD) network(s) and operators, screening a significant proportion of non-national European works, with the aim to improve their competitiveness and attractiveness.",
             "link": "https://www.euro-access.eu/en/calls/2387/European-VOD-networks-and-operators",
-            "custom": {
-                "Funding Program": "Creative Europe - Media Strand"
-            }
-        },
-        {
-            "deadline": "2025-12-03",
-            "title": "TV and online content Animation projects - 1st cut-off date",
-            "description": "The objective of the support to TV and online content is the production of innovative and quality TV content and serial storytelling, addressing diverse audiences, by European independent production companies.",
-            "link": "https://www.euro-access.eu/en/calls/2388/TV-and-online-content-Animation-projects-1st-cut-off-date",
             "custom": {
                 "Funding Program": "Creative Europe - Media Strand"
             }
@@ -713,30 +686,12 @@
             }
         },
         {
-            "deadline": "2025-12-03",
-            "title": "European slate development",
-            "description": "The objective of the European slate development support is to foster the competitiveness of European independent production companies and to increase their economic weight on the market. The aim is also to increase the capacity of audiovisual producers to develop projects with potential to circulate throughout Europe and beyond, and to facilitate European and international co-production.",
-            "link": "https://www.euro-access.eu/en/calls/2393/European-slate-development",
-            "custom": {
-                "Funding Program": "Creative Europe - Media Strand"
-            }
-        },
-        {
             "deadline": "2026-01-14",
             "title": "Support for information measures relating to the common agricultural policy (IMCAP)",
             "description": "The general objective of the call is to raise awareness about the Common Agricultural Policy (CAP) within the EU, amongst all citizens, farmers and non-farmers alike and to disseminate information about the Common Agricultural Policy (CAP), the key messaging should be fully consistent with the Commission's legal requirement to carry out information measures on the CAP within the meaning of Article 46 of Regulation (EU) 2021/2116.",
             "link": "https://www.euro-access.eu/en/calls/2395/Support-for-information-measures-relating-to-the-common-agricultural-policy-IMCAP",
             "custom": {
                 "Funding Program": "Common Agricultural Policy"
-            }
-        },
-        {
-            "deadline": "2025-12-03",
-            "title": "TV and online content Documentary projects - 1st cut-off date",
-            "description": "The objective of the support to TV and online content is the production of innovative and quality TV content and serial storytelling, addressing diverse audiences, by European independent production companies.",
-            "link": "https://www.euro-access.eu/en/calls/2397/TV-and-online-content-Documentary-projects-1st-cut-off-date",
-            "custom": {
-                "Funding Program": "Creative Europe - Media Strand"
             }
         },
         {
@@ -1232,6 +1187,15 @@
             "link": "https://www.euro-access.eu/en/calls/2456/Strengthening-Capacities-and-introducing-EU-practices-for-sustainable-operation-and-management-of-the-BIO4-Campus",
             "custom": {
                 "Funding Program": "Instrument for Pre-accession Assistance"
+            }
+        },
+        {
+            "deadline": "2026-01-26",
+            "title": "1st Call for Proposals under Cross-border Programme Serbia – Montenegro 2021-2027",
+            "description": "In line with the objectives specified in the programme document, the global objective of this call for proposals is: to promote good neighbourly relations, foster Union integration and contribute to social, economic and territorial development of the programme cross-border area by improving social and cultural inclusion and health and by developing sustainable tourism.",
+            "link": "https://www.euro-access.eu/en/calls/2497/1st-Call-for-Proposals-under-Cross-border-Programme-Serbia--Montenegro-2021-2027",
+            "custom": {
+                "Funding Program": "Interreg CBC Serbia-Montenegro"
             }
         }
     ]

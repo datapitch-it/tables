@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-01 10:16:35",
+    "scraping_timestamp": "2025-12-04 06:00:33",
     "data": [
         {
             "deadline": "2026-01-02",
@@ -98,30 +98,6 @@
             }
         },
         {
-            "deadline": "2025-12-04",
-            "title": "LatAm Climate Culture Story Grant",
-            "description": "Syli",
-            "link": "https://gfmd.info/fundings/latam-climate-culture-story-grant/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Latin America and the Caribbean",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "USD 2,000"
-            }
-        },
-        {
-            "deadline": "2025-12-03",
-            "title": "JournalismAI Innovation Challenge",
-            "description": "JournalismAI",
-            "link": "https://gfmd.info/fundings/journalismai-innovation-challenge-2/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Up to USD 100,000"
-            }
-        },
-        {
             "deadline": "2026-02-04",
             "title": "Call for Proposals: Journalism Partnerships – Collaborations",
             "description": "European Commission",
@@ -143,18 +119,6 @@
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "R$ 5,500"
-            }
-        },
-        {
-            "deadline": "2025-12-02",
-            "title": "Building a trustworthy social media sphere",
-            "description": "European Union",
-            "link": "https://gfmd.info/fundings/building-a-trustworthy-social-media-sphere/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Total available budget: €5,985,000"
             }
         },
         {

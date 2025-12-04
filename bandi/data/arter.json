@@ -1,66 +1,6 @@
 {
-    "scraping_timestamp": "2025-12-01 10:12:57",
+    "scraping_timestamp": "2025-12-04 05:57:04",
     "data": [
-        {
-            "deadline": "2025-12-01",
-            "title": "Next Generation Internet: nuova serie di bandi per progetti di ricerca e innovazione sul futuro di internet",
-            "description": "I nuovi bandi NGI per beni comuni digitali, cloud decentralizzati e un ecosistema mobile aperto e sicuro resteranno aperti fino al 1° dicembre 2025",
-            "link": "https://first.art-er.it/news/next-generation-internet-aperta-nuova-serie-di-bandi",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "NGI Commons Fund: € 14.000.000NGI Mobifree: € 430.000NGI Fediversity: € 365.000NGI Taler: € 676.000"
-            }
-        },
-        {
-            "deadline": "2025-12-01",
-            "title": "Al via la SME Market Expansion Call 2026 per soluzioni innovative di mobilità urbana",
-            "description": "La call sostiene le PMI con soluzioni mature, pronte a test di mercato con clienti pubblici o privati",
-            "link": "https://first.art-er.it/news/nuovo-bando-ue-pmi-pronte-allespansione-di-mercato",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 600.000"
-            }
-        },
-        {
-            "deadline": "2025-12-01",
-            "title": "Progetto PoliRuralPlus: l'open call Enhance punta a creare servizi migliori per le zone urbano-rurali",
-            "description": "Candidature aperte fino al 1° dicembre 2025 per validare il servizio JackDaw, l'Intelligenza Artificiale del progetto PoliRuralPlus per trasformare i dati spaziali in decisioni",
-            "link": "https://first.art-er.it/news/bando-enhance-di-poliruralplus-linnovazione-rurale",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-02",
-            "title": "REINFORCING lancia la sua sesta Open Call Incubator dedicata alla Responsible Innovation",
-            "description": "Aperta la sesta Open Call Incubator: fino a 60.000 € per progetti su ricerca e innovazione responsabile",
-            "link": "https://first.art-er.it/news/reinforcing-sesta-call-la-responsible-innovation",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 480.000"
-            }
-        },
-        {
-            "deadline": "2025-12-03",
-            "title": "Al via la call MSCA Choose Europe for Science 2025 per rafforzare le carriere dei ricercatori",
-            "description": "La call MSCA Choose Europe for Science è dedicata al cofinanziamento di programmi post-dottorali e di fellowship",
-            "link": "https://first.art-er.it/news/al-la-call-msca-choose-europe-science-2025",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 22.500.000"
-            }
-        },
         {
             "deadline": "2025-12-04",
             "title": "Bando per sostenere startup e PMI innovative in Emilia-Romagna",
@@ -747,18 +687,6 @@
         },
         {
             "deadline": "2026-03-12",
-            "title": "Energia: bando per progetti transfrontalieri sulle fonti energetiche rinnovabili",
-            "description": "Obiettivo del bando, che si aprirà a febbraio 2026, è promuovere la cooperazione transfrontaliera nel campo della pianificazione, dello sviluppo e dello sfruttamento delle fonti energetiche rinnovabili",
-            "link": "https://first.art-er.it/news/bando-sulle-fonti-energetiche-rinnovabili",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-03-12",
             "title": "CEF Energy: bando da 150 milioni di euro per progetti transfrontalieri sulle energie da fonti rinnovabili",
             "description": "CINEA apre dal 5 febbraio al 12 marzo 2026 un bando da 150 milioni di euro per la cooperazione energetica transfrontaliera e l’adozione di energie da fonti innovabili in UE",
             "link": "https://first.art-er.it/news/cef-energy-un-bando-sullenergia-da-fonti-rinnovabili",
@@ -878,18 +806,6 @@
             }
         },
         {
-            "deadline": "2026-06-09",
-            "title": "EP PerMed: in arrivo il bando transnazionale 2026 per la medicina personalizzata",
-            "description": "Finanziamenti per progetti su malattie cardiovascolari, metaboliche e renali",
-            "link": "https://first.art-er.it/news/ep-permed-lancia-il-bando-transnazionale-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 38.000.000"
-            }
-        },
-        {
             "deadline": "2026-06-11",
             "title": "ERA4Health: aperto il bando “Prevent-OO” per contrastare sovrappeso e obesità in chiave preventiva",
             "description": "Il bando è dedicato al sostegno di progetti di ricerca collaborativa volti a comprendere le cause del sovrappeso e dell’obesità e a individuare soluzioni efficaci di prevenzione",
@@ -911,18 +827,6 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 31.000.000"
-            }
-        },
-        {
-            "deadline": "2026-06-30",
-            "title": "In arrivo il bando JTC 2026 a sostegno della ricerca europea per un accesso equo alle cure",
-            "description": "Il programma sostiene ricerca e innovazione per ridurre le disuguaglianze sanitarie e promuovere sistemi di cura sostenibili",
-            "link": "https://first.art-er.it/news/al-il-bando-jtc-2026-laccesso-alle-cure",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A scadenza multipla",
-                "Stanziamento": "N/A"
             }
         },
         {
