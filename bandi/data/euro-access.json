@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-04 06:00:03",
+    "scraping_timestamp": "2025-12-08 07:16:48",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -71,42 +71,6 @@
             "link": "https://www.euro-access.eu/en/calls/2192/Call-Interreg-CZ-PL-Priority-12",
             "custom": {
                 "Funding Program": "Interreg Czechia-Poland"
-            }
-        },
-        {
-            "deadline": "2025-12-17",
-            "title": "Alternative Fuels Infrastructure Facility - Co-funding Rate (Third cut-off date)",
-            "description": "This call aims to support the deployment of Alternative Fuel supply infrastructure, contributing to decarbonising transport along the TEN-T network in the Cohesion countries.",
-            "link": "https://www.euro-access.eu/en/calls/2277/Alternative-Fuels-Infrastructure-Facility-Co-funding-Rate-Third-cut-off-date",
-            "custom": {
-                "Funding Program": "Connecting Europe Facility for Transport"
-            }
-        },
-        {
-            "deadline": "2025-12-17",
-            "title": "Alternative Fuels Infrastructure Facility - Unit Contributions (Third cut-off date)",
-            "description": "This call will support the deployment of Alternative Fuel supply infrastructure, contributing to decarbonising transport along the TEN-T network in Cohesion countries.",
-            "link": "https://www.euro-access.eu/en/calls/2278/Alternative-Fuels-Infrastructure-Facility-Unit-Contributions-Third-cut-off-date",
-            "custom": {
-                "Funding Program": "Connecting Europe Facility for Transport"
-            }
-        },
-        {
-            "deadline": "2025-12-17",
-            "title": "Alternative Fuels Infrastructure Facility - Co-funding Rate (Third cut-off date)",
-            "description": "This call aims to support the deployment of Alternative Fuel supply infrastructure, contributing to decarbonising transport along the TEN-T network.",
-            "link": "https://www.euro-access.eu/en/calls/2279/Alternative-Fuels-Infrastructure-Facility-Co-funding-Rate-Third-cut-off-date",
-            "custom": {
-                "Funding Program": "Connecting Europe Facility for Transport"
-            }
-        },
-        {
-            "deadline": "2025-12-17",
-            "title": "Alternative Fuels Infrastructure Facility - Unit Contributions (Third cut-off date)",
-            "description": "This call will support the deployment of Alternative Fuel supply infrastructure, contributing to decarbonising transport along the TEN-T network.",
-            "link": "https://www.euro-access.eu/en/calls/2280/Alternative-Fuels-Infrastructure-Facility-Unit-Contributions-Third-cut-off-date",
-            "custom": {
-                "Funding Program": "Connecting Europe Facility for Transport"
             }
         },
         {
@@ -470,42 +434,6 @@
             }
         },
         {
-            "deadline": "2025-12-04",
-            "title": "Call for proposals to support the development of innovative medical countermeasures for chemical, biological, radiological and nuclear threats (HERA) - Detection and diagnosis",
-            "description": "The objective is to improve the Union’s readiness to respond to intentional health threats, including cross-border ones, by supporting the development of medical countermeasures to biological, chemical and radio-nuclear agents for which there currently are no or only limited treatment options.",
-            "link": "https://www.euro-access.eu/en/calls/2358/Call-for-proposals-to-support-the-development-of-innovative-medical-countermeasures-for-chemical-biological-radiological-and-nuclear-threats-HERA-Detection-and-diagnosis",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2025-12-04",
-            "title": "Call for proposals to support the development of innovative medical countermeasures for chemical, biological, radiological and nuclear threats (HERA) - Medicinal products",
-            "description": "The objective is to improve the Union’s readiness to respond to intentional health threats, including cross-border ones, by supporting the development of medical countermeasures to biological, chemical and radio-nuclear agents for which there currently are no or only limited treatment options.",
-            "link": "https://www.euro-access.eu/en/calls/2359/Call-for-proposals-to-support-the-development-of-innovative-medical-countermeasures-for-chemical-biological-radiological-and-nuclear-threats-HERA-Medicinal-products",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2025-12-04",
-            "title": "Call for proposals to support the development of innovative medical countermeasures for chemical, biological, radiological and nuclear threats (HERA) - Reusable respiratory personal protective equipment (PPE)",
-            "description": "The objective is to improve the Union’s readiness to respond to intentional health threats, including cross-border ones, by supporting the development of medical countermeasures to biological, chemical and radio-nuclear agents for which there currently are no or only limited treatment options.",
-            "link": "https://www.euro-access.eu/en/calls/2360/Call-for-proposals-to-support-the-development-of-innovative-medical-countermeasures-for-chemical-biological-radiological-and-nuclear-threats-HERA-Reusable-respiratory-personal-protective-equipment-PPE",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2025-12-04",
-            "title": "Call for proposals for the development of new diagnostic tests for vector-borne diseases (HERA)",
-            "description": "The activities conducted under this action will focus on supporting late-stage development of medical devices, bringing them to (near-) market; improvement of existing products in terms of accessibility, affordability, or accuracy; or, in case of unmet needs, aid the creation of innovative solutions.",
-            "link": "https://www.euro-access.eu/en/calls/2361/Call-for-proposals-for-the-development-of-new-diagnostic-tests-for-vector-borne-diseases-HERA",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
             "deadline": "2026-01-06",
             "title": "Call for proposals for health data for biotech innovation leveraging the European Health Data Space",
             "description": "The general objective of this action is to accelerate the development and deployment of AI and digital solutions in the biotech sector driven by health data, ensuring its secure and responsible use through the EHDS and leveraging AI Factories to augment these efforts.",
@@ -800,15 +728,6 @@
             "link": "https://www.euro-access.eu/en/calls/2413/Framework-Loans-1st-cut-off-date",
             "custom": {
                 "Funding Program": "Just Transition Mechanism"
-            }
-        },
-        {
-            "deadline": "2025-12-05",
-            "title": "EU support to strengthen capacities of the Statistical Office of the Republic of Serbia to implement capital stock survey and land estimation",
-            "description": "The overall objective is to assist the Statistical Office of the Republic of Serbia in achieving compliance with all tables included in the Transmission Program of Data set out in Annex B of the European System of National Accounts (ESA 2010), thereby meeting the requirements for the closure of Chapter 18.",
-            "link": "https://www.euro-access.eu/en/calls/2414/EU-support-to-strengthen-capacities-of-the-Statistical-Office-of-the-Republic-of-Serbia-to-implement-capital-stock-survey-and-land-estimation",
-            "custom": {
-                "Funding Program": "Instrument for Pre-accession Assistance"
             }
         },
         {
@@ -1196,6 +1115,123 @@
             "link": "https://www.euro-access.eu/en/calls/2497/1st-Call-for-Proposals-under-Cross-border-Programme-Serbia--Montenegro-2021-2027",
             "custom": {
                 "Funding Program": "Interreg CBC Serbia-Montenegro"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "European Film Distribution",
+            "description": "Within the specific objective of promoting competitiveness, scalability, cooperation, innovation and sustainability, including through mobility, in the European audiovisual sector, one of the priorities of the MEDIA strand is to enhance the circulation, promotion, online and theatrical distribution of European audiovisual works, within the Union and internationally in the new digital environment; including through innovative business models.",
+            "link": "https://www.euro-access.eu/en/calls/2500/European-Film-Distribution",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Networks of European Festivals",
+            "description": "The Networks of European festivals shall provide support to coordinated/collaborative activities among European audiovisual festivals aiming at increasing audiences' interest in non-national European audiovisual content, including video games and immersive content, and promoting its circulation and visibility.",
+            "link": "https://www.euro-access.eu/en/calls/2501/Networks-of-European-Festivals",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Innovation Fund 2025 Net Zero Technologies - General decarbonisation - Large-Scale Projects",
+            "description": "These topics aim to support and advance innovative low-carbon technologies and processes to significantly mitigate climate change in sectors listed in Annex I and Annex III to the ETS Directive 2003/87, promoting sustainable development and technological leadership within Europe.",
+            "link": "https://www.euro-access.eu/en/calls/2502/Innovation-Fund-2025-Net-Zero-Technologies-General-decarbonisation-Large-Scale-Projects",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Innovation Fund 2025 Net Zero Technologies - Clean-tech manufacturing",
+            "description": "This topic aims to support projects for manufacturing innovative clean-tech components for hydrogen production/consumption, renewable energy and energy storage. The topic seeks to enhance Europe’s innovation and industrial capacity in clean tech manufacturing, including scale-up, its supply chain resilience and strategic autonomy in Europe.",
+            "link": "https://www.euro-access.eu/en/calls/2503/Innovation-Fund-2025-Net-Zero-Technologies-Clean-tech-manufacturing",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Innovation Fund 2025 Net Zero Technologies - General decarbonisation - Small-Scale Projects",
+            "description": "These topics aim to support and advance innovative low-carbon technologies and processes to significantly mitigate climate change in sectors listed in Annex I and Annex III to the ETS Directive 2003/87, promoting sustainable development and technological leadership within Europe.",
+            "link": "https://www.euro-access.eu/en/calls/2504/Innovation-Fund-2025-Net-Zero-Technologies-General-decarbonisation-Small-Scale-Projects",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Innovation Fund 2025 Net Zero Technologies - General decarbonisation - Medium-Scale Projects",
+            "description": "These topics aim to support and advance innovative low-carbon technologies and processes to significantly mitigate climate change in sectors listed in Annex I and Annex III to the ETS Directive 2003/87, promoting sustainable development and technological leadership within Europe.",
+            "link": "https://www.euro-access.eu/en/calls/2505/Innovation-Fund-2025-Net-Zero-Technologies-General-decarbonisation-Medium-Scale-Projects",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Innovation Fund 2025 Net Zero Technologies - Pilot projects",
+            "description": "The objective of this topic is to support highly innovative, disruptive or breakthrough technologies that enable deep decarbonisation needed for achieving climate neutrality.",
+            "link": "https://www.euro-access.eu/en/calls/2506/Innovation-Fund-2025-Net-Zero-Technologies-Pilot-projects",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-19",
+            "title": "Fixed Premium Auction for RFNBO hydrogen production",
+            "description": "The objective of this topic is to support the production of renewable fuel of non-biological origin (RFNBO) hydrogen in Europe as defined in the Renewable Energy Directive 2018/2021 and its Delegated Acts, from new, additional installed capacity in support of the 2030 targets for renewable hydrogen established in this Directive and supported by the REPowerEU Plan and reiterated in the Green Deal Industrial Plan and the European Hydrogen Bank Communication. This topic also supports achieving security of supply of essential goods and Europe’s industrial leadership and competitiveness in the hydrogen sector.",
+            "link": "https://www.euro-access.eu/en/calls/2507/Fixed-Premium-Auction-for-RFNBO-hydrogen-production",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-19",
+            "title": "Fixed Premium Auction for RFNBO and/or electrolytic low-carbon hydrogen production",
+            "description": "The objective of this topic is to support the production of renewable fuel of non-biological origin (RFNBO) and electrolytic low-carbon hydrogen in Europe, as defined respectively in the Renewable Energy Directive 2018/2021 and its Delegated Acts, and in the Hydrogen and Gas Market Directive 2024/1788 and its Delegated Acts, from new, additional installed capacity in support of the 2030 targets for renewable hydrogen established in this Directive and supported by the REPowerEU Plan and reiterated in the Green Deal Industrial Plan and the European Hydrogen Bank Communication. This topic also supports achieving security of supply of essential goods and Europe’s industrial leadership and competitiveness in the hydrogen sector.",
+            "link": "https://www.euro-access.eu/en/calls/2508/Fixed-Premium-Auction-for-RFNBO-andor-electrolytic-low-carbon-hydrogen-production",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-19",
+            "title": "Fixed Premium Auction for RFNBO and/or electrolytic low-carbon hydrogen production for the maritime and aviation sectors",
+            "description": "The objective of this topic is to support the production of renewable fuel of non-biological origin (RFNBO) and electrolytic low-carbon hydrogen in Europe as respectively defined in the Renewable Energy Directive 2018/2021 and its Delegated Acts and Hydrogen and Gas Market Directive 2024/1788 and its Delegated Acts, from new, additional installed capacity in support of the 2030 targets for renewable hydrogen established in this Directive and supported by the REPowerEU Plan and reiterated in the Green Deal Industrial Plan and the European Hydrogen Bank Communication. This topic also supports achieving security of supply of essential goods and Europe’s industrial leadership and competitiveness in the hydrogen sector. This topic’s objective is also to provide specific support to the production of hydrogen that will be used by stakeholders in the maritime or in the aviation sector.",
+            "link": "https://www.euro-access.eu/en/calls/2509/Fixed-Premium-Auction-for-RFNBO-andor-electrolytic-low-carbon-hydrogen-production-for-the-maritime-and-aviation-sectors",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-19",
+            "title": "Fixed Premium Auction for  Industrial Process Heat Decarbonisation - Medium Temperature Heat - Above 5 MW",
+            "description": "The objective of this topic is to reduce direct GHG emissions in industry by cost-effectively supporting the market uptake of electrified and direct-renewable industrial process heat for medium temperature heat and large capacity installations.",
+            "link": "https://www.euro-access.eu/en/calls/2510/Fixed-Premium-Auction-for-Industrial-Process-Heat-Decarbonisation-Medium-Temperature-Heat-Above-5-MW",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-19",
+            "title": "Fixed Premium Auction for Industrial Process Heat Decarbonisation - Medium Temperature Heat - 3 to 5 MW",
+            "description": "The objective of this topic is to reduce direct GHG emissions in industry by cost-effectively supporting the market uptake of electrified and direct-renewable industrial process heat for medium temperature heat and small capacity installations.",
+            "link": "https://www.euro-access.eu/en/calls/2511/Fixed-Premium-Auction-for-Industrial-Process-Heat-Decarbonisation-Medium-Temperature-Heat-3-to-5-MW",
+            "custom": {
+                "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-19",
+            "title": "Fixed Premium Auction for Industrial Process Heat  Decarbonisation - High Temperature  Heat",
+            "description": "The objective of this topic is to reduce direct GHG emissions in industry by cost-effectively supporting the market uptake of electrified and direct-renewable industrial process heat for high temperature heat.",
+            "link": "https://www.euro-access.eu/en/calls/2512/Fixed-Premium-Auction-for-Industrial-Process-Heat-Decarbonisation-High-Temperature-Heat",
+            "custom": {
+                "Funding Program": "Innovation Fund"
             }
         }
     ]

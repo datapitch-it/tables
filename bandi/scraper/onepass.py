@@ -23,10 +23,15 @@ def check_and_rename_file(file_path):
 start_time = time.time()
 
 # Path to your cached ChromeDriver
-chrome_driver_path = "/home/nelson/.cache/selenium/chromedriver/linux64/chromedriver-linux64/chromedriver"
+chrome_driver_path = "/usr/bin/chromedriver"
 
 # Set up WebDriver using the specified ChromeDriver path
-driver = webdriver.Chrome(service=Service(chrome_driver_path))
+try:
+    driver = webdriver.Chrome(service=Service(chrome_driver_path))
+except Exception as e:
+    print(f"Errore ChromeDriver: {e}")
+    print("Installa ChromeDriver con: sudo apt install chromium-chromedriver")
+    exit(1)
 
 # New source URL
 base_url = "https://getonepass.eu/search/opportunities?refinementList%5Btype%5D%5B0%5D=equity-free&refinementList%5Bstatus%5D%5B0%5D=Open%20for%20applications&sortBy=prod_dates_desc"
