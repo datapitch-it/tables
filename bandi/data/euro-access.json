@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-08 07:16:48",
+    "scraping_timestamp": "2025-12-09 11:48:09",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -71,6 +71,33 @@
             "link": "https://www.euro-access.eu/en/calls/2192/Call-Interreg-CZ-PL-Priority-12",
             "custom": {
                 "Funding Program": "Interreg Czechia-Poland"
+            }
+        },
+        {
+            "deadline": "2026-03-04",
+            "title": "Upskilling and reskilling",
+            "description": "This call for proposals aims to advance the EU's policy on data management and sharing by ensuring a broad outreach to Destination Management Organisations (DMOs) within the tourism sector. The selected proposal will be required to join the Pact for Skills and engage in the Large-Scale Partnership (LSP) for tourism, with a concentrated effort on boosting digital skills.",
+            "link": "https://www.euro-access.eu/en/calls/2515/Upskilling-and-reskilling",
+            "custom": {
+                "Funding Program": "Pilot Projects and Preparatory Actions (PPPAs)"
+            }
+        },
+        {
+            "deadline": "2026-05-28",
+            "title": "National Cyber Hubs",
+            "description": "The objective is to create or strengthen National Cyber Hubs, with state-of-the-art tools for monitoring, understanding and proactively managing cyber events, in close collaboration with relevant entities such as CSIRTs, ISACs, etc. They will also, where possible, benefit from information and feeds from other Cyber Hubs in their countries and use the aggregated data and analysis to deliver early warnings to targeted critical infrastructures on a need-to-know basis. National Cyber Hubs could also consider the possibility of monitoring undersea infrastructure, such as submarine cables.",
+            "link": "https://www.euro-access.eu/en/calls/2514/National-Cyber-Hubs",
+            "custom": {
+                "Funding Program": "Digital Europe"
+            }
+        },
+        {
+            "deadline": "2026-05-28",
+            "title": "Cross-Border Cyber Hubs",
+            "description": "The former Cross-border SOC platforms were financed during previous calls and such collaboration is envisaged for the Cross-Border Cyber Hubs. They should provide new additional capacity building upon and complementing existing SOCs/Cyber Hubs, Computer Security Incident Response Teams (CSIRTs), ISACs and other relevant actors. This action is aimed mainly at new Cross-Border Cyber Hubs. Supporting activities for the SOCs that were already launched under the previous DIGITAL work programmes (2021-2022 and 2023-2024) could also be included when relevant to ensure collaboration with the Cross-Border Cyber Hubs.",
+            "link": "https://www.euro-access.eu/en/calls/2513/Cross-Border-Cyber-Hubs",
+            "custom": {
+                "Funding Program": "Digital Europe"
             }
         },
         {

@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2025-12-04 06:00:49",
+    "scraping_timestamp": "2025-12-08 07:19:44",
     "data": [
+        {
+            "deadline": "2025-12-30 23:59",
+            "title": "Raccolta delle candidature per la partecipazione alle filiere formative tecnologico-professionali 2026/2027",
+            "description": "Definite da Regione Lombardia le modalità e la tempistica per la presentazione delle proposte di filiera formativa tecnologico-professionali 2026/2027.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/raccolta-candidature-partecipazione-filiere-formative-tecnologico-professionali-2026-2027-RLW12025049443",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2025-12-11 12:00",
             "title": "NIDI GRATIS PLUS - 2025/26 - AVVISO FAMIGLIE",
@@ -314,7 +326,7 @@
             }
         },
         {
-            "deadline": "N/A",
+            "deadline": "2026-10-31 23:59",
             "title": "Dote Impresa Collocamento Mirato Asse II - Provincia di Cremona",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-ii-provincia-cremona-PR_CR_42025049626",
@@ -410,7 +422,7 @@
             }
         },
         {
-            "deadline": "N/A",
+            "deadline": "2026-10-31 23:59",
             "title": "Dote Impresa Collocamento Mirato Asse I - Provincia di Cremona",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-provincia-cremona-PR_CR_42025049625",
@@ -422,7 +434,7 @@
             }
         },
         {
-            "deadline": "N/A",
+            "deadline": "2026-10-31 23:59",
             "title": "Dote Impresa Collocamento Mirato Asse III  - Provincia di Cremona",
             "description": "DOTE IMPRESA COLLOCAMENTO MIRATO\n- ASSE III -\n \nLinea contributi per la costituzione di cooperative sociali di tipo B e rami di impresa\nLinea incentivi per la transizione verso altre aziende",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-iii-provincia-cremona-PR_CR_42025049629",
@@ -662,7 +674,7 @@
             }
         },
         {
-            "deadline": "2025-12-19 12:00",
+            "deadline": "2026-06-19 12:00",
             "title": "AVVISO PUBBLICO A MANIFESTARE INTERESSE RIVOLTO A SOGGETTI PRIVATI CON PERSONALITÀ GIURIDICA CHE INTENDANO SOTTOSCRIVERE ACCORDI DI COLLABORAZIONE CON LA DIREZIONE GENERALE FAMIGLIA, SOLIDARIETÀ SOCIALE, DISABILITÀ E PARI OPPORTUNITÀ IN AMBITO SOCIALE.",
             "description": "Il presente Avviso, in nessun modo vincolante per l’Amministrazione, ha lo scopo di raccogliere le manifestazioni di interesse da parte di soggetti privati con personalità giuridica che intendano sottoscrivere Accordi di Collaborazione istituzionale con Regione Lombardia per il perseguimento di finalità di pubblico interesse in ambito sociale, attraverso la realizzazione di progetti sperimentali e innovativi, relativamente agli ambiti individuati nella DGR n.4751/2025.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/inclusione-sociale/avviso-pubblico-manifestare-interesse-rivolto-soggetti-privati-personalit-giuridica-che-intendano-sottoscrivere-accordi-collaborazione-direzione-generale-famiglia-solidariet-sociale-disabilit-pari-opportunit-ambito-sociale-RLD12025049243",
@@ -750,18 +762,6 @@
             "title": "Manifestazione di interesse per l'inserimento nell'elenco, di cui alla legge regionale 21/2024, articolo 4, per la costituzione di Commissioni ispettive, ai sensi del d.lgs. 105/2015, per l'ispezione di stabilimenti a rischio di incidente rilevante di soglia inferiore.",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/manifestazione-interesse-l-inserimento-elenco-cui-legge-regionale-21-2024-articolo-4-costituzione-commissioni-ispettive-sensi-d-lgs-105-2015-l-ispezione-stabilimenti-rischio-incidente-rilevante-soglia-inferiore-RLT12025048903",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-05 12:00",
-            "title": "PSN/PAC 2023-2027 \"Investimenti produttivi agricoli per ambiente, clima e benessere animale\" - Sviluppo Rurale/bando 2025",
-            "description": "INTERVENTO SRD02 - Azione C. Dotazione finanziaria di € 7.000.000,00. Domande dal 30 luglio al 5 dicembre 2025 (dopo proroga). Possono partecipare: imprenditore agricolo individuale; società agricola di persone, di capitali o cooperativa.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-investimenti-produttivi-agricoli-ambiante-clima-benessere-animale-sviluppo-rurale-bando-2025-RLM12025047243",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1262,7 +1262,7 @@
             }
         },
         {
-            "deadline": "2026-01-10 17:00",
+            "deadline": "2026-10-31 17:00",
             "title": "Voucher aziendali per interventi di formazione aggiuntiva in materia di sicurezza e salute nei luoghi di lavoro",
             "description": "Regione Lombardia promuove interventi di formazione aggiuntiva, in materia di sicurezza nei luoghi di lavoro, rivolta a dipendenti e datori di lavoro delle aziende con codici ATECO C23-C33-E -F41-F42-F43.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/avviso-pubblico-l-assegnazione-voucher-aziendali-interventi-formazione-aggiuntiva-materia-sicurezza-salute-luoghi-lavoro-RLW12024041803",
@@ -2235,18 +2235,6 @@
         },
         {
             "deadline": "N/A",
-            "title": "Piano Lombardia 2 - interventi per il servizio idrico integrato",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/acqua/piano-lombardia-2-interventi-servizio-idrico-integrato-RLZ12022026004",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
             "title": "Misure a sostegno degli aeroporti lombardi di interesse nazionale appartenenti alle reti - TEN-T.",
             "description": "Sostenere il sistema aeroportuale degli scali di Malpensa, Linate e Orio al Serio rafforzando la ripresa dell’economia con una misura di contrasto alla crisi conseguente all’emergenza COVID-19",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/trasporti-infrastrutture/infrastrutture-trasporto/misure-sostegno-aeroporti-lombardi-interesse-nazionale-appartenenti-reti-ten-t-RLS12022025863",
@@ -2859,6 +2847,18 @@
         },
         {
             "deadline": "N/A",
+            "title": "2° SELEZIONE DI CONTENUTI CREATIVI “LA DONAZIONE DEGLI ORGANI È...",
+            "description": "Avviso pubblico rivolto alle scuole secondarie di primo e secondo grado pubbliche e paritarie nonché delle Istituzioni formative lombarde (CFP) che erogano Percorsi di Istruzione e Formazione Professionale (IeFP) per la promozione della cultura del dono di organi e tessuti attraverso la partecipazione attiva degli studenti – Anno scolastico 2025/2026",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/2-concorso-creativo-donazione-organi-RLG12025050147",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
             "title": "Dote Impresa Collocamento Mirato Asse II - Provincia di Brescia",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-ii-PR_BS_42025049645",
@@ -2970,6 +2970,30 @@
             "title": "STUDI LEGALI/RIVALSE - DENUNCE SINISTRI CON FAUNA SELVATICA: richieste di risarcimento (e/o rivalse) per danni ai veicoli e/o lesioni a seguito sinistri con fauna selvatica riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali",
             "description": "Procedura riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali per la presentazione di richieste di risarcimento danni e/o lesioni subiti sul territorio lombardo a seguito di sinistri di veicoli con fauna selvatica. \nPer le richieste di privati cittadini o imprese intestatarie del veicolo è disponibile la procedura RLA12023031363 (info e link nella sezione “Chi può partecipare”)",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/richieste-risarcimento-rivalse-danni-veicoli-lesioni-seguito-sinistri-fauna-selvatica-procedura-riservata-studi-legali-societ-gestione-sinistri-compagnie-assicuratrici-enti-previdenziali-RLA12025048663",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "RiSC - Richiesta Somme urgenze Comunali",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/risc-richiesta-somme-urgenze-comunali-RLY12025051163",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo periodo 1° aprile 2026 - 30 settembre 2026",
+            "description": "Dall'8 gennaio 2026 al 29 gennaio 2026 è possibile presentare domanda di contributo per i grandi eventi sportivi realizzati dal 1° aprile 2026 al 30 settembre 2026",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-realizzazione-grandi-eventi-sportivi-territorio-lombardo-periodo-1-aprile-2026-30-settembre-2026-RLAV2025051103",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
