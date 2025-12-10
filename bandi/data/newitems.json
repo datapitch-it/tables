@@ -1,53 +1,11 @@
 {
-    "scraping_timestamp": "2025-12-09 12:01:46",
+    "scraping_timestamp": "2025-12-10 06:01:32",
     "data": [
         {
-            "deadline": "2025-12-10",
-            "title": "Cultura Cresce",
-            "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "Autoimpiego Centro-Nord",
-            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Centro-Nord",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/autoimpiego-centro-nord",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "Resto al Sud 2.0",
-            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud-20",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-30",
-            "title": "Cultura Crea",
-            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -61,21 +19,7 @@
             "deadline": "2024-07-01",
             "title": "Laboratorio per l'Imprenditorialità",
             "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-06-15",
-            "title": "SELFIEmployment",
-            "description": "Prestiti a tasso zero per giovani, donne e disoccupati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/selfiemployment?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -87,9 +31,23 @@
         },
         {
             "deadline": "N/A",
-            "title": "Beni strumentali - Nuova Sabatini",
-            "description": "Sostiene l’acquisto di nuovi macchinari, impianti e attrezzature",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini",
+            "title": "Rilanciamo le aree di crisi industriale",
+            "description": "Sosteniamo i territori in difficoltà economica con incentivi alle Imprese e all’occupazione per il rilancio delle aree di crisi industriale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-07-25",
+            "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
+            "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -101,9 +59,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Contratto di sviluppo",
-            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo?from=/per-le-imprese/incentivi",
+            "title": "CIS Foggia",
+            "description": "Il contratto istituzionale di sviluppo, denominato anche CIS Capitanata, punta a sviluppare infrastrutture strategiche e a valorizzare le eccellenze culturali, naturalistiche, artigianali e produttive",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cis-foggia?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -115,9 +73,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Albi fornitori Invitalia",
-            "description": "L'albo per favorire economicità e rapidità nell’affidamento degli incarichi e selezionare fornitori affidabili e qualificati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/albi-fornitori-invitalia",
+            "title": "Brevetti+ 2025",
+            "description": "L'incentivo per la valorizzazione economica dei brevetti",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2025?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -128,10 +86,10 @@
             }
         },
         {
-            "deadline": "2022-11-17",
-            "title": "Sviluppo della logistica agroalimentare",
-            "description": "L'incentivo per innovare la logistica e ridurre l'impatto ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sviluppo-della-logistica-agroalimentare?from=/per-le-imprese/incentivi",
+            "deadline": "2024-10-29",
+            "title": "BREVETTI+ 2024",
+            "description": "L'incentivo per la valorizzazione economica dei brevetti",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2024?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -142,10 +100,10 @@
             }
         },
         {
-            "deadline": "2024-04-30",
-            "title": "Macchinari e beni strumentali",
-            "description": "È l’incentivo per l’acquisto di macchinari professionali nella ristorazione, pasticceria e gelateria per valorizzare il patrimonio dell'enogastronomia italiana",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/macchinari-e-beni-strumentali",
+            "deadline": "N/A",
+            "title": "BREVETTI+ 2020-2023",
+            "description": "L'incentivo per la valorizzazione economica dei brevetti",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -156,10 +114,10 @@
             }
         },
         {
-            "deadline": "2025-05-06",
-            "title": "Imprese Borghi",
-            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2025-05-21",
+            "title": "Investimenti per le imprese boschive e della lavorazione del legno",
+            "description": "Incentivi per favorire l'innovazione tecnologica nell'industria della lavorazione del legno",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-le-imprese-boschive-e-della-lavorazione-del-legno?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -170,85 +128,10 @@
             }
         },
         {
-            "deadline": "2026-03-04",
-            "title": "Upskilling and reskilling",
-            "description": "Identifier: PPPA-2026-TOURISM-CAPACITY-BUILDING\nPillar: PPPA-2026-TOURISM-CAPACITY-BUILDING\nOpening Date: 2025-12-09\nDeadline: 2026-03-04\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/PPPA-2026-TOURISM-CAPACITY-BUILDING",
-            "custom": {
-                "custom": {
-                    "category": "PPPA2027",
-                    "guid": "Upskilling and reskilling the Tourism Ecosystem I Tourism Knowledge hub and Tourism Data Space",
-                    "pub_date": "2025-12-09",
-                    "dc_date": "2025-12-09",
-                    "identifier": "PPPA-2026-TOURISM-CAPACITY-BUILDING"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Strengthening the CER framework",
-            "description": "Identifier: ISF-2026-TF2-AG-CER-STRENGTH\nPillar: ISF-2026-TF2-AG-CER\nOpening Date: 2025-12-09\nDeadline: 2026-03-31\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ISF-2026-TF2-AG-CER-STRENGTH",
-            "custom": {
-                "custom": {
-                    "category": "ISF",
-                    "guid": "Call for proposals - Supporting the implementation of the new legislation on critical entities resilience",
-                    "pub_date": "2025-12-09",
-                    "dc_date": "2025-12-09",
-                    "identifier": "ISF-2026-TF2-AG-CER-STRENGTH"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Cross-sector and cross-border resilience stress tests of critical infrastructure",
-            "description": "Identifier: ISF-2026-TF2-AG-CER-TEST\nPillar: ISF-2026-TF2-AG-CER\nOpening Date: 2025-12-09\nDeadline: 2026-03-31\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/ISF-2026-TF2-AG-CER-TEST",
-            "custom": {
-                "custom": {
-                    "category": "ISF",
-                    "guid": "Call for proposals - Supporting the implementation of the new legislation on critical entities resilience",
-                    "pub_date": "2025-12-09",
-                    "dc_date": "2025-12-09",
-                    "identifier": "ISF-2026-TF2-AG-CER-TEST"
-                }
-            }
-        },
-        {
-            "deadline": "2026-05-28",
-            "title": "National Cyber Hubs",
-            "description": "Identifier: DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH\nPillar: DIGITAL-ECCC-2026-DEPLOY-CYBER-10\nOpening Date: 2025-12-09\nDeadline: 2026-05-28\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH",
-            "custom": {
-                "custom": {
-                    "category": "DIGITAL",
-                    "guid": "CyberHUBs Capacity Building",
-                    "pub_date": "2025-12-09",
-                    "dc_date": "2025-12-09",
-                    "identifier": "DIGITAL-ECCC-2026-DEPLOY-CYBER-10-NCH"
-                }
-            }
-        },
-        {
-            "deadline": "2026-05-28",
-            "title": "Cross-Border Cyber Hubs",
-            "description": "Identifier: DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH\nPillar: DIGITAL-ECCC-2026-DEPLOY-CYBER-10\nOpening Date: 2025-12-09\nDeadline: 2026-05-28\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH",
-            "custom": {
-                "custom": {
-                    "category": "DIGITAL",
-                    "guid": "CyberHUBs Capacity Building",
-                    "pub_date": "2025-12-09",
-                    "dc_date": "2025-12-09",
-                    "identifier": "DIGITAL-ECCC-2026-DEPLOY-CYBER-10-CBCH"
-                }
-            }
-        },
-        {
-            "deadline": "2023-06-30",
-            "title": "Fondo Comuni Marginali - Comune di Belmonte Castello - Anno 2021",
-            "description": "Cos'è Il bando, in attuazione del \"Fondo di sostegno ai comuni marginali\", è finalizzato al sostegno del sistema economico del Comune di Belmonte Castello.  A chi si rivolge Il presente Avviso si rivolge alle imprese che svolgono attività commerciale, artigianale e agricola tramite un'unità operativa ubicata nei territorio dei comuni, ovvero intraprendano nuove attività economiche nei suddetti territorio comunali e sono regolarmente costituite e iscritte al registro delle imprese.  Cosa prevede L'erogazione di contributi destinati al finanziamento alle imprese. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-belmonte-castello-anno-2021",
+            "deadline": "2027-04-30",
+            "title": "Voucher Startup - Incentivi per la competitività delle imprese",
+            "description": "Cos'è Il Programma è finalizzato a sostenere le Startup Innovative che abbiano già compiuto un percorso di validazione del proprio prodotto o servizio e che dispongano di un prototipo funzionante, in grado di dimostrarne la fattibilità tecnologica. L'iniziativa mira a favorire il completamento del percorso di sviluppo delle loro soluzioni innovative, accelerandone la crescita e l'ingresso sul mercato. A tal fine, il Programma prevede il cofinanziamento di piani di sviluppo imprenditoriale del valore massimo di 200.000 euro, con una percentuale di contribuzione minima del 70%, elevabile fino all'85% in base alle premialità indicate nelle Disposizioni Attuative del Programma.  A chi si rivolge Startup innovative, iscritte all’apposito registro e costituite da non più di 48 mesi.  Cosa prevede Il bando prevede il cofinanziamento di piani di sviluppo imprenditoriale del valore massimo di 200.000 euro, con una percentuale di contribuzione minima del 70%, elevabile fino all'85% in base alle premialità indicate nelle Disposizioni Attuative del Programma. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/voucher-startup-incentivi-la-competitivita-delle-imprese",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -259,10 +142,10 @@
             }
         },
         {
-            "deadline": "2025-11-22",
-            "title": "Fondo Aree Interne - Comune di Brissago Valtravaglia - Anno 2022",
-            "description": "Cos'è Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Brissago Valtravaglia.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Brissago Valtravaglia.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-brissago-valtravaglia-anno-2022",
+            "deadline": "2025-09-24",
+            "title": "Concessione di contributi a fondo perduto a valere sul fondo sostegno comuni marginali - Annualità 2022 - Comune di Picinisco",
+            "description": "Cos'è Il bando, in attuazione del \"Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Picinisco.  A chi si rivolge Possono accedere al contributo previsto dall’art. 2, co.2, lett. b) del D. P. C. M. 30.09.2021, le “nuove attività economiche” che intraprendono attività commerciali, artigianali o agricole attraverso un’unità operativa ubicata nel territorio del comune di Picinisco.  Cosa prevede L'erogazione di contributi a fondo perduto volte a favorire l'implementazione di nuove attività economiche. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/concessione-di-contributi-fondo-perduto-valere-sul-fondo-sostegno-comuni-marginali-0",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -273,74 +156,366 @@
             }
         },
         {
-            "deadline": "2026-04-23",
-            "title": "CREA - Bando Distribuzione di film europei",
-            "description": "Il Programma “Europa Creativa” incentiva azioni a sostegno dei settori culturali e creativi europei.Gli obiettivi generali del Programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Il bando Distribuzione di film europei intende dare sostegno e incoraggiare la distribuzione transnazionale di film europei recenti fornendo fondi ai distributori, in base ai loro risultati di mercato, per ulteriori reinvestimenti nell’acquisizione, promozione e distribuzione (anche online) di film europei non nazionali recenti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-distribuzione-di-film-europei",
+            "deadline": "2025-10-17",
+            "title": "Fondo di sostegno delle attività economiche, artigianali e commerciali - Comune di San Basilio - Annualità 2022",
+            "description": "Cos'è Contributi a fondo perduto a valere sul Fondo di sostegno delle attività economiche, artigianali e commerciali dei Comuni delle aree interne di cui al D. P. C. M. 24 settembre 2020 per l’annualità 2022.  A chi si rivolge Piccole imprese e micro imprese che svolgano attività economica con unità operativa ubicata nel territorio comunale.  Cosa prevede Contributo in conto spese gestione sostenute nell'anno 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-delle-attivita-economiche-artigianali-e-commerciali-comune-di-san",
             "custom": {
                 "custom": {
-                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
-                    "Stanziamento": "€ 34.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-13",
-            "title": "Emilia-Romagna - Azioni triennali di sistema per la qualificazione e il rafforzamento dell’offerta di formazione terziaria professionalizzante",
-            "description": "L’Avviso rende disponibili azioni di sistema volte ad accompagnare la progettazione, realizzazione e valutazione dell’offerta di formazione terziaria professionalizzante finalizzate a sviluppare le condizioni di contesto per il rafforzamento e la qualificazione del sistema di offerta terziaria professionalizzante, agendo per incrementare la domanda di accesso da parte dei potenziali partecipanti, per rafforzare le connessioni con i sistemi territoriali di impresa, per concorrere agli obiettivi di attrattività e di internazionalizzazione del sistema regionale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-azioni-triennali-di-sistema-per-la-qualificazione-e-il-rafforzamento-dellofferta-di-formazione-terziaria-professionalizzante",
-            "custom": {
-                "custom": {
-                    "Topics": "Formazione e lavoro",
-                    "Stanziamento": "€ 1.500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-04-14",
-            "title": "CREA - Reti di festival europei",
-            "description": "Il Programma Europa Creativa riunisce azioni a sostegno dei settori culturali e creativi europei. Gli obiettivi generali del programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Attraverso il bando, nello specifico, la sezione MEDIA intende sostenere i festival europei e le reti di festival che proiettano una percentuale significativa di opere europee non nazionali, preservando la loro identità e il loro profilo unico. Le reti di festival europei forniscono un sostegno alle attività coordinate/collaborative tra i festival audiovisivi europei che mirano ad aumentare l'interesse del pubblico per i contenuti audiovisivi europei non nazionali e a promuoverne la circolazione e la visibilità.",
-            "link": "https://www.obiettivoeuropa.com/bandi/crea-reti-di-festival-europei",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Audiovisivi e Cinema, Cooperazione Internazionale, Media e informazione, Supporto alle imprese",
-                    "Stanziamento": "€ 6.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-06-18",
-            "title": "CREA – Bando Agenti di vendita di film europei",
-            "description": "Il Programma “Europa Creativa” incentiva azioni a sostegno dei settori culturali e creativi europei.Gli obiettivi generali del Programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Il bando in particolare, incoraggerà e sosterrà una più ampia distribuzione transnazionale di film europei recenti, erogando fondi agli agenti di vendita europei, in base ai loro risultati sul mercato, per ulteriori reinvestimenti nell'acquisizione, promozione e distribuzione (anche online) di film europei non nazionali recenti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-agenti-di-vendita-di-film-europei",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
-                    "Stanziamento": "€ 5.500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-12",
-            "title": "Lazio - Concessione contributo ai Comuni ricompresi nel sistema portuale laziale",
-            "description": "L’avviso definisce le modalità di concessione dei finanziamenti di cui alla L.R. 72/1984, a favore dei Comuni ricompresi nel sistema portuale laziale che operano su porti turistici, darsene, marine e ormeggi nautici afferenti al comparto nautico per opere di riattamento, ristrutturazione, adeguamento e completamento.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lazio-concessione-contributo-ai-comuni-ricompresi-nel-sistema-portuale-laziale",
-            "custom": {
-                "custom": {
-                    "Topics": "Acquisto macchinari e/o attrezzature, Edilizia, Innovazione tecnologica, digitalizzazione, ICT, Ristrutturazione, recupero, riqualificazione",
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2026-01-30",
-            "title": "CCIAA Cremona-Mantova-Pavia - Bando Digitalizzazione",
-            "description": "La CCIAA nell’ambito del progetto di supporto alla doppia transizione digitale ed ecologica autorizzato dal Ministro delle Imprese e del Made in Italy con decreto del 23 febbraio 2023, intende sostenere le MPMI del territorio che investono nella digitalizzazione d’impresa.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-cremona-mantova-pavia-bando-digitalizzazione",
+            "deadline": "2025-11-03",
+            "title": "Fondo Aree Interne - Comune di Calasetta - Anno 2022",
+            "description": "Cos'è Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Calasetta.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Calasetta.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2021 e del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-calasetta-anno-2022",
             "custom": {
                 "custom": {
-                    "Topics": "Competitività imprese, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Supporto alle imprese, Transizione digitale",
-                    "Stanziamento": "€ 300.000"
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-03",
+            "title": "Workshop MICE Destinazione Sardegna 2025",
+            "description": "Cos'è Bando per agevolare la partecipazione delle imprese alla promozione del MICE nei mercati nazionale ed internazionali. L'evento si terrà a Cagliari dal 15 al 16 dicembre 2025.  A chi si rivolge Il bando si rivolge alle imprese del settore turismo aventi sede operativa in Sardegna.  Cosa prevede Contributi sotto forma di servizi agevolati per la partecipazione al Workshop. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/workshop-mice-destinazione-sardegna-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-10",
+            "title": "Fondo di sostegno alle attività economiche, artigianali e commerciali - Comune di Borutta - Annualità 2022",
+            "description": "Cos'è Avviso pubblico per l'erogazione di contributi a fondo perduto in favore di piccole e micro imprese, previsti dal fondo di sostegno alle attività economiche, artigianali e commerciali.  A chi si rivolge Piccole e Micro imprese operanti sul territorio comunale.  Cosa prevede Contributo a fondo perduto per il ristore delle spese di gestione o di investimento. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-alle-attivita-economiche-artigianali-e-commerciali-comune-di-borutta",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-23",
+            "title": "Bando l’erogazione di contributi a fondo perduto (ristori) in favore degli operatori impegnati nella gestione degli impianti a fune",
+            "description": "Cos'è Il presente intervento è finalizzato alla concessione di un contributo straordinario a fondo perduto per il sostegno agli operatori direttamente coinvolti nella gestione degli impianti di risalita al fine di accedere ai fondi necessari a ristorare le perdite subite a causa del Covid e limitatamente compensate.  A chi si rivolge Imprese con Codice ateco 49.39.01 – impianti a fune.  Cosa prevede L’intervento prevede l’erogazione di un contributo a fondo perduto in favore dei soggetti destinatari di cui al punto 2, per l’attività dagli stessi esercitata (gestione impianti sportivi invernali di risalita), secondo il seguente criterio:- l’ammontare del contributo verrà determinato ripartendo la dotazione finanziaria, nel limite del 100% della diminuzione del fatturato o dei corrispettivi che concorrono alla formazione del volume di affari (ai sensi dell’art.20 D. P. R. 633/72), come emergente dalla dichiarazione IVA, della media degli ultimi 3 esercizi lavorativi precedenti al 2020 rispetto al fatturato dell’annualità 2021, al netto di eventuali ristori già percepiti. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/bando-lerogazione-di-contributi-fondo-perduto-ristori-favore-degli-operatori-impegnati",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Riapertura sportello per la presentazione delle domande di accesso alle agevolazioni per il sostegno all’accesso al credito per il comparto commercio e servizi di ristorazione e alloggio - PR FESR Liguria 2021–2027",
+            "description": "Cos'è Il Regolamento disciplina gli interventi di sostegno per operazioni finanziarie a favore delle micro, piccole e medie imprese commerciali e di servizi di ristorazione e di alloggio, si propongono di promuovere lo sviluppo degli investimenti del comparto, anche di miglioramento dell’efficienza energetica.  A chi si rivolge Il Regolamento si rivolge alle pmi e in forma singola o associata.  Cosa prevede Le agevolazioni consistono nel rilascio di riassicurazioni combinate con sovvenzioni in forma di contributo per la riduzione dei costi per interessi e di contributo a fondo perduto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/riapertura-sportello-la-presentazione-delle-domande-di-accesso-alle-agevolazioni-il",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Riapertura sportello per la presentazione delle domande di accesso alle agevolazioni a valere sulle modalità attuative degli interventi di sostegno all’accesso al credito per il comparto artigianato - PR FESR Liguria 2021-2027",
+            "description": "Cos'è Il Regolamento disciplina gli interventi di sostegno per operazioni finanziarie a favore delle micro, piccole e medie imprese artigiane, si propongono di promuovere lo sviluppo degli investimenti del comparto, anche di miglioramento dell’efficienza energetica  A chi si rivolge Il Regolamento si rivolge alle pmi artigiane.  Cosa prevede Le agevolazioni consistono nel rilascio di riassicurazioni combinate con sovvenzioni in forma di contributo per la riduzione dei costi per interessi e di contributo a fondo perduto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/riapertura-sportello-la-presentazione-delle-domande-di-accesso-alle-agevolazioni-valere",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-30",
+            "title": "Fondo di sostegno alle attività economiche, artigianali e commerciali -Comune di Melissa - Annualità 2022",
+            "description": "Cos'è Il bando, emanato dal Comune di Melissa ai sensi del D. P. C. M. 24 settembre 2020, mette a disposizione contributi a favore delle attività economiche, artigianali e commerciali situate nelle aree interne. L’intervento rientra nel Fondo di sostegno alle attività economiche, artigianali e commerciali e mira a rafforzare la competitività delle imprese locali attraverso il sostegno agli investimenti.  A chi si rivolge Il bando è rivolto alle imprese attive nel territorio del Comune di Melissa, appartenenti ai settori economici ammissibili secondo la codifica ATECO 2025. Sono ammissibili micro, piccole e medie imprese (MPMI) che esercitano attività economiche, artigianali o commerciali nell’area interna di riferimento.  Cosa prevede Il bando prevede la concessione di contributi a fondo perduto per sostenere investimenti finalizzati alla crescita e al miglioramento dell’attività. Sono finanziabili, tra gli altri:acquisto di impianti, macchinari, attrezzature e materiali;investimenti in strumenti e attrezzature ammortizzabili;spese generali correlate agli interventi. L’agevolazione prevede un contributo compreso tra 0.000 € e 5.000 € a fronte di spese ammissibili dell’impresa. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-alle-attivita-economiche-artigianali-e-commerciali-comune-di-melissa",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Impresa Collocamento Mirato - Asse III - Provincia di Monza e Brianza",
+            "description": "Dote Impresa Collocamento Mirato - Asse III\nLinea contributi per la costituzione di cooperative sociali di tipo B e rami di impresa\n\nLinea incentivi per la transizione verso altre aziende",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-iii-PR_MB_42025049619",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Impresa Collocamento Mirato Asse II - Provincia di Monza e Brianza",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-ii-PR_MB_42025049616",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Impresa Collocamento Mirato Asse I - Provincia di Monza e Brianza",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-PR_MB_42025049611",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-31 17:00",
+            "title": "Sistema Informativo per la gestione e il monitoraggio delle attività connesse al Piano Regionale di Potenziamento dei Centri per l’Impiego (M5C1 – Investimento 1.1. Potenziamento CPI)",
+            "description": "Il bando gestisce le proposte di intervento per il Piano di potenziamento dei Centri per l’impiego. Province e Città Metropolitana di Milano possono inviare le proposte e la documentazione richiesta.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/sistema-informativo-gestione-monitoraggio-rendicontazione-attivit-connesse-piano-regionale-potenziamento-centri-l-impiego-m5c1-investimento-1-1-potenziamento-centri-l-impiego-RLW12022028703",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "AVVISO PUBBLICO LEVA CIVICA LOMBARDA VOLONTARIA: DESTINAZIONE FUTURO. PALESTRA CIVICA DI CITTADINANZA ATTIVA PER IL RAFFORZAMENTO DELLE COMPETENZE E DELLE PROFESSIONALITÀ DELLE GIOVANI GENERAZIONI – MANIFESTAZIONE DI INTERESSE PER L’ADESIONE ALL’AVVISO DA PARTE DEGLI ENTI DI LEVA CIVICA",
+            "description": "“LEVA CIVICA LOMBARDA VOLONTARIA: DESTINAZIONE FUTURO. PALESTRA CIVICA DI CITTADINANZA ATTIVA PER IL RAFFORZAMENTO DELLE COMPETENZE E DELLE PROFESSIONALITA’ DELLE GIOVANI GENERAZIONI – MANIFESTAZIONE DI INTERESSE PER L’ADESIONE ALL’AVVISO (PR FSE+ 2021-2027 - PRIORITA’4 OCCUPAZIONE GIOVANILE - ESO 4.1 – AZIONE A.4)”",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/cittadinanza-attiva/manifestazione-interesse-l-adesione-avviso-leva-civica-lombarda-volontaria-RLD12025048123",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Competenze per lo Sviluppo",
+            "description": "Domande a partire dalle ore 10 dell'11 dicembre 2025.                                                                       \nLa Misura \"Competenze per lo Sviluppo\" intende sostenere la strutturazione e realizzazione di percorsi di potenziamento delle competenze per la specializzazione intelligente, per la transizione industriale ed ecologica e per l’imprenditorialità interne alle PMI lombarde, tramite la realizzazione di progetti e azioni di formazione specialistica e di accompagnamento per imprenditori, titolari, amministratori e per il personale dipendente e parasubordinato delle imprese lombarde appartenenti ad un raggruppamento di PMI.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/competenze-sviluppo-RLO12025044083",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Impresa Collocamento Mirato Asse I - Città metropolitana di Milano",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-citt-metropolitana-milano-PR_MI_42025049641",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Impresa Collocamento Mirato Asse II - Città metropolitana di Milano",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-ii-citt-metropolitana-milano-PR_MI_42025049648",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Impresa Collocamento Mirato - Asse III - Città metropolitana di Milano",
+            "description": "DOTE IMPRESA COLLOCAMENTO MIRATO - ASSE III -\nLinea contributi per la costituzione di cooperative sociali di tipo B e rami di impresa\nLinea incentivi per la transizione verso altre aziende",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-iii-citt-metropolitana-milano-PR_MI_42025049650",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-20",
+            "title": "INCARICO PER LA REALIZZAZIONE DI INTERVENTI DI CONTRASTO AL DISAGIO E ALLA DISPERSIONE SCOLASTICA, NONCHE’ PER LA PROMOZIONE DEL BENESSERE RELAZIONALE NELLE SCUOLE CITTADINE - A.S. 2025/2026",
+            "description": "<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">L'amministrazione comunale di Codogno, come da deliberazione di giunta comunale numero 290 del 1° dicembre 2025, intende realizzare progetti atti a prevenire e contrastare il disagio e la dispersione scolastica nonché a promuovere il benessere relazionale nelle scuole cittadine con particolare riferimento alle Scuole Secondarie di Primo Grado (tutte le classi) e di Secondo Grado (prime due classi) del Comune, in quanto risultano essere le fasce di età esposte al fenomeno sulle quali è più facile intervenire in fase preventiva</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Le attività dovranno essere orientate a supportare lo sviluppo della personalità degli studenti, favorendo il benessere e la qualità delle relazioni in ambito scolastico, con la finalità di prevenire e combattere disagi comportamentali e conseguente rischio di dispersione scolastica, mediante il coinvolgimento attivo del personale docente e degli studenti per rafforzare il senso di appartenenza ad una comunità educativa in grado di sostenerli anche nei momenti di difficoltà.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">A tal fine risulterà prioritaria e fondamentale la formazione rivolta in primis ai docenti, nonché agli studenti e alle famiglie.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Al fine di realizzare la suddetta attività, ritenuta prioritaria, l'amministrazione comunale rende disponibile l’importo di € 10.000,00 per l’anno scolastico 2025/2026, sull’annualità 2026.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Possono partecipare al presente bando professionisti in possesso di laurea in scienze pedagogiche, ovvero laurea in scienze dell'educazione e della formazione ovvero equipollenti, in possesso di adeguata esperienza professionale. In particolare,<span style=\"mso-spacerun: yes;\">&nbsp; </span>è richiesta esperienza quantomeno biennale nell'ambito dell'educazione nei confronti dei minori documentata all'interno del curriculum vitae.</span></p>\n<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Il progetto da realizzare scaturirà dagli incontri che il professionista incaricato dovrà intrattenere con i principali referenti delle scuole interessate, al fine di accoglierne le istanze e le principali necessità. Dal confronto tra le parti scaturiranno le azioni e le attività che dovranno successivamente essere messe in pratica e in atto da parte del professionista incaricato</span></strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">. </span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">In ogni caso le attività progettuali dovranno essere orientate al raggiungimento degli obiettivi sopra dettagliati, al fine di:</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">●<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">prevenire e contrastare fenomeni di disagio attraverso un modello di azione volto all'emersione e alla gestione degli episodi di prevaricazione condiviso dalla scuola nell’ottica della gestione dei conflitti, nonché promuovere la conoscenza di questo modello all’interno delle scuole attraverso apposite modalità formative nei confronti in primis dei docenti, con la finalità di creare una capacità concreta di affrontare la problematica, nonché degli studenti, dei docenti e delle famiglie;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">●<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">valorizzare il coinvolgimento dei referenti scolastici, anche al fine di costituire equipe multi-professionali di supporto;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">●<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">aiutare a comprendere l’uso responsabile del linguaggio in rete;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">●<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">diffondere conoscenze di base finalizzate a tutelare e valorizzare la crescita educativa, psicologica e sociale di minori, proteggendo in particolare, i soggetti più fragili;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">●<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">diffondere conoscenze di base finalizzate a individuare e contrastare gli stereotipi discriminatori;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">●<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">diffondere conoscenze di base finalizzate a riconoscere le conseguenze psico - emotive della violenza sulle vittime di bullismo e cyberbullismo.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">I progetti dovranno essere svolti anche<span style=\"mso-spacerun: yes;\">&nbsp; </span>in rete con altre scuole o analoghi progetti esistenti sul territorio.</span></p>\n<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Requisiti generali per l’ammissione:</span></strong></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">a) sono ammessi alla selezione i cittadini italiani, gli italiani non residenti nella Repubblica e iscritti all’A.I.R.E., i cittadini comunitari residenti in Italia, i cittadini extracomunitari regolarmente soggiornanti se familiari di cittadino italiano o comunitario, nonché i cittadini extracomunitari titolari del permesso di soggiorno CE per soggiornanti di lungo periodo che consenta lo svolgimento di attività lavorativa;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">b) è necessario non aver riportato condanne penali definitive che impediscano, ai sensi delle vigenti disposizioni, la costituzione del rapporto di impiego presso la Pubblica Amministrazione. Si precisa che ai sensi della legge n. 475/99, la sentenza prevista dall’art. 444 del codice di procedura penale (c.d. patteggiamento) è equiparata a condanna. </span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">c) non trovarsi in situazioni di inconferibilità o incompatibilità rispetto all'incarico in oggetto ai sensi dell'art. 1 e 20 del D.lgs.39/2013.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">&nbsp;</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">I succitati requisiti dovranno essere autodichiarati ai sensi del DPR N.445/2000, nella domanda di partecipazione, da compilarsi a pena di esclusione, secondo lo schema allegato al presente avviso.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">L’Amministrazione si riserva la facoltà di verificare il possesso dei requisiti dichiarati.</span></p>\n<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Modalità di partecipazione: </span></strong></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">La partecipazione alla selezione avviene esclusivamente mediante invio di apposita domanda, presentata utilizzando il modello reso disponibile sul sito <a href=\"http://www.comune.codogno.lo.it\">www.comune.codogno.lo.it</a>, all’indirizzo pec<span style=\"mso-spacerun: yes;\">&nbsp; </span>del Comune di Codogno <a href=\"mailto:protocollo@pec.comune.codogno.lo.it\">protocollo@pec.comune.codogno.lo.it</a>. L’istanza dovrà essere accompagnata da: Curriculum vitae dettagliato – Offerta economica oraria onnicomprensiva, espressa in nota separata della domanda. </span></p>\n<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Le domande di partecipazione devono pervenire, pena l’esclusione, entro e non oltre la data di scadenza del presente bando che è fissata per le ore 23:59:59 del giorno 20 dicembre 2025.</span></strong></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">L’Amministrazione si riserva, infine, la facoltà insindacabile di non procedere ad alcun reclutamento o di prorogarne la data, dandone comunicazione ai candidati che hanno fatto pervenire la loro manifestazione di interesse.</span></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Le dichiarazioni rese dai candidati sulla domanda di partecipazione al bando di mobilità costituiscono dichiarazioni sostitutive, pertanto si richiama l’attenzione del candidato alle responsabilità penali cui può andare incontro in caso di dichiarazioni non veritiere, ai sensi dell’art. 76 del D.P.R. 28.12.2000, n. 445. L’Amministrazione Comunale procederà a controlli sulla veridicità delle suddette dichiarazioni sostitutive, ai sensi di quanto previsto dagli artt. 71 e 72 dello stesso D.P.R. 445/2000.</span></p>\n<p><strong><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Modalità di svolgimento della selezione </span></strong></p>\n<p><span style=\"font-size: 12.0pt; line-height: 115%; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\">Un’apposita commissione, formata da almeno tre componenti nominati e presieduti dal Responsabile del Settore Amministrativo, esaminerà le domande pervenute ed effettuerà la valutazione dei titoli ai fini dell'individuazione del professionista.</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c74a0251740f423ea64336b5406963b8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-19",
+            "title": "PROCEDURA SELETTIVO-COMPARATIVA PER TITOLI PER L’ATTRIBUZIONE DI CONTRATTO DI INSEGNAMENTO - Viola da gamba / Violoncello / Trombone Jazz",
+            "description": "<p>È indetta la procedura di valutazione comparativa pubblica, per soli titoli, per l’individuazione di n. 3 esperti per il conferimento di contratti di collaborazione relativi all’a.a. 2025/2026 per i seguenti insegnamenti:\n <br>\n • Viola da gamba AFAM024 (COMA/03).\n <br>\n • Violoncello AFAM007 (CODI/07).\n <br>\n • Trombone Jazz AFAM024 (COMJ/08).</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=976d5fad35d64d70b9e58ea4c74574c8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-22",
+            "title": "Avviso pubblico per la nomina del componente monocratico del Nucleo di Valutazione del Comune di Soriano nel Cimino per il triennio 2026-2028",
+            "description": "<p><a>Avviso pubblico per la nomina del componente monocratico del Nucleo di Valutazione del Comune di Soriano nel Cimino per il triennio 2026-2028.</a></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f1a9d22c90a142dc831ce2b8bf62b617",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-02",
+            "title": "Lombardia – Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agromeccaniche",
+            "description": "L’azione regionale si pone l’obiettivo di:stimolare la competitività del settore della prestazione di servizi agromeccanici; - promuovere la gestione sostenibile delle attività agromeccaniche;garantire la gestione sostenibile delle risorse naturali;contribuire, nello specifico, alle azioni per la qualità dell'aria e per il clima attraverso lo sviluppo di interventi volti alla riduzione delle emissioni in atmosfera derivanti dalla gestione e distribuzione degli effluenti di allevamento/digestato",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-azione-regionale-volta-alla-riduzione-delle-emissioni-prodotte-dalle-attivita-agromeccaniche",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 1.185.883"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-31",
+            "title": "Coopstartup Piemonte – Bando a sostegno dello sviluppo di idee imprenditoriali innovative",
+            "description": "Coopstartup Piemonte è un’iniziativa che ha l’obiettivo di accompagnare lo sviluppo di idee imprenditoriali innovative proposte da gruppi che desiderino realizzarle costituendo una cooperativa.In particolare, Coopstartup Piemonte sperimenta nuovi processi di promozione cooperativa, specialmente, ma non solo, tra i giovani e in nuovi mercati, con un'attenzione particolare all'introduzione di innovazioni tecnologiche, organizzative e sociali e prestando attenzione allo sviluppo sostenibile, in coerenza con le priorità stabilite nell’Agenda 2030 dell’ONU, ed è orientato a favorire lo sviluppo di idee capaci di apportare benefici alla comunità e al territorio in termini di aumento dell’occupazione e di crescita economica, sociale e culturale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/coopstartup-piemonte-bando-a-sostegno-dello-sviluppo-di-idee-imprenditoriali-innovative",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Diritti e Cittadinanza, Formazione e lavoro, Giustizia e sicurezza, Inclusione Sociale e Solidarietà, Salute e medicina, Supporto alle imprese, Sviluppo e promozione territoriale",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "ERASMUS+ - Partenariati per l’Innovazione: Progetti Lungimiranti – Istruzione Superiore",
+            "description": "I Progetti Lungimiranti sono progetti su larga scala che mirano a identificare, sviluppare, testare e/o valutare approcci innovativi che abbiano il potenziale per essere adottati su vasta scala, migliorando così i sistemi di istruzione e formazione. Essi sosterranno idee lungimiranti che rispondono alle principali priorità europee, apportando un effetto innovativo sostanziale in termini di metodi e pratiche a tutti i tipi di contesti di apprendimento e di partecipazione attiva per la coesione sociale dell’Europa.La call si articola in due topic, ciascuno con specifici obiettivi:Topic 1 — European Degree Pathway Projects (ERASMUS-EDU-2025-PI-FORWARD-HE-EDPP): sostenere i partenariati nella progettazione e nell’attuazione delle azioni necessarie a facilitare l’introduzione del marchio di titolo europeo congiunto, a promuoverne l’adozione e a esplorare il percorso verso un possibile titolo europeo congiunto in tutti i campi, comprese discipline specificheTopic 2 — Leadership Development Programme for Higher Education Institutions’ Leaders (ERASMUS-EDU-2025-PI-FORWARD-HE-LD): sviluppare capacità di leadership in grado di permettere un cambiamento trasformativo nel settore dell’istruzione superiore in Europa. Sono necessarie competenze di leadership diversificate per orientarsi in un panorama di sfide in continua evoluzione e l’obiettivo del topic sarà raggiunto attraverso la creazione di una European Leadership Academy per favorire la connettività, la collaborazione, la condivisione delle competenze e l’allineamento degli approcci di leadership.",
+            "link": "https://www.obiettivoeuropa.com/bandi/erasmus-partenariati-per-linnovazione-progetti-lungimiranti-istruzione-superiore",
+            "custom": {
+                "custom": {
+                    "Topics": "Cooperazione Internazionale, Educazione e istruzione, Formazione e lavoro, Giustizia e sicurezza, Media e informazione",
+                    "Stanziamento": "€ 8.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-20",
+            "title": "Emilia-Romagna - Orientamento e formazione per l’inclusione socio-lavorativa dei minori e dei giovani-adulti sottoposti a procedimento penale",
+            "description": "Gli interventi sostengono i minori e i giovani-adulti, dai 14 ai 25 anni, sottoposti a procedimento penale dall’Autorità giudiziaria minorile e in carico al Centro per la Giustizia minorile dell’Emilia-Romagna, nell’acquisizione e nel recupero delle abilità e competenze individuali per potenziarne le opportunità di inserimento nel mondo del lavoro rendendo disponibili opportunità di crescita, autorealizzazione e opportunità per operare attivamente nella società.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-orientamento-e-formazione-per-linclusione-socio-lavorativa-dei-minori-e-dei-giovani-adulti-sottoposti-a-procedimento-penale",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà",
+                    "Stanziamento": "€ 700.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-11-12",
+            "title": "Emilia-Romagna - SRH01 Erogazione servizi di consulenza",
+            "description": "Lo scopo del bando è il perseguimento dei seguenti obiettivi specifici:OS 1: Sostenere un reddito agricolo sufficiente e la resilienza del settore agricolo in tutta l’Unione al fine di rafforzare la sicurezza alimentare a lungo termine, e la diversità agricola, nonché garantire la sostenibilità economica della produzione agricola nell’Unione;OS 2: Migliorare l’orientamento al mercato e aumentare la competitività delle aziende agricole, sia a breve che a lungo termine, compresa una maggiore attenzione alla ricerca, alla tecnologia e alla digitalizzazione;OS 3: Migliorare la posizione degli agricoltori nella catena del valore;OS 4: Contribuire alla mitigazione dei cambiamenti climatici e all’adattamento agli stessi, anche riducendo le emissioni di gas a effetto serra e migliorando il sequestro del carbonio, nonché promuovere l’energia sostenibile;OS 5: Promuovere lo sviluppo sostenibile e un’efficiente gestione delle risorse naturali, come l’acqua, il suolo e l’aria, anche riducendo la dipendenza dalle sostanze chimiche;OS 6: Contribuire ad arrestare e invertire il processo di perdita della biodiversità, migliorare i servizi ecosistemici e preservare gli habitat e i paesaggi;OS 8: Promuovere l’occupazione, la crescita, la parità di genere, compresa la partecipazione delle donne all’agricoltura, l’inclusione sociale e lo sviluppo locale nelle zone rurali, comprese la bioeconomia circolare e la silvicoltura sostenibile;OS 9: Migliorare la risposta dell’agricoltura dell’Unione alle esigenze della società in materia di alimentazione e salute, compresi alimenti di alta qualità, sani e nutrienti prodotti in modo sostenibile, ridurre gli sprechi alimentari nonché migliorare il benessere degli animali e contrastare le resistenze antimicrobiche.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-srh01-erogazione-servizi-di-consulenza-1",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT",
+                    "Stanziamento": "€ 1.716.667"
+                }
+            }
+        },
+        {
+            "deadline": "2026-07-09",
+            "title": "CREA – Bando Reti cinematografiche europee",
+            "description": "Il Programma Europa Creativa riunisce azioni a sostegno dei settori culturali e creativi europei. Gli obiettivi generali del programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.L'obiettivo del bando, in particolare, è quello di creare e gestire una rete di cinema al fine di:Incoraggiare gli operatori cinematografici a proiettare una percentuale significativa di film europei non nazionali attraverso incentivi e progetti di collaborazione;Contribuire ad accrescere l'interesse del pubblico per i film non nazionali, anche attraverso lo sviluppo di attività per i giovani spettatori; Aiutare tali cinema ad adattare la loro strategia al contesto in evoluzione, anche promuovendo approcci innovativi in termini di raggiungimento e coinvolgimento del pubblico, incluso tramite l’IA, nonché partenariati con altri operatori dell’industria cinematografica e con istituzioni culturali locali; incoraggiare lo scambio di buone pratiche, la condivisione delle conoscenze e altre forme di collaborazione transfrontaliera tra i membri della rete; contribuire al dialogo politico sull'industria cinematografica raccogliendo dati e diffondendo i risultati delle attività della rete al di là dei suoi membri.",
+            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-reti-cinematografiche-europee",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Marketing e comunicazione, Media e informazione, Supporto alle imprese, Sviluppo e promozione territoriale, Transizione digitale",
+                    "Stanziamento": "€ 17.467.470"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "JUST - Contributi a sostegno di progetti transnazionali sulla formazione dei professionisti della giustizia in materia di diritto civile, diritto penale e diritti fondamentali",
+            "description": "L'obiettivo del bando è contribuire all'applicazione efficace e coerente del diritto dell'UE, inclusa la Carta dei diritti fondamentali dell'UE, aiutando a rispondere alle esigenze di formazione dei professionisti della giustizia in linea con la nuova Strategia di formazione giudiziaria. La call finanzia anche attività e strumenti di formazione destinati ai fornitori di formazione, affinché possano poi essere implementati a livello nazionaleIl bando sostiene la Strategia europea di formazione giudiziaria 2025–2030 che, tra le varie priorità, promuove la digitalizzazione della giustizia attraverso la formazione aiutando i professionisti della giustizia ad acquisire le competenze digitali necessarie per utilizzare strumenti digitali e di intelligenza artificiale sul posto di lavoro, sviluppare conoscenze e comprensione del quadro giuridico adattato alle esigenze dell’economia e della società digitali, e ad essere consapevoli dei benefici e degli impatti della giustizia digitale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/contributi-a-sostegno-di-progetti-transnazionali-sulla-formazione-dei-professionisti-della-giustizia-in-materia-di-diritto-civile-diritto-penale-o-diritti-fondamentali",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Giustizia e sicurezza, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Media e informazione",
+                    "Stanziamento": "€ 4.075.000"
                 }
             }
         }

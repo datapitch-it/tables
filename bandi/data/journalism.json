@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-09 11:48:35",
+    "scraping_timestamp": "2025-12-10 05:58:32",
     "data": [
         {
             "deadline": "2025-12-14",
@@ -107,18 +107,6 @@
                 "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Funding covers hard reporting costs"
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "Content Production Fund",
-            "description": "Balkan Investigative Reporting Network (BIRN)",
-            "link": "https://gfmd.info/fundings/content-production-fund/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "up to €60,000."
             }
         },
         {
