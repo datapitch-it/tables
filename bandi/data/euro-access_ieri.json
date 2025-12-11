@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-09 11:48:09",
+    "scraping_timestamp": "2025-12-10 05:58:08",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -758,24 +758,6 @@
             }
         },
         {
-            "deadline": "2025-12-09",
-            "title": "Support to the development and certification of EU Digital Identity Wallets",
-            "description": "The topic aims to support the issuance and certification of EU Digital Identity Wallets in line with Regulation. It will drive implementation of the European Digital Identity and support Member States managing the transition between the current and future frameworks supplementing or replacing the current digital identity infrastructure (eID) by the EU Digital Identity Wallet framework.",
-            "link": "https://www.euro-access.eu/en/calls/2415/Support-to-the-development-and-certification-of-EU-Digital-Identity-Wallets",
-            "custom": {
-                "Funding Program": "Digital Europe"
-            }
-        },
-        {
-            "deadline": "2025-12-09",
-            "title": "Support the roll-out of EU Mobile Driving Licences",
-            "description": "The topic aims to support issuance and acceptance of Mobile Driving Licences issued to EU Digital Identity Wallets. This includes providing support to Member States for establishing the necessary organisational and technical frameworks for the issuance of mobile driving licenses (mDL) to EU Digital Identity Wallets and the acceptance of mobile driving licenses (mDL) by public and private sector.",
-            "link": "https://www.euro-access.eu/en/calls/2416/Support-the-roll-out-of-EU-Mobile-Driving-Licences",
-            "custom": {
-                "Funding Program": "Digital Europe"
-            }
-        },
-        {
             "deadline": "2026-04-23",
             "title": "Creative Innovation Lab",
             "description": "The Creative Innovation Lab shall incentivise players from different cultural and creative sectors. In addition to audiovisual including gaming, projects may cover music, books or museums. They will design and test innovative solutions for key challenges, with a potential positive long-term impact on multiple cultural and creative sectors.",
@@ -1259,6 +1241,33 @@
             "link": "https://www.euro-access.eu/en/calls/2512/Fixed-Premium-Auction-for-Industrial-Process-Heat-Decarbonisation-High-Temperature-Heat",
             "custom": {
                 "Funding Program": "Innovation Fund"
+            }
+        },
+        {
+            "deadline": "2026-02-11",
+            "title": "Support for the implementation of the European Heritage Label",
+            "description": "The general objective of the call is to continue to support the European Heritage Label network of sites, fostering training, exchanges, collaboration and opportunities among the EHL Stakeholders.",
+            "link": "https://www.euro-access.eu/en/calls/2517/Support-for-the-implementation-of-the-European-Heritage-Label",
+            "custom": {
+                "Funding Program": "Creative Europe - Culture Strand"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Skills and Talent Development",
+            "description": "Within the specific objective of promoting competitiveness, scalability, cooperation, innovation and sustainability, including through mobility in the European audiovisual sector, one of the priorities of the MEDIA strand is to nurture talents, competence and skills and to stimulate cross-border cooperation, mobility and innovation in the creation and production of European audiovisual works, encouraging collaboration across Member States with different audiovisual capacities.",
+            "link": "https://www.euro-access.eu/en/calls/2518/Skills-and-Talent-Development",
+            "custom": {
+                "Funding Program": "Creative Europe - Media Strand"
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights",
+            "description": "The objective of this call is to contribute to the effective and consistent application of EU law, including the Charter of Fundamental Rights of the EU, by helping to address the training needs of justice professionals in line with the new Judicial Training Strategy. This call finances also training activities and tools for training providers to be then rolled out at national level.",
+            "link": "https://www.euro-access.eu/en/calls/2520/Call-for-proposals-for-action-grants-to-support-transnational-projects-on-judicial-training-covering-civil-law-criminal-law-or-fundamental-rights",
+            "custom": {
+                "Funding Program": "Justice Programme"
             }
         }
     ]
