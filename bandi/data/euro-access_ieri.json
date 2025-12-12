@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-10 05:58:08",
+    "scraping_timestamp": "2025-12-11 05:44:52",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -1262,12 +1262,30 @@
             }
         },
         {
+            "deadline": "2026-04-22",
+            "title": "Call for proposals for action grants to promote judicial cooperation in civil and criminal matters",
+            "description": "The call for proposals' objectives are to facilitate and support judicial cooperation in civil and criminal matters, and promote the rule of law, independence and impartiality of the judiciary, including by supporting the efforts to improve the effectiveness of national justice systems, and the effective enforcement of decisions.",
+            "link": "https://www.euro-access.eu/en/calls/2519/Call-for-proposals-for-action-grants-to-promote-judicial-cooperation-in-civil-and-criminal-matters",
+            "custom": {
+                "Funding Program": "Justice Programme"
+            }
+        },
+        {
             "deadline": "2026-03-03",
             "title": "Call for proposals for action grants to support transnational projects on judicial training covering civil law, criminal law or fundamental rights",
             "description": "The objective of this call is to contribute to the effective and consistent application of EU law, including the Charter of Fundamental Rights of the EU, by helping to address the training needs of justice professionals in line with the new Judicial Training Strategy. This call finances also training activities and tools for training providers to be then rolled out at national level.",
             "link": "https://www.euro-access.eu/en/calls/2520/Call-for-proposals-for-action-grants-to-support-transnational-projects-on-judicial-training-covering-civil-law-criminal-law-or-fundamental-rights",
             "custom": {
                 "Funding Program": "Justice Programme"
+            }
+        },
+        {
+            "deadline": "2026-04-09",
+            "title": "Call for proposals to National Roma Contact Points",
+            "description": "Strengthening the national Roma consultation processes in Member States through national Roma platforms convened and managed by national Roma contact points (NRCPs).",
+            "link": "https://www.euro-access.eu/en/calls/2521/Call-for-proposals-to-National-Roma-Contact-Points",
+            "custom": {
+                "Funding Program": "Citizens, Equality, Rights and Values programme"
             }
         }
     ]

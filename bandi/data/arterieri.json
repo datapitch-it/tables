@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2025-12-10 05:55:16",
+    "scraping_timestamp": "2025-12-11 05:41:37",
     "data": [
-        {
-            "deadline": "2025-12-10",
-            "title": "PNRR: terzo sportello del Fondo per il sostegno alla transizione industriale",
-            "description": "Stanziati ulteriori fondi per migliorare l’efficienza energetica e l'uso delle risorse nelle imprese italiane.",
-            "link": "https://first.art-er.it/news/pnrr-supporto-alle-imprese-lefficienza-energetica-0",
-            "custom": {
-                "Topics": "Transizione sostenibile",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "€ 134.000.000"
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "Programma Spazio dell'UE: aperta la call per esperti",
-            "description": "Il bando nell'ambito del Programma EU Space si rivolge a professionisti con esperienza comprovata di almeno 5 anni",
-            "link": "https://first.art-er.it/news/call-esperti-del-programma-spazio-ue",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "€ 600/€ 1.000 al giorno per esperti/esperti senior"
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "EUSPA: aperte le candidature per esperti",
-            "description": "Gli esperti selezionati supporteranno EUSPA valutando domande di finanziamento, monitorando progetti UE e fornendo consulenze specialistiche",
-            "link": "https://first.art-er.it/news/euspa-aperte-le-candidature-esperti-esterni",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "600 / 1000 € al giorno"
-            }
-        },
         {
             "deadline": "2025-12-16",
             "title": "STEP: al via il nuovo bando EIC dedicato alle tecnologie strategiche",
@@ -627,9 +591,9 @@
         },
         {
             "deadline": "2026-02-26",
-            "title": "In arrivo la Twinning Call 2026 di EP PerMed: opportunità per diffondere la medicina personalizzata in Europa",
-            "description": "L’obiettivo è di favorire la diffusione della medicina personalizzata nei sistemi sanitari degli Stati membri",
-            "link": "https://first.art-er.it/news/arrivo-la-twinning-call-2026-di-ep-permed",
+            "title": "Aperta la Twinning Call 2026 di EP PerMed: opportunità per diffondere la medicina personalizzata in Europa",
+            "description": "L’obiettivo del bando è favorire la diffusione della medicina personalizzata nei sistemi sanitari degli Stati membri europei",
+            "link": "https://first.art-er.it/news/aperta-la-twinning-call-2026-di-ep-permed",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
