@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-11 05:41:37",
+    "scraping_timestamp": "2025-12-12 08:23:33",
     "data": [
         {
             "deadline": "2025-12-16",
@@ -447,6 +447,18 @@
         },
         {
             "deadline": "2026-02-01",
+            "title": "Climate-Smart Forestry: finanziamenti per progetti pilota con il coinvolgimento di cittadini e stakeholder",
+            "description": "L’obiettivo è rafforzare la capacità delle foreste europee di reagire agli impatti della crisi climatica",
+            "link": "https://first.art-er.it/news/coinvolgimento-civico-e-foreste-aperto-nuovo-bando-0",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 750.000"
+            }
+        },
+        {
+            "deadline": "2026-02-01",
             "title": "Next Generation Internet: tre nuovi bandi per un ecosistema digitale aperto e inclusivo",
             "description": "Nell'ambito dei progetti di Next Generation Internet della Commissione europea sono aperte, fino al 1° febbraio 2026, nuove call per soluzioni sul futuro di internet",
             "link": "https://first.art-er.it/news/ngi-innovazione-digitale-internet-del-futuro",
@@ -515,6 +527,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-12",
+            "title": "Aperta la seconda WE-RISE Open Call per startup femminili",
+            "description": "La call ha l’obiettivo di sostenere e accelerare startup guidate da donne nei settori GreenTech, AgriTech e ClimateTech",
+            "link": "https://first.art-er.it/news/we-rise-open-call-2-startup-femminili-green",
+            "custom": {
+                "Topics": "Cascade funding, Gender equality",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 600.000"
             }
         },
         {
@@ -662,6 +686,18 @@
             }
         },
         {
+            "deadline": "2026-03-06",
+            "title": "Bando JPI Oceans per le riserve sottomarine di acqua dolce e la conoscenza idrogeologica",
+            "description": "La call sostiene ricerche su impatti ambientali e uso delle risorse d’acqua dolce presenti sotto il mare",
+            "link": "https://first.art-er.it/news/ricerca-ue-sulle-riserve-sottomarine-di-acqua-dolce",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 300.000"
+            }
+        },
+        {
             "deadline": "2026-03-10",
             "title": "EP PerMed Fast Track 2026: aperto il bando per accelerare soluzioni di medicina personalizzata",
             "description": "Fino a 80.000 euro per convalidare tecnologie innovative e far avanzare il TRL delle soluzioni di medicina personalizzata",
@@ -711,6 +747,18 @@
         },
         {
             "deadline": "2026-03-31",
+            "title": "Emilia-Romagna: al via un bando per l'attrazione degli investimenti",
+            "description": "Il bando sostiene imprese che investono in ricerca, sperimentazione e transizione digitale e green, con domande aperte dal 26 gennaio al 31 marzo 2026",
+            "link": "https://first.art-er.it/news/bando-emilia-romagna-2025-attrazione-investimenti",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
             "title": "Nuovi bandi europei per la cybersecurity: 50 milioni di euro per rafforzare le infrastrutture digitali",
             "description": "Focus su AI, PMI e infrastrutture critiche per aumentare la sicurezza e la resilienza digitale dell’UE",
             "link": "https://first.art-er.it/news/nuovi-bandi-europei-la-cybersecurity",
@@ -719,6 +767,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 50.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-02",
+            "title": "Photonics21 Innovation Award 2026: al via il premio per le idee innovative nella fotonica",
+            "description": "Il Photonics21 Innovation Award cerca idee innovative nell'ambito della fotonica per un premio da 5.000 € e formazione imprenditoriale",
+            "link": "https://first.art-er.it/news/innovation-award-2026-sostegno-della-fotonica",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 5.000"
             }
         },
         {
@@ -806,6 +866,18 @@
             }
         },
         {
+            "deadline": "2026-05-29",
+            "title": "Mission Ocean: tre bandi per il ripristino degli ecosistemi marini e d’acqua dolce nel Mediterraneo, Atlantico e Artico",
+            "description": "Aperte le call TASC-RestoreMed e BlueActionAA per sostenere governance, innovazione e azioni comunitarie nei bacini marini europee",
+            "link": "https://first.art-er.it/news/nuove-opportunita-la-mission-ocean",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "TASC-RestoreMed – Transition Agendas: € 100.000 per progettoTASC-RestoreMed – Community-Led Actions: da € 200.000 fino a € 1,4 M a progettoBlueActionAA – Community-Led Actions: € 7.000.000"
+            }
+        },
+        {
             "deadline": "2026-06-09",
             "title": "EP PerMed: aperta la Joint Transnational Call (JTC) 2026",
             "description": "Nuova call transnazionale per progetti collaborativi su diagnosi, terapia e prevenzione personalizzata in CVD, malattie metaboliche e patologie renali",
@@ -842,6 +914,18 @@
             }
         },
         {
+            "deadline": "2026-06-25",
+            "title": "Al via Renewable Energy Community Prize per premiare le governance innovative nelle comunità energetiche",
+            "description": "Il premio valorizza le comunità energetiche che sperimentano modelli inclusivi e innovativi per una transizione più equa e partecipata",
+            "link": "https://first.art-er.it/news/premio-ue-ai-migliori-modelli-di-governance-energetica",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.000.000"
+            }
+        },
+        {
             "deadline": "2026-06-30",
             "title": "Al via il bando JTC 2026 \"Access to care\" del partenariato THCS",
             "description": "Il programma sostiene ricerca e innovazione per un accesso equo alle cure, riducendo le disuguaglianze sanitarie e promuovendo sistemi di cura sostenibili",
@@ -863,6 +947,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 4.413.480"
+            }
+        },
+        {
+            "deadline": "2026-07-08",
+            "title": "ERDERA Joint Transnational Call 2026: bando per la ricerca sulle malattie rare",
+            "description": "L’obiettivo del bando è di sostenere progetti di ricerca transnazionali su casi irrisolti di malattie rare, genetiche e non genetiche",
+            "link": "https://first.art-er.it/news/al-alla-erdera-joint-transnational-call-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -898,6 +994,18 @@
                 "Topics": "Deep tech",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-09-30",
+            "title": "RER: bando STEP dedicato alle imprese per le tecnologie strategiche del futuro",
+            "description": "Il bando intende consolidare la presenza regionale nelle filiere più avanzate, promuovendo un ecosistema capace di sostenere la crescita",
+            "link": "https://first.art-er.it/news/sostegno-regionale-alle-nuove-tecnologie-strategiche",
+            "custom": {
+                "Topics": "STEP",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "N/A"
             }
         },
@@ -1114,6 +1222,18 @@
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "",
+            "title": "Clean Aviation annuncia la quarta call: € 329,5 milioni per l’innovazione aeronautica",
+            "description": "Il nuovo bando mira a decarbonizzare l’aviazione, promuovere l’idrogeno e rafforzare la competitività industriale dell’UE",
+            "link": "https://first.art-er.it/news/clean-aviation-annuncia-la-call-4",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "N/A",
                 "Stanziamento": "N/A"
             }
         },
