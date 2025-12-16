@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-12 08:26:39",
+    "scraping_timestamp": "2025-12-13 20:16:48",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -1286,6 +1286,150 @@
             "link": "https://www.euro-access.eu/en/calls/2521/Call-for-proposals-to-National-Roma-Contact-Points",
             "custom": {
                 "Funding Program": "Citizens, Equality, Rights and Values programme"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "AI-driven forecasting algorithms for Grid and Consumer friendly Energy Sharing – Societal Readiness pilot",
+            "description": "AI-driven forecasting algorithms and machine learning can optimize bidirectional energy transfers involving flexibility services that can help energy communities and jointly acting customers evolve in their role as active participants in the energy system, while ensuring the reduced burdens on DSOs and residual suppliers.",
+            "link": "https://www.euro-access.eu/en/calls/2522/AI-driven-forecasting-algorithms-for-Grid-and-Consumer-friendly-Energy-Sharing--Societal-Readiness-pilot",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Targeting key value chain components for increasing the competitiveness of renewable energy technologies in Europe",
+            "description": "In scope is the development of solutions, which addresses specifically critical aspects affecting the competitiveness of specific renewable energy technologies and their value chains from the source to the sink of the energy in a clear and significant way (by targeting e.g. issues such as bottle necks, game-changer technologies, primary costs).",
+            "link": "https://www.euro-access.eu/en/calls/2523/Targeting-key-value-chain-components-for-increasing-the-competitiveness-of-renewable-energy-technologies-in-Europe",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Development of direct recycling processes (BATT4EU Partnership)",
+            "description": "Proposals under this topic are expected to focus explicitly on the development, validation, and upscaling of direct recycling technologies targeting next-generation and low-value battery chemistries (notably LFP, LMFP, and sodium-ion), as well as efficiently managing gigafactory production scrap.",
+            "link": "https://www.euro-access.eu/en/calls/2524/Development-of-direct-recycling-processes-BATT4EU-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Hybrid AI-Control Framework for a next-generation grid-scale energy storage and system integration",
+            "description": "Projects are expected to develop and validate an integrated system that combines grid-scale energy storage with a hybrid AI control mechanism and optimisation within a digital twin framework.",
+            "link": "https://www.euro-access.eu/en/calls/2525/Hybrid-AI-Control-Framework-for-a-next-generation-grid-scale-energy-storage-and-system-integration",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Grid-forming capabilities for more resilient and RES-based electricity grids",
+            "description": "The call intents the development of new and improved knowledge and insights into the synthetic inertia, frequency control, very fast voltage support, and overall support to the system stability offered by grid-forming inverters (GFIs).",
+            "link": "https://www.euro-access.eu/en/calls/2526/Grid-forming-capabilities-for-more-resilient-and-RES-based-electricity-grids",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Affordable and sustainable primary equipment for Future-Ready multi-terminal HVDC Systems",
+            "description": "As Europe progresses towards sustainable energy, high-voltage direct current (HVDC) systems are vital for the efficient transmission of renewable energy. To optimize these systems, challenges like component size, reliability, affordability, interoperability, supply chain resilience and life-cycle environmental impact of critical HVDC equipment must be addressed.",
+            "link": "https://www.euro-access.eu/en/calls/2527/Affordable-and-sustainable-primary-equipment-for-Future-Ready-multi-terminal-HVDC-Systems",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Pre-commercial appraisal for CO2 aquifer storage",
+            "description": "The call aims at carrying out a storage site identification and appraisal programme including at least one injection pilot test in a deep saline aquifer.",
+            "link": "https://www.euro-access.eu/en/calls/2528/Pre-commercial-appraisal-for-CO2-aquifer-storage",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Long-lifetime and optimised use of materials in recyclable Ag and In-free Si PV modules (EUPI-PV Partnership)",
+            "description": "This topic implements the co-programmed European Partnership for Innovation in Photovoltaics (EUPI-PV).",
+            "link": "https://www.euro-access.eu/en/calls/2529/Long-lifetime-and-optimised-use-of-materials-in-recyclable-Ag-and-In-free-Si-PV-modules-EUPI-PV-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Industrial scale up and circularity pathway for IPV technologies (EUPI-PV Partnership)",
+            "description": "Integrated PV (IPV) technologies represent specific production challenges, notably linked to the greater diversity of IPV products in terms of format, shape, material and technical constraints.",
+            "link": "https://www.euro-access.eu/en/calls/2530/Industrial-scale-up-and-circularity-pathway-for-IPV-technologies-EUPI-PV-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Novel solutions for off-grid storage of renewable energy for critical infrastructures",
+            "description": "The topic aims to develop novel, cost-efficient off-grid energy storage solutions for renewable energy, tailored for critical infrastructures such as hospitals, transport hubs, data centres, and utilities.",
+            "link": "https://www.euro-access.eu/en/calls/2531/Novel-solutions-for-off-grid-storage-of-renewable-energy-for-critical-infrastructures",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Large-scale demonstration of Heavy-Duty Battery Electric Vehicles (HD BEV) towards long-haul logistics operations (2ZERO Partnership)",
+            "description": "The implementation of zero emission vehicles for long-distance heavy-duty freight transport is of key importance to meet the European targets reducing greenhouse gas and air pollutants emissions.",
+            "link": "https://www.euro-access.eu/en/calls/2535/Large-scale-demonstration-of-Heavy-Duty-Battery-Electric-Vehicles-HD-BEV-towards-long-haul-logistics-operations-2ZERO-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Energy-efficient software-defined EVs (2ZERO Partnership)",
+            "description": "Thsi call aims at demontrating energy-efficient, electric Software Defined Vehicles (SDVs), with purposely developed and strategically positioned traction and chassis hardware (HW) subsystems leveraging opportunities of the software (SW) abstraction layers as the cornerstone of SDV, and overall scalable.",
+            "link": "https://www.euro-access.eu/en/calls/2536/Energy-efficient-software-defined-EVs-2ZERO-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Safety of renewable low and zero-carbon waterborne fuels in port areas: risk assessment, regulatory framework, and guidelines for safe bunkering, handling and storage (ZEWT partnership)",
+            "description": "The rapid transition to low and zero-carbon solutions in maritime and inland waterborne transport requires port authorities and stakeholders to swiftly adapt to supply large quantities of renewable low and zero-carbon fuels and electricity.  However, this shift poses new safety challenges, particularly in port areas where multiple bunkering operations, import/export terminals, and fuel handling and storage activities coexist.",
+            "link": "https://www.euro-access.eu/en/calls/2537/Safety-of-renewable-low-and-zero-carbon-waterborne-fuels-in-port-areas-risk-assessment-regulatory-framework-and-guidelines-for-safe-bunkering-handling-and-storage-ZEWT-partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Shipyards of the future (ZEWT Partnership)",
+            "description": "The topic aims to improve efficiency and sustainability of European ship newbuilding and retrofitting processes, to improve the use of resources and circularity, to develop necessary skills and improve working conditions.",
+            "link": "https://www.euro-access.eu/en/calls/2538/Shipyards-of-the-future-ZEWT-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Ports of the future (ZEWT Partnership)",
+            "description": "Ports are important multimodal hubs in the supply chain, linking the sea with the hinterland, evolving into critical hubs and facilitators of sustainable energies, are clusters of industry and circular economy, as well as geo-political and geo-economic resilience. Europe needs ports that are competitive and sustainable on local, regional and global levels, and the Competitiveness Compass calls for a new strategy to highlight the role that European ports will play in the future EU economy.",
+            "link": "https://www.euro-access.eu/en/calls/2539/Ports-of-the-future-ZEWT-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "AI-assisted digital aircraft design, manufacturing and MRO, towards a competitive aviation",
+            "description": "This topic focuses on the development of robust AI-assisted capabilities that will work in tandem to digital twins. The term aircraft includes propulsion, aerostructures, systems and their integration, if not explicitly addressed.",
+            "link": "https://www.euro-access.eu/en/calls/2540/AI-assisted-digital-aircraft-design-manufacturing-and-MRO-towards-a-competitive-aviation",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
             }
         }
     ]

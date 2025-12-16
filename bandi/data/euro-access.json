@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-13 20:16:48",
+    "scraping_timestamp": "2025-12-16 05:40:29",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -452,15 +452,6 @@
             }
         },
         {
-            "deadline": "2025-12-15",
-            "title": "Call Interreg HU-SK 2025",
-            "description": "The programme Interreg V-A Slovakia-Hungary opens its 2025 call for proposal. This call is only open for specific actions: Short supply chains, Social innovations for disadvantaged and vulnerable groups; Inclusive and quality education; Family and community-based health care services; Cross-border development of healthcare institutions.",
-            "link": "https://www.euro-access.eu/en/calls/2354/Call-Interreg-HU-SK-2025",
-            "custom": {
-                "Funding Program": "Interreg Hungary-Slovakia"
-            }
-        },
-        {
             "deadline": "2026-01-06",
             "title": "Call for proposals for health data for biotech innovation leveraging the European Health Data Space",
             "description": "The general objective of this action is to accelerate the development and deployment of AI and digital solutions in the biotech sector driven by health data, ensuring its secure and responsible use through the EHDS and leveraging AI Factories to augment these efforts.",
@@ -548,33 +539,6 @@
             "link": "https://www.euro-access.eu/en/calls/2373/Interreg-LAT-LIT-Third-call-for-proposals",
             "custom": {
                 "Funding Program": "Interreg Latvia-Lithuania"
-            }
-        },
-        {
-            "deadline": "2025-12-15",
-            "title": "Interreg Hungary-Serbia: 2nd Call for Proposals - Regular projects",
-            "description": "Interreg VI-A IPA Hungary Serbia is an initiative implemented within the 2021-2027 European Union financial framework, under the Instrument for Pre-Accession Assistance (IPA). The main aim of the Programme is to foster and encourage the harmonious cross-border development of the region, by co-financing great ideas by non-profit organizations from the Programme’s territory. This call is for regular-scale projects (RSP).",
-            "link": "https://www.euro-access.eu/en/calls/2376/Interreg-Hungary-Serbia-2nd-Call-for-Proposals-Regular-projects",
-            "custom": {
-                "Funding Program": "Interreg Hungary-Serbia"
-            }
-        },
-        {
-            "deadline": "2025-12-15",
-            "title": "Interreg Hungary-Serbia: 2nd Call for Proposals - Small-scale projects",
-            "description": "Interreg VI-A IPA Hungary Serbia is an initiative implemented within the 2021-2027 European Union financial framework, under the Instrument for Pre-Accession Assistance (IPA). The main aim of the Programme is to foster and encourage the harmonious cross-border development of the region, by co-financing great ideas by non-profit organizations from the Programme’s territory. This call is for Small-scale projects (SSP).",
-            "link": "https://www.euro-access.eu/en/calls/2377/Interreg-Hungary-Serbia-2nd-Call-for-Proposals-Small-scale-projects",
-            "custom": {
-                "Funding Program": "Interreg Hungary-Serbia"
-            }
-        },
-        {
-            "deadline": "2025-12-15",
-            "title": "Danube Region Programme - Third Call for Proposals",
-            "description": "The Danube Region Programme (DRP) is launching the 3rd Call for Proposals (CfP). The programme offers financial support to transnational projects contributing to the development of a more innovative, sustainable and more social Danube Region. The programme has been designed under the territorial cooperation goal of the European Union. The uniqueness of the programme consists of offering a platform for cooperation in strategic areas between EU Member States and non-EU Partner States in the Danube region. In this CfP, applicants can submit proposals under the following Specific Objectives: SO1.2, SO2.1, SO2.2, SO2.3, SO3.1. SO3.2 and SO4.2. Furthermore, this CfP is a targeted call. It means that only proposals addressing the thematic focuses defined in the Call announcement can be funded by the Programme.",
-            "link": "https://www.euro-access.eu/en/calls/2382/Danube-Region-Programme-Third-Call-for-Proposals",
-            "custom": {
-                "Funding Program": "Interreg Danube Region Programme"
             }
         },
         {
@@ -1118,6 +1082,105 @@
             }
         },
         {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Network on External Policy EU-INDIA",
+            "description": "Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners research findings, content of courses and experiences, products (studies, articles, etc.). Each network will establish a tool allowing the partners to share their academic works and run peer review exercises, also commenting on the posted documents. The coordinator of the network will regularly make a selection of the most innovative and interesting results to be provided to the Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2457/Jean-Monnet-Network-on-External-Policy-EU-INDIA",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Networks in other fields of education and training",
+            "description": "Networks of schools and Vocational education and training institutions (VETs), ISCED 1 – 4, and/or higher education Institutions providing Teacher Training /Education should serve the purpose of giving an international aspect to the new Jean Monnet strand and allow exchange of good practices as well as experiencing co-teaching within a group of countries.",
+            "link": "https://www.euro-access.eu/en/calls/2458/Jean-Monnet-Networks-in-other-fields-of-education-and-training",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Actions for other fields of Education and Training: Learning EU",
+            "description": "Learning EU initiatives will support schools & Vocational education and training institutions (VETs), ISCED 1 – 4, enabling them to provide specific content on EU based subjects (democracy, EU history, how the EU works, cultural diversity – among others). Activities should be taught during the school year and could include project weeks, study visits, and other immersive activities.",
+            "link": "https://www.euro-access.eu/en/calls/2459/Jean-Monnet-Actions-for-other-fields-of-Education-and-Training-Learning-EU",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Actions for other fields of Education and Training: Teacher Training",
+            "description": "Higher Education Institutions or Teacher Training Institutes/Agencies will organise activities under this action enabling teachers in schools and Vocational Education and Training (VET) providers to develop new skills, to teach and engage on EU matters, thus empowering them through a better understanding of the EU and its functioning.",
+            "link": "https://www.euro-access.eu/en/calls/2460/Jean-Monnet-Actions-for-other-fields-of-Education-and-Training-Teacher-Training",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Network on Internal Policy: A resilient Single Market to boost EU competitiveness",
+            "description": "Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners research findings, content of courses and experiences, products (studies, articles, etc.). Each network will establish a tool allowing the partners to share their academic works and run peer review exercises, also commenting on the posted documents. The coordinator of the network will regularly make a selection of the most innovative and interesting results to be provided to the Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2461/Jean-Monnet-Network-on-Internal-Policy-A-resilient-Single-Market-to-boost-EU-competitiveness",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Actions in the field of Higher Education: Modules",
+            "description": "Modules are short teaching programmes or courses in the field of European Union studies at offered at a higher education institution. Each Module has a minimum duration of 40 teaching hours per academic year for a duration of three years. Modules may concentrate on one particular discipline in European studies or be multidisciplinary in approach and therefore call upon the academic input of several professors and experts. They can also take the form of short specialised or summer programmes.",
+            "link": "https://www.euro-access.eu/en/calls/2462/Jean-Monnet-Actions-in-the-field-of-Higher-Education-Modules",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Actions in the field of Higher Education: Chairs",
+            "description": "Chairs are teaching posts with a specialisation in European Union studies for university professors for a duration of three years. A Jean Monnet Chair is held by only one professor, who provides the minimum of 90 teaching hours per academic year. The Chair may also have a team to support and enhance the activities of the Chair, including the provision of additional teaching hours.",
+            "link": "https://www.euro-access.eu/en/calls/2463/Jean-Monnet-Actions-in-the-field-of-Higher-Education-Chairs",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "Jean Monnet Actions in the field of Higher Education: Centers of Excellence",
+            "description": "Jean Monnet Centres of Excellence are focal points of competence and knowledge on European Union subjects. They should gather the expertise and competences of high-level experts aiming to at develop synergies between the various disciplines and resources in European studies as well as at creating joint transnational activities, they also ensure openness to civil society. Jean Monnet Centres of Excellence have a major role in reaching out to students from faculties not normally dealing with European Union issues as well as to policy makers, civil servants, organised civil society and the general public at large.",
+            "link": "https://www.euro-access.eu/en/calls/2464/Jean-Monnet-Actions-in-the-field-of-Higher-Education-Centers-of-Excellence",
+            "custom": {
+                "Funding Program": "Erasmus+ - Jean Monnet Actions"
+            }
+        },
+        {
+            "deadline": "2026-03-05",
+            "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs",
+            "description": "The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting internationalisation of their activities and through exchanging or developing new practices and methods as well as sharing and confronting ideas.",
+            "link": "https://www.euro-access.eu/en/calls/2476/Partnerships-for-Cooperation-Cooperation-Partnerships-in-the-field-of-education-and-training-submitted-by-European-NGOs",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-05",
+            "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of Youth submitted by European NGOs 2026",
+            "description": "The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting internationalisation of their activities and through exchanging or developing new practices and methods as well as sharing and confronting ideas.",
+            "link": "https://www.euro-access.eu/en/calls/2488/Partnerships-for-Cooperation-Cooperation-Partnerships-in-the-field-of-Youth-submitted-by-European-NGOs-2026",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "European Youth Together 2026",
+            "description": "European Youth Together projects aim to create networks promoting regional partnerships, to be run in close cooperation with young people from across Europe (EU Member States and third countries associated to the programme). The networks should organise exchanges, promote trainings (for instance for youth leaders) and allow for young people themselves to set up joint projects, all of which can be done through both physical and online activities.",
+            "link": "https://www.euro-access.eu/en/calls/2489/European-Youth-Together-2026",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 3 – Support to Policy Development and Cooperation"
+            }
+        },
+        {
             "deadline": "2026-01-26",
             "title": "1st Call for Proposals under Cross-border Programme Serbia – Montenegro 2021-2027",
             "description": "In line with the objectives specified in the programme document, the global objective of this call for proposals is: to promote good neighbourly relations, foster Union integration and contribute to social, economic and territorial development of the programme cross-border area by improving social and cultural inclusion and health and by developing sustainable tourism.",
@@ -1379,6 +1442,33 @@
             }
         },
         {
+            "deadline": "2026-03-31",
+            "title": "Next generation of renewable energy technologies",
+            "description": "The proposal is expected to address high-risk and high return technology developments for game changing renewable energy technologies.",
+            "link": "https://www.euro-access.eu/en/calls/2532/Next-generation-of-renewable-energy-technologies",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Non-exhaust emissions in road and railway transport",
+            "description": "With continuous increase in electrification of the car fleet and railways, the share of non-exhaust particulate emissions into the environment becomes increasingly important.",
+            "link": "https://www.euro-access.eu/en/calls/2533/Non-exhaust-emissions-in-road-and-railway-transport",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Disruptive Technologies and Innovative Concepts for Energy Saving Onboard of long-distance ships (ZEWT Partnership)",
+            "description": "Energy consumption of long-distance shipping should be reduced significantly to achieve sustainable worldwide trade. To achieve a more sustainable and environmentally friendly shipping industry, it is essential to continue developing disruptive technologies, advanced materials, and innovative concepts that can significantly reduce energy consumption of long-distance shipping.",
+            "link": "https://www.euro-access.eu/en/calls/2534/Disruptive-Technologies-and-Innovative-Concepts-for-Energy-Saving-Onboard-of-long-distance-ships-ZEWT-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
             "deadline": "2026-04-14",
             "title": "Large-scale demonstration of Heavy-Duty Battery Electric Vehicles (HD BEV) towards long-haul logistics operations (2ZERO Partnership)",
             "description": "The implementation of zero emission vehicles for long-distance heavy-duty freight transport is of key importance to meet the European targets reducing greenhouse gas and air pollutants emissions.",
@@ -1430,6 +1520,87 @@
             "link": "https://www.euro-access.eu/en/calls/2540/AI-assisted-digital-aircraft-design-manufacturing-and-MRO-towards-a-competitive-aviation",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "R&I in Support of the Clean Industrial Deal: Clean Technologies for Climate Action",
+            "description": "The Clean Industrial Deal aims to secure the EU as an attractive location for manufacturing, including for energy-intensive industries, and to promote clean tech and new circular business models in order to meet Europe’s ambitious decarbonisation and climate neutrality and biodiversity preservation targets. It focuses primarily on the competitive decarbonisation of EU industry and on the production of clean technologies in the EU. This requires notably a considerable increase in electrification of EU energy systems and in all end-use sectors of the European economy (either directly, or via enabling intermediate technologies).",
+            "link": "https://www.euro-access.eu/en/calls/2541/RampI-in-Support-of-the-Clean-Industrial-Deal-Clean-Technologies-for-Climate-Action",
+            "custom": {
+                "Funding Program": "Horizon Europe"
+            }
+        },
+        {
+            "deadline": "2026-03-05",
+            "title": "Cooperation Partnerships",
+            "description": "The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting internationalisation of their activities and through exchanging or developing new practices and methods as well as sharing and confronting ideas.",
+            "link": "https://www.euro-access.eu/en/calls/2544/Cooperation-Partnerships",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Understanding and overcoming barriers to the scale-up of innovations supporting EU Missions",
+            "description": "This call aims to identify and address the barriers preventing the scaling and deployment of innovative technologies and non-technological innovations that support the five EU Missions in achieving their objectives.",
+            "link": "https://www.euro-access.eu/en/calls/2545/Understanding-and-overcoming-barriers-to-the-scale-up-of-innovations-supporting-EU-Missions",
+            "custom": {
+                "Funding Program": "Horizon Europe: Missions"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Strengthening skills and capacity for the deployment of EU Missions",
+            "description": "This call aims to strengthen research-driven capacity-building and institutional readiness to accelerate the deployment of innovative solutions in support of the five EU Missions. By identifying skills gaps, enhancing capacity within local authorities, and fostering experimentation and innovation at the local level, this action will empower key actors to fully leverage the Missions’ potential.",
+            "link": "https://www.euro-access.eu/en/calls/2546/Strengthening-skills-and-capacity-for-the-deployment-of-EU-Missions",
+            "custom": {
+                "Funding Program": "Horizon Europe: Missions"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Advancing lead markets and proof-of-concept for deep tech solutions contributing to EU Missions",
+            "description": "This call aims to accelerate the scaling and deployment of innovative technologies by leveraging EU Missions as catalysts for lead markets.",
+            "link": "https://www.euro-access.eu/en/calls/2547/Advancing-lead-markets-and-proof-of-concept-for-deep-tech-solutions-contributing-to-EU-Missions",
+            "custom": {
+                "Funding Program": "Horizon Europe: Missions"
+            }
+        },
+        {
+            "deadline": "2026-03-17",
+            "title": "AI improved advanced manufacturing and production processes in factories (Made in Europe and AI, Data and Robotics partnerships)",
+            "description": "AI approaches in manufacturing processes hold the potential to significantly enhance circularity, process and operational efficiency as well as sustainability of modern factories.",
+            "link": "https://www.euro-access.eu/en/calls/2548/AI-improved-advanced-manufacturing-and-production-processes-in-factories-Made-in-Europe-and-AI-Data-and-Robotics-partnerships",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-03-17",
+            "title": "Innovative AI methods and technologies for the process industries (Processes4Planet and AI, Data and Robotics partnerships)",
+            "description": "Drastically improved AI methods and technologies hold transformative potential for the process industries, enabling advancements in process design, operational efficiency, and faster innovation across the entire lifecycle of plants and products.",
+            "link": "https://www.euro-access.eu/en/calls/2549/Innovative-AI-methods-and-technologies-for-the-process-industries-Processes4Planet-and-AI-Data-and-Robotics-partnerships",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-03-17",
+            "title": "Development of safe and sustainable alternatives to substances of concern",
+            "description": "The focus of this topic is on alternatives for the substitution of substances of concern (SoCs) as defined in the Ecodesign for Sustainable Product regulation. The design and development of these alternatives should lead to an innovation cycle covering their (re)design, development, production processes, and integration into products in manufacturing.",
+            "link": "https://www.euro-access.eu/en/calls/2550/Development-of-safe-and-sustainable-alternatives-to-substances-of-concern",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "R&I in Support of the Clean Industrial Deal: Decarbonisation of energy intensive industries (Processes4Planet and Clean Steel partnerships)",
+            "description": "The Clean Industrial Deal aims to secure the EU as an attractive location for manufacturing, including for energy-intensive industries, and to promote clean tech and new circular business models in order to meet Europe’s ambitious decarbonisation and climate neutrality targets. It focuses primarily on the competitive decarbonisation of EU industry and on the production of clean technologies in the EU.",
+            "link": "https://www.euro-access.eu/en/calls/2551/RampI-in-Support-of-the-Clean-Industrial-Deal-Decarbonisation-of-energy-intensive-industries-Processes4Planet-and-Clean-Steel-partnerships",
+            "custom": {
+                "Funding Program": "Horizon Europe"
             }
         }
     ]

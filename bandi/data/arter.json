@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-13 20:13:29",
+    "scraping_timestamp": "2025-12-16 05:36:56",
     "data": [
         {
             "deadline": "2025-12-16",
@@ -431,6 +431,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 32.190.000"
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "Il progetto Open Horizons lancia la seconda open call per startup deep-tech",
+            "description": "Il termine ultimo per partecipare al bando di Open Horizons è fissato al 29 gennaio 2026",
+            "link": "https://first.art-er.it/news/il-progetto-open-horizons-lancia-la-seconda-open-call-startup-deep-tech",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding, Deep tech, Gender equality",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 400.000"
             }
         },
         {
