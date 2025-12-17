@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-16 05:40:29",
+    "scraping_timestamp": "2025-12-17 19:44:07",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -1154,10 +1154,172 @@
             }
         },
         {
+            "deadline": "2026-03-26",
+            "title": "Capacity building in VET in South Mediterranean Countries",
+            "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
+            "link": "https://www.euro-access.eu/en/calls/2466/Capacity-building-in-VET-in-South-Mediterranean-Countries",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Capacity building in VET in Latin America",
+            "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
+            "link": "https://www.euro-access.eu/en/calls/2467/Capacity-building-in-VET-in-Latin-America",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Capacity building in VET in Neighbourhood East",
+            "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
+            "link": "https://www.euro-access.eu/en/calls/2468/Capacity-building-in-VET-in-Neighbourhood-East",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Capacity building in VET in Sub-Saharan Africa",
+            "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
+            "link": "https://www.euro-access.eu/en/calls/2469/Capacity-building-in-VET-in-Sub-Saharan-Africa",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Capacity building in VET in Caribbean",
+            "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
+            "link": "https://www.euro-access.eu/en/calls/2470/Capacity-building-in-VET-in-Caribbean",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Erasmus+ Virtual Exchanges in Sub-Saharan Africa",
+            "description": "Virtual exchanges projects consist of online people-to-people activities that promote intercultural dialogue and soft skills development. They make it possible for every young person to access high-quality international and cross-cultural education without physical mobility. While virtual debating or training does not fully replace the benefits of physical mobility, participants in virtual exchanges ought to reap some of the benefits of international educational experiences. Digital platforms represent a valuable tool in partially answering the global constraints on mobility caused by the COVID-19 pandemic. Virtual exchanges also help spreading European values. Moreover, in some cases, virtual exchanges can give ideas and prepare the ground for future physical exchanges not funded under this action.",
+            "link": "https://www.euro-access.eu/en/calls/2471/Erasmus-Virtual-Exchanges-in-Sub-Saharan-Africa",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 1 – Learning Mobility of Individuals"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Capacity building in VET in Western Balkans",
+            "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
+            "link": "https://www.euro-access.eu/en/calls/2472/Capacity-building-in-VET-in-Western-Balkans",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Erasmus+ Virtual Exchanges in Neighbourhood East",
+            "description": "Virtual exchanges projects consist of online people-to-people activities that promote intercultural dialogue and soft skills development. They make it possible for every young person to access high-quality international and cross-cultural education without physical mobility. While virtual debating or training does not fully replace the benefits of physical mobility, participants in virtual exchanges ought to reap some of the benefits of international educational experiences. Digital platforms represent a valuable tool in partially answering the global constraints on mobility caused by the COVID-19 pandemic. Virtual exchanges also help spreading European values. Moreover, in some cases, virtual exchanges can give ideas and prepare the ground for future physical exchanges not funded under this action.",
+            "link": "https://www.euro-access.eu/en/calls/2473/Erasmus-Virtual-Exchanges-in-Neighbourhood-East",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 1 – Learning Mobility of Individuals"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Erasmus+ Virtual Exchanges in South Mediterranean Countries",
+            "description": "Virtual exchanges projects consist of online people-to-people activities that promote intercultural dialogue and soft skills development. They make it possible for every young person to access high-quality international and cross-cultural education without physical mobility. While virtual debating or training does not fully replace the benefits of physical mobility, participants in virtual exchanges ought to reap some of the benefits of international educational experiences. Digital platforms represent a valuable tool in partially answering the global constraints on mobility caused by the COVID-19 pandemic. Virtual exchanges also help spreading European values. Moreover, in some cases, virtual exchanges can give ideas and prepare the ground for future physical exchanges not funded under this action.",
+            "link": "https://www.euro-access.eu/en/calls/2474/Erasmus-Virtual-Exchanges-in-South-Mediterranean-Countries",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 1 – Learning Mobility of Individuals"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Erasmus+ Virtual Exchanges in Western Balkans",
+            "description": "Virtual exchanges projects consist of online people-to-people activities that promote intercultural dialogue and soft skills development. They make it possible for every young person to access high-quality international and cross-cultural education without physical mobility. While virtual debating or training does not fully replace the benefits of physical mobility, participants in virtual exchanges ought to reap some of the benefits of international educational experiences. Digital platforms represent a valuable tool in partially answering the global constraints on mobility caused by the COVID-19 pandemic. Virtual exchanges also help spreading European values. Moreover, in some cases, virtual exchanges can give ideas and prepare the ground for future physical exchanges not funded under this action.",
+            "link": "https://www.euro-access.eu/en/calls/2475/Erasmus-Virtual-Exchanges-in-Western-Balkans",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 1 – Learning Mobility of Individuals"
+            }
+        },
+        {
             "deadline": "2026-03-05",
             "title": "Partnerships for Cooperation - Cooperation Partnerships in the field of education and training submitted by European NGOs",
             "description": "The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting internationalisation of their activities and through exchanging or developing new practices and methods as well as sharing and confronting ideas.",
             "link": "https://www.euro-access.eu/en/calls/2476/Partnerships-for-Cooperation-Cooperation-Partnerships-in-the-field-of-education-and-training-submitted-by-European-NGOs",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Western Balkans",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2478/Western-Balkans",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Neighbourhood East",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2480/Neighbourhood-East",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Caribbean",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2481/Caribbean",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Latin America",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2482/Latin-America",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "South Mediterranean",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2483/South-Mediterranean",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-10",
+            "title": "Alliances for Sectoral Cooperation on Skills (implementing the ‘Blueprint')",
+            "description": "Alliances for Innovation aim to strengthen Europe’s innovation capacity by boosting innovation through cooperation and flow of knowledge among higher education, vocational education and training (both initial and continuous), and the broader socio-economic environment, including research. They also aim to boost the provision of new skills and address skills mismatches by designing and creating new curricula for higher education (HE) and vocational education and training (VET), supporting the development of a sense of initiative and entrepreneurial mind-sets in the EU.",
+            "link": "https://www.euro-access.eu/en/calls/2485/Alliances-for-Sectoral-Cooperation-on-Skills-implementing-the-Blueprint039",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-10",
+            "title": "Alliances for STEM Skills Foundries",
+            "description": "Alliances for Innovation aim to strengthen Europe’s innovation capacity by boosting innovation through cooperation and flow of knowledge among higher education, vocational education and training (both initial and continuous), and the broader socio-economic environment, including research. They also aim to boost the provision of new skills and address skills mismatches by designing and creating new curricula for higher education (HE) and vocational education and training (VET), supporting the development of a sense of initiative and entrepreneurial mind-sets in the EU.",
+            "link": "https://www.euro-access.eu/en/calls/2486/Alliances-for-STEM-Skills-Foundries",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-10",
+            "title": "Alliances for Education and Enterprises",
+            "description": "Alliances for Innovation aim to strengthen Europe’s innovation capacity by boosting innovation through cooperation and flow of knowledge among higher education, vocational education and training (both initial and continuous), and the broader socio-economic environment, including research. They also aim to boost the provision of new skills and address skills mismatches by designing and creating new curricula for higher education (HE) and vocational education and training (VET), supporting the development of a sense of initiative and entrepreneurial mind-sets in the EU.",
+            "link": "https://www.euro-access.eu/en/calls/2487/Alliances-for-Education-and-Enterprises",
             "custom": {
                 "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
             }
@@ -1178,6 +1340,60 @@
             "link": "https://www.euro-access.eu/en/calls/2489/European-Youth-Together-2026",
             "custom": {
                 "Funding Program": "Erasmus+ - Key Action 3 – Support to Policy Development and Cooperation"
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "Capacity Building in the field of Youth in Neighborhood East",
+            "description": "Capacity-building in the field of youth projects are international cooperation projects based on multilateral partnerships between organisations active in the field of youth in the EU and countries associated to the Programme, on the one hand, and in third countries not associated to the Programme, on the other hand. For the latter, this topic targets exclusively countries in Region 2 (Eastern Partnership). Projects aim at supporting international cooperation in the field of youth and non-formal learning, as a driver of sustainable socio-economic development and well-being among youth organisations and young people.",
+            "link": "https://www.euro-access.eu/en/calls/2490/Capacity-Building-in-the-field-of-Youth-in-Neighborhood-East",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "Capacity Building in the field of Youth in South Mediterranean Countries",
+            "description": "Capacity-building in the field of youth projects are international cooperation projects based on multilateral partnerships between organisations active in the field of youth in the EU and countries associated to the Programme, on the one hand, and in third countries not associated to the Programme, on the other hand. For the latter, this topic targets exclusively countries in Region 3 (Southern Mediterranean). Projects aim at supporting international cooperation in the field of youth and non-formal learning, as a driver of sustainable socio-economic development and well-being among youth organisations and young people.",
+            "link": "https://www.euro-access.eu/en/calls/2491/Capacity-Building-in-the-field-of-Youth-in-South-Mediterranean-Countries",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "Capacity Building in the field of Youth in Western Balkans",
+            "description": "Capacity-building in the field of youth projects are international cooperation projects based on multilateral partnerships between organisations active in the field of youth in the EU and countries associated to the Programme, on the one hand, and in third countries not associated to the Programme, on the other hand. For the latter, this topic targets exclusively countries in Region 1 (Western Balkans). Projects aim at supporting international cooperation in the field of youth and non-formal learning, as a driver of sustainable socio-economic development and well-being among youth organisations and young people.",
+            "link": "https://www.euro-access.eu/en/calls/2492/Capacity-Building-in-the-field-of-Youth-in-Western-Balkans",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "Capacity Building in the field of Youth in Sub-Saharan Africa",
+            "description": "Capacity-building in the field of youth projects are international cooperation projects based on multilateral partnerships between organisations active in the field of youth in the EU and countries associated to the Programme, on the one hand, and in third countries not associated to the Programme, on the other hand. For the latter, this topic targets exclusively countries in Region 9 (Sub Saharan Africa). Projects aim at supporting international cooperation in the field of youth and non-formal learning, as a driver of sustainable socio-economic development and well-being among youth organisations and young people.",
+            "link": "https://www.euro-access.eu/en/calls/2493/Capacity-Building-in-the-field-of-Youth-in-Sub-Saharan-Africa",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Asia",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2494/Asia",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Cross-Regional",
+            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
+            "link": "https://www.euro-access.eu/en/calls/2496/Cross-Regional",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
             }
         },
         {
