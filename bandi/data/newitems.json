@@ -1,11 +1,389 @@
 {
-    "scraping_timestamp": "2025-12-18 05:55:34",
+    "scraping_timestamp": "2025-12-19 05:31:07",
     "data": [
         {
-            "deadline": "2025-10-28",
-            "title": "Sostegno alle PMI per la partecipazione alle manifestazioni fieristiche",
-            "description": "Interventi a favore del settore fieristico e dei mercati rionali",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-alle-pmi-la-partecipazione-alle-manifestazioni-fieristiche?from=/per-le-imprese/incentivi",
+            "deadline": "2026-01-16",
+            "title": "Progetto StandICT.eu: al via la prima call per esperti sulla standardizzazione digitale",
+            "description": "La call per esperti del progetto europeo StandICT.eu mira a sostenere la presenza europea nei processi di standardizzazione digitale",
+            "link": "https://first.art-er.it/news/ue-una-call-esperti-su-standardizzazione-digitale",
+            "custom": {
+                "custom": {
+                    "Topics": "Artificial Intelligence, Quantum",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 4.200.000 per le sei open call"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-25",
+            "title": "Aperte le candidature per l’EUDIS Business Accelerator – Cohort #2",
+            "description": "Al via la seconda edizione del programma europeo di accelerazione dedicato a start-up e scale-up della difesa",
+            "link": "https://first.art-er.it/news/eudis-business-accelerator-aperta-la-cohort-2",
+            "custom": {
+                "custom": {
+                    "Topics": "Difesa UE",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€120.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-09",
+            "title": "Aperto il secondo bando INCiTiS-FOOD di innovazione circolare per la sicurezza alimentare urbana",
+            "description": "Il progetto INCiTiS-FOOD mira a trasformare i sistemi alimentari locali intervenendo su quattro dimensioni chiave della food and nutrition security",
+            "link": "https://first.art-er.it/news/aperto-il-secondo-bando-incitis-food",
+            "custom": {
+                "custom": {
+                    "Topics": "Cascade funding",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 60.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-10",
+            "title": "Al via gli European Startup and Scaleup Hubs per creare una Champions League dell’innovazione",
+            "description": "Il bando Horizon Europe mira a creare una rete di hub integrati con università, centri di ricerca e organizzazioni tecnologiche, per sostenere la crescita di startup e scaleup ad alta intensità tecnologica",
+            "link": "https://first.art-er.it/news/nasce-la-rete-ue-degli-hub-startup-deep-tech",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 20.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-24",
+            "title": "EuroHPC JU: annunciati nuovi bandi per un benchmark sul supercalcolo europeo",
+            "description": "Le call hanno l’obiettivo condiviso di sostenere lo sviluppo di un ecosistema HPC e quantistico più efficiente, sostenibile e integrato",
+            "link": "https://first.art-er.it/news/ue-investe-nei-benchmark-supercalcolo-e-quantistica",
+            "custom": {
+                "custom": {
+                    "Topics": "Artificial Intelligence, Quantum",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-08",
+            "title": "MSCA COFUND 2026: aperto il bando da 105,5 milioni per programmi di dottorato e post-dottorato",
+            "description": "Il bando sostiene programmi di formazione e sviluppo di carriera per attrarre ricercatori e talenti internazionali in Europa",
+            "link": "https://first.art-er.it/news/msca-cofund-2026-1055-milioni-dottorati-e-postdoc",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 105.500.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Horizon Europe: bando MSCA Staff Exchanges 2026",
+            "description": "Il bando finanzia scambi internazionali e intersettoriali a breve termine di membri del personale coinvolti in attività di ricerca e innovazione delle organizzazioni partecipanti",
+            "link": "https://first.art-er.it/news/horizon-europe-il-bando-msca-staff-exchanges-2026",
+            "custom": {
+                "custom": {
+                    "Topics": "",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 97.920.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-28",
+            "title": "Cybersicurezza: ECCC apre nuove call per rafforzare i Cyber Hub nazionali e transfrontalieri",
+            "description": "Nuove call Centro europeo di competenza per la cibersicurezza (ECCC) per creare e consolidare una rete di Cyber Hub nazionali e transfrontalieri nell'Unione europea",
+            "link": "https://first.art-er.it/news/nuovo-bando-ue-rafforzare-hub-di-cybersicurezza",
+            "custom": {
+                "custom": {
+                    "Topics": "Artificial Intelligence",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 4.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-06-30",
+            "title": "Al via nel 2026 la JTC Brain Health per innovare la ricerca neuroscientifica",
+            "description": "I bandi sosterranno progetti transnazionali su disturbi neurologici mentali sensoriali e malattie neurodegenerative lungo l’intero arco della vita",
+            "link": "https://first.art-er.it/news/jtc-brain-health-arrivo-nel-2026",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "A due fasi",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-07-21",
+            "title": "Agriculture of Data: al via il bando europeo per la transizione digitale agricola",
+            "description": "L’obiettivo è sostenere soluzioni innovative basate sui dati per rendere l’agricoltura più efficiente, sostenibile e resiliente",
+            "link": "https://first.art-er.it/news/agdata-bando-innovazione-e-dati-agricoltura",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "A due fasi",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Horizon Europe: nuovo bando a sostegno del Clean Industrial Deal",
+            "description": "Aperto un bando Horizon Europe da 600 milioni per sostenere tecnologie pulite e processi industriali net-zero",
+            "link": "https://first.art-er.it/news/nuovo-bando-heu-il-clean-industrial-deal",
+            "custom": {
+                "custom": {
+                    "Topics": "Transizione sostenibile",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€ 600.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-22",
+            "title": "CBE JU pubblica il Work Programme 2026: oltre 170 milioni per la bioeconomia sostenibile",
+            "description": "Nuove opportunità di finanziamento per accelerare soluzioni basate sulla natura, competitive e sostenibili",
+            "link": "https://first.art-er.it/news/cbe-ju-work-programme-2026-1707m-progetti-bio-based",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "€170.700.000"
+                }
+            }
+        },
+        {
+            "deadline": "2027-02-02",
+            "title": "Made in Europe: in arrivo nuovi bandi per manifattura avanzata e materiali",
+            "description": "I bandi puntano su innovazione industriale, sostenibilità e leadership europea con scadenze tra aprile 2026 e febbraio 2027",
+            "link": "https://first.art-er.it/news/made-europe-arrivo-nuove-call-2026-2027",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "Open call 2026:HORIZON-CL4-2026-01-M-P-01: € 37.500.000 HORIZON-CL4-2026-01-M-P-05: € 37.500.000HORIZON-CL4-2026-01-M-P-48: € 5.000.000Open call 2027:HORIZON-CL4-2027-01-M-P-02: € 36.000.000 HORIZON-CL4-2027-01-M-P-03: € 36.000.000 HORIZON-CL4-2027-01-M-P-06: € 36.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-02",
+            "title": "Made in Europe: aperto il nuovo bando sull'autonomia digitale",
+            "description": "Pubblicate le call 2026–2027 della partnership Made in Europe dedicate a materiali innovativi e autonomia digitale nell'industria",
+            "link": "https://first.art-er.it/news/made-europe-aperto-il-bando-sullautonomia-digitale",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Unione Europea",
+                    "Tipologia Scadenza": "A due fasi",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-15",
+            "title": "Autoimpiego Centro-Nord",
+            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Centro-Nord",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/autoimpiego-centro-nord?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-15",
+            "title": "Resto al Sud 2.0",
+            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Mezzogiorno",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud-20?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Progetto Rete – Giovani, competenze, lavoro",
+            "description": "Un progetto dedicato a connettere giovani, scuole, università e mondo del lavoro",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/progetto-rete-giovani-competenze-lavoro?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Nuovo ecobonus - L’incentivo per la mobilità sostenibile",
+            "description": "Una risposta concreta per una mobilità più sostenibile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/nuovo-ecobonus-lincentivo-la-mobilita-sostenibile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-10-31",
+            "title": "Giovani diplomati",
+            "description": "È l’incentivo per i contratti di apprendistato nell'enogastronomia e nell’ospitalità alberghiera",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PNC Sisma - NEXT APPENNINO",
+            "description": "Programma per il rilancio economico e sociale delle Regioni del Centro Italia colpite dai terremoti del 2009 e del 2016",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-07-01",
+            "title": "Laboratorio per l'Imprenditorialità",
+            "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-05-19",
+            "title": "ON - Oltre Nuove imprese a tasso zero",
+            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-14",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-07-03",
+            "title": "Bravo Innovation Hub",
+            "description": "L'acceleratore per le Imprese italiane più innovative",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/bravo-innovation-hub?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-07-12",
+            "title": "TOCC Digitale ed Ecologica",
+            "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Cultura Crea",
+            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-05-06",
+            "title": "Imprese Borghi",
+            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -17,24 +395,576 @@
         },
         {
             "deadline": "2026-04-15",
-            "title": "Closing knowledge gaps on Earth system science in support of global and regional assessments and climate policy",
-            "description": "Identifier: HORIZON-CL5-2026-08-Two-Stage-D1-06\nPillar: HORIZON-CL5-2026-08-Two-Stage\nOpening Date: 2025-12-18\nDeadline: 2026-04-15\n\nLast Change Date: 2025-12-17T19:44:15.894\nContent: <p>the call opens on 18/12/2025</p>\n\nLast Change Date: 2025-12-18T00:01:00.816\nContent: The submission session is now available for: HORIZON-CL5-2026-08-Two-Stage-D1-06\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-08-Two-Stage-D1-06",
+            "title": "Economics of climate change and cost of inaction",
+            "description": "Identifier: HORIZON-CL5-2026-07-D1-03\nPillar: HORIZON-CL5-2026-07\nOpening Date: 2025-12-18\nDeadline: 2026-04-15\n\nLast Change Date: 2025-12-18T09:44:27.526\nContent: The submission session is now available for: HORIZON-CL5-2026-07-D1-03, HORIZON-CL5-2026-07-D1-02, HORIZON-CL5-2026-07-D1-04, HORIZON-CL5-2026-07-D1-05, HORIZON-CL5-2026-07-D1-01\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-07-D1-03",
             "custom": {
                 "custom": {
                     "category": "HORIZON",
                     "guid": "CLIMATE",
                     "pub_date": "2025-12-12",
                     "dc_date": "2025-12-12",
-                    "identifier": "HORIZON-CL5-2026-08-Two-Stage-D1-06"
+                    "identifier": "HORIZON-CL5-2026-07-D1-03"
                 }
             }
         },
         {
-            "deadline": "2026-01-02",
-            "title": "Avviso pubblico, tramite procedura comparativa, per conferimento incarichi libero professionali a Medici Specialisti, nelle discipline di Igiene, Epidemiologia e Sanità Pubblica, Medicina del Lavoro e Medicina Legale, da destinare all’U.O.S.D. Medicina Penitenziaria.",
-            "description": "<p><span style=\"font-size: 11.0pt;\">Si comunica che è stato indetto un Avviso pubblico, tramite procedura comparativa, per il conferimento di incarichi libero professionali a Medici Specialisti, nelle discipline di Igiene, Epidemiologia e Sanità Pubblica, Medicina del Lavoro e Medicina Legale, da destinare all’U.O.S.D. Medicina Penitenziaria nelle seguenti discipline:</span></p>\n<p><span style=\"mso-bookmark: _Hlk188271243;\"><span style=\"font-size: 11.0pt;\">&nbsp;</span></span><span style=\"mso-bookmark: _Hlk188271243;\"><span style=\"font-size: 11.0pt; font-family: TimesNewRomanPS-BoldMT; mso-fareast-font-family: TimesNewRomanPS-BoldMT; mso-bidi-font-family: TimesNewRomanPS-BoldMT;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 11.0pt;\">Sanità Pubblica, Epidemiologica e Medicina Preventiva</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk188271243;\"><span style=\"font-size: 11.0pt; font-family: TimesNewRomanPS-BoldMT; mso-fareast-font-family: TimesNewRomanPS-BoldMT; mso-bidi-font-family: TimesNewRomanPS-BoldMT;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 11.0pt;\">Medicina del Lavoro</span></span></p>\n<p><span style=\"mso-bookmark: _Hlk188271243;\"><span style=\"font-size: 11.0pt; font-family: TimesNewRomanPS-BoldMT; mso-fareast-font-family: TimesNewRomanPS-BoldMT; mso-bidi-font-family: TimesNewRomanPS-BoldMT;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 11.0pt;\">Medicina Legale</span></span></p>\n<p><strong><span style=\"font-size: 11.0pt; line-height: 115%;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 11.0pt; line-height: 115%; color: black; mso-color-alt: windowtext;\">Le candidature potranno essere presentate da giovedì 18/12/2025 e fino alle ore 23:59 di venerdì 02/01/2026.</span></strong></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">Si ricorda che quanto dichiarato in fase di compilazione della domanda costituisce AUTODICHIARAZIONE E AUTOCERTIFICAZIONE ai sensi del D.P.R. 445/2000. </span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">Pertanto, in caso di dichiarazioni non veritiere, false o mendaci si applicano gli artt. 75 e 76 del D.P.R. con conseguenze penali nei casi previsti dalla legge.</span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">Il bando è consultabile sul sito “inPA” e su <a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a>, piattaforma tramite la quale è possibile partecipare al concorso registrandosi, con i propri dati anagrafici, selezionando la procedura d’interesse e compilando, in ogni sua parte, il format online. </span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%;\">&nbsp;</span><span style=\"font-size: 11.0pt; line-height: 115%;\">Tutte le informazioni potranno essere richieste tramite la piattaforma concorsi http://asptrapani.selezionieconcorsi.it, oppure presso l’Ufficio Concorsi - ASP di Trapani, via Mazzini, 1 Trapani (nei giorni di martedì dalle 16,00 alle 17,30 e giovedì dalle 9,30 alle 12,30).</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c1e52c3126ee4cc680286aef772ea0a1",
+            "deadline": "2026-04-15",
+            "title": "Advancing European climate risk assessments",
+            "description": "Identifier: HORIZON-CL5-2026-07-D1-02\nPillar: HORIZON-CL5-2026-07\nOpening Date: 2025-12-18\nDeadline: 2026-04-15\n\nLast Change Date: 2025-12-18T09:44:27.545\nContent: The submission session is now available for: HORIZON-CL5-2026-07-D1-03, HORIZON-CL5-2026-07-D1-02, HORIZON-CL5-2026-07-D1-04, HORIZON-CL5-2026-07-D1-05, HORIZON-CL5-2026-07-D1-01\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-07-D1-02",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "CLIMATE",
+                    "pub_date": "2025-12-12",
+                    "dc_date": "2025-12-12",
+                    "identifier": "HORIZON-CL5-2026-07-D1-02"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Fighting disinformation and effectively communicating on climate change",
+            "description": "Identifier: HORIZON-CL5-2026-07-D1-04\nPillar: HORIZON-CL5-2026-07\nOpening Date: 2025-12-18\nDeadline: 2026-04-15\n\nLast Change Date: 2025-12-18T09:44:27.547\nContent: The submission session is now available for: HORIZON-CL5-2026-07-D1-03, HORIZON-CL5-2026-07-D1-02, HORIZON-CL5-2026-07-D1-04, HORIZON-CL5-2026-07-D1-05, HORIZON-CL5-2026-07-D1-01\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-07-D1-04",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "CLIMATE",
+                    "pub_date": "2025-12-12",
+                    "dc_date": "2025-12-12",
+                    "identifier": "HORIZON-CL5-2026-07-D1-04"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Improving climate and weather models for Africa",
+            "description": "Identifier: HORIZON-CL5-2026-07-D1-05\nPillar: HORIZON-CL5-2026-07\nOpening Date: 2025-12-18\nDeadline: 2026-04-15\n\nLast Change Date: 2025-12-18T09:44:27.549\nContent: The submission session is now available for: HORIZON-CL5-2026-07-D1-03, HORIZON-CL5-2026-07-D1-02, HORIZON-CL5-2026-07-D1-04, HORIZON-CL5-2026-07-D1-05, HORIZON-CL5-2026-07-D1-01\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-07-D1-05",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "CLIMATE",
+                    "pub_date": "2025-12-12",
+                    "dc_date": "2025-12-12",
+                    "identifier": "HORIZON-CL5-2026-07-D1-05"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Next generation climate monitoring and related capabilities",
+            "description": "Identifier: HORIZON-CL5-2026-07-D1-01\nPillar: HORIZON-CL5-2026-07\nOpening Date: 2025-12-18\nDeadline: 2026-04-15\n\nLast Change Date: 2025-12-18T09:44:27.551\nContent: The submission session is now available for: HORIZON-CL5-2026-07-D1-03, HORIZON-CL5-2026-07-D1-02, HORIZON-CL5-2026-07-D1-04, HORIZON-CL5-2026-07-D1-05, HORIZON-CL5-2026-07-D1-01\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-07-D1-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "CLIMATE",
+                    "pub_date": "2025-12-12",
+                    "dc_date": "2025-12-12",
+                    "identifier": "HORIZON-CL5-2026-07-D1-01"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "From Learning to Convergence: The Implementation of the European Asylum Curriculum (EAC)",
+            "description": "Identifier: EUBA-EUAA-2026-EAC\nPillar: EUBA-EUAA-2026-EAC\nOpening Date: 2025-12-18\nDeadline: 2026-03-31\n\nLast Change Date: 2025-12-18T00:01:00.936\nContent: The submission session is now available for: EUBA-EUAA-2026-EAC\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/EUBA-EUAA-2026-EAC",
+            "custom": {
+                "custom": {
+                    "category": "EUBA",
+                    "guid": "From Learning to Convergence: The Implementation of the European Asylum Curriculum (EAC)",
+                    "pub_date": "2025-12-15",
+                    "dc_date": "2025-12-15",
+                    "identifier": "EUBA-EUAA-2026-EAC"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-09",
+            "title": "ERA Fellowships",
+            "description": "Identifier: HORIZON-WIDERA-2026-05-WIDENING-01\nPillar: HORIZON-WIDERA-2026-05\nOpening Date: 2026-04-09\nDeadline: 2026-09-09\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2026-05-WIDENING-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "ERA Fellowships",
+                    "pub_date": "2025-12-12",
+                    "dc_date": "2025-12-12",
+                    "identifier": "HORIZON-WIDERA-2026-05-WIDENING-01"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-08",
+            "title": "ERA Fellowships",
+            "description": "Identifier: HORIZON-WIDERA-2027-03-WIDENING-01\nPillar: HORIZON-WIDERA-2027-03\nOpening Date: 2027-04-07\nDeadline: 2027-09-08\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-WIDERA-2027-03-WIDENING-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "ERA Fellowships",
+                    "pub_date": "2025-12-12",
+                    "dc_date": "2025-12-12",
+                    "identifier": "HORIZON-WIDERA-2027-03-WIDENING-01"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-15",
+            "title": "Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)",
+            "description": "Identifier: HORIZON-CL5-2027-05-D4-07\nPillar: HORIZON-CL5-2027-05\nOpening Date: 2027-05-05\nDeadline: 2027-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-07",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2027-05-D4-07"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-15",
+            "title": "On-site robotic and automated techniques for building renovation and new construction",
+            "description": "Identifier: HORIZON-CL5-2027-05-D4-05\nPillar: HORIZON-CL5-2027-05\nOpening Date: 2027-05-05\nDeadline: 2027-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-05",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2027-05-D4-05"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-15",
+            "title": "Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres",
+            "description": "Identifier: HORIZON-CL5-2027-05-D4-06\nPillar: HORIZON-CL5-2027-05\nOpening Date: 2027-05-05\nDeadline: 2027-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-06",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2027-05-D4-06"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-15",
+            "title": "Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership)",
+            "description": "Identifier: HORIZON-CL5-2027-05-D2-08\nPillar: HORIZON-CL5-2027-05\nOpening Date: 2027-05-05\nDeadline: 2027-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D2-08",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2027-05-D2-08"
+                }
+            }
+        },
+        {
+            "deadline": "2027-09-15",
+            "title": "Demonstration of industrial excess/waste heat conversion to mechanical or electrical power",
+            "description": "Identifier: HORIZON-CL5-2027-05-D4-09\nPillar: HORIZON-CL5-2027-05\nOpening Date: 2027-05-05\nDeadline: 2027-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2027-05-D4-09",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2027-05-D4-09"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Validating policies and business models for affordable and sustainable housing (Built4People Partnership)",
+            "description": "Identifier: HORIZON-CL5-2026-09-D4-04\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D4-04",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D4-04"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Coordinated topic with India on recycling of EV batteries",
+            "description": "Identifier: HORIZON-CL5-2026-09-D2-04\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D2-04",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D2-04"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Innovative technologies and solutions to improve wind energy systems supporting the Strategic Energy Technology (SET) Plan on wind",
+            "description": "Identifier: HORIZON-CL5-2026-09-D3-03\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D3-03",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D3-03"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Low disturbance prefabrication approaches for deep renovation of multi-storey buildings (Built4People Partnership)",
+            "description": "Identifier: HORIZON-CL5-2026-09-D4-02\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D4-02",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D4-02"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Producing battery-grade materials for electrodes through sustainable processing and refining of raw materials or developing bio-based materials (BATT4EU Partnership)",
+            "description": "Identifier: HORIZON-CL5-2026-09-D2-01\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D2-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D2-01"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Researching the technical, social & economic factors impacting the energy performance of Smart Buildings (Built4People Partnership)",
+            "description": "Identifier: HORIZON-CL5-2026-09-D4-01\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D4-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D4-01"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Advanced data platforms to integrate whole life carbon in building information tools, assessments, and certification (Built4People Partnership)",
+            "description": "Identifier: HORIZON-CL5-2026-09-D4-03\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D4-03",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D4-03"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Full-scale demonstration of heat upgrade solutions in industrial processes",
+            "description": "Identifier: HORIZON-CL5-2026-09-D4-08\nPillar: HORIZON-CL5-2026-09\nOpening Date: 2026-05-05\nDeadline: 2026-09-15\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-CL5-2026-09-D4-08",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "BATTERIES and ENERGY",
+                    "pub_date": "2025-12-19",
+                    "dc_date": "2025-12-19",
+                    "identifier": "HORIZON-CL5-2026-09-D4-08"
+                }
+            }
+        },
+        {
+            "deadline": "2026-06-30",
+            "title": "CCIAA Bolzano - Voucher consulenza legale per l‘internazionalizzazione 2026",
+            "description": "Cos'è La Camera di commercio, industria, artigianato, turismo e agricoltura di Bolzano si propone, anche secondo i compiti attribuiti dalla legge n. 580/1993 e successivi interventi normativi sull’internazionalizzazione, di promuovere la competitività delle Micro, Piccole e Medie Imprese di tutti i settori economici attraverso il sostegno all’acquisizione di servizi di natura legale attinenti al commercio internazionale. L’obiettivo è di realizzare azioni di immediato supporto alle MPMI, della circoscrizione territoriale camerale, attivando contributi a fondo perduto (voucher) a copertura parziale delle spese sostenute per l’acquisizione di servizi di consulenza di natura legale. A chi si rivolge Possono fare richiesta le micro, piccole e medie imprese altoatesine di tutti i settori, che siano iscritte al Registro delle Imprese della Camera di Commercio di Bolzano e che abbiano la loro sede legale in Alto Adige (v. art.4 del bando). Cosa prevede Il Bando concede contributi a fondo perduto (voucher) per servizi di consulenza di natura legale in materia di internazionalizzazione nel limite massimo del 40% del totale delle spese ammissibili del progetto.",
+            "link": "https://www.incentivi.gov.it/it/catalogo/cciaa-bolzano-voucher-consulenza-legale-linternazionalizzazione-2026",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-18",
+            "title": "Accordi per l'innovazione - 2025",
+            "description": "Cos'è Con decreto ministeriale 4 settembre 2025 sono state ridefinite le procedure per la concessione ed erogazione delle agevolazioni, previste dal decreto 31 dicembre 2021, in favore di interventi di ricerca e sviluppo di rilevante impatto tecnologico realizzati nell’ambito di accordi stipulati dalle imprese con il Ministero e con le regioni, le province autonome e le altre amministrazioni pubbliche eventualmente interessate. Progetti riguardanti attività di ricerca industriale e di sviluppo sperimentale finalizzate alla realizzazione di nuovi prodotti, processi o servizi o al notevole miglioramento di prodotti, processi o servizi esistenti nell’ambito di specifiche aree di intervento individuate all’allegato n. 2 ed all’allegato n. 3 al decreto ministeriale 4 settembre 2025, riconducibili al comparto manufatturiero ed al settore digitale e delle telecomunicazioni. Le iniziative agevolabili devono prevedere spese e costi ammissibili non inferiori a 5 milioni di euro e non superiori a 40 milioni di euro, avere una durata non inferiore a 18 mesi e non superiore a 36 mesi ed essere avviati successivamente alla presentazione della domanda di agevolazione. A chi si rivolge Possono beneficiare delle agevolazioni le imprese di qualsiasi dimensione con almeno due bilanci approvati al momento della presentazione della domanda di agevolazioni, che esercitano attività industriali e di trasporto, ivi comprese quelle artigiane, i Centri di ricerca e, limitatamente alle aree di intervento di cui all’allegato n. 3 al decreto, anche le imprese di servizi. I citati soggetti possono presentare progetti anche congiuntamente tra loro e con Organismi di ricerca, fino ad un massimo di cinque soggetti co-proponenti. Cosa prevede Le agevolazioni sono concesse nella forma del contributo diretto alla spesa e, ove richiesto, del finanziamento agevolato, nei limiti delle intensità massime di aiuto, comprensive delle eventuali maggiorazioni, stabilite dagli articoli 4 e 25 del regolamento GBER, a valere sulle risorse messe a disposizione dalle amministrazioni sottoscrittrici dell’Accordo per l’innovazione, nei limiti di una intensità d’aiuto calcolata sul totale dei costi e delle spese ammissibili di progetto, articolata sulla base della dimensione del soggetto proponente:- 45 per cento per le imprese di piccola dimensione;- 35 per cento per le imprese di media dimensione;- 25 per cento per le imprese di grande dimensione. Il finanziamento agevolato, qualora richiesto, è concedibile esclusivamente alle imprese e nel limite massimo del 20 per cento del totale dei costi ammissibili di progetto. Per gli Organismi di ricerca, le agevolazioni sono concesse esclusivamente nella forma di contributo diretto alla spesa, per una percentuale nominale pari al 50 per cento dei costi e delle spese ammissibili per attività di ricerca industriale e pari al 25 per cento dei costi e delle spese ammissibili di sviluppo sperimentale. Le intensità di aiuto possono, inoltre, essere aumentate per ciascun soggetto proponente, di 15 punti percentuali se è soddisfatta almeno una delle seguenti condizioni:il progetto di ricerca e sviluppo prevede la collaborazione effettiva tra imprese di cui almeno una è una PMI e non prevede che una singola impresa sostenga da sola più del 70 (settanta) per cento dei costi ammissibili;il progetto di ricerca e sviluppo è interamente realizzato nei territori delle regioni meno sviluppate;il progetto di ricerca e sviluppo prevede la collaborazione effettiva tra un'impresa e uno o più Organismi di ricerca e di diffusione delle conoscenze, nell'ambito del quale tali Organismi di ricerca sostengono almeno il 10 (dieci) per cento dei costi ammissibili e hanno il diritto di pubblicare i risultati della propria ricerca.",
+            "link": "https://www.incentivi.gov.it/it/catalogo/accordi-linnovazione-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-12-31",
+            "title": "Comune di Corteolona e Genzone - Fondo delle Aree Interne Anno 2022",
+            "description": "Cos'è Il bando, in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\", è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Corteolona e Genzone.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Corteolona e Genzone.  Cosa prevede E' prevista l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-corteolona-e-genzone-fondo-delle-aree-interne-anno-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-25",
+            "title": "Comune di Frasso Telesino - Fondo di sostegno ai comuni marginali - Annualità 2022",
+            "description": "Cos'è Il bando, a valere sul Fondo di sostegno ai comuni marginali, sostiene le nuove attività commerciali nel Comune di Frasso Telesino.  A chi si rivolge Il bando è rivolto alle microimprese.  Cosa prevede L'agevolazione consiste nella concessione di sostegno alla liquidità. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-frasso-telesino-fondo-di-sostegno-ai-comuni-marginali-annualita-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-29",
+            "title": "Comune di Calciano - Contributi ai Comuni delle aree interne - Anno 2022",
+            "description": "Cos'è Il bando, in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\", è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Calciano.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Calciano.  Cosa prevede Il bando prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-calciano-contributi-ai-comuni-delle-aree-interne-anno-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-07-31",
+            "title": "Fondo Comuni Marginali - Comune di Grumento Nova - Annualità 2022",
+            "description": "Cos'è Il bando in oggetto, a valere sul Fondo Comuni Marginali, prevede incentivi per l'avvio di nuove attività nel Comune di Grumento Nova.  A chi si rivolge Il bando si rivolge alle nuove imprese.  Cosa prevede Il bando prevede incentivi per gli investimenti nella forma di Sovvenzione/Contributo in conto interessi - Contributo in c/capitale c/impianti. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-grumento-nova-annualita-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-12",
+            "title": "Avviso pubblico Percorso Formativo Certificazione Parità Genere - Camera di Commercio dell'Umbria",
+            "description": "Cos'è Avviso pubblico per la partecipazione al percorso formativo dedicato alle imprese umbre, per il conseguimento della Certificazione della Parità di Genere (norma UNI/Pd R 125:2022).  A chi si rivolge Micro o Piccole o Medie imprese con sede legale e/o una sede operativa nella circoscrizione territoriale della Camera di Commercio dell’Umbria.  Cosa prevede L’agevolazione è erogata sotto forma di voucher formativo del valore di € 1.300, a favore delle imprese che intendono partecipare al programma formativo per ottenere la certificazione della parità di genere, a favore di un massimo di 30 imprese e coprirà il 100% del costo del servizio formativo. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/avviso-pubblico-percorso-formativo-certificazione-parita-genere-camera-di-commercio",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-03-13",
+            "title": "Contributo a fondo perduto per le piccole e micro imprese e attività professionali ubicate nel territorio del Comune di San Teodoro - 2022",
+            "description": "Cos'è Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di San Teodoro.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di San Teodoro.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/contributo-fondo-perduto-le-piccole-e-micro-imprese-e-attivita-professionali-ubicate-nel",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-24",
+            "title": "Contributo a sostegno delle attività economiche e commerciali per lo sviluppo delle aree interne - Annualità 2022 - Comune di Chitignano",
+            "description": "Cos'è Contributi del fondo a sostegno delle attività economiche artigianali e commerciali previste dalla presidenza del consiglio dei ministri nell’ambito della strategia nazionale per lo sviluppo delle aree interne per l'annualità 2022.  A chi si rivolge I beneficiari del presente Avviso sono le piccole e micro imprese - di cui al decreto* del Ministero dello Sviluppo Economico del 18 aprile 2005 - che svolgono, alla data di presentazione della domanda, attività economiche in ambito commerciale e artigianale (iscritte all’albo delle Imprese artigiane) attraverso un’unità operativa (unità locale) ubicata nel territorio del Comune di Chitignano ovvero intraprendano nuove attività economiche nel territorio comunale.  Cosa prevede Contributo su spese investimento sostenute per adeguamento e ammodernamento. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/contributo-sostegno-delle-attivita-economiche-e-commerciali-lo-sviluppo-delle-aree-interne",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-11",
+            "title": "Fondo di sostegno ai comuni marginali - Comune di Mogoro - Terza annualità",
+            "description": "Cos'è Avviso pubblico per la concessione di contributi a valere sul Fondo di sostegno ai comuni marginali per la terza annualità.  A chi si rivolge I beneficiari sono le “nuove attività economiche” che intraprendono attività commerciali, artigianali o agricole attraverso un’unità operativa ubicata nel territorio del Comune di Mogoro.  Cosa prevede Contributi agli investimenti. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-ai-comuni-marginali-comune-di-mogoro-terza-annualita",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-31",
+            "title": "Contributo Comuni Marginali - Comune di Cesarò - Anno 2021",
+            "description": "Cos'è Il bando, in attuazione del Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico del Comune di Cesarò.  A chi si rivolge Sono ammessi ai benefici del presente bando: - gli agricoltori, i commercianti e gli artigiani che aprono una nuova attività economica nel territorio del Comune di Cesarò; - le imprese che hanno regolarmente costituito un'attività già iscritta al registro delle imprese purché intraprendano una \"nuova attività economica\", dopo la pubblicazione del bando, attivando o variando il codice ATECO in possesso, iscritto presso la Camera di Commercio.  Cosa prevede L'erogazione di contributi per spese di gestione e di investimento a seguito di nuova apertura. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/contributo-comuni-marginali-comune-di-cesaro-anno-2021",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-13",
+            "title": "Contributi a fondo perduto a sostegno delle attività commerciali e artigianali - Annualità 2022 - Comune di Casalduni",
+            "description": "Cos'è Avviso pubblico per la concessione di un contributo a valere sul Bando erogazione di contributi a fondo perduto al sostegno del commercio e dell'artigianato previsto dal fondo nazionale di per le attività economiche, artigianali e commerciali.  A chi si rivolge I beneficiari del presente Avviso sono le piccole e micro imprese - di cui al decreto* del Ministero dello Sviluppo Economico del 18 aprile 2005 - che svolgono, alla data di presentazione della domanda, attività economiche in ambito commerciale e artigianale (iscritte all’albo delle Imprese artigiane) attraverso un’unità operativa (unità locale) ubicata nel territorio del Comune di Casalduni.  Cosa prevede Concessione di contributi a fondo perduto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/contributi-fondo-perduto-sostegno-delle-attivita-commerciali-e-artigianali-annualita-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-10",
+            "title": "Fondo di sostegno ai comuni marginali - Annualità 2023 - Comune Saracena",
+            "description": "Cos'è Concessione di contributi per l’avvio delle attività commerciali, artigianali e agricole attraverso un’unità operativa ubicata nei territori dei comuni, ovvero intraprendano nuove attività economiche nei suddetti territori comunali e sono regolarmente costituite e iscritte al registro delle imprese - annualità 2023.  A chi si rivolge Piccole e Medie Imprese che che:- Intraprendano una nuova attività economica dopo la pubblicazione del presente bando con una sede operativa nel Comune di Saracena. Possono beneficiare delle risorse anche le attività già esistenti che avviino una nuova attività economica nel territorio comunale attraverso apposita unità produttiva. I finanziamenti non possono essere erogati in favore delle attività economiche già costituite sul territorio del Comune che si limitino semplicemente a trasferire la propria sede nel medesimo territorio comunale. Si specifica, altresì, che coloro i quali abbiano già beneficiato del medesimo contributo nelle annualità precedenti concorreranno nella medesima misura solo ed esclusivamente in caso di eventuali somme residue ed a seguito della ripartizione delle risorse tra i nuovi proponenti;- Non sono in difficoltà, secondo la definizione di cui all’art. 2 par. 18 del Regolamento (UE) n. 651/2014 (e ss.mm.ii.);- Sono regolarmente costituite e iscritte al registro delle imprese;- Non sono in stato di liquidazione o di fallimento e non sono soggette a procedure di fallimento o di concordato preventivo;  Cosa prevede Concessione di contributi per l'avvio di attività commerciali, artigianali e agricole attraverso unità operative ubicate nel territorio comunale, ovvero intraprendano nuove attività economiche nel suddetto territorio, le quali siano regolarmente costituite e iscritte al registro delle imprese dalla data di pubblicazione del bando e sino al 31 dicembre 2025. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-ai-comuni-marginali-annualita-2023-comune-saracena",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-02",
+            "title": "Bando Voucher Doppia Transizione Digitale ed Ecologica Anno 2025 - CCIAA Frosinone-Latina",
+            "description": "Cos'è La Camera di Commercio, Industria, Artigianato e Agricoltura di Frosinone - Latina, di seguito Camera di Commercio, nell’ambito delle attività previste dal Piano Transizione 5.0, e in particolare dell’iniziativa strategica di sistema “La doppia transizione: digitale ed ecologica” autorizzata dal Ministero delle Imprese e del Made in Italy con Decreto del 23 febbraio 2023, intende promuovere la diffusione della cultura e della pratica digitale nelle Micro, Piccole e Medie Imprese, di tutti i settori economici attraverso il sostegno economico alle iniziative di digitalizzazione, oltre che favorire approcci green oriented volti a sostenere la transizione ecologica del tessuto produttivo.  A chi si rivolge Sono ammissibili alle agevolazioni le Micro o Piccole o Medie imprese come definite dall’Allegato 1 del Regolamento UE n.651/2014 che abbiano sede legale e/o unità locale attive nella circoscrizione territoriale della Camera di Commercio di Frosinone-Latina e che siano in possesso dei requisiti previsti dall'art.4 del Bando.  Cosa prevede Il Bando prevede la concessione di voucher di importo unitario massimo di € 10.000,00 per interventi relativi alla transizione digitale e di € 5.000,00 per interventi presentati nell’ambito della transizione ecologica. L’entità massima dell’agevolazione per ciascun ambito di intervento non può superare il 70% delle spese ammissibili. In caso di contributo richiesto solo per i servizi di consulenza/formazione relativi alla transizione digitale, l’entità massima dell’agevolazione non può superare il 30% delle spese ammissibili.  Le spese valutate ammissibili a seguito di istruttoria, al netto di i.v.a., ed effettivamente sostenute, dovranno essere: - pari o superiori a € 4.000,00 per interventi relativi alla transizione digitale;- pari o superiori a € 2.000,00 per interventi relativi alla transizione ecologica. Alle imprese in possesso del rating di legalità verrà riconosciuta una premialità di € 200,00 nel limite del 100% delle spese ammissibili e nel rispetto dei pertinenti massimali de minimis. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/bando-voucher-doppia-transizione-digitale-ed-ecologica-anno-2025-cciaa-frosinone-latina",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-05",
+            "title": "Avviso pubblico per contributi a fondo perduto per le spese di avvio di attività commerciali e artigianali operanti nel Comune di Montella - Terza annualità",
+            "description": "Cos'è Contributi a fondo perduto per le spese di avvio di attività commerciali e artigianali operanti nel Comune di Montella per la terza annualità.  A chi si rivolge I beneficiari del presente Avviso sono gli imprenditori individuali, anche artigiani, e le società, anche cooperative: - potenziali imprenditori intenzionati ad intraprendere una nuova attività economica in ambito commerciale o artigianale attraverso l’avvio di un’unità operativa (unità locale) ubicata nelterritorio del Comune di Montella;- attività già esistenti intenzionati ad avviare una nuova attività produttiva in ambito commerciale o artigianale nei territori del Comune di Montella attraverso l’apertura di apposita un’unità operativa (unità locale).  Cosa prevede Contributi a fondo perduto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/avviso-pubblico-contributi-fondo-perduto-le-spese-di-avvio-di-attivita-commerciali-e",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Provincia Autonoma di Trento - Aiuti per investimenti fissi in attivi materiali e immateriali",
+            "description": "Cos'è La misura agevolativa sostiene gli investimenti fissi in attivi materiali o immateriali realizzati da imprese e avviati successivamente alla data di presentazione della domanda. In particolare, sono agevolate le iniziative di investimento relative a:- creazione di una nuova unità operativa;- ampliamento della capacità produttiva di un'unità operativa esistente;- diversificazione della produzione di una unità operativa per ottenere prodotti o servizi non fabbricati o forniti precedentemente in tale unità operativa;- cambiamento sostanziale del processo produttivo complessivo del prodotto o dei prodotti o della fornitura complessiva del servizio o dei servizi interessati dall’investimento nell’unità operativa;- acquisizione di attivi appartenenti ad una unità operativa.  A chi si rivolge Il bando è rivolto a imprese di qualsiasi dimensione.  Cosa prevede La misura di incentivazione è calcolata sulle spese ritenute ammissibili ed è determinata in relazione alla dimensione dell'impresa come segue:1) in regime di esenzione ai sensi del Regolamento (UE) 651/2014 della Commissione del 17 giugno 2014:- piccola impresa: 20%;- media impresa: 10%.2) in regime de minimis ai sensi del Regolamento (UE) 2023/2831 della Commissione del 13 dicembre 2023:- grande impresa: 10%;- filiera del legno, filiera della produzione di pane, concessionari di uso del Marchio del porfido e delle pietre trentine: 23%. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/provincia-autonoma-di-trento-aiuti-investimenti-fissi-attivi-materiali-e-immateriali",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-11",
+            "title": "Comune di Cortiglione - Fondo Aree Interne - Anno 2022",
+            "description": "Cos'è Il bando, in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\", è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Cortiglione.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Cortiglione.  Cosa prevede E' prevista l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-cortiglione-fondo-aree-interne-anno-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-09",
+            "title": "Comune di Santo Stefano D'Aveto - Bando sostegno attività artigianali e commerciali nelle aree interne 2022",
+            "description": "Cos'è Il bando, in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\", è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Santo Stefano d'Aveto.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Santo Stefano d'Aveto.  Cosa prevede E' prevista l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-santo-stefano-daveto-bando-sostegno-attivita-artigianali-e-commerciali-nelle",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-30",
+            "title": "Regione Emilia-Romagna - Bando per investimenti produttivi e progetti di ricerca e sviluppo delle imprese nell’ambito della piattaforma per le tecnologie strategiche (STEP) 2025",
+            "description": "Cos'è Il bando intende sostenere gli investimenti che contribuiscono agli obiettivi della piattaforma per le tecnologie strategiche per l'Europa (STEP), di cui all'articolo 2 del regolamento (UE) 2024/795 del Parlamento europeo e del Consiglio (FESR).  A chi si rivolge Il bando si rivolge a singole imprese (sia PMI che GI) nella forma giuridica delle società di capitali.  Non possono partecipare al bando le imprese operanti nel settore della produzione primaria di prodotti agricoli, nonché nei settori della pesca e dell’acquacoltura, ai sensi dell’articolo 1, paragrafo 3, del Regolamento (UE) n. 651/2014 e s.m.i., e gli istituti di credito e altri istituti finanziari.  Cosa prevede L'agevolazione consiste in una sovvenzione a fondo perduto secondo le seguenti percentuali di intensità:a) Per progetti di INVESTIMENTO (azione 1.6.1):Differente regime di aiuto e intensità a seconda della tecnologia sviluppata (Clean, Deep, Bio), della dimensione dell’impresa, della localizzazione geografica dell’impresa (area 107 3C) e della tipologia di spesa. La scelta del regime di aiuto più conveniente tra le opzioni disponibili è effettuata in sede di domanda dall’impresa richiedente. I regimi disponibili sono: 1) Per le tecnologie CLEAN: regime CISAF per PMGI con intensità da 15% a 35% e maggiorazione per Area 107 3c2) Per le tecnologie DEEP e BIO: - regime CISAF per PMGI con intensità da 15% a 35% e maggiorazione per Area 107 3c (con limitazione per tecnologie)- regime di esenzione ex art. 14 GBER per PMGI in area 1073c con intensità da 15% a 40% - regime di esenzione ex art. 17 GBER per PMI con intensità da 10% a 20% b) Per progetti di RICERCA E SVILUPPO (azione 1.6.2):Regime di esenzione ex art. 25 GBER (Ricerca e Sviluppo) Differente intensità di aiuto a seconda della dimensione dell’impresa e della tipologia di spesa:1) Sviluppo sperimentale: 25% - 45%2) Ricerca industriale: 50% - 70% ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/regione-emilia-romagna-bando-investimenti-produttivi-e-progetti-di-ricerca-e-sviluppo",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -46,15 +976,505 @@
         },
         {
             "deadline": "2025-12-31",
-            "title": "Riapertura termini Avviso pubblico per formulazione graduatoria biennale per conferimento incarichi di lavoro autonomo - ai sensi dell’art. 7, co. 6 del D. Lgs. 165/2001 e dell’art. 4 commi 4 e 6 del D.L. n. 215/2023 convertito nella L. 18/2024 - con contratto libero professionale, a Dirigenti Medici, nelle sole discipline di: Pediatria, Ginecologia e Ostetricia",
-            "description": "<p>Si comunica che è&nbsp;stata disposta&nbsp;<strong>la</strong>&nbsp;<strong>riapertura dei termini</strong>&nbsp;dell’avviso pubblico, approvato con deliberazione n. 1449 del 24/10/2024, per la formulazione di una graduatoria biennale per il conferimento di incarichi di lavoro autonomo - ai sensi dell’art. 7, co. 6 del D. Lgs. 165/2001 e dell’art. 4 commi 4 e 6 del D.L. n. 215/2023 convertito nella L. 18/2024 - con contratto libero professionale a Dirigenti Medici <strong>nelle sole discipline di: Pediatria</strong>&nbsp;e<strong> Ginecologia e Ostetricia</strong>.</p>\n<p><strong>Le candidature potranno essere presentate da giovedì 18 dicembre 2025 e fino alle ore 23:59 di mercoledì 31 dicembre 2025.</strong></p>\n<p>Si ricorda che quanto dichiarato in fase di compilazione della domanda costituisce AUTODICHIARAZIONE E AUTOCERTIFICAZIONE ai sensi del D.P.R. 445/2000.</p>\n<p>Pertanto in caso di dichiarazioni non veritiere, false o mendaci si applicano gli artt. 75 e 76 del D.P.R. con conseguenze penali nei casi previsti dalla legge.</p>\n<p>Il bando è consultabile su inPA e sul sito&nbsp;<a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a>, piattaforma tramite la quale è possibile partecipare al concorso registrandosi, con i propri dati anagrafici, selezionando la procedura d’interesse e compilando, in ogni sua parte, il format online.</p>\n<p>Si invitano, altresì, i candidati che vogliano integrare o/e modificare e/o aggiornare la propria istanza di partecipazione ad utilizzare ESCLUSIVAMENTE il seguente link https://asptrapani.selezionieconcorsi.it/ e selezionare l’avviso nella disciplina di interesse. In caso contrario, sono fatte salve le istanze già presentate utilizzando il precedente format.&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b6dc063c8c9b4a22a1edb22632580be6",
+            "title": "Comunità Montana Alta Valtellina - Ricostruzione per strutture danneggiate da eventi naturali",
+            "description": "Cos'è Bando a valere sul Fondo di solidarietà in agricoltura 2025 per la concessione di un contributo a sostegno di aziende agricole a seguito di danni causati da eventi straordinari.  A chi si rivolge Il bando è rivolto alle aziende agricole del territorio dell'Alta Valtellina.  Cosa prevede L'agevolazione consiste nell'erogazione di un ristoro parziale dei danni subiti. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/comunita-montana-alta-valtellina-ricostruzione-strutture-danneggiate-da-eventi-naturali",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "N/A",
                     "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Sostegno a manifestazioni sportive sul territorio lombardo periodo 1° ottobre 2025 – 30 giugno 2026",
+            "description": "Presentazione domande manifestazioni  realizzate nel 3° trimestre  (1° aprile 2026 - 30 giugno 2026)  dalle ore 10:00 del 08/01/2026 alle ore 16:00 del 29/01/2026.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/eventi-sportivi/sostegno-manifestazioni-sportive-territorio-lombardo-periodo-1-ottobre-2025-30-giugno-2026-RLAV2025047263",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0126/2025 per la selezione di n. 1 risorsa (oltre 1 anno fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “SMARTRINN - Sviluppo e Miglioramento Aree di cRisi e TRasferimento delle INNovazioni della Regione Basilicata - Atto Aggiuntivo” di cui alla Convenzione del 15/01/2021 stipulata tra REGIONE BASILICATA e il Formez PA - RA 21003 Ro 3 - CUP G44C20000240001",
+            "description": "<p>AVVISO N.2025/0126</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 1 anno fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “SMARTRINN - Sviluppo e Miglioramento Aree di cRisi e TRasferimento delle INNovazioni della Regione Basilicata - Atto Aggiuntivo” di cui alla Convenzione del 15/01/2021 stipulata tra REGIONE BASILICATA e il Formez PA - RA 21003 Ro 3 - CUP G44C20000240001</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “SMARTRINN - Sviluppo e Miglioramento Aree di cRisi e TRasferimento delle INNovazioni della Regione Basilicata - Atto Aggiuntivo ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: oltre 1 anno fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in materia di tutela dei beni archeologici;\n <br>\n - Titolo di studio: Laurea specialistica 2/S Archeologia o titoli equipollenti.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6cd1b31b1a164d80b5ba28f28d84134d",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0432/2025 per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Innovazione sociale ed impatto delle politiche. Interventi per rafforzare competenze e capacità amministrativa integrata per l'orientamento al risultato” di cui alla Convenzione del 31/10/2025 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 25052 Ro 51 - CUP J89G25000140001",
+            "description": "<p>AVVISO N.2025/0432</p>\n<p>Avviso per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Innovazione sociale ed impatto delle politiche. Interventi per rafforzare competenze e capacità amministrativa integrata per l'orientamento al risultato” di cui alla Convenzione del 31/10/2025 stipulata tra DIPARTIMENTO DELLA FUNZIONE PUBBLICA e il Formez PA - RA 25052 Ro 51 - CUP J89G25000140001</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Innovazione sociale ed impatto delle politiche. Interventi per rafforzare competenze e capacità amministrativa integrata per l'orientamento al risultato ”, n.2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in gestione e rendicontazione progetti/interventi;\n <br>\n - Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=41b502d603f341e98a1e50f72760cb69",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0445/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0445</p>\n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in progettazione e realizzazione di sistemi informatici;\n <br>\n - Titolo di studio: Laurea triennale.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=88786c5e916944b7a9176d51b00511e8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0446/2025 per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002",
+            "description": "<p>Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..&nbsp;</p>\n<p>Requisiti Specifici\n <br>\n • &nbsp; &nbsp;Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in tema di procedure amministrative complesse della PA;\n <br>\n • &nbsp; &nbsp;Titolo di studio: Laurea specialistica</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b634f6a2d78844c9b532fce3de652458",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0447/2025 per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002",
+            "description": "<p>AVVISO N. 2025/0447</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..&nbsp;</p>\n<p>Requisiti Specifici\n <br>\n • &nbsp; &nbsp;Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in materia di rendicontazione e contabile;\n <br>\n • &nbsp; &nbsp;Titolo di studio: Laurea specialistica Scienze dell'economia 64/S; 84/S Scienze economico-aziendali o equipollenti ex lege.</p>\n<p>&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b163b0e7aed648a58c74773234a7ec04",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0448/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0448</p>\n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in tema di procedure amministrative complesse della PA;\n <br>\n - Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c31ae86fb27942f79f1d64ddc6940a5b",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0449/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0449</p>\n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in attività di rendicontazione e contabile;\n <br>\n - Titolo di studio: laurea specialistica Scienze dell'economia 64/S o Scienze economico-aziendali 84/S o titoli equipollenti</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5b761367c86744b68a6726af0156b353",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0450/2025 per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002",
+            "description": "<p>Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..&nbsp;</p>\n<p>Requisiti Specifici\n <br>\n • &nbsp; &nbsp;Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in pianificazione e gestione delle risorse idrauliche e geomorfologiche;\n <br>\n • &nbsp; &nbsp;Titolo di studio: Laurea specialistica Ingegneria civile 28/S; Ingegneria per l'ambiente e il territorio 38/S.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e68ebec079b34bf78083caaea13a9264",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0451/2025 per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0451</p>\n<p>Avviso per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.2 risorse da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..&nbsp;</p>\n<p>Requisiti Specifici\n <br>\n • &nbsp; &nbsp;Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in procedure di rendicontazione e certificazione della spesa in ambito pubblico;\n <br>\n • &nbsp; &nbsp;Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc4b842217854448a0c947f45f52152f",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0452/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0452</p>\n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in pianificazione e gestione delle risorse geomorfologiche;\n <br>\n - Titolo di studio: Laurea specialistica 86/S Scienze geologiche o 85/S Scienze geofisiche o titoli equipollenti ex-lege</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=652ce8d0bcf94872a1f03d4527003c23",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0453/2025 per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002",
+            "description": "<p>&nbsp;</p>\n<p>AVVISO N. 2025/0453</p>\n<p>Avviso per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.2 risorse da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..&nbsp;</p>\n<p>Requisiti Specifici</p>\n<p>• &nbsp; &nbsp;Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in pianificazione della tutela delle acque e gestione rischio alluvioni;\n <br>\n • &nbsp; &nbsp;Titolo di studio: Laurea specialistica in Scienze geologiche 86/S; Scienze geofisiche 85/S o equipollente ex lege.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=20504d97598b4fa9848088ac7a229da8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0454/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0454</p>\n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in Pianificazione della tutela delle acque e gestione rischio alluvioni;\n <br>\n - Titolo di studio: Laurea specialistica 86/S Scienze geologiche o 85/S Scienze geofisiche o titoli equipollenti ex-lege</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5aac5fc7a485463d92b1c43e81f8fa3d",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0455/2025 per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002",
+            "description": "<p>AVVISO N. 0455/2025</p>\n<p>Avviso per la selezione di n. 2 risorse (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA- RA 25045 Ro 44- CUP D61J25000790002\n <br>\n Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..&nbsp;</p>\n<p>Requisiti Specifici\n <br>\n • &nbsp; &nbsp;Livello di seniority: oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in pianificazione della mitigazione del rischio alluvioni e dell'efficientamento delle infrastrutture per l'accumulo dell'acqua;\n <br>\n • &nbsp; &nbsp;Titolo di studio: Laurea specialistica Ingegneria civile 28/S; Ingegneria per l'ambiente e il territorio 38/S o equipollenti ex lege.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=63c347b147cd41829f8e1e4daf6cd63b",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0456/2025 per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002",
+            "description": "<p>AVVISO N.2025/0456</p>\n<p>Avviso per la selezione di n. 1 risorsa (fino a 3 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia” di cui alla Convenzione del 10/10/2025 stipulata tra REGIONE SICILIANA e il Formez PA - RA 25045 Ro 44 - CUP D61J25000790002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Rafforzamento della capacità istituzionale dell'Autorità di bacino distrettuale della Sicilia ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: fino a 3 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in pianificazione della mitigazione del rischio alluvioni e dell'efficientamento delle infrastrutture per l'accumulo dell'acqua;\n <br>\n - Titolo di studio: Laurea specialistica Ingegneria civile 28/S o Ingegneria per l'ambiente e il territorio 38/S o titoli equipollenti</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=df7d8b1d98ed469cbce051ba957548b1",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0457/2025 per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27” di cui alla Convenzione del 25/11/2025 stipulata tra REGIONE ABRUZZO e il Formez PA - RA 25057 Ro 56 - CUP C91C24000740002",
+            "description": "<p>AVVISO N.2025/0457</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27” di cui alla Convenzione del 25/11/2025 stipulata tra REGIONE ABRUZZO e il Formez PA - RA 25057 Ro 56 - CUP C91C24000740002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27 ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: oltre 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in pianificazione e attuazione di Programmi e/o di progetti complessi finanziati con fondi pubblici nell’ambito delle politiche di coesione con specifico riferimento al settore sociale e allo sviluppo territoriale;\n <br>\n - Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=66a5192648e240aea4a5b208e8fc10ca",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0458/2025 per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27” di cui alla Convenzione del 25/11/2025 stipulata tra REGIONE ABRUZZO e il Formez PA - RA 25057 Ro 56 - CUP C91C24000740002",
+            "description": "<p>AVVISO N.2025/0458</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27” di cui alla Convenzione del 25/11/2025 stipulata tra REGIONE ABRUZZO e il Formez PA - RA 25057 Ro 56 - CUP C91C24000740002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27 ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: oltre 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in predisposizione e/o implementazione di strumenti e procedure amministrative a supporto della governance di enti complessi per l’attuazione di interventi finanziati con risorse pubbliche;\n <br>\n - Titolo di studio: Laurea specialistica 22/S Giurisprudenza o equipollenti ex lege.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=35b17fead1db48e3a28e540d787848ff",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-25",
+            "title": "Avviso 0459/2025 per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27”di cui alla Convenzione del 25/11/2025 stipulata tra REGIONE ABRUZZO e il Formez PA- RA 25057 Ro 56- CUP C91C24000740002",
+            "description": "<p>AVVISO N. 2025/0459</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 3 anni fino a 7 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27”di cui alla Convenzione del 25/11/2025 stipulata tra REGIONE ABRUZZO e il Formez PA- RA 25057 Ro 56- CUP C91C24000740002</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “INSIEME ABRUZZO - Integrazione Sociosanitaria Intelligente ed Efficace per il Miglioramento dell'Equità - Hub delle competenze per il rafforzamento strutturale FSC 21-27 ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i..</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority:oltre 3 anni fino a 7 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in programmazione unitaria regionale nell’ambito delle politiche di coesione con particolare riferimento ad azioni di rafforzamento della governance e della performance attuativa a livello territoriale;\n <br>\n - Titolo di studio: Laurea specialistica.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3d71d8518153464790d1ea7e393e8d3e",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-28",
+            "title": "AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO DI UN INCARICO A TEMPO PARZIALE (32/36 ORE SETTIMANALI) E DETERMINATO EX ART. 110 D.LGS 267/2000, COMMA 1, DEL TUEL",
+            "description": "<p>AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO DI UN INCARICO A TEMPO PARZIALE (32/36 ORE SETTIMANALI) E DETERMINATO EX ART. 110 D.LGS 267/2000, COMMA 1, DEL TUEL DI UN FUNZIONARIO CONTABILE - AREA DEI FUNZUIONARI E DELL'ELEVATA QUALIFICAZIONE (EX CAT.D ) DA ASSEGNARE AL SETTOE ECONOMICO FINANZIARIO, PERIODO 07.01.2026-31.12.2026</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34a49d72937a4079a7c70394309c3c8c",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-03",
+            "title": "PROCEDURA SELETTIVA-COMPARATIVA, PER SOLI TITOLI, FINALIZZATA ALLA FORMAZIONE DI UNA GRADUATORIA DI MERITO PER L’INDIVIDUAZIONE DI ESPERTI, INTERNI E/O ESTERNI AL CONSERVATORIO DI MILANO, PER LE DISCIPLINE RELATIVA AI CORSI DI DIPLOMA ACCADEMICO – SETTORE ARTISTICO-DISCIPLINARE: Fondamenti di Storia e Tecnologia degli Strumenti – Strumenti a pizzico",
+            "description": "<p>È indetta, dal Conservatorio di Musica “Giuseppe Verdi” di Milano una procedura selettiva-comparativa per titoli, finalizzata alla formazione di una graduatoria di esperti per l’eventuale conferimento di incarico di insegnamento per il settore artistico-disciplinare “Fondamenti di Storia e Tecnologia degli Strumenti” per i settori degli strumenti musicali a pizzico:&nbsp;<strong>AFAM002 Chitarra, AFAM003 Mandolino e AFAM023 Strumenti a pizzico storici (Liuto).</strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a4f15180ec104dd788d384adbcaa8dee",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-23",
+            "title": "COMUNE DI CREMONA: ELENCO PROFESSIONISTI A P.IVA PER INCARICHI DI LAVORO AUTONOMO FINALIZZATI AL SUPPORTO OPERATIVO",
+            "description": "<p><strong>COMUNE DI CREMONA</strong></p>\n<p><strong>SETTORE UNITA’ DIREZIONALE SEGRETARIO GENERALE</strong></p>\n<p><span style=\"font-size: 14.0pt; font-family: 'Arial',sans-serif;\">AVVISO PUBBLICO</span></p>\n<p><strong>&nbsp;</strong><strong>Individuazione di professionisti a partita IVA per incarichi di lavoro autonomo finalizzati al supporto operativo per lo svolgimento di attività straordinarie e non programmabili del Servizio </strong><em><span style=\"font-family: 'Arial',sans-serif;\">Informagiovani, Orientamento Scuola, Università, Sviluppo Lavoro</span></em><strong>&nbsp;e/o per la realizzazione di progettualità finanziate da soggetti esterni.</strong></p>\n<p><em><strong>Requisiti:</strong></em></p>\n<p><span style=\"font-size: 12.0pt;\">a) età non inferiore agli anni 18;</span></p>\n<p>b) non essere stato destituito o dispensato da un impiego presso una pubblica amministrazione ovvero essere stato dichiarato decaduto da un impiego statale;</p>\n<p>c) non aver riportato condanne per delitti che, per la loro particolare gravità, rendano la personalità morale del candidato non confacente all'incarico, salva l'avvenuta riabilitazione;</p>\n<p>d) titolo di studio richiesto: Diploma di Laurea di primo livello<span style=\"color: black;\"> o specialistica, o equipollenti, o vecchio ordinamento riconosciuta dall’ordinamento Universitario Italiano o Master di I/II livello in materie affini.</span></p>\n<p>e) esperienza significativa, documentata o documentabile, relativa alle competenze richieste.</p>\n<h1><span style=\"font-size: 12.0pt; font-family: 'Arial',sans-serif;\">COMPETENZE RICHIESTE</span></h1>\n<p><strong>2A. ORIENTAMENTO</strong></p>\n<p><span style=\"color: black;\">Esperti che per titolo di studio, esperienze lavorative e formative pregresse comprovabili, di <strong>almeno 4 anni continuativi</strong>, abbiano maturato competenze e capacità in almeno <strong>3 aree </strong>di quelle di seguito sinteticamente descritte e preferibilmente all’interno di contesti e/o servizi rivolti prioritariamente al target giovani:</span></p>\n<p>a)&nbsp;<strong>orientamento e ri-orientamento professionale</strong> (definizione del progetto professionale individuale, bilancio di competenze, analisi delle risorse e delle potenzialità individuali, progettazione ed erogazione di moduli di orientamento individuali e di gruppo);</p>\n<p>b)<strong> servizi al lavoro</strong> (stesura di Curriculum Vitae, accompagnamento per la ricerca attiva, scouting delle opportunità professionali, rapporti con le aziende del territorio,<span style=\"mso-spacerun: yes;\">&nbsp; </span>etc;)</p>\n<p>c)&nbsp;<strong>politiche attive del lavoro</strong>, con particolare riferimento al <strong>sistema dotale di Regione Lombardia</strong> e alle relative attività di rendicontazione (attivazioni di Doti lavoro, tirocini extracurricolari, azioni di tutoraggio, DID e PSP, etc.);</p>\n<p>d)&nbsp;<strong>servizi di accompagnamento e supporto di persone con fragilità, NEET e/o disabilità </strong>(progettazione di percorsi personalizzati, analisi delle risorse e delle potenzialità individuali, attivazione di una rete di sostegno personalizzata, etc);</p>\n<p>e)&nbsp;<strong>progettazione ed erogazione di percorsi di FSL</strong> (ex PCTO)</p>\n<p>f)<strong> orientamento e ri-orientamento formativo</strong> (definizione del progetto formativo individuale, analisi delle risorse e delle potenzialità individuali, potenziamento delle life skills e all’empowerment personale, progettazione ed erogazione di moduli di gruppo e individuali);</p>\n<p>g)&nbsp;<strong>progettazione ed erogazione di interventi di informazione orientativa</strong> rivolte a studenti e famiglie per supportare i percorsi di scelta formativa e le situazioni di transizione;</p>\n<p>h)<strong> progettazione e attivazione di interventi di prevenzione e contrasto alla dispersione scolastica</strong>, anche in collaborazione con la rete territoriale (counselling, mentoring, coaching).</p>\n<p><strong>2B. COMUNICAZIONE</strong></p>\n<p><span style=\"color: black;\">Esperti che per titolo di studio, esperienze lavorative e formative pregresse comprovabili, di <strong>almeno 4 anni continuativi</strong>, abbiano maturato competenze e capacità in almeno <strong>2 aree</strong> di quelle di seguito descritte e preferibilmente all’interno di contesti e/o servizi rivolti prioritariamente al target giovani:</span></p>\n<p>a)&nbsp;<strong>Progettazione e gestione di piani editoriali</strong>, comprensivi di attività di redazione, produzione e diffusione di contenuti informativi e promozionali di carattere istituzionale o riferiti al contesto della Pubblica Amministrazione;</p>\n<p>b)&nbsp;<strong>Gestione, implementazione e aggiornamento degli strumenti digitali di comunicazione, informazione e orientamento</strong>, quali siti istituzionali, aree web dedicate, banche dati, piattaforme interattive e canali social;</p>\n<p>c)&nbsp;<strong>Progettazione grafica e realizzazione di materiali di comunicazione visiva</strong>, tra cui locandine, brochure, manifesti, infografiche, presentazioni, roll-up e altri prodotti multimediali;</p>\n<p>d)&nbsp;<strong>Progettazione di moduli formativi sul tema della comunicazione</strong>, destinati a gruppi di giovani.</p>\n<p>&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=09f88699156742528cb9f68a967cdb5a",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-28",
+            "title": "COMUNE DI DURAZZANO. AVVISO DI SELEZIONE PUBBLICA PER IL CONFERIMENTO A PROFESSIONISTA ESTERNO DELL’INCARICO - PART-TIME AL 33% (12 ORE SETTIMANALI) - DI RESPONSABILE DELL’AREA TECNICA – LAVORI PUBBLICI – MANUTENZIONI AREA FUNZIONAI (EX CAT. D), AI SENSI DELL’ART. 110, COMMA 1, D.LGS. 18 AGOSTO 2000, N. 267.",
+            "description": "<p><span style=\"font-size: 10.0pt; mso-bidi-font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: SimSun; mso-ansi-language: IT; mso-fareast-language: ZH-CN; mso-bidi-language: HI;\">selezione pubblica per l’assunzione, ai sensi dell’art. 110, comma 1, del TUEL, a tempo determinato e parziale (33% - 12 ore settimanali) di un’unità di personale Area dei Funzionari e dell'Elevata Qualificazione</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a3a5a5c7f56946b7a64e7838623d6e38",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-07",
+            "title": "AVVISO PUBBLICO PER LA SELEZIONE DI PROFESSIONISTI DA IMPIEGARE NELLE ATTIVITÀ TRASVERSALI DI RAFFORZAMENTO AMMINISTRATIVO (FONDO POVERTÀ - ANNUALITÀ 2024)",
+            "description": "<p><span>AMBITO TERRITORIALE SOCIALE S04_2 CAPOFILA PONTECAGNANO FAIANO - AVVISO PUBBLICO PER LA SELEZIONE DI PROFESSIONISTI DA IMPIEGARE NELLE ATTIVITÀ TRASVERSALI DI RAFFORZAMENTO AMMINISTRATIVO, PER 12 MESI, A VALERE SULLA QUOTA SERVIZI DEL FONDO PER LA LOTTA ALLA POVERTÀ ESTREMA E ALLA ESCLUSIONE SOCIALE - ANNUALITA' 2024 - CUP. F11H24000090001</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=31878912cba94c6299eb9c6207be7473",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "CCIAA Frosinone Latina - Bando pubblici esercizi",
+            "description": "La CCIAA intende promuovere e sostenere la competitività delle MPM imprese operanti nei settori della somministrazione attivando contributi a copertura delle spese con l’obiettivo di rilanciare il comparto mediante misure di promozione ed incremento della competitività e qualificazione dei pubblici esercizi anche con particolare attenzione alle tematiche ambientali e maggior contatto con la natura spingendo le imprese verso investimenti in sostenibilità e nuove tecnologie green.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-pubblici-esercizi",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Competitività imprese, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Transizione ecologica",
+                    "Stanziamento": "€ 800.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-28",
+            "title": "Piemonte - Conservazione agrobiodiversità: rete dell'agrobiodiversità",
+            "description": "Il bando sostiene progetti con approccio collettivo finalizzati alla conservazione, uso sostenibile, sviluppo e valorizzazione delle risorse genetiche locali. L’obiettivo è contribuire ad arrestare la perdita di biodiversità e a rafforzare la resilienza dei sistemi agricoli, valorizzando l’agrobiodiversità anche per il suo valore scientifico, economico, ecologico, storico e culturale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-conservazione-agrobiodiversita-rete-dellagrobiodiversita",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Allevamento, Ambiente e Sviluppo sostenibile, Biodiversità, Media e informazione, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 605.877"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-30",
+            "title": "Fondazione CR Firenze – Bando Attività culturali",
+            "description": "Il bando intende sostenere soggetti operanti nell’ambito delle attività artistiche e culturali, nell’ottica della relativa valorizzazione, divulgazione e fruizione a favore della comunità del territorio e del suo benessere individuale e sociale, consapevole che con questa misura vengono promossi indirettamente i settori produttivi collegati al comparto, nonché il tessuto imprenditoriale e l’occupazionale locale.Attraverso il bando, la Fondazione ha l’obiettivo di sostenere:la dimensione culturale, tramite la realizzazione di iniziative che siano stimolo e arricchimento culturale per la popolazione;la dimensione educativa, tramite il sostegno ad azioni volte al coinvolgimento e allo sviluppo di nuovi pubblici (giovani in particolare) che ne favoriscano l’avvicinamento alle attività artistiche e culturali con finalità didattiche e formative;la dimensione sociale, tramite il sostegno ad azioni volte a potenziare l’inclusione sociale, la partecipazione e l’esperienza culturale attraverso la pratica dell’arte e della creatività come stimolo al benessere della comunità.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cr-firenze-bando-attivita-culturali",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Danza, Festival e mostre, Fiere ed eventi, Inclusione Sociale e Solidarietà, Libro e lettura, Manifestazioni culturali, Sviluppo e promozione territoriale, Teatro",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Fondazione Pietro Pittini -Bando Internazionalizzazione",
+            "description": "La Fondazione Pietro Pittini, in linea con gli obiettivi espressi dal proprio Statuto e in coerenza con la propria Mission, attraverso l’avviso promosso con la Regione Autonoma Friuli-Venezia Giulia, mette a disposizione un numero massimo di N° 40 contributi economici a favore di altrettanti studenti delle scuole secondarie di secondo grado della Regione FVG perché partecipino ad un programma di soggiorno e studio all’estero. ’iniziativa si pone gli obiettivi specifici di:accrescere le competenze linguistiche dei partecipanti;favorire la conoscenza di altri contesti culturali e la nascita di amicizie e legami fra pari anche oltre confine;Incoraggiare la scoperta e l’esplorazione di nuove passioni, stimoli e aspirazioni di vita;Sostenere l’acquisizione di competenze trasversali utili nel percorso scolastico, nella vita e nel futuro lavorativo.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-pietro-pittini-bando-internazionalizzazione",
+            "custom": {
+                "custom": {
+                    "Topics": "Educazione e istruzione, Internazionalizzazione",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-27",
+            "title": "GAL Langhe Roero - Fruibilità e accessibilità beni culturali",
+            "description": "Il bando finanzia interventi di recupero/conservazione funzionale e riqualificazione del patrimonio architettonico rurale (in particolare i cosiddetti “beni minori”) con la finalità di migliorare l’esperienza di visita in termini di maggiore fruibilità e/o accessibilità per tutti, includendo anche le utenze deboli, e garantendo una fruizione pubblica permanente. L’avviso è orientato a progetti “virtuosi”, capaci di conservare i caratteri tradizionali dei beni e integrare funzioni compatibili e realmente fruibili dal pubblico.",
+            "link": "https://www.obiettivoeuropa.com/bandi/gal-langhe-roero-fruibilita-e-accessibilita-beni-culturali",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Edilizia, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 400.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-22",
+            "title": "Emilia-Romagna - Azioni di sistema per il contrasto alle povertà educative e per sostenere l'integrazione e l'inclusione nelle comunità dei giovani stranieri",
+            "description": "L’Invito è finalizzato a dare continuità dell’investimento previsto delle risorse del Programma Fse+ 2021-2027 per sostenere le progettualità locali finalizzate a contrastare le disparità, a promuovere la piena inclusione di tutti i giovani nella comunità scolastica e nella comunità territoriale, agendo in chiave di innovazione sociale per la crescita inclusiva. In particolare, si intende consolidare l’azione sperimentale attivata in esito alle procedure di cui alla deliberazione di Giunta regionale n. 1070/2024, al fine di rafforzare le progettualità di territorio, nella responsabilità dei Comuni, che consentano di sostenere le politiche di arricchimento delle opportunità educative e formative agendo in chiave di sistema.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-azioni-di-sistema-per-il-contrasto-alle-poverta-educative-e-per-sostenere-lintegrazione-e-linclusione-nelle-comunita-dei-giovani-stranieri",
+            "custom": {
+                "custom": {
+                    "Topics": "Asilo e migrazione, Educazione e istruzione, Inclusione Sociale e Solidarietà, Migrazione e sviluppo",
+                    "Stanziamento": "€ 1.281.807"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-28",
+            "title": "Marche - Avviso Pubblico Over 60 Progetti speciali di inserimento lavorativo per la realizzazione di attività temporanee e straordinarie di pubblica utilità",
+            "description": "L’intervento mira a ridurre il disagio economico e sociale di persone disoccupate over 60 senza ammortizzatori e con difficoltà di reinserimento lavorativo, tramite l’inserimento in progetti di pubblica utilità temporanei e/o straordinari promossi dagli enti. Gli obiettivi includono:Favorire l’aggiornamento delle competenze e il rafforzamento dell’occupabilitàRidurre i tempi di inattività e accompagnare i destinatari alla pensionePromuovere l’invecchiamento attivo e la partecipazione alla vita sociale e comunitaria.",
+            "link": "https://www.obiettivoeuropa.com/bandi/marche-avviso-pubblico-over-60-progetti-speciali-di-inserimento-lavorativo-per-la-realizzazione-di-attivita-temporanee-e-straordinarie-di-pubblica-utilita",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Arte e Cultura, Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale, Turismo",
+                    "Stanziamento": "€ 1.200.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-02",
+            "title": "Lazio - Azioni per la conservazione e promozione della storia e cultura delle donne",
+            "description": "L’avviso sostiene iniziative volte a promuovere la cultura del rispetto dei diritti umani fondamentali e delle differenze di genere, contribuendo a superare stereotipi e pregiudizi. La Regione Lazio, infatti, riconosce e supporta il ruolo delle associazioni/ETS che operano nella conservazione e valorizzazione della storia e cultura delle donne, nel sostegno alla libertà femminile e nella prevenzione e contrasto delle discriminazioni di genere e pubblica un bando per l’erogazione di contributi volti a sostenere le loro attività.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-azioni-per-la-conservazione-e-promozione-della-storia-e-cultura-delle-donne",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Diritti e Cittadinanza, Festival e mostre, Fiere ed eventi, Inclusione Sociale e Solidarietà, Manifestazioni culturali, Parità di genere",
+                    "Stanziamento": "€ 500.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-20",
+            "title": "GAL Valli di Lanzo Ceronda e Casternone - Bando Percorsi di bellezza: rigenerazione dei Paesaggi e degli Spazi Pubblici",
+            "description": "Il bando sostiene investimenti non produttivi finalizzati alla mitigazione visiva di elementi detrattori del paesaggio su manufatti e/o spazi di proprietà pubblica. L’obiettivo è migliorare attrattività e qualità del paesaggio e dell’ambiente urbano, promuovere azioni di cura e rigenerazione degli spazi pubblici e favorire il coinvolgimento delle comunità locali nella coprogettazione e nella cura dei luoghi, anche tramite soluzioni artistiche e paesaggistiche (arte pubblica, installazioni site-specific, design, verde urbano).",
+            "link": "https://www.obiettivoeuropa.com/bandi/gal-valli-di-lanzo-ceronda-e-casternone-bando-percorsi-di-bellezza-rigenerazione-dei-paesaggi-e-degli-spazi-pubblici",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Edilizia, Rigenerazione Urbana, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 170.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "CCIAA Frosinone Latina - Bando per il sostegno alle imprese turistiche",
+            "description": "La Camera di Commercio di Frosinone Latina intende promuovere iniziative in favore del turismo per il rilancio complessivo della filiera, con l'obiettivo di contribuire a rendere maggiormente competitiva l'offerta dei territori. In tale ambito, in considerazione della legge n. 580/1993, come modificata dal D.lgs. n. 219/2016, che ha attribuito agli enti camerali funzioni in materia di valorizzazione del patrimonio culturale nonché sviluppo e promozione del turismo, intende assumere un ruolo attivo nel sostegno e nella promozione di questa filiera coinvolgendo le imprese e favorendo la destagionalizzazione dei flussi turistici. La Camera di Commercio di Frosinone Latina istituisce, pertanto, con la gestione dell'Azienda Speciale Informare, uno strumento di immediato supporto alle Micro, Piccole e Medie Imprese del settore turismo, attivando contributi a copertura delle spese con l'obiettivo di rilanciare il comparto mediante misure di promozione ed incremento della competitività verso comportamenti che attestino impegni in termini di sostenibilità e nuove tecnologie outdoor e green.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-per-il-sostegno-alle-imprese-turistiche",
+            "custom": {
+                "custom": {
+                    "Topics": "Competitività imprese, Economia circolare, Green economy, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Transizione digitale, Turismo",
+                    "Stanziamento": "€ 800.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "Lazio - Promozione della gestione forestale associata",
+            "description": "L’avviso sostiene iniziative che mirano a promuovere forme associative tra proprietari e/o gestori di superfici silvo-pastorali nel Lazio, per contrastare la frammentazione fondiaria, aumentare la capacità gestionale, favorire economie di scala tramite pianificazione condivisa e razionalizzazione degli interventi. L’obiettivo è anche valorizzare i servizi ecosistemici, attivare o consolidare filiere locali a maggior valore aggiunto e rafforzare il presidio del territorio, in coerenza con la gestione forestale sostenibile.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-promozione-della-gestione-forestale-associata",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Biodiversità, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 280.849"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-06",
+            "title": "Fondazione Caritro - Bando ricerca e sviluppo",
+            "description": "L’obiettivo del bando è sostenere progetti di ricerca applicata volti a sviluppare nuovi processi, prodotti o servizi, frutto della collaborazione tra imprese, centri di ricerca e comunità locali. I progetti dovranno non solo rispondere in modo concreto ai bisogni di innovazione delle aziende, ma anche contribuire alla crescita di competenze e conoscenze nei giovani ricercatori/ricercatrici, generando al tempo stesso ricadute positive per i territori. Particolare attenzione sarà rivolta alle iniziative capaci di dimostrare un forte potenziale applicativo, con risultati significativi e impatti tangibili sullo sviluppo sostenibile delle aree di riferimento delle Fondazioni promotrici.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-caritro-bando-ricerca-e-sviluppo",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Supporto alle imprese",
+                    "Stanziamento": "€ 1.900.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-13",
+            "title": "CCIAA Treviso-Belluno - Contributi camerali a sostegno di progetti di enti terzi per lo sviluppo economico locale",
+            "description": "La Camera intende concedere contributi per sostenere, in modo indiretto, la realizzazione da parte di terzi di progetti rilevanti per la promozione dell’economia locale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-treviso-belluno-contributi-camerali-a-sostegno-di-progetti-di-enti-terzi-per-lo-sviluppo-economico-locale",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese, Sviluppo e promozione territoriale, Transizione digitale, Transizione ecologica, Turismo",
+                    "Stanziamento": "€ 800.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-09",
+            "title": "CERV – Bando per i Punti di contatto nazionali Rom per l'uguaglianza, l'inclusione e la partecipazione dei Rom",
+            "description": "Nel Quadro strategico UE 2020–2030 per i Rom, la Commissione promuove la riforma delle piattaforme nazionali Rom tramite i finanziamenti europei. al fine di renderle più rappresentative e inclusive, ampliando la partecipazione, coinvolgendo attivamente soprattutto donne e giovani e favorendo innovazione sociale e cambiamenti duraturi. È inoltre previsto il rafforzamento del networking transnazionale tramite un rappresentante di collegamento e l’offerta di tirocini o posizioni junior per giovani Rom nelle strutture nazionali competenti.L’obiettivo del bando è promuovere l’uguaglianza e prevenire e contrastare le disuguaglianze e le discriminazioni fondate su qualsiasi componente, nel rispetto del principio di non discriminazione previsto dall’articolo 21 della Carta. In particolare, il bando mira a promuovere e facilitare il dialogo, l’apprendimento reciproco, la cooperazione e la revisione delle politiche tra tutti i portatori di interesse nazionali attraverso le piattaforme nazionali Rom, rafforzando al contempo la partecipazione dei Rom anche mediante la nomina di rappresentanti per garantire il collegamento tra le piattaforme Rom nazionali ed europee.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cerv-bando-per-i-punti-di-contatto-nazionali-rom-per-luguaglianza-linclusione-e-la-partecipazione-dei-rom",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza, Giustizia e sicurezza, Inclusione Sociale e Solidarietà, Media e informazione",
+                    "Stanziamento": "€ 1.500.000"
                 }
             }
         }
