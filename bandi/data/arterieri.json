@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-18 05:49:03",
+    "scraping_timestamp": "2025-12-19 05:23:25",
     "data": [
         {
             "deadline": "2025-12-31",
@@ -314,6 +314,18 @@
             }
         },
         {
+            "deadline": "2026-01-16",
+            "title": "Progetto StandICT.eu: al via la prima call per esperti sulla standardizzazione digitale",
+            "description": "La call per esperti del progetto europeo StandICT.eu mira a sostenere la presenza europea nei processi di standardizzazione digitale",
+            "link": "https://first.art-er.it/news/ue-una-call-esperti-su-standardizzazione-digitale",
+            "custom": {
+                "Topics": "Artificial Intelligence, Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 4.200.000 per le sei open call"
+            }
+        },
+        {
             "deadline": "2026-01-19",
             "title": "Al via la selezione delle Summer School 2026 per sviluppare talenti e innovazione nel deep-tech europeo",
             "description": "Le Summer School 2026 dell'ex EIT Digital mirano a rafforzare le competenze europee nel settore deep-tech e sostenere un ecosistema imprenditoriale competitivo",
@@ -407,6 +419,18 @@
                 "Area Classification": "Italia",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-25",
+            "title": "Aperte le candidature per l’EUDIS Business Accelerator – Cohort #2",
+            "description": "Al via la seconda edizione del programma europeo di accelerazione dedicato a start-up e scale-up della difesa",
+            "link": "https://first.art-er.it/news/eudis-business-accelerator-aperta-la-cohort-2",
+            "custom": {
+                "Topics": "Difesa UE",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€120.000"
             }
         },
         {
@@ -551,6 +575,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-09",
+            "title": "Aperto il secondo bando INCiTiS-FOOD di innovazione circolare per la sicurezza alimentare urbana",
+            "description": "Il progetto INCiTiS-FOOD mira a trasformare i sistemi alimentari locali intervenendo su quattro dimensioni chiave della food and nutrition security",
+            "link": "https://first.art-er.it/news/aperto-il-secondo-bando-incitis-food",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 60.000"
             }
         },
         {
@@ -735,6 +771,18 @@
         },
         {
             "deadline": "2026-03-10",
+            "title": "Al via gli European Startup and Scaleup Hubs per creare una Champions League dell’innovazione",
+            "description": "Il bando Horizon Europe mira a creare una rete di hub integrati con università, centri di ricerca e organizzazioni tecnologiche, per sostenere la crescita di startup e scaleup ad alta intensità tecnologica",
+            "link": "https://first.art-er.it/news/nasce-la-rete-ue-degli-hub-startup-deep-tech",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2026-03-10",
             "title": "EP PerMed Fast Track 2026: aperto il bando per accelerare soluzioni di medicina personalizzata",
             "description": "Fino a 80.000 euro per convalidare tecnologie innovative e far avanzare il TRL delle soluzioni di medicina personalizzata",
             "link": "https://first.art-er.it/news/ep-permed-fast-track-2026",
@@ -782,6 +830,18 @@
             }
         },
         {
+            "deadline": "2026-03-24",
+            "title": "EuroHPC JU: annunciati nuovi bandi per un benchmark sul supercalcolo europeo",
+            "description": "Le call hanno l’obiettivo condiviso di sostenere lo sviluppo di un ecosistema HPC e quantistico più efficiente, sostenibile e integrato",
+            "link": "https://first.art-er.it/news/ue-investe-nei-benchmark-supercalcolo-e-quantistica",
+            "custom": {
+                "Topics": "Artificial Intelligence, Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2026-03-31",
             "title": "Emilia-Romagna: al via un bando per l'attrazione degli investimenti",
             "description": "Il bando sostiene imprese che investono in ricerca, sperimentazione e transizione digitale e green, con domande aperte dal 26 gennaio al 31 marzo 2026",
@@ -818,6 +878,18 @@
             }
         },
         {
+            "deadline": "2026-04-08",
+            "title": "MSCA COFUND 2026: aperto il bando da 105,5 milioni per programmi di dottorato e post-dottorato",
+            "description": "Il bando sostiene programmi di formazione e sviluppo di carriera per attrarre ricercatori e talenti internazionali in Europa",
+            "link": "https://first.art-er.it/news/msca-cofund-2026-1055-milioni-dottorati-e-postdoc",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 105.500.000"
+            }
+        },
+        {
             "deadline": "2026-04-14",
             "title": "BiodivConnect 2025: aperta la quinta call transnazionale per il ripristino degli ecosistemi",
             "description": "L’iniziativa sostiene progetti di ricerca e innovazione che stimolino interventi di restauro naturali su scala territoriale e globale",
@@ -839,6 +911,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "161 milioni di euro"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Horizon Europe: bando MSCA Staff Exchanges 2026",
+            "description": "Il bando finanzia scambi internazionali e intersettoriali a breve termine di membri del personale coinvolti in attività di ricerca e innovazione delle organizzazioni partecipanti",
+            "link": "https://first.art-er.it/news/horizon-europe-il-bando-msca-staff-exchanges-2026",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 97.920.000"
             }
         },
         {
@@ -899,6 +983,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 120.000.000"
+            }
+        },
+        {
+            "deadline": "2026-05-28",
+            "title": "Cybersicurezza: ECCC apre nuove call per rafforzare i Cyber Hub nazionali e transfrontalieri",
+            "description": "Nuove call Centro europeo di competenza per la cibersicurezza (ECCC) per creare e consolidare una rete di Cyber Hub nazionali e transfrontalieri nell'Unione europea",
+            "link": "https://first.art-er.it/news/nuovo-bando-ue-rafforzare-hub-di-cybersicurezza",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 4.000.000"
             }
         },
         {
@@ -963,6 +1059,18 @@
         },
         {
             "deadline": "2026-06-30",
+            "title": "Al via nel 2026 la JTC Brain Health per innovare la ricerca neuroscientifica",
+            "description": "I bandi sosterranno progetti transnazionali su disturbi neurologici mentali sensoriali e malattie neurodegenerative lungo l’intero arco della vita",
+            "link": "https://first.art-er.it/news/jtc-brain-health-arrivo-nel-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-06-30",
             "title": "Al via il bando JTC 2026 \"Access to care\" del partenariato THCS",
             "description": "Il programma sostiene ricerca e innovazione per un accesso equo alle cure, riducendo le disuguaglianze sanitarie e promuovendo sistemi di cura sostenibili",
             "link": "https://first.art-er.it/news/al-il-bando-thcs-jtc-2026-laccesso-alle-cure",
@@ -1010,6 +1118,18 @@
             }
         },
         {
+            "deadline": "2026-07-21",
+            "title": "Agriculture of Data: al via il bando europeo per la transizione digitale agricola",
+            "description": "L’obiettivo è sostenere soluzioni innovative basate sui dati per rendere l’agricoltura più efficiente, sostenibile e resiliente",
+            "link": "https://first.art-er.it/news/agdata-bando-innovazione-e-dati-agricoltura",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2026-07-27",
             "title": "Aperta la seconda call di FutureFoodS per un futuro sostenibile dei sistemi alimentari",
             "description": "Il budget della call ammonta a € 39.000.000 ed è prevista una scadenza a due fasi: l'11 gennaio e il 27 luglio 2026",
@@ -1031,6 +1151,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Horizon Europe: nuovo bando a sostegno del Clean Industrial Deal",
+            "description": "Aperto un bando Horizon Europe da 600 milioni per sostenere tecnologie pulite e processi industriali net-zero",
+            "link": "https://first.art-er.it/news/nuovo-bando-heu-il-clean-industrial-deal",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 600.000.000"
+            }
+        },
+        {
+            "deadline": "2026-09-22",
+            "title": "CBE JU pubblica il Work Programme 2026: oltre 170 milioni per la bioeconomia sostenibile",
+            "description": "Nuove opportunità di finanziamento per accelerare soluzioni basate sulla natura, competitive e sostenibili",
+            "link": "https://first.art-er.it/news/cbe-ju-work-programme-2026-1707m-progetti-bio-based",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€170.700.000"
             }
         },
         {
@@ -1082,6 +1226,18 @@
             }
         },
         {
+            "deadline": "2027-02-02",
+            "title": "Made in Europe: in arrivo nuovi bandi per manifattura avanzata e materiali",
+            "description": "I bandi puntano su innovazione industriale, sostenibilità e leadership europea con scadenze tra aprile 2026 e febbraio 2027",
+            "link": "https://first.art-er.it/news/made-europe-arrivo-nuove-call-2026-2027",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Open call 2026:HORIZON-CL4-2026-01-M-P-01: € 37.500.000 HORIZON-CL4-2026-01-M-P-05: € 37.500.000HORIZON-CL4-2026-01-M-P-48: € 5.000.000Open call 2027:HORIZON-CL4-2027-01-M-P-02: € 36.000.000 HORIZON-CL4-2027-01-M-P-03: € 36.000.000 HORIZON-CL4-2027-01-M-P-06: € 36.000.000"
+            }
+        },
+        {
             "deadline": "2027-02-16",
             "title": "Public Sector Loan Facility: nuovi bandi nell'ambito del Just Transition Mechanism",
             "description": "Le call JTM finanziano energia pulita, rigenerazione urbana e formazione per un’Europa più equa e sostenibile",
@@ -1115,6 +1271,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "6 milioni di €"
+            }
+        },
+        {
+            "deadline": "2027-09-02",
+            "title": "Made in Europe: aperto il nuovo bando sull'autonomia digitale",
+            "description": "Pubblicate le call 2026–2027 della partnership Made in Europe dedicate a materiali innovativi e autonomia digitale nell'industria",
+            "link": "https://first.art-er.it/news/made-europe-aperto-il-bando-sullautonomia-digitale",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
             }
         },
         {
