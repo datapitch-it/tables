@@ -1,67 +1,11 @@
 {
-    "scraping_timestamp": "2025-12-20 07:07:34",
+    "scraping_timestamp": "2025-12-21 05:22:44",
     "data": [
-        {
-            "deadline": "2025-10-15",
-            "title": "Autoimpiego Centro-Nord",
-            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Centro-Nord",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/autoimpiego-centro-nord",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-15",
-            "title": "Resto al Sud 2.0",
-            "description": "L’incentivo per gli under 35 che vogliono avviare un’attività nel Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud-20",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2021-05-19",
-            "title": "ON - Oltre Nuove imprese a tasso zero",
-            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Progetto Rete – Giovani, competenze, lavoro",
-            "description": "Un progetto dedicato a connettere giovani, scuole, università e mondo del lavoro",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/progetto-rete-giovani-competenze-lavoro",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
         {
             "deadline": "2022-06-07",
             "title": "Fondo impresa femminile",
             "description": "L’incentivo per le imprese guidate da donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -72,10 +16,38 @@
             }
         },
         {
-            "deadline": "N/A",
-            "title": "PNC Sisma - NEXT APPENNINO",
-            "description": "Programma per il rilancio economico e sociale delle Regioni del Centro Italia colpite dai terremoti del 2009 e del 2016",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2025-10-14",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Cultura Crea",
+            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-07-01",
+            "title": "Laboratorio per l'Imprenditorialità",
+            "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -89,35 +61,7 @@
             "deadline": "2023-09-15",
             "title": "Accedere",
             "description": "Il Programma per l’ingresso dei soggetti svantaggiati nel mercato del lavoro",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "Cultura Cresce",
-            "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Smart&Start Italia",
-            "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -131,7 +75,7 @@
             "deadline": "N/A",
             "title": "Attrazione investimenti esteri",
             "description": "L'Agenzia offre servizi a 360 gradi per le imprese che vogliono investire in Italia",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/attrazione-investimenti-esteri?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/attrazione-investimenti-esteri",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -145,7 +89,7 @@
             "deadline": "N/A",
             "title": "Rilanciamo le aree di crisi industriale",
             "description": "Sosteniamo i territori in difficoltà economica con incentivi alle Imprese e all’occupazione per il rilancio delle aree di crisi industriale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -159,21 +103,7 @@
             "deadline": "N/A",
             "title": "Brevetti+ 2025",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2025?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-28",
-            "title": "Sostegno alle PMI per la partecipazione alle manifestazioni fieristiche",
-            "description": "Interventi a favore del settore fieristico e dei mercati rionali",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-alle-pmi-la-partecipazione-alle-manifestazioni-fieristiche",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2025",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -187,7 +117,7 @@
             "deadline": "2024-10-29",
             "title": "BREVETTI+ 2024",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2024?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2024",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -201,7 +131,7 @@
             "deadline": "N/A",
             "title": "BREVETTI+ 2020-2023",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2020-2023",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -212,138 +142,24 @@
             }
         },
         {
-            "deadline": "2025-10-01",
-            "title": "Investimenti nel settore della nautica da diporto sostenibile",
-            "description": "Gli incentivi per favorire la transizione ecologica con l’utilizzo di motori elettrici",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nel-settore-della-nautica-da-diporto-sostenibile?from=/per-le-imprese/incentivi",
+            "deadline": "2023-03-24",
+            "title": "Fondo di contrasto alla deindustrializzazione",
+            "description": "L’incentivo che contrasta l'impoverimento del tessuto produttivo e industriale di Lazio e Marche",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-di-contrasto-alla-deindustrializzazione?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "Italia",
                     "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2022-11-16",
-            "title": "Concerie",
-            "description": "L’incentivo per l’industria e la filiera del settore conciario",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/concerie",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2023-07-03",
-            "title": "Bravo Innovation Hub",
-            "description": "L'acceleratore per le Imprese italiane più innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/bravo-innovation-hub",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-11-24",
-            "title": "MSCA Doctoral Networks 2026",
-            "description": "Identifier: HORIZON-MSCA-2026-DN-01-01\nPillar: HORIZON-MSCA-2026-DN-01\nOpening Date: 2026-05-28\nDeadline: 2026-11-24\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-MSCA-2026-DN-01-01",
-            "custom": {
-                "custom": {
-                    "category": "HORIZON",
-                    "guid": "MSCA Doctoral Networks 2026",
-                    "pub_date": "2025-12-12",
-                    "dc_date": "2025-12-12",
-                    "identifier": "HORIZON-MSCA-2026-DN-01-01"
-                }
-            }
-        },
-        {
-            "deadline": "2026-11-24",
-            "title": "RAISE Doctoral Networks for AI in Science (RAISE pilot)",
-            "description": "Identifier: HORIZON-RAISE-2026-01-03\nPillar: HORIZON-RAISE-2026-01-MSCA\nOpening Date: 2026-05-28\nDeadline: 2026-11-24\n",
-            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-RAISE-2026-01-03",
-            "custom": {
-                "custom": {
-                    "category": "HORIZON",
-                    "guid": "RAISE Doctoral Networks for AI in Science",
-                    "pub_date": "2025-12-12",
-                    "dc_date": "2025-12-12",
-                    "identifier": "HORIZON-RAISE-2026-01-03"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-05",
-            "title": "Sostegno finanziario delle piccole e micro imprese commerciali ed artigianali esistenti nel comune di Civitella Alfedena – Annualità 2022",
-            "description": "Cos'è Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Civitella Alfedena.  A chi si rivolge Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Civitella Alfedena.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/sostegno-finanziario-delle-piccole-e-micro-imprese-commerciali-ed-artigianali-esistenti",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-10-31",
-            "title": "Fondo Comuni Marginali - Comune di Cassano allo Ionio - Anno 2023",
-            "description": "Cos'è Il bando, in attuazione del Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico del Comune di Cassano allo Ionio.  A chi si rivolge Sono ammessi ai benefici del presente bando: - gli agricoltori, i commercianti e gli artigiani che aprono una nuova attività economica nel territorio del Comune di Cassano allo Ionio; - le imprese che hanno regolarmente costituito un'attività già iscritta al registro delle imprese purché intraprendano una \"nuova attività economica\", dopo la pubblicazione del bando, attivando o variando il codice ATECO in possesso, iscritto presso la Camera di Commercio.  Cosa prevede L'erogazione di contributi per spese di gestione e di investimento a seguito di nuova apertura. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-cassano-allo-ionio-anno-2023",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "Fondo di sostegno alle attività economiche, artigianali e commerciali - Comune di Levice",
-            "description": "Cos'è Contributi a fondo perduto a sostegno del commercio e dell'artigianato previsto dal Fondo nazionale di sostegno alle attività economiche, artigianali e commerciali.  A chi si rivolge Imprese del territorio.  Cosa prevede Erogazione di contributi a fondo perduto. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-alle-attivita-economiche-artigianali-e-commerciali-comune-di-levice",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "Fondo nazionale di sostegno alle attività economiche, artigianali e commerciali - Comune di Castino",
-            "description": "Cos'è Contributi a fondo perduto a sostegno del commercio e dell'artigianato previsto dal fondo nazionale di sostegno alle attività economiche, artigianali e commerciali.  A chi si rivolge Imprese del territorio.  Cosa prevede Erogazione di contributi a fondo perduto. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-nazionale-di-sostegno-alle-attivita-economiche-artigianali-e-commerciali-comune-di",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
             "deadline": "2025-12-15",
-            "title": "Fondo di sostegno comuni marginali - Terza annualità - Comune di Ariano Irpino",
-            "description": "Cos'è Avviso Pubblico “Fondo si sostegno comuni marginali”, terza annualità, finalizzato alla concessione di contributi a fondo perduto alle imprese che intraprendano una nuova attività economica di natura commerciale, artigianale o agricola, nel territorio del Comune di Ariano Irpino.  A chi si rivolge Possono beneficiare del contributo le “nuove attività economiche” che intraprendono attività commerciali, artigianali o agricole attraverso un’unità operativa ubicata nel territorio del Comune di Ariano Irpino – Zona Centro Storico.  Cosa prevede Concessione di contributi a fondo perduto. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-comuni-marginali-terza-annualita-comune-di-ariano-irpino",
+            "title": "Fondo di sostegno alle attività economiche - Comune di Carisio - Annualità 2021",
+            "description": "Cos'è Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Carisio.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Carisio.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-alle-attivita-economiche-comune-di-carisio-annualita-2021",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -354,10 +170,10 @@
             }
         },
         {
-            "deadline": "2025-08-29",
-            "title": "Fondo Comuni Marginali - Annualità 2022 - Comune di Castelluccio Valmaggiore",
-            "description": "Cos'è Concessione di contributi per l’avvio di nuove attività economiche, commerciali, artigianali ed agricole attraverso un’unità operativa ubicata nel territorio del Comune di Castelluccio Valmaggiore a valere sul Fondo comuni marginali – DPCM 30/09/2021- per l'annualità 2022.  A chi si rivolge I beneficiari sono le “NUOVE ATTIVITA’ ECONOMICHE” che intraprendono attività commerciali, artigianali o agricole attraverso un’unità operativa ubicata nel territorio del Comune di Castelluccio Valmaggiore e che intendano mantenerle in esercizio per almeno 5 anni dalla data di dichiarazione di inizio attività.  Cosa prevede L’agevolazione consiste nella concessione di un contributo a fondo perduto. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-annualita-2022-comune-di-castelluccio-valmaggiore",
+            "deadline": "2025-11-26",
+            "title": "Fondo Comuni Marginali - Contributi per chi trasferisce residenza e dimora - Annualità 2023 - Comune di Teana",
+            "description": "Cos'è Con il presente avviso il Comune di Teana intende incentivare il flusso migratorio e contrastare la diminuzione della popolazione, situazione tipica dei borghi delle Aree Interne, concedendo un contributo economico, una tantum, e a fondo perduto, per un massimo di € 2.500,00 a chi trasferisce la propria residenza e dimora abituale all’interno del Comune di Teana, a titolo di concorso per le spese di acquisto e/o ristrutturazione di immobili da destinare ad abitazione principale.  A chi si rivolge Possono presentare domanda tutti i soggetti che intendono trasferire la propria residenza e la propria dimora abituale nel Comune di Teana, a titolo di concorso per le spese di acquisto e/o ristrutturazione di immobili da destinare ad abitazione principale. Il nucleo familiare è assimilabile, ai fini del presente Avviso Pubblico, come un unico soggetto beneficiario.  I soggetti richiedenti, al momento della presentazione della domanda, devono obbligatoriamente: a. essere in regola con i versamenti dei tributi comunali già emessi e scaduti ovvero avere in corso la rateizzazione di un debito tributario con il Comune di attuale residenza, concesso anteriormente alla data di presentazione della domanda ed essere in regola con tutti versamenti previsti dalla rateizzazione;b. avere un’età non inferiore a 18 anni; c. non aver riportato condanne penali;  Cosa prevede Concessione di un contributo a fondo perduto per chi traferisce la residenza nel Comune di Teana. Le spese ammissibili sono tutte quelle necessarie all’acquisto e/o alla ristrutturazione di immobili da destinare ad abitazione principale. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-contributi-chi-trasferisce-residenza-e-dimora-annualita-2023-comune",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -368,10 +184,10 @@
             }
         },
         {
-            "deadline": "2024-06-26",
-            "title": "Fondo Comuni Marginali - Seconda e terza annualità - Comune di Teora",
-            "description": "Cos'è Fondo di sostegno ai comuni marginali - concessione di contributi ai sensi dell'art. 2, comma 2, lettera a) e lettera b) del DPCM 30 settembre 2021 - per l'avvio di attività commerciali, artigianali o professionali attraverso unità produttive nel Comune di Teora per l’annualità 2022.  A chi si rivolge Il presente avviso è rivolto a tutte le persone fisiche e/o giuridiche che intendono avviare un’attività commerciale, ambito servizi, nel Comune di Teora.  Cosa prevede L’importo dei fondi messi a disposizione con il presente avviso è pari a € 58.650,36, a valere sulla annualità 2022, così distinto:A. € 29.325,18 per OPERE STRUTTURALI ED IMPIANTISTICHE strettamente necessarie all’adeguamento dell’immobile da concedere in comodato d’uso gratuito a persone fisiche o giuridiche, per l'apertura di attività commerciali B. € 29.325,18 per l’apertura di due attività (commerciali, artigianali, agricole) da ubicarsi nel territorio comunale di Teora. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-seconda-e-terza-annualita-comune-di-teora",
+            "deadline": "2025-11-26",
+            "title": "Fondo di sostegno ai Comuni marginali - Annualità 2023 - Comune di Teana",
+            "description": "Cos'è AVVISO PUBBLICO PER LA CONCESSIONE DI CONTRIBUTI A VALERE SUL DPCM 30.09.2021 - Fondo Comuni Marginali  A chi si rivolge I beneficiari sono le nuove attività economiche che intraprendono attività commerciali, artigianali o agricole attraverso un’unità operativa ubicata nel territorio del Comune di Teana.  Con nuove attività economiche si intendono: 1) Le attività costituite dopo la pubblicazione del presente Avviso; 2) Le imprese che al momento della presentazione della domanda siano regolarmente costituite e iscritte al Registro delle imprese che intraprendono una nuova attività economica dopo la pubblicazione del presente Avviso.  Per “nuova attività economica” si intende anche l’attivazione di nuovi e ulteriori codici ATECO.  In tal caso sono finanziabili solo le spese strettamente afferenti l’aggiunta del nuovo codice ATECOPossono beneficiare delle risorse anche le attività già esistenti che avviino una nuova attività economica nel territorio comunale attraverso una nuova e apposita unità produttiva  Cosa prevede Contributo a fondo perduto per l'avvio di nuove attività. Le spese ammissibili sono quelle di seguito specificate: a) macchinari, impianti, attrezzature, nuovi di fabbrica, ivi compresi quelli necessari all'attività gestionale del proponente ed esclusi quelli relativi all'attività di rappresentanza; mezzi mobili, identificabili singolarmente e a servizio esclusivo dell'unità produttiva oggetto delle agevolazioni, strettamente necessari al ciclo produttivo; strumentazione tecnologica finalizzata all’implementazione del lavoro in modalità smart working; macchinari e attrezzature volti ad effettuare interventi di igienizzazione e sanificazione degli ambienti di lavoro e quelli relativi all’introduzione di nuovi metodi di organizzazione del lavoro nei luoghi di produzione e/o nelle relazioni esterne, tesi a ridurre l’impatto del Covid-19. Il ciclo produttivo è da intendersi nella più ampia accezione, non limitata alla fase della produzione tout court ma inerente anche le fasi a monte e a valle della stessa.b) opere murarie ed impiantistiche, strettamente necessarie per l’installazione e il collegamento dei macchinari acquisiti e dei nuovi impianti produttivi, nonché le opere edili e impiantistiche connesse all’introduzione di nuove modalità di organizzazione del lavoro (anche in smart working) e/o atte a garantire il rispetto delle misure di sicurezza e di distanziamento sociale nei luoghi di lavoro e nei luoghi di produzione e/o nelle relazioni esterne volti a ridurre l’impatto del Covid-19. c) programmi informatici, commisurati alle esigenze produttive e gestionali del proponente;d) servizi di consulenza ed equipollenti utilizzati esclusivamente ai fini della realizzazione del progetto di investimento. I servizi di consulenza devono necessariamente essere acquisiti da fonti esterne. Tali spese sono ammesse nel limite del 20% dell’investimento ammissibile dell’intero progetto; e) polizze assicurative. Tali spese sono ammesse nel limite del 10% dell’investimento ammissibile dell’intero progetto; ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-ai-comuni-marginali-annualita-2023-comune-di-teana",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -382,10 +198,10 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "Progetto dedicato alla Lead Generation sui mercati export 2025 - Camera di Commercio di Como-Lecco",
-            "description": "Cos'è Progetto dedicato alla Lead Generation sui mercati export attraverso l'utilizzo di Linkedin e della sua piattaforma commerciale Sales Navigator/Progetto per il miglioramento della visibilità online delle imprese nei mercati export attraverso i canali Meta (revisione dei profili social + campagna di ADV)/Progetto per il miglioramento del posizionamento online dell'impresa attraverso un'attività di monitoraggio ed analisi dei suoi competitor/Definizione di un modello di Calendario Editoriale su un mercato di interesse dell'azienda e sua esemplificazione/Definizione di cluster omogenei di Buyer Personas per l'azienda, con loro impersonificazione in un mercato estero di interesse/Servizio di assistenza per il miglioramento della visibilità aziendale su una piattaforma di ecommerce nel mercato Europeo, UK e Middle East  A chi si rivolge Imprese.  Cosa prevede Servizi. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/progetto-dedicato-alla-lead-generation-sui-mercati-export-2025-camera-di-commercio-di-como",
+            "deadline": "2025-12-11",
+            "title": "Fondo comuni marginali - Annualità 2022 - Comune di Prazzo",
+            "description": "Cos'è Contributo a fondo perduto a sostegno del commercio e dell’artigianato - Fondo nazionale di sostegno alle attività economiche, artigianali e commerciali - risorse confluite nel “Fondo comuni marginali” - Annualità 2022 - DPCM del 24 settembre 2020 - Comune di Prazzo.  A chi si rivolge I beneficiari del presente Avviso sono le piccole e micro imprese che svolgono, alla data di presentazione della domanda, attività economiche in ambito commerciale e artigianale attraverso un’unità operativa (unità locale) ubicata nel territorio del Comune di Prazzo.  Cosa prevede Contributo a fondo perduto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-annualita-2022-comune-di-prazzo",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -396,466 +212,16 @@
             }
         },
         {
-            "deadline": "2026-03-04",
-            "title": "Fondo Grandi Produzioni 2025/2026 - Regione Autonoma della Sardegna",
-            "description": "Cos'è L'obiettivo del Fondo Grandi Produzioni è sostenere attività di valorizzazione del territorio attraverso opere audiovisive (lungometraggio, cortometraggio, serie televisiva o documentario) considerabili prodotto culturale di grande impatto mediatico, nonché promozione, circuitazione e lancio di grandi opere audiovisive considerabili prodotto culturale girate in Sardegna o riferibili a personalità della storia e della cultura sarda, in grado di circuitare a livello nazionale e internazionale, quali strumenti fondamentali per garantire la diffusione di opere realizzate con una significativa componente territoriale .  Un’opera audiovisiva è considerata prodotto culturale se contribuisce alla valorizzazione dell’identità, del patrimonio storico, culturale o paesaggistico della Sardegna, soddisfacendo almeno uno dei seguenti criteri:- promuovere il patrimonio culturale e paesaggistico sardo attraverso ambientazioni, tematiche o narrazioni;- coinvolgere in modo significativo maestranze, professionisti o talenti artistici sardi;- avere un impatto culturale o turistico dimostrabile (partecipazione a festival internazionali, distribuzione in sale o piattaforme con audience > 50.000 spettatori, accordi di diffusione televisiva o digitale);- essere riconosciuta come opera di nazionalità italiana o ricevere finanziamento MIC ai sensi della Legge 220/2016.  A chi si rivolge A. imprese cinematografiche o audiovisive italiane di produzione audiovisiva, cinematografica e televisiva con codice ATECO 2025 n. 59.1 come codice primario, che siano produttori unici o coproduttori del progetto audiovisivo;B. imprese cinematografiche o audiovisive UE di produzione audiovisiva, cinematografica e televisiva con classificazione equivalente Eurostat NACE n. 59.1 come codice primario, che risultino co-produttori ufficiali dell’opera proposta, da attestare tramite un contratto di coproduzione sottoscritto da tutte le compaginicoinvolte;C. imprese cinematografiche o audiovisive extra UE di produzione audiovisiva, cinematografica e televisiva che risultino co-produttori ufficiali dell’opera proposta, da attestare tramite un contratto di coproduzione sottoscritto da tutte le compagini coinvolte e dimostrino di aver come loro attività principale quella della produzione audiovisiva;D. raggruppamenti temporanei di imprese (RTI)1 purché composti da soggetti ammissibili ai sensi del presente articolo, che siano coinvolte nella produzione o distribuzione del progetto audiovisivo proposto, e che dispongano di contratti preliminari sottoscritti tra le parti stesse al momento della presentazione delladomanda;E. Società di distribuzione con codice ATECO 59.13.  Cosa prevede Categoria A - Opere di finzione di grande richiamo mediatico Categoria B - Opere di finzione legate a personalità storiche o culturali sarde Categoria C - Opere documentarie legate a personalità o tematiche della storia e della cultura sarda ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-grandi-produzioni-20252026-regione-autonoma-della-sardegna",
+            "deadline": "2025-12-18",
+            "title": "Bando per l’erogazione di contributi a fondo perduto per le imprese commerciali e artigianali del territorio - Comune di Challand -St-Victor - Anno 2022",
+            "description": "Cos'è Bando per l’erogazione di contributi a fondo perduto per le imprese commerciali e artigianali del territorio comunale di Challand – Saint - Victor – Fondo di sostegno nazionale D. P. C. M. 24 settembre 2020 (g.u. n. 302 del 04/12/2020) - Fondo anno 2022.  A chi si rivolge Sono ammesse a fruire del contributo le piccole e micro imprese svolte in ambito commerciale e artigianaleon sede o unità operativa nel Comune di Challand – Saint - Victor.  Cosa prevede Erogazione di contributi a fondo perduto. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/bando-lerogazione-di-contributi-fondo-perduto-le-imprese-commerciali-e-artigianali-del-0",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "N/A",
                     "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-04-23",
-            "title": "Avviso pubblico per la selezione di iniziative imprenditoriali nel territorio dell’area di crisi industriale complessa di Trieste tramite ricorso al regime di aiuto di cui alla legge n. 181/1989",
-            "description": "Cos'è In data 1° agosto 2025 è stato sottoscritto il nuovo Accordo di programma per la disciplina degli interventi di riconversione e riqualificazione del polo industriale di Trieste, tra Ministero delle Imprese e del Made in Italy, Ministero del lavoro e delle politiche sociali, Ministero dell’ambiente e della sicurezza energetica, Ministero delle infrastrutture e dei trasporti, Regione Friuli-Venezia Giulia, Comune di Trieste, Autorità di sistema portuale del Mare Adriatico Orientale Porti di Trieste e Monfalcone e Agenzia Nazionale per l’attrazione degli investimenti e lo sviluppo d’impresa S.p.a. – Invitalia, finalizzato fra l’altro all’attuazione degli interventi di riconversione e riqualificazione produttiva di cui alla legge 15 maggio 1989, n. 181 e sue successive modifiche e integrazioni. Con circolare direttoriale 16 dicembre 2025, n. 3327 è stato pubblicato l’Avviso pubblico per la selezione di iniziative imprenditoriali nel territorio dell’area di crisi industriale complessa di Trieste tramite ricorso al regime di aiuto di cui alla legge n. 181/1989.  A chi si rivolge Possono presentare domanda di agevolazione le imprese già costituite in forma di società di capitali; possono altresì presentare domanda di agevolazione le società cooperative di cui all’art. 2511 e seguenti del codice civile e le società consortili di cui all’art. 2615-ter del codice civile. Sono altresì ammesse le reti di imprese, costituite da un minimo di 3 ed un massimo di 6 imprese, mediante il ricorso allo strumento del contratto di rete di cui all’articolo 3, comma 4-ter, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, e successive modifiche e integrazioni  Cosa prevede L’incentivo promuove la realizzazione di una o più iniziative imprenditoriali nel territorio dell’area di crisi industriale complessa di Trieste tramite ricorso al regime di aiuto di cui alla legge n. 181/1989. In particolare, le iniziative imprenditoriali devono: a. prevedere la realizzazione di programmi di investimento produttivo e/o programmi di investimento per la tutela ambientale, eventualmente completati da progetti per l’innovazione dell’organizzazione e/o innovazione di processo, progetti di ricerca e/o di sviluppo sperimentale e da progetti per la formazione del personale; b. comportare il mantenimento o l’incremento degli addetti dell’unità produttiva oggetto del programma di investimento. Le agevolazioni sono concesse nella forma del contributo in conto impianti, dell’eventuale contributo diretto alla spesa e del finanziamento agevolato, alle condizioni ed entro i limiti delle intensità massime di aiuto previste dal regolamento (UE) n. 651/2014 (“Regolamento GBER”). Il finanziamento agevolato concedibile non può essere inferiore al 20% degli investimenti ammissibili. Il contributo in conto impianti e l’eventuale contributo diretto alla spesa sono determinati in relazione all’ammontare del finanziamento agevolato, nei limiti delle intensità massime di aiuto previste dal Regolamento GBER. I programmi di investimento produttivo possono essere ammessi alle agevolazioni anche alle condizioni ed entro i limiti previsti dal regolamento (UE) n. 2831/2023 sugli aiuti “de minimis”. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/avviso-pubblico-la-selezione-di-iniziative-imprenditoriali-nel-territorio-dellarea-di-0",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-09-15",
-            "title": "Bando pubblico 2025, per la concessione di contributi finalizzati alla produzione di lungometraggi di rilevante interesse regionale - Regione Autonoma della Sardegna",
-            "description": "Cos'è Concessione di contributi finalizzati alla produzione di lungometraggi di rilevante interesse regionale.  A chi si rivolge Imprese del settore cinematografico - ATECO J.59 attività di produzione cinematografica di video e di programmi tv, di reg. musicali e sonore.  Cosa prevede Contributi per la produzione di lungometraggi. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/bando-pubblico-2025-la-concessione-di-contributi-finalizzati-alla-produzione-di",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-07-18",
-            "title": "Incoming idrotermosanitario - Giappone e Corea del Sud - CCIAA Monte Rosa Laghi Alto Piemonte",
-            "description": "Cos'è La Camera di Commercio Monte Rosa Laghi Alto Piemonte, con il supporto operativo dell’Azienda Speciale Fedora e Ceipiemonte S.c.p.a., organizza un evento B2B con buyers provenienti da Giappone e Corea del Sud per promuovere le eccellenze dell’Alto Piemonte nel settore idrotermosanitario.  A chi si rivolge Il workshop è riservato alle imprese in regola con il versamento del diritto annuale camerale delle province di Biella, Novara, Verbano Cusio Ossola e Vercelli operanti nel settore idrotermosanitario.  Cosa prevede Il 20 e 21 ottobre 2025: giornate dedicate alla sessione di incontri b2b in presenza, presso l’hotel L’Approdo di Pettenasco (NO). Le imprese aderenti verranno selezionate dai buyers esteri mentre l’Azienda Speciale Fedora e Ceipiemonte, sulla base delle manifestazioni di interesse raccolte, organizzeranno un’agenda personalizzata di incontri. I b2b avranno una durata indicativa di 45 minuti; la lingua di lavoro sarà l’inglese. Per tutta la durata degli incontri dovrà essere garantita la presenza di un rappresentante aziendale. Previo interesse manifestato dai buyer e conferma da parte degli organizzatori, le imprese potranno concordare l’eventuale visita presso la propria sede di uno o più operatori, con oneri di trasferimento a carico dell’azienda interessata. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/incoming-idrotermosanitario-giappone-e-corea-del-sud-cciaa-monte-rosa-laghi-alto-piemonte",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-06",
-            "title": "Regione Sardegna contributo per ristrutturazione strutture accoglienza comunitaria",
-            "description": "Cos'è Tale finanziamento, secondo quanto previsto dalla L. R. 8 maggio 2025, n. 12, art. 14, comma 1, Tabella  N, è finalizzato a garantire, attraverso il sostegno per le spese per interventi straordinari di manutenzione, adeguamento strutturale e/o ampliamento delle strutture di accoglienza comunitaria,condizioni adeguate di sicurezza, funzionalità e qualità dell’accoglienza. Nello specifico tale intervento è rivolto all’adeguamento e al potenziamento delle strutture ricadenti nella tipologia B.6 (i cui requisiti specifici sono disciplinati dalle Linee Guida di cui alla DGR n. 53/7 del 29.10.2018 e s.m.i) che accolgono adulti e, al contempo, a soddisfare il crescente e urgente fabbisogno di specifiche strutture destinate all’accoglienza di giovani-adulti (18-25 anni) sottoposti a misure restrittive della libertà personale.  A chi si rivolgestrutture ricadenti nella tipologia B.6 (i cui requisiti specifici sono disciplinati dalle Linee Guida di cui alla DGR n. 53/7 del 29.10.2018 e s.m.i) che accolgono adulti e, al contempo, a soddisfare il crescente e urgente fabbisogno di specifiche strutture destinate all’accoglienza di giovani-adulti (18-25 anni) sottoposti a misure restrittive della libertà personale.  Cosa prevedesostegno per le spese per interventi straordinari di manutenzione, adeguamento strutturale e/o ampliamento delle strutture di accoglienza comunitaria,condizioni adeguate di sicurezza, funzionalità e qualità dell’accoglienza. Nello specifico tale intervento è rivolto all’adeguamento e al potenziamento delle strutture ricadenti nella tipologia B.6 (i cui requisiti specifici sono disciplinati dalle Linee Guida di cui alla DGR n. 53/7 del 29.10.2018 e s.m.i) che accolgono adulti e, al contempo, a soddisfare il crescente e urgente fabbisogno di specifiche strutture destinate all’accoglienza di giovani-adulti (18-25 anni) sottoposti a misure restrittive della libertà personale. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/regione-sardegna-contributo-ristrutturazione-strutture-accoglienza-comunitaria",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-06-03",
-            "title": "Fondo Comuni Marginali - Comune di Guardia Lombardi - Anno 2023",
-            "description": "Cos'è Il bando, in attuazione del Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico del Comune di Guardia Lombardi.  A chi si rivolge Sono ammessi ai benefici del presente bando: - gli agricoltori, i commercianti e gli artigiani che aprono una nuova attività economica nel territorio del Comune di Guardia Lombardi; - le imprese che hanno regolarmente costituito un'attività già iscritta al registro delle imprese purché intraprendano una \"nuova attività economica\", dopo la pubblicazione del bando, attivando o variando il codice ATECO in possesso, iscritto presso la Camera di Commercio.  Cosa prevede L'erogazione di contributi per spese di gestione e di investimento a seguito di nuova apertura. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-guardia-lombardi-anno-2023",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2022-12-31",
-            "title": "Comune di Lenta - Aiuti Microimprese",
-            "description": "Cos'è CONTRIBUTI MICRO IMPRESE  A chi si rivolge MICROIMPRESE  Cosa prevede CONTRIBUTI SOSTEGNO INVESTIMENTI E DIMINUIZIONE FATTURATO ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-lenta-aiuti-microimprese",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-12-18",
-            "title": "CCIAA di Brescia partecipazione a manifestazioni fieristiche e eventi organizzati da Pro Brixia",
-            "description": "Cos'è La Camera di Commercio Industria Artigianato e Agricoltura di Brescia stanzia un fondo di € 650.000 per sostenere, presso i mercati internazionali, le micro, piccole e medie imprese bresciane, i loro Consorzi e Cooperative, e le reti costituite prevalentemente da imprese bresciane (micro e PMI), con un minimo di tre imprese, da erogare come contributi sotto forma di voucher, da scontare all'impresa, all'atto formale di adesione, previa verifica dei requisiti richiesti e di sottoscrizione del contratto di partecipazione alle manifestazioni fieristiche all'estero e prestazione dei servizi per l'internazionalizzazione, promossi e organizzati dall'Azienda Speciale Pro Brixia.  A chi si rivolge Sono beneficiarie dei contributi le micro, piccole e medie imprese bresciane di tutti i settori (*), secondo i parametri definiti nell'Allegato I del Regolamento UE n. 651/2014 della Commissione del 17 giugno 2014 - i loro Consorzi e Cooperative (**), e le reti di imprese, costituite prevalentemente da imprese bresciane (micro e PMI), con un minimo di tre imprese (costituite prevalentemente da micro e PMI bresciane, mediante forma giuridica di “contratto di rete”, redatto per atto pubblico o scrittura privata autenticata, anche per atto firmato digitalmente a norma degli artt. 24 e 25 D. Lgs 7.3.2005, n. 82, Codice Amministrazione Digitale.  Cosa prevede PARTECIPAZIONE A FIERE ESTERELa sottoscrizione del contratto di adesione alla manifestazione, come predisposto da Pro Brixia e correlato ai criteri del presente regolamento, deve essere seguita dalla presentazione on line, da parte dell'impresa, della domanda di contributo, entro il termine di due mesi antecedenti la data di svolgimento della fiera, salvo diverse indicazioni di Pro Brixia, pena la revoca del voucher scontato all'atto del pagamento della quota di partecipazione ed il conseguente obbligo per l'impresa di saldare per intero la fattura entro 7 giorni dalla predetta scadenza. PRESTAZIONI DI SERVIZI DI INTERNAZIONALIZZAZIONELa sottoscrizione del contratto di adesione ai servizi di internazionalizzazione, come predisposto da Pro Brixia e correlato ai criteri del presente regolamento, deve essere seguita dalla presentazione on line, da parte dell'impresa, della domanda di contributo, entro 30 giorni dalla data di firma del contratto, salvo diverse indicazioni di Pro Brixia, pena la revoca o non concessione del voucher previsto dalla singola Misura e il conseguente obbligo per l'impresa di saldare per intero la fattura, entro 7 giorni dalla predetta scadenza. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/cciaa-di-brescia-partecipazione-manifestazioni-fieristiche-e-eventi-organizzati-da-pro",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-02-13",
-            "title": "Fondo di sostegno ai comuni marginali - Comune di Aliano 2023",
-            "description": "Cos'è Il bando, in attuazione del Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico del Comune di Aliano.  A chi si rivolge Sono ammessi ai benefici del presente bando: - gli agricoltori, i commercianti e gli artigiani che aprono una nuova attività economica nel territorio del Comune di Aliano; - le imprese che hanno regolarmente costituito un'attività già iscritta al registro delle imprese purché intraprendano una \"nuova attività economica\", dopo la pubblicazione del bando, attivando o variando il codice ATECO in possesso, iscritto presso la Camera di Commercio.  Cosa prevede L'erogazione di contributi per spese di gestione e di investimento a seguito di nuova apertura. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-ai-comuni-marginali-comune-di-aliano-2023",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-10",
-            "title": "Fondo di sostegno ai comuni marginali - Comune di Aliano 2022",
-            "description": "Cos'è Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Aliano.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Aliano.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-di-sostegno-ai-comuni-marginali-comune-di-aliano-2022",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-05",
-            "title": "Comune di Nusco - Fondo Aree Interne Anno 2022",
-            "description": "Cos'è Il nando, in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\", è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Nusco.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Nusco.  Cosa prevede E' prevista l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/comune-di-nusco-fondo-aree-interne-anno-2022",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-05-30",
-            "title": "TUTTOFOOD 2026",
-            "description": "Cos'è PARTECIPAZIONE CON UNA COLLETTIVA DI IMPRESE ALLA FIERA INTERNAZIONALE “TUTTOFOOD MILANO 2026” (11-14 MAGGIO 2026)  A chi si rivolge Imprese agroalimentari della Toscana Nord Ovest  Cosa prevede PARTECIPAZIONE CON UNA COLLETTIVA DI IMPRESE ALLA FIERA INTERNAZIONALE “TUTTOFOOD MILANO 2026” (11-14 MAGGIO 2026) ",
-            "link": "https://www.incentivi.gov.it/it/catalogo/tuttofood-2026",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-13 16:00",
-            "title": "OCDPC 1174/25 - Eventi settembre 2025 -Ricognizione interventi Urgenti - A, B, CAS",
-            "description": "Eventi calamitosi verificatisi nei giorni dal 10 al 13 settembre 2025 nel territorio della provincia di Como e dal 22 al 27 settembre 2025 nel territorio della provincia di Como e del comune di Barlassina, di Bovisio Masciago, di Cesano Maderno, di Giussano, di Lentate sul Seveso, di Limbiate, di Meda, Seveso e Varedo della provincia di Monza e Brianza - Ricognizione dei fabbisogni per interventi urgenti e Contributi di Autonoma Sistemazione, rivolta a Enti locali e altri enti pubblici.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/ocdpc-1174-25-enti-RLY12025051303",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-24",
-            "title": "Avviso pubblico, tramite procedura comparativa, per conferimento incarichi libero professionali ai sensi dell’art. 7, co. 6, del D.Lgs. 165/2001, per la realizzazione del Progetto Adenzia@ e Accur@ Comunità in crescita a Pantelleria. Sistema integrato e diffuso di interventi sociosanitari ed educativi per i soggetti in età evolutiva e giovanile",
-            "description": "<p><span style=\"font-size: 11.0pt;\">Si comunica che è stato indetto un Avviso pubblico, tramite procedura comparativa dei curricula, per il conferimento di incarichi libero professionali ai sensi dell’art. 7, co. 6, del D.Lgs. 165/2001, per la realizzazione del Progetto “Adenzi@ &amp;Accur@. Comunità in crescita a Pantelleria. Sistema integrato e diffuso di interventi sociosanitari ed educativi per i soggetti in età evolutiva e giovanile” ai seguenti professionisti:&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">n. 2 – Profilo Psicologo Psicoterapeuta;&nbsp;</span></p>\n<p><span style=\"font-size: 11.0pt;\">n. 1 – Profilo Sociologo; </span></p>\n<p><span style=\"font-size: 11.0pt;\">n. 2 – Profilo Educatore Socio - Pedagogico;</span></p>\n<p><span style=\"font-size: 11.0pt;\">n. 1 – Profilo Assistente Sociale;</span></p>\n<p><span style=\"font-size: 11.0pt;\">n. 1 – Profilo Social Media Manager;</span></p>\n<p><strong><span style=\"font-size: 11.0pt; line-height: 115%; color: black; mso-color-alt: windowtext;\">Le candidature potranno essere presentate da sabato 20/12/2025 e fino alle ore 23:59 di mercoledì 24/12/2025.</span></strong></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">Si ricorda che quanto dichiarato in fase di compilazione della domanda costituisce AUTODICHIARAZIONE E AUTOCERTIFICAZIONE ai sensi del D.P.R. 445/2000. </span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">Pertanto, in caso di dichiarazioni non veritiere, false o mendaci si applicano gli artt. 75 e 76 del D.P.R. con conseguenze penali nei casi previsti dalla legge.</span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%; color: black;\">Il bando è consultabile sul sito “inPA” e su <a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a>, piattaforma tramite la quale è possibile partecipare al concorso registrandosi, con i propri dati anagrafici, selezionando la procedura d’interesse e compilando, in ogni sua parte, il format online. </span></p>\n<p><span style=\"font-size: 11.0pt; line-height: 115%;\">Tutte le informazioni potranno essere richieste tramite la piattaforma concorsi http://asptrapani.selezionieconcorsi.it, oppure presso l’Ufficio Concorsi - ASP di Trapani, via Mazzini, 1 Trapani (nei giorni di martedì dalle 16,00 alle 17,30 e giovedì dalle 9,30 alle 12,30).</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=cffab060a6594379be63f91b35ec8ac2",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-09",
-            "title": "UNIVERSITA' DEL SALENTO: Avviso pubblico per Short List esperti/e idonei/e conferimento di incarichi individuali di lavoro autonomo per attività di docenza - AREA PSICOLOGICA, Progetto di “Orientamento Attivo nella transizione scuola-università” (M4C1-24) finanziato dal PNNR-Missione 4 “Istruzione e ricerca” – Componente 1 “Potenziamento dell’offerta dei servizi all’istruzione: dagli asili nido all’Università”, relative all’anno scolastico 2025/2026. CUP F81I24001270006.",
-            "description": "<p><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Avviso pubblico </span><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: 'Times New Roman'; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">per l’istituzione, previa valutazione dei titoli, di un elenco (Short List) di esperti/e idonei/e al successivo conferimento di incarichi individuali di lavoro autonomo per lo svolgimento di attività di docenza - </span><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">AREA PSICOLOGICA, nell’ambito delle attività formative previste dal Progetto di “Orientamento Attivo nella transizione scuola-università” (M4C1-24) finanziato dal PNNR-Missione 4 “Istruzione e ricerca” – Componente 1 “Potenziamento dell’offerta dei servizi all’istruzione: dagli asili nido all’Università”, relative all’anno scolastico 2025/2026. CUP F81I24001270006.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-bidi-font-weight: bold;\">Titolo</span></span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-bidi-font-weight: bold;\">: Procedura comparativa, per titoli, per l’istituzione </span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">di un elenco (short list) di esperti/e idonei/e al successivo conferimento di incarichi individuali di lavoro autonomo per lo svolgimento di attività di docenza - AREA PSICOLOGICA, nell’ambito delle attività formative previste dal Progetto di “Orientamento Attivo nella transizione scuola-università” (M4C1-24) finanziato dal PNNR-Missione 4 “Istruzione e ricerca” – Componente 1 “Potenziamento dell’offerta dei servizi all’istruzione: dagli asili nido all’Università”, relative all’anno scolastico 2025/2026.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">Descrizione</span></span><span style=\"font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin;\">: La Short List ha lo scopo di agevolare l’individuazione di esperti/e in possesso di esperienze e competenze professionali idonei </span><strong><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">AL CONFERIMENTO DI INCARICHI DI LAVORO AUTONOMO PER LO SVOLGIMENTO DELLE ATTIVITA’ DI DOCENZA - AREA PSICOLOGICA - NELL’AMBITO DEL PROGETTO DI “ORIENTAMENTO ATTIVO” PER L’ANNO SCOLASTICO 2025/2026</span></span></strong><strong><span style=\"font-family: 'Calibri',sans-serif;\"> </span></strong><span style=\"font-family: 'Calibri',sans-serif;\">ed in particolare rispetto alle seguenti aree tematiche:</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style=\"font-family: 'Calibri',sans-serif;\">CLIMA CLASSE</span></strong><span style=\"font-family: 'Calibri',sans-serif;\"> - “<em>La relazione con il gruppo classe: stimolare la riflessione di sé stessi attraverso l’esperienza del contesto classe</em>”; </span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif;\">Argomenti dei moduli didattici</span></strong><span style=\"font-family: 'Calibri',sans-serif;\">: a) esplorare le risorse psicologiche e sociali che possono attivare e promuovere lo sviluppo di soft skills; b) identificare le soft e life skills per potenziare la riflessione di sé e delle proprie potenzialità; c) riconoscere punti di forza e aree di miglioramento nei processi decisionali e nelle capacità di sviluppare strategie e risorse per risolvere problemi; </span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style=\"font-family: 'Calibri',sans-serif;\">SOFT SKILLS</span></strong><span style=\"font-family: 'Calibri',sans-serif;\"> - “<em>Sviluppo e promozione delle competenze personali e sociali attraverso la riflessione di sé e delle proprie risorse personali</em>”; </span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif;\">Argomenti dei moduli didattici:</span></strong><span style=\"font-family: 'Calibri',sans-serif;\"> a) sviluppare la relazione entro il gruppo classe (clima, livelli di cooperazione) riconoscendo come la qualità della relazione sia rilevante in ordine alla capacità del gruppo stesso di funzionare come risorsa per l’apprendimento; b) esplorare e potenziare il clima di classe; c) riconoscere la classe come gruppo di lavoro ed identificare strategie e risorse;</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style=\"font-family: 'Calibri',sans-serif;\">METODO DI STUDIO </span></strong><span style=\"font-family: 'Calibri',sans-serif;\">- “<em>Sviluppare strategie per un metodo di studio efficace e flessibile</em>”;</span></p>\n<p><strong><span style=\"font-family: 'Calibri',sans-serif;\">Argomenti dei moduli didattici</span></strong><span style=\"font-family: 'Calibri',sans-serif;\">: a) attività di lettura critica-analisi del testo e costruzione di mappe concettuali, modelli di intelligenza a confronto; b) attività di scrittura-dalle mappe al testo narrativo, modelli di intelligenza a confronto; c) identificare, comprendere e migliorare il proprio metodo di studio.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Figura ricercata</span></span><span style=\"font-family: 'Calibri',sans-serif;\">: esperti/e, laureati in Psicologia (Laurea Magistrale, Specialistica o vecchio ordinamento) e iscritti da almeno due anni all’Albo dell’Ordine degli Psicologi (dall’1.12.2023), in possesso di esperienze e competenze professionali idonei/e al conferimento di incarichi di lavoro autonomo per lo svolgimento delle attività di docenza - AREA PSICOLOGICA - nell’ambito del progetto di “Orientamento attivo” per l’anno scolastico 2025/2026.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Termini di decadenza dall’incarico</span></span><span style=\"font-family: 'Calibri',sans-serif;\">: L’esperto/a utilmente collocato/a nella short list che, su richiesta dell’Ufficio Orientamento, abbia manifestato la propria disponibilità all’espletamento dell’incarico, indicando puntualmente i giorni utili, è automaticamente dichiarato decaduto dalla short list al verificarsi di n.3 rinunce, indipendentemente dalla motivazione addotta per ciascuna di esse.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Sede di svolgimento dell’incarico:</span></span><span style=\"font-family: 'Calibri',sans-serif;\"> L’incarico sarà eseguito, prevalentemente, presso gli Istituti Scolastici con Unisalento per la realizzazione del Programma di “Orientamento Attivo”, ovvero presso le sedi Universitarie e/o altre sedi individuate per le esigenze del Progetto, conformemente alla calendarizzazione delle docenze proposte dalle Scuole e dall’Ufficio Orientamento. La disponibilità di ogni docente esperto/a dovrà intendersi espressa per tutte le sedi delle Istituzioni Scolastiche ricadenti nelle province di Lecce, Brindisi, Taranto e Bari.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Durata della Short List:</span></span><span style=\"font-family: 'Calibri',sans-serif;\"> La Short List ha scadenza prevista al 30 giugno 2026, corrispondente alla durata massima dell’intera misura, o comunque fino al completamento di un tetto massimo di 300 ore.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Compenso previsto:</span></span><span style=\"font-family: 'Calibri',sans-serif;\"> A ciascun esperto sarà corrisposto un compenso orario di € 80,00 (lorde e omnicomprensive degli oneri a carico dell’Amministrazione).</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Responsabile dell’esecuzione dell’incarico:</span></span><span style=\"font-family: 'Calibri',sans-serif;\"> Dott.ssa Ivana Ingrosso, Capo Area Orientamento e Placement.</span></p>\n<p><span style=\"text-decoration: underline;\"><span style=\"font-family: 'Calibri',sans-serif;\">Responsabile scientifico del progetto:</span></span><span style=\"font-family: 'Calibri',sans-serif;\"> prof.ssa Emanuela Ingusci.</span></p>\n<p><span style=\"font-family: 'Calibri',sans-serif;\">Per tutti gli ulteriori dettagli, consultare il Bando di cui al D.D. n. 822 del 18.12.2025</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=19107dcbd13d4325919fa2ae12c5080e",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-08",
-            "title": "INCARICO DI “DIRETTORE ISTITUZIONE AI SERVIZI SOCIALI “DAVIDE DRUDI” E RESPONSABILE SETTORE SERVIZI SOCIALI CULTURALI E SPORTIVI DEL COMUNE DI MELDOLA, AI SENSI DELL’ART.110 COMMA 1 TUEL",
-            "description": "<p><strong>AVVISO PER IL CONFERIMENTO DI INCARICO DI “DIRETTORE ISTITUZIONE AI SERVIZI SOCIALI&nbsp; “DAVIDE DRUDI” E RESPONSABILE SETTORE SERVIZI SOCIALI CULTURALI&nbsp; E SPORTIVI&nbsp; DEL COMUNE DI MELDOLA, AI SENSI DELL’ART.110 COMMA 1 D.LGS. N. 267/2000, – DIRIGENTE – AREA DELLA DIRIGENZA COMPARTO FUNZIONI LOCALI - &nbsp; MEDIANTE CONTRATTO DI LAVORO A TEMPO DETERMINATO PIENO.</strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c0486ea4bfd04315bac5e0fd7cc967b6",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-07",
-            "title": "Procedura pubblica selettiva comparativa per titoli e colloquio - n. 1 incarico professionale di GRAFICO di supporto all’Ufficio Produzione e Comunicazione Conservatorio “G.B. MARTINI” di Bologna",
-            "description": "<p><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Times; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Esperto<strong> </strong>GRAFICO di supporto <span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Times; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA; mso-bidi-font-weight: bold;\">all’Ufficio Produzione e Comunicazione del Conservatorio di Musica di Bologna che s occuperà:</span></span></p>\n<p><span style=\"font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">Progettazione grafica, redazione e correzione bozze dei programmi di sala, locandine, inviti e manifesti delle iniziative del Conservatorio; </span></p>\n<p><span style=\"font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">Gestione delle schede tecniche, curriculum, foto del materiale grafico e promozionale;</span></p>\n<p><span style=\"font-size: 12.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;\"><span style=\"mso-list: Ignore;\">-<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style=\"font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">Progettazione di immagini e loghi per le manifestazioni del Conservatorio sul territorio;</span></p>\n<p><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Times; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Times; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA; mso-bidi-font-weight: bold;\">Collaborazione alla pianificazione della promozione e pubblicità del Conservatorio</span></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4734ddd883594625837cfea489c331c1",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-29",
-            "title": "SCORRIMENTO DI GRADUATORIE CONCORSUALI DI ALTRE AMMINISTRAZIONI PUBBLICHE PER LA COPERTURA DI N. 1 (UNO) POSTO DI SPECIALISTA FUNZIONARIO CONTABILE (AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE), DA DESTINARE ALL'AREA ECONOMICA-FINANZIARIA - APPROVAZIONE AVVISO DI MANIFESTAZIONE DI INTERESSE",
-            "description": "<p><span style=\"font-size: 12.0pt; mso-bidi-font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">SCORRIMENTO DI GRADUATORIE CONCORSUALI DI ALTRE AMMINISTRAZIONI PUBBLICHE PER LA COPERTURA DI N. 1 (UNO) POSTO DI SPECIALISTA FUNZIONARIO CONTABILE (AREA DEI FUNZIONARI ED ELEVATA QUALIFICAZIONE), DA DESTINARE ALL'AREA ECONOMICA-FINANZIARIA - APPROVAZIONE AVVISO DI MANIFESTAZIONE DI INTERESSE</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2cd166626a124409896033f157a83172",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-07",
-            "title": "Procedura pubblica comparativa per titoli e colloquio n. 1 incarico professionale esperto progetto ERASMUS+ e attività Ufficio Relazioni Internazionali - Conservatorio di Musica “G.B. MARTINI” Bologna",
-            "description": "<p><span style=\"font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Times; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Procedura selettiva comparativa per titoli e colloquio finalizzata all’individuazione di un esperto nell’ambito del settore “<span style=\"letter-spacing: -.05pt;\">Programma “ERASMUS+” ed eventuali altre attività correlate all’Ufficio Relazioni Internazionali del Conservatorio”, disponibile a stipulare un contratto di lavoro autonomo di diritto privato di prestazione d’opera professionale</span></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=23aff2bea0ce4ccd9fa7df5a09452fc4",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-07",
-            "title": "COMUNE DI VIGONZA (PD) - AVVISO PUBBLICO PROCEDURA COMPARATIVA ART. 7, C.6, D.LGS.165/2001 PER INCARICO LAVORO AUTONOMO-SUPPORTO TECNICO OPERATIVO AL RUP-RESTAURO BARCHESSA PERAGA CUP E42I20000000004.",
-            "description": "<p>Il Comune di Vigonza (PD) avvia una procedura pubblica ai sensi dell’art. 7, comma 6, del D.Lgs. n. 165/2001 e s.m.i., mediante valutazione comparativa dei curricula formativi e professionali, al fine di conferire un incarico individuale di lavoro autonomo, da destinare al supporto tecnico-operativo al RUP, per la realizzazione dei lavori di “Restauro della Barchessa presso il Castello e la Corte dei Da Peraga” – CUP E42I20000000004.</p>\n<p>Le modalità di presentazione e di invio della domanda sono stabilite nell'avviso allegato, prot. n. 43358 del 17/12/2025.</p>\n<p><span style=\"color: #000000;\"><strong><span style=\"color: #000000;\">Scadenza: 07/01/2026</span></strong></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=43c1951305cc4216a3f38ffcbb5fe213",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-29",
-            "title": "Avviso pubblico per la ricerca di n.1 esperto/a giuridico",
-            "description": "<p>Il Ministero delle infrastrutture e dei trasporti (MIT), per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR)<strong>&nbsp;</strong>ricerca n. 1 (uno) esperto/a giuridico a cui conferire un incarico di collaborazione ai sensi dell’articolo 7, comma 4, del decreto-legge 9 giugno 2021, n. 80,&nbsp;convertito,&nbsp;con&nbsp;modificazioni,&nbsp;dalla&nbsp;legge&nbsp;6&nbsp;agosto&nbsp;2021,&nbsp;n.&nbsp;113&nbsp;e&nbsp;dell'articolo&nbsp;7,&nbsp;comma&nbsp;6,&nbsp;del decreto&nbsp;legislativo&nbsp;30&nbsp;marzo&nbsp;2001,&nbsp;n.&nbsp;165.</p>\n<p><strong>Entro il </strong><strong>29 dicembre 2025</strong><strong>&nbsp;</strong>gli esperti interessati in possesso dei requisiti richiesti, previa registrazione sul <strong>Portale inPA</strong> (<a title=\"https://www.inpa.gov.it)/\">https://www.inpa.gov.it)</a>, possono aderire all’avviso, fermo restando che non è consentito il conferimento a ciascun iscritto di più di un incarico per volta.</p>\n<p>Il <strong>Portale inPA</strong> genera un elenco digitale contenente gli iscritti che hanno aderito all’avviso in possesso del profilo professionale congruente a quello richiesto dal MIT.</p>\n<p>Il Ministero delle infrastrutture e dei trasporti, sulla base dell’elenco, invita al colloquio selettivo un numero di candidati pari ad almeno quattro volte il numero di figure richieste e comunque in numero tale da assicurare la parità di genere.</p>\n<p>La selezione e la valutazione degli esperti sarà effettuata da una Commissione appositamente nominata. All’esito della procedura, con provvedimento motivato e sulla base delle risultanze fornite dalla Commissione, il Ministero delle infrastrutture e dei trasporti, Unità di missione per il PNRR, individua il soggetto a cui/ ai quali conferire l’incarico <strong>entro il 28 febbraio 2026.</strong></p>\n<p>Il rapporto contrattuale intercorre tra il Ministero delle infrastrutture e dei trasporti e l’esperto ed è regolato anche in base alle policy e agli standard ministeriali, nonché alla direttiva dell’Unita di Missione per il PNRR n.1700 del 3 maggio 2023 e l’integrazione alla stessa n.2327 del 3 agosto 2023.</p>\n<p><strong>Profilo professionale - Esperto giuridico</strong></p>\n<p>Gli esperti sono destinati al potenziamento dell’attività e delle strutture dell’Unità di Missione per il PNRR del Ministero delle infrastrutture e dei trasporti ai fini del monitoraggio e della valutazione degli aspetti giuridici, procedurali, contrattuali e di rendicontazione dei progetti di investimento avviati anche dai soggetti attuatori nell’ambito degli investimenti del PNRR di competenza del Ministero delle infrastrutture e dei trasporti e dei relativi contratti.</p>\n<p><strong>Fermo restando quanto previsto dal DM 14 ottobre 2021, sono requisiti di partecipazione:</strong></p>\n<ul>\n <li>possesso della laurea magistrale ex DM 270/2004 appartenente alla classe LMG/01 in Giurisprudenza vecchio ordinamento oppure Laurea Specialistica ex D.M. 509/1999 in Giurisprudenza (classe 22/S), ovvero ogni altro titolo di studio equiparato o equipollente in base alla normativa vigente;</li>\n <li>abilitazione all’esercizio della professione forense;</li>\n <li>conoscenza della lingua inglese di livello B2 di cui al Quadro comune europeo di riferimento per la conoscenza delle lingue.</li>\n</ul>\n<p><strong>Nell’ambito&nbsp;della&nbsp;selezione&nbsp;il&nbsp;MIT&nbsp;valuterà&nbsp;i&nbsp;seguenti&nbsp;titoli preferenziali:</strong></p>\n<p>Con&nbsp;riferimento&nbsp;alla&nbsp;qualificazione&nbsp;professionale:</p>\n<ul>\n <li>conoscenza della normativa e delle procedure operative in materia di monitoraggio nell’ambito della gestione dei programmi e dei progetti finanziati con risorse europee;</li>\n <li>conoscenza della normativa sugli appalti pubblici e delle procedure di appalto di opere e servizi pubblici.</li>\n</ul>\n<p>Con riferimento alle esperienze maturate e al grado di conoscenza della normativa di settore:</p>\n<ul>\n <li>esperienza in gestione di <em>team</em> di lavoro multifunzionali;</li>\n <li>esperienza complessiva almeno quinquennale nel supporto alle amministrazioni pubbliche, enti o concessionari di servizi pubblici in uno o più dei seguenti ambiti:\n  <ul>\n   <li>assistenza e consulenza giuridica per ministeri, enti e concessionari pubblici di alto contenuto specialistico professionale, redazione di pareri e supporto nella scelta di soluzioni giuridico- amministrative da attuare nell'ambito delle attività di amministrazione diretta o di concessionari di pubblico servizio;</li>\n   <li>attività di istruzione, predisposizione e redazione di atti e documenti riferiti all’attività amministrativa di amministrazioni, enti e concessionari pubblici, comportanti un elevato grado di complessità, nonché di attività di analisi, studio, ricerca ed elaborazione di piani e programmi;</li>\n   <li>collaborazione professionale e assistenza tecnica in processi di gestione e di controllo nella programmazione europea e nazionale;</li>\n   <li>studio, analisi e ricerca svolte su profili giuridici connessi ai finanziamenti e ai contratti pubblici.</li>\n  </ul></li>\n</ul>\n<p>Con riferimento agli ulteriori elementi connessi a specifiche esigenze&nbsp;dell’Unità di Missione per il PNRR:</p>\n<ul>\n <li>attività di supporto e di <em>drafting&nbsp;</em>normativo e di atti amministrativi, nonché di approfondimento del quadro normativo riferito alla materia delle concessioni e della contrattualistica pubblica;</li>\n <li>supporto giuridico in start-up istituzionali e digitalizzazione della PA.</li>\n</ul>\n<table>\n <tbody>\n  <tr>\n   <td>\n    <p>Tipo di contratto</p>\n   </td>\n   <td>\n    <p>Incarico di lavoro autonomo</p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p>Durata del contratto</p>\n   </td>\n   <td>\n    <p>Fino al 31 dicembre 2026, salvo proroghe</p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p>Corrispettivo lordo massimo annuo</p>\n   </td>\n   <td>\n    <p>€ 35.000,00</p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p>Termine della procedura (conferimento dell’incarico)</p>\n   </td>\n   <td>\n    <p>Entro il 28 febbraio 2026</p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p>Ambito territoriale di svolgimento della prestazione</p>\n   </td>\n   <td>\n    <p>Roma</p>\n   </td>\n  </tr>\n </tbody>\n</table>\n<p>&nbsp;</p>\n<p>Ai sensi del D. Lgs. 30 giugno 2003, n. 196, come integrato dal D.lgs. 10 agosto 2018, n. 101, e dal Regolamento UE 2016/679 del 27 aprile 2016, i dati personali forniti dai candidati saranno raccolti e trattati per le finalità di gestione della presente procedura selettiva e per l'eventuale conferimento dell'incarico.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=04021c48fd864d58b06ef5552cd1f0ba",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-29",
-            "title": "Avviso pubblico per la ricerca di n.2 esperti/e economico-finanziari",
-            "description": "<p><span style=\"font-family: 'Times New Roman',serif;\">Il Ministero delle infrastrutture e dei trasporti (MIT), per l’attuazione degli interventi del Piano nazionale di ripresa e resilienza (PNRR)<strong>&nbsp;</strong>ricerca n. 2 (due) esperti/e economico – finanziari, a cui conferire un incarico di collaborazione ai sensi dell’articolo 7, comma 4, del decreto-legge 9 giugno 2021, n. 80,&nbsp;convertito,&nbsp;con&nbsp;modificazioni,&nbsp;dalla&nbsp;legge&nbsp;6&nbsp;agosto&nbsp;2021,&nbsp;n.&nbsp;113&nbsp;e&nbsp;dell'articolo&nbsp;7,&nbsp;comma&nbsp;6,&nbsp;del decreto&nbsp;legislativo&nbsp;30&nbsp;marzo&nbsp;2001,&nbsp;n.&nbsp;165.</span></p>\n<p><strong><span style=\"font-family: 'Times New Roman',serif;\">Entro il 29 dicembre 2025&nbsp;</span></strong><span style=\"font-family: 'Times New Roman',serif;\">gli esperti interessati in possesso dei requisiti richiesti, previa registrazione sul <strong>Portale inPA</strong> (https://www.inpa.gov.it), possono aderire all’avviso, fermo restando che non è consentito il conferimento a ciascun iscritto di più di un incarico per volta.</span></p>\n<p><span style=\"font-family: 'Times New Roman',serif;\">Il <strong>Portale inPA</strong> genera un elenco digitale contenente gli iscritti che hanno aderito all’avviso in possesso del profilo professionale congruente a quello richiesto dal MIT.</span></p>\n<p><span style=\"font-family: 'Times New Roman',serif;\">Il Ministero delle infrastrutture e dei trasporti, sulla base dell’elenco, invita al colloquio selettivo un numero di candidati pari ad almeno quattro volte il numero di figure richieste e comunque in numero tale da assicurare la parità di genere.</span></p>\n<p><span style=\"font-family: 'Times New Roman',serif;\">La selezione e la valutazione degli esperti sarà effettuata da una Commissione appositamente nominata. All’esito della procedura, con provvedimento motivato e sulla base delle risultanze fornite dalla Commissione, il Ministero delle infrastrutture e dei trasporti, Unità di missione per il PNRR, individua il soggetto a cui/ ai quali conferire l’incarico <strong>entro il 28 febbraio 2026.</strong></span></p>\n<p><span style=\"font-family: 'Times New Roman',serif;\">Il rapporto contrattuale intercorre tra il Ministero delle infrastrutture e dei trasporti e l’esperto ed è regolato anche in base alle policy e agli standard ministeriali, nonché alla direttiva dell’Unita di Missione&nbsp;per&nbsp;il&nbsp;PNRR&nbsp;n.1700&nbsp;del&nbsp;3&nbsp;maggio&nbsp;2023&nbsp;e&nbsp;l’integrazione&nbsp;alla&nbsp;stessa&nbsp;n.2327&nbsp;del&nbsp;3&nbsp;agosto&nbsp;2023.</span></p>\n<p><strong><span style=\"font-family: 'Times New Roman',serif;\">Profilo professionale - Esperto economico - finanziario</span></strong></p>\n<p><span style=\"font-family: 'Times New Roman',serif;\">Gli esperti sono destinati al potenziamento dell’attività&nbsp;e&nbsp;delle&nbsp;strutture dell’Unità di Missione&nbsp;per il PNRR del Ministero delle infrastrutture e dei trasporti, ai fini del supporto in attività specialistiche: <em>corporate finance</em> (analisi di bilancio, valutazione d'azienda); predisposizione di business plan e modelli finanziari, project financing e strutturazione di operazioni finanziarie complesse; regolamentazione del settore dei trasporti ferroviari; analisi del mercato dei trasporti e studi di settore.</span></p>\n<p><strong><span style=\"font-family: 'Times New Roman',serif;\">Fermo restando quanto previsto dal DM 14 ottobre 2021, sono requisiti di partecipazione:</span></strong></p>\n<ul>\n <li><span style=\"font-family: 'Times New Roman',serif;\">Possesso della laurea magistrale in una delle seguenti classi di laurea o titoli equiparati secondo la normativa vigente:</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">LM-16 Finanza;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">LM-56 Scienze dell’economia; </span><span style=\"font-family: 'Times New Roman',serif;\">ovvero ogni altro titolo di studio equiparato o equipollente in base alla normativa vigente;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">conoscenza della lingua inglese di livello C1 di cui al quadro comune europeo di riferimento per la conoscenza delle lingue;</span></li>\n</ul>\n<p><strong><span style=\"font-family: 'Times New Roman',serif;\">&nbsp;</span><span style=\"font-family: 'Times New Roman',serif;\">Nell’ambito&nbsp;della&nbsp;selezione&nbsp;il&nbsp;MIT&nbsp;valuterà&nbsp;i&nbsp;seguenti&nbsp;titoli preferenziali:</span></strong></p>\n<p><span style=\"font-family: 'Times New Roman',serif;\">Con&nbsp;riferimento&nbsp;alla&nbsp;qualificazione&nbsp;professionale:</span></p>\n<ul type=\"disc\">\n <li><span style=\"font-family: 'Times New Roman',serif;\">pubblicazioni scientifiche in ambito economico, ambientale o regolatori coerenti con il profilo professionale richiesto;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">conoscenza avanzata delle metodologie di: analisi economica e costi-benefici; analisi regolatoria (RIA);</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">competenze nella gestione di progetti complessi e coordinamento di gruppi di lavoro;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">competenze e conoscenze in ambito della concorrenza;</span></li>\n <li><span style=\"font-size: 12.0pt; line-height: 107%; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: IT;\">conoscenza di ulteriori lingue straniere;</span></li>\n <li><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none; mso-fareast-language: IT;\">insegnamento accademico e/o dottorato di ricerca in materie coerenti con le classi di laurea sopra specificate.</span></li>\n</ul>\n<p><span style=\"font-family: 'Times New Roman',serif;\">&nbsp;</span><span style=\"font-family: 'Times New Roman',serif;\">Con riferimento alle esperienze maturate:</span></p>\n<ul type=\"disc\">\n <li><span style=\"font-family: 'Times New Roman',serif;\">esperienza documentata in attività di consulenza finanziaria in operazioni di M&amp;A o in progetti di investimento di valore significativo;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">redazione di studi, report e documenti tecnici per enti pubblici e centri di ricerca;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">conoscenza della normativa europea e nazionale, delle procedure e degli strumenti di attuazione, gestione e monitoraggio degli investimenti pubblici;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">partecipazione a comitati tecnici o organismi di governance;</span></li>\n <li><span style=\"font-family: 'Times New Roman',serif;\">esperienze documentate in attrazione degli investimenti;</span></li>\n</ul>\n<p><span style=\"font-family: 'Times New Roman',serif;\">&nbsp;</span></p>\n<table>\n <tbody>\n  <tr>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Tipo di contratto</span></p>\n   </td>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Incarico di lavoro autonomo</span></p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Durata del contratto</span></p>\n   </td>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Fino al 31 dicembre 2026, salvo proroghe</span></p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Corrispettivo lordo massimo annuo</span></p>\n   </td>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">€ 50.000,00</span></p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Termine della procedura (conferimento dell’incarico)</span></p>\n   </td>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Entro il 28 febbraio 2026</span></p>\n   </td>\n  </tr>\n  <tr>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Ambito territoriale di svolgimento della prestazione</span></p>\n   </td>\n   <td>\n    <p><span style=\"font-family: 'Times New Roman',serif;\">Roma</span></p>\n   </td>\n  </tr>\n </tbody>\n</table>\n<p><span style=\"font-family: 'Times New Roman',serif;\">&nbsp;</span><span style=\"font-family: 'Times New Roman',serif;\">Ai sensi del D. Lgs. 30 giugno 2003, n. 196, come integrato dal D.lgs. 10 agosto 2018, n. 101, e dal Regolamento UE 2016/679 del 27 aprile 2016, i dati personali forniti dai candidati saranno raccolti e trattati per le finalità di gestione della presente procedura selettiva e per l'eventuale conferimento dell'incarico.</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=5fba3ba8420744d3a0f192ba25bcfb03",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-10",
-            "title": "Avviso di selezione pubblica per il conferimento di n. 10 (dieci) incarichi, con contratto di lavoro autonomo di natura professionale di: Esperti/e in politiche giovanili, animazione socio-educativa giovanile e valutazione delle politiche pubbliche connesse ad Agenda 2030",
-            "description": "<p><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; letter-spacing: .25pt; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">Avviso di selezione pubblica per il conferimento di n. 10 (dieci) incarichi, con contratto di lavoro autonomo di natura professionale di:</span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\"> <a></a><span style=\"mso-bidi-font-style: italic;\">Esperti/e in politiche giovanili, animazione socio-educativa giovanile e valutazione delle politiche pubbliche connesse ad Agenda 2030 per le esigenze del Progetto “Verso una governance inclusiva e intergenerazionale delle Agende 2030 locali: sperimentazione di un modello partecipativo di valutazione d’impatto generazionale”</span><span style=\"mso-bidi-font-style: italic;\"> - Avviso SNSvS4 - CUP<span style=\"mso-spacerun: yes;\">&nbsp; </span>B37G25000580001&nbsp;</span></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f26b61847a05478585f0fd015f4fae18",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "SELEZIONE PUBBLICA MEDIANTE COLLOQUIO ATTITUDINALE E VERIFICA DEI REQUISITI PER L'AFFIDAMENTO DI UN INCARICO IN REGIME DI LIBERA PROFESSIONE CON P.IVA PER IL PROFILO DI PSICOLOGO.",
-            "description": "<p>SELEZIONE PUBBLICA MEDIANTE COLLOQUIO ATTITUDINALE E VERIFICA DEI REQUISITI PER L'AFFIDAMENTO DI UN INCARICO IN REGIME DI LIBERA PROFESSIONE CON P.IVA PER IL PROFILO DI PSICOLOGO.&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ce95175cbb4f4e418affaf98dfc4e732",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-29",
-            "title": "Selezione pubblica, per titoli, incarico di lavoro autonomo mesi due, Accordo di Cooperazione ex Art. 15 Legge 241/1990 Strategia Regionale per lo Sviluppo Sostenibile, stipulato tra la Regione Puglia e l’Università degli Studi di Bari “Aldo Moro” – Dipartimento di Ricerca e Innovazione Umanistica (CUP: B93C25000760002), di cui è Responsabile la Prof.ssa Gabriella Calvano",
-            "description": "<p>Reclutamento di una unità di personale con contratto di lavoro autonomo, con personale laureato, estraneo all’Università degli Studi di Bari Aldo Moro, ad alto contenuto specialistico, per lo svolgimento delle attività strumentali e di supporto alla ricerca connesse alla realizzazione dell'Accordo di Cooperazione ex Art. 15 Legge 241/1990 per lo svolgimento di attività di interesse comune relative all’attuazione della Strategia Regionale per lo Sviluppo Sostenibile, stipulato tra la Regione Puglia e l’Università degli Studi di Bari “Aldo Moro” – Dipartimento di Ricerca e Innovazione Umanistica (CUP: B93C25000760002), di cui è Responsabile la Prof.ssa Gabriella Calvano</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e79141d7e6954174bc722a50c0f33e29",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-29",
-            "title": "Selezione pubblica, per titoli, incarico di lavoro autonomo mesi due, Accordo di Cooperazione ex Art. 15 Legge 241/1990 Strategia Regionale per lo Sviluppo Sostenibile, stipulato tra la Regione Puglia e l’Università degli Studi di Bari “Aldo Moro” – Dipartimento di Ricerca e Innovazione Umanistica (CUP: B93C25000760002), di cui è Responsabile la Prof.ssa Gabriella Calvano",
-            "description": "<p>Reclutamento di una unità di personale con contratto di lavoro autonomo, con personale laureato, estraneo all’Università degli&nbsp;Studi di Bari Aldo Moro, ad alto contenuto specialistico, per lo svolgimento delle attività strumentali e di supporto alla ricerca&nbsp;connesse alla realizzazione dell'<span>Accordo di Cooperazione ex Art. 15 Legge 241/1990 per lo svolgimento di attività di interesse comune relative all’attuazione della Strategia Regionale per lo Sviluppo Sostenibile, stipulato tra la Regione Puglia e l’Università degli Studi di Bari “Aldo Moro” – Dipartimento di Ricerca e Innovazione Umanistica (CUP: B93C25000760002), di cui è Responsabile la Prof.ssa Gabriella Calvano</span>\n <br>\n <br></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=55162c03798840538c8b596f3d952680",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-29",
-            "title": "Avviso ad altri Enti per utilizzo di graduatorie di concorso pubblico in corso di validità per l'assunzione a tempo indeterminato e pieno di n. 2 Funzionario Amministrativo Contabile",
-            "description": "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">In attuazione della pianificazione del fabbisogno di personale per il triennio 2025-2027 e del relativo piano occupazionale per il 2025, il Comune di Cerignola, in assenza di graduatorie proprie, ha previsto il reclutamento di n. 2 FUNZIONARIO AMMINISTRATIVO CONTABILE attraverso l’utilizzo delle graduatorie di altri Enti in corso di validità.</span></p>\n<p><span style=\"font-size: 12pt; font-family: 'times new roman', times, serif;\">Al fine di procedere all’assunzione a tempo indeterminato delle unità di personale indicate, si pubblica il presente avviso per individuare PP.AA., dotate di graduatorie a tempo indeterminato per analoga famiglia professionale e regime giuridico, in corso di validità approvate a seguito di pubblici concorsi, disponibili ad autorizzarne l’utilizzo.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Per lo scopo le PP.AA. disponibili ad autorizzare al Comune di Cerignola l’utilizzo di graduatorie di cui all’oggetto, sono invitate a comunicare a mezzo PEC all’indirizzo:&nbsp;<a href=\"mailto:protocollo.comune.cerignola@pec.rupar.puglia.it\"><span style=\"mso-bookmark: _Hlk214452230;\">protocollo.comune.cerignola@pec.rupar.puglia.it</span></a><span style=\"mso-bookmark: _Hlk214452230;\"> <strong><span style=\"text-decoration: underline;\">entro il 29 dicembre 2025,</span></strong> la disponibilità a stipulare convenzione di utilizzo delle graduatorie.</span></span></p>\n<p><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">In caso di pluralità di riscontri, la scelta della P.A. o delle PP.AA. con la/le quale/i convenzionarsi per l’utilizzo della/delle graduatoria/e, avverrà secondo i seguenti criteri elencati in ordine di priorità: distanza in Km tra gli Enti, Enti già precedentemente convenzionati.</span></p>\n<p><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">In caso di mancato riscontro entro il termine suddetto il Comune procederà ad individuare l’Ente con cui convenzionarsi adottando preferibilmente i medesimi criteri di cui sopra.</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2764227396b541e085ba28e62cdc1d30",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "Procedura comparativa pubblica, per titoli e colloquio, per l’attribuzione di n. 5 contratti di prestazione d’opera professionale ex art.7, comma 6 del D.lgs. 165/2001 e ss.mm.ii.",
-            "description": "<p>PROCEDURA COMPARATIVA PUBBLICA PER TITOLI E COLLOQUIO PER L'ATTRIBUZIONE DI N. 5 CONTRATTI DI PRESTAZIONE&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=92be7e311a7c45f5912c020c6fcabfd5",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-16",
-            "title": "Culture Moves Europe - Bando per ospitare residenze artistiche",
-            "description": "Culture Moves Europe è un programma di mobilità che promuove la mobilità culturale e artistica in tutti i Paesi di Europa Creativa.Il programma consiste in due linee d'azione:Azione di mobilità individuale: per artisti e professionisti della cultura che desiderano viaggiare e realizzare un progetto con un partner internazionale;Azione di residenza: per enti giuridici che desiderano ospitare residenze e invitare artisti e professionisti della cultura internazionali.L'Azione Residenza di Culture Moves Europe fornisce un sostegno finanziario a persone giuridiche interessate a ospitare artisti e professionisti della cultura per un progetto di residenza. L'azione incoraggia la collaborazione tra gli ospitanti, gli artisti e i professionisti della cultura di diverse discipline e provenienze. Attraverso questa azione, Culture Moves Europe mira a sviluppare ulteriormente un ecosistema artistico e culturale affiatato in tutta l'Unione Europea e oltre.",
-            "link": "https://www.obiettivoeuropa.com/bandi/culture-moves-europe-bando-per-ospitare-residenze-artistiche",
-            "custom": {
-                "custom": {
-                    "Topics": "Abbigliamento, Arte e Cultura, Danza, Formazione e lavoro, Libro e lettura, Media e informazione, Musica, Sviluppo e promozione territoriale, Teatro",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-04-16",
-            "title": "CERV - Contributi per implementare progetti di Reti fra Città",
-            "description": "Il Programma CERV (Cittadinanza, Eguaglianza, Diritti e Valori) intende fornire finanziamenti per azioni volte a sostenere l’uguaglianza, l'impegno dei cittadini, l'attuazione dei diritti e dei valori dell'UE.In tale contesto si inserisce il bando “Reti fra città” che, con il fine di ampliare la prospettiva dei cittadini dell’UE, intende finanziare progetti che incentivino il senso di appartenenza e identità europee attraverso attività che implementino le reti fra le città.In particolare, il bando risponde ai seguenti obiettivi:Promuovere gli scambi tra cittadini di diversi Paesi, in particolare attraverso reti di città, offrendo un’esperienza della ricchezza e della diversità del patrimonio comune dell’UnioneSviluppare reti sostenibili di città, approfondendo e rafforzando la loro cooperazione, definendo al contempo attività comuni volte a promuovere i valori dell’Unione e i diritti fondamentaliSostenere in modo inclusivo l’impegno e la partecipazione dei cittadini alla vita democratica e all’elaborazione delle politiche pubbliche a livello locale",
-            "link": "https://www.obiettivoeuropa.com/bandi/cerv-contributi-per-implementare-progetti-di-reti-fra-citta",
-            "custom": {
-                "custom": {
-                    "Topics": "Asilo e migrazione, Cooperazione Internazionale, Cybersecurity, Diritti e Cittadinanza, Educazione e istruzione, Fiere ed eventi, Formazione e lavoro, Giustizia e sicurezza, Inclusione Sociale e Solidarietà, Media e informazione, Migrazione e sviluppo, Parità di genere, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 12.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-05-15",
-            "title": "Friuli-Venezia Giulia - Contributi per trasferimento dati PEBA nel sistema informativo",
-            "description": "La Regionale Friuli- Venezia Giulia concede ai Comuni un contributo, una tantum, a copertura dei costi sostenuti per trasferire i dati contenuti nei Piani di Eliminazione delle Barriere Architettoniche (PEBA) elaborati senza l’ausilio dell’applicativo fornito dalla regione, nel sistema informativo unico regionale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-contributi-per-trasferimento-dati-peba-nel-sistema-informativo",
-            "custom": {
-                "custom": {
-                    "Topics": "Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Sviluppo e promozione territoriale",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-04",
-            "title": "iCOSHELLs - Open Call: Nuove innovazioni e soluzioni da testare dai Living Labs",
-            "description": "L’Open Call del progetto europeo iCOSHELLs ha l’obiettivo di coinvolgere nuovi attori e nuove soluzioni innovative nei Living Labs già attivi in diversi Paesi europei, per testare e validare in contesti reali prototipi orientati al miglioramento della salute del suolo. I progetti selezionati entrano a far parte a pieno titolo dei Living Labs e partecipano a processi di co-creazione, sperimentazione sul campo, monitoraggio e apprendimento collettivo, contribuendo agli obiettivi della Missione UE “A Soil Deal for Europe”, in particolare su riduzione dell’inquinamento del suolo, miglioramento della biodiversità e incremento della consapevolezza (soil literacy).",
-            "link": "https://www.obiettivoeuropa.com/bandi/icoshells-open-call-nuove-innovazioni-e-soluzioni-da-testare-dai-living-labs",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ricerca Scientifica, Sviluppo e promozione territoriale",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Lazio - Avviso Pubblico per la realizzazione di progetti nel campo della cybersecurity",
-            "description": "La Regione Lazio finanzia progetti sperimentali per rafforzare la consapevolezza e la cultura della cybersicurezza e le tecnologie abilitanti (e.g. IoT, AI, Blockchain, 5G, etc.) al fine di sviluppare competenze qualificate nel settore. L’avviso mira a combinare formazione/informazione nelle scuole e iniziative divulgative sul territorio per giovani, con attenzione anche agli sbocchi professionali e al collegamento con il mercato del lavoro.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lazio-avviso-pubblico-per-la-realizzazione-di-progetti-nel-campo-della-cybersecurity",
-            "custom": {
-                "custom": {
-                    "Topics": "Cybersecurity, Educazione e istruzione, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione",
-                    "Stanziamento": "€ 500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-27",
-            "title": "Toscana - Finanziamenti per l'inserimento lavorativo di cittadini dei Paesi terzi",
-            "description": "L’avviso mira a promuovere l’inserimento e/o il reinserimento stabile e di qualità nel mercato del lavoro delle cittadine e dei cittadini di Paesi terzi, attraverso percorsi sperimentali integrati che combinano politiche attive, tirocinio e formazione, insieme a misure di accompagnamento per sostenere l’autonomia economica e favorire l’inclusione nelle organizzazioni aziendali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/toscana-finanziamenti-per-linserimento-lavorativo-di-cittadini-dei-paesi-terzi",
-            "custom": {
-                "custom": {
-                    "Topics": "Formazione e lavoro, Inclusione Sociale e Solidarietà, Supporto alle imprese",
-                    "Stanziamento": "€ 600.000"
                 }
             }
         }

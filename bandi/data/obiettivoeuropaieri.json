@@ -1,6 +1,606 @@
 {
-    "scraping_timestamp": "2025-12-19 05:30:51",
+    "scraping_timestamp": "2025-12-20 07:07:24",
     "data": [
+        {
+            "deadline": "2026-01-30",
+            "title": "Fondazione CR Firenze - Conservazione e valorizzazione Biblioteche e Archivi",
+            "description": "Attraverso il bando la Fondazione CR Firenze intende sostenere azioni di promozione, restauro e valorizzazione relativi a luoghi della cultura intesi quali: Biblioteche e Archivi storici. Nello specifico, il bando ha l’obiettivo di:rafforzare e innovare il complesso di azioni, strumenti e servizi di Biblioteche e Archivi agli utenti, migliorandone la diffusione di contenuti;favorire lo sviluppo di azioni volte a stimolare la partecipazione culturale e la frequentazione dei luoghi della cultura come stimolo al benessere e alla crescita intellettuale e civile della comunità, con particolare riferimento alle scuole.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cr-firenze-conservazione-e-valorizzazione-biblioteche-e-archivi",
+            "custom": {
+                "Topics": "Arte e Cultura, Edilizia, Educazione e istruzione, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-02",
+            "title": "Lombardia – Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agromeccaniche",
+            "description": "L’azione regionale si pone l’obiettivo di:stimolare la competitività del settore della prestazione di servizi agromeccanici; - promuovere la gestione sostenibile delle attività agromeccaniche;garantire la gestione sostenibile delle risorse naturali;contribuire, nello specifico, alle azioni per la qualità dell'aria e per il clima attraverso lo sviluppo di interventi volti alla riduzione delle emissioni in atmosfera derivanti dalla gestione e distribuzione degli effluenti di allevamento/digestato",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-azione-regionale-volta-alla-riduzione-delle-emissioni-prodotte-dalle-attivita-agromeccaniche",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 1.185.883"
+            }
+        },
+        {
+            "deadline": "2026-03-12",
+            "title": "CEF - Energie rinnovabili transfrontaliere",
+            "description": "Il regolamento (UE) 2021/1153 del Parlamento europeo e del Consiglio che istituisce il Meccanismo per collegare l'Europa (Connecting Europe Facility - CEF) sostiene le infrastrutture e la connettività in Europa nei tre settori dei trasporti, dell'energia e del digitale. Per il periodo di finanziamento 2021-2027, una nuova categoria di progetti ammissibili è presente nella parte energetica del programma CEF rivisto: i progetti transfrontalieri nel campo delle energie rinnovabili (progetti CB RES).L'invito riguarda i seguenti Topic:CEF-E-2026-CBRENEW - Lavori - CEF2 Energia - Progetti transfrontalieri di energia rinnovabileCEF-E-2026-CBRENEW - Studi - CEF2 Energia - Progetti transfrontalieri di energia rinnovabileEntrambi i temi mirano a consentire l'attuazione di progetti CB RES con significativi benefici socioeconomici, nell'ambito del settore delle energie rinnovabili e, in particolare, per sostenere la cooperazione transfrontaliera nel campo delle energie rinnovabili. In particolare, l'assistenza finanziaria nell'ambito dell’invito contribuirà a sostenere i progetti CB RES che non ricevono finanziamenti adeguati dal mercato e dovrebbe massimizzare il suo valore aggiunto per l'adozione di investimenti nelle energie rinnovabili.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cef-energie-rinnovabili-transfrontaliere",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Giustizia e sicurezza, Innovazione tecnologica, digitalizzazione, ICT, Transizione energetica",
+                "Stanziamento": "€ 150.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "EIT Urban Mobility - Flagship Accelerator Open Call",
+            "description": "Il bando mira a selezionare organizzazioni incaricate di progettare e realizzare il Flagship Accelerator Programme di EIT Urban Mobility per il periodo 2026–2028. L’obiettivo principale del programma è individuare, supportare e far crescere startup early-stage (pre-seed) altamente innovative nel settore della mobilità urbana sostenibile, creando al contempo un flusso strutturato di opportunità di investimento de-risked coerente con la strategia di impact investing di EIT Urban Mobility.",
+            "link": "https://www.obiettivoeuropa.com/bandi/eit-urban-mobility-flagship-accelerator-open-call",
+            "custom": {
+                "Topics": "Competitività imprese, Formazione e lavoro, Mobilità sostenibile, Supporto alle imprese",
+                "Stanziamento": "€ 1.500.000"
+            }
+        },
+        {
+            "deadline": "2026-01-20",
+            "title": "Interreg VI-A Italia–Malta - Targeted call 2/2025 per la presentazione di progetti di cooperazione",
+            "description": "L’avviso pubblico è diretto ad acquisire proposte progettuali puntuali, concrete e cantierabili a valere sugli obiettivi specifici collegati alle 4 priorità del Programma. In particolare, l’avviso si configura come una “targeted call” rivolta a proposte progettuali su temi che non sono stati sufficientemente trattati dai progetti finora finanziati.",
+            "link": "https://www.obiettivoeuropa.com/bandi/interreg-vi-a-italiamalta-targeted-call-22025-per-la-presentazione-di-progetti-di-cooperazione",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Aiuti umanitari e Protezione civile, Ambiente e Sviluppo sostenibile, Arte e Cultura, Cooperazione Internazionale, Economia circolare, Green economy, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Sanità, Servizi, Supporto alle imprese, Sviluppo e promozione territoriale, Transizione digitale, Transizione ecologica, Transizione energetica, Turismo",
+                "Stanziamento": "€ 24.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-10",
+            "title": "Provincia autonoma di Bolzano - Reti di teleriscaldamento",
+            "description": "Il bando promuove la costruzione di condotte efficienti per il teleriscaldamento e il teleraffrescamento ai sensi dell'articolo 2, punto 41, della direttiva 2012/27/UE esclusivamente nelle aree servite delimitate per la prima volta tramite decreto del direttore dell'Agenzia provinciale per l'Ambiente e la tutela del clima dopo il 31 dicembre 2019.",
+            "link": "https://www.obiettivoeuropa.com/bandi/provincia-autonoma-di-bolzano-reti-di-teleriscaldamento",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 5.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "CCIAA Cremona-Mantova-Pavia - Bando Transizione Ecologica",
+            "description": "La CCIAA di Mantova intende promuovere la transizione ecologica delle MPMI mantovane, nell’ambito del progetto di supporto alla doppia transizione digitale ed ecologica autorizzato dal Ministro delle Imprese e del Made in Italy.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-mantova-bando-transizione-ecologica",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Supporto alle imprese",
+                "Stanziamento": "€ 30.000"
+            }
+        },
+        {
+            "deadline": "2026-03-16",
+            "title": "Culture Moves Europe - Bando per ospitare residenze artistiche",
+            "description": "Culture Moves Europe è un programma di mobilità che promuove la mobilità culturale e artistica in tutti i Paesi di Europa Creativa.Il programma consiste in due linee d'azione:Azione di mobilità individuale: per artisti e professionisti della cultura che desiderano viaggiare e realizzare un progetto con un partner internazionale;Azione di residenza: per enti giuridici che desiderano ospitare residenze e invitare artisti e professionisti della cultura internazionali.L'Azione Residenza di Culture Moves Europe fornisce un sostegno finanziario a persone giuridiche interessate a ospitare artisti e professionisti della cultura per un progetto di residenza. L'azione incoraggia la collaborazione tra gli ospitanti, gli artisti e i professionisti della cultura di diverse discipline e provenienze. Attraverso questa azione, Culture Moves Europe mira a sviluppare ulteriormente un ecosistema artistico e culturale affiatato in tutta l'Unione Europea e oltre.",
+            "link": "https://www.obiettivoeuropa.com/bandi/culture-moves-europe-bando-per-ospitare-residenze-artistiche",
+            "custom": {
+                "Topics": "Abbigliamento, Arte e Cultura, Danza, Formazione e lavoro, Libro e lettura, Media e informazione, Musica, Sviluppo e promozione territoriale, Teatro",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-02",
+            "title": "CCIAA Umbria - Bando per la partecipazione a fiere in Italia e all’estero",
+            "description": "La Camera di Commercio dell’Umbria, al fine di sostenere le imprese nei processi di conoscenza dei mercati italiani ed internazionali e favorirne i processi di internazionalizzazione, prevede la concessione di contributi a favore delle micro e piccole imprese, volti ad incentivare la partecipazione a fiere di rilevanza internazionale in Italia e all’estero.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-umbria-bando-per-la-partecipazione-a-fiere-in-italia-e-allestero",
+            "custom": {
+                "Topics": "Competitività imprese, Fiere ed eventi, Internazionalizzazione, Media e informazione, Supporto alle imprese",
+                "Stanziamento": "€ 150.000"
+            }
+        },
+        {
+            "deadline": "2026-01-30",
+            "title": "Piemonte - Intervento SRD05: Azione SRD05.2 Impianto di arboricoltura a ciclo breve (pioppicoltura) su superfici agricole",
+            "description": "L’azione SRD05.2 “Impianto di arboricoltura a ciclo breve o medio-lungo su superfici agricole” sostiene la realizzazione di impianti con finalità multiple (ambientali, paesaggistiche, socio-ricreative, produttive), realizzati con specie forestali arboree e arbustive autoctone di origine certificata, di antico indigenato o altre specie forestali adatte alle condizioni ambientali locali, compresi i cloni di pioppo, reversibili al termine del ciclo colturale.Nello specifico, il bando prevede il finanziamento di nuovi impianti di arboricoltura a ciclo breve (pioppicoltura): piantagioni arboree temporanee con cloni di pioppo, escludendo la pioppicoltura ordinaria (monoclonale), di durata minima pari a 8 anni.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-csr-2023-2027-intervento-srd05-azione-srd052-impianto-di-arboricoltura-a-ciclo-breve-pioppicoltura-su-superfici-agricole",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Supporto alle imprese, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 1.956.394"
+            }
+        },
+        {
+            "deadline": "2027-01-19",
+            "title": "Emilia-Romagna - Percorsi personalizzati per la formazione e l'inclusione dei minori stranieri non accompagnati",
+            "description": "L’Avviso rende disponibili percorsi personalizzati rivolti ai minori stranieri non accompagnati per garantire la loro piena partecipazione e fruizione dell’offerta formativa di IeFP realizzata dagli enti di formazione professionale accreditati, per accompagnarli nell’assolvimento del diritto dovere all’istruzione e alla formazione e nella costruzione di un proprio percorso per la transizione verso il mercato del lavoro.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-percorsi-personalizzati-per-la-formazione-e-linclusione-dei-minori-stranieri-non-accompagnati",
+            "custom": {
+                "Topics": "Aiuti umanitari e Protezione civile, Asilo e migrazione, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà",
+                "Stanziamento": "€ 3.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-22",
+            "title": "Lombardia - Ri.Circo.Lo. Risorse Circolari in Lombardia per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare",
+            "description": "La misura è relativa ad azioni di simbiosi industriale, prevenzione della produzione dei rifiuti alimentari (art. 183, lett. d-bis) del d.lgs. 152/06 e s.m.i.), ottimizzazioni in ambito di sostenibilità di lavorazione e consumo di alimenti e azioni per la riduzione dello spreco alimentare e riciclaggio.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-ricircolo-risorse-circolari-in-lombardia-per-il-sostegno-alle-pmi-lombarde-per-lo-sviluppo-di-azioni-di-economia-circolare",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
+                "Stanziamento": "€ 2.300.000"
+            }
+        },
+        {
+            "deadline": "2026-04-30",
+            "title": "Piemonte - Promozione della diffusione del teleriscaldamento efficiente",
+            "description": "Il bando intende promuovere l’efficienza energetica e ridurre le emissioni di gas a effetto serra attraverso investimenti per la diffusione del teleriscaldamento efficiente alimenta o integra da fon rinnovabili e/o da calore di scarto.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-promozione-della-diffusione-del-teleriscaldamento-efficiente",
+            "custom": {
+                "Topics": "Acquisto macchinari e/o attrezzature, Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Supporto alle imprese, Transizione ecologica, Transizione energetica",
+                "Stanziamento": "€ 12.750.000"
+            }
+        },
+        {
+            "deadline": "2027-08-31",
+            "title": "Piemonte - Fondo rischi Confidi e voucher finanziamenti",
+            "description": "La misura “Fondo rischi Confidi e voucher finanziamenti” del PR FESR Piemonte 2021–2027 mira a favorire l’accesso al credito delle PMI piemontesi che non riescono a ottenere finanziamenti sufficienti dal mercato. Il sostegno riguarda operazioni finalizzate a investimenti in beni materiali/immateriali o capitale circolante.La misura combina:garanzie rilasciate da Confidi selezionati, sostenute da un Fondo rischi regionale;voucher a fondo perduto destinati a ridurre i costi della garanzia e gli interessi del finanziamento",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-fondo-rischi-confidi-e-voucher-finanziamenti",
+            "custom": {
+                "Topics": "Acquisto macchinari e/o attrezzature, Supporto alle imprese",
+                "Stanziamento": "€ 10.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-30",
+            "title": "AICS - Sviluppo rurale inclusivo e sostenibile nel Nord dell’Albania",
+            "description": "L’avviso di AICS Tirana mira ad affidare a un’Associazione Temporanea di Scopo (ATS) di Organizzazioni della Società Civile l’attuazione dell’iniziativa triennale “Sviluppo rurale inclusivo e sostenibile nel Nord dell’Albania” (AID 13007). L’obiettivo generale è contribuire allo sviluppo sostenibile e inclusivo delle aree rurali e marginali del nord del Paese (prefetture di Shkoder, Lezhe e Kukes), rafforzando le comunità locali attraverso un’agricoltura sostenibile, la tutela dell’ambiente, la promozione dell’eco-turismo e dell’agriturismo e la valorizzazione delle risorse ambientali, naturalistiche, agricole, culturali e della biodiversità locali. L’iniziativa punta ad aumentare il reddito di piccoli agricoltori e allevatori, migliorare le condizioni socio-economiche delle comunità rurali, favorire l’occupazione – con particolare attenzione a giovani e donne – e rafforzare la consapevolezza sui cambiamenti climatici, in un’ottica di equità di genere e di integrazione delle donne nei processi di sviluppo (gender mainstreaming).",
+            "link": "https://www.obiettivoeuropa.com/bandi/aics-sviluppo-rurale-inclusivo-e-sostenibile-nel-nord-dellalbania",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Cooperazione Internazionale, Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Marginalità sociale, Sostenibilità sociale, Turismo",
+                "Stanziamento": "€ 4.800.000"
+            }
+        },
+        {
+            "deadline": "2026-11-16",
+            "title": "Lombardia - Contributi per iniziative e manifestazioni di rilievo regionale",
+            "description": "La Regione Lombardia intende sostenere iniziative culturali, scientifiche, educative, sportive, economiche e sociali, a carattere regionale, nazionale e internazionale, di rilevante importanza.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-contributi-per-iniziative-e-manifestazioni-di-rilievo-regionale",
+            "custom": {
+                "Topics": "Arte e Cultura, Sport, Supporto alle imprese, Sviluppo e promozione territoriale, Turismo",
+                "Stanziamento": "€ 490.000"
+            }
+        },
+        {
+            "deadline": "2027-03-31",
+            "title": "CCIAA Milano - Negozi e Botteghe",
+            "description": "Il Comune di Milano sta realizzando un Programma Triennale di interventi per l’Economia di Prossimità la cui finalità è sostenere il piccolo commercio, l’artigianato, i servizi di quartiere e, in generale, le micro e piccole imprese che si affacciano su strada e garantiscono servizi per i cittadini a breve distanza da casa, opportunità di lavoro per i residenti, sicurezza, vitalità e coesione sociale nei quartieri. Attraverso il bando, promosso in collaborazione con la Camera di commercio Milano Monza Brianza e Lodi, il Comune intende sostenere interventi per aprire o ammodernare micro e piccole attività imprenditoriali con vetrina su strada oltre la circonvallazione esterna attraverso l'erogazione di contributi a fondo perduto e servizi di accompagnamento e supporto.Il bando prevede due diverse Linee di intervento:LINEA 1- VETRINE APERTELINEA 2 - VETRINE DA APRIRE",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-milano-negozi-e-botteghe",
+            "custom": {
+                "Topics": "Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-26",
+            "title": "Emilia-Romagna - Invito a presentare un progetto per l’attivazione di tirocini formativi in ambito turistico per giovani con disabilità",
+            "description": "La Regione Emilia-Romagna intende favorire il protagonismo e la valorizzazione delle persone con disabilità nello sviluppo di nuovi modelli di offerta turistica accessibile ed inclusiva. Tale obiettivo verrà perseguito attraverso l’attivazione di 60 tirocini formativi presso imprese o altre organizzazioni attive nel Turismo, creando opportunità di sviluppo delle competenze e di avvio di sperimentazioni di inclusione lavorativa.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-invito-a-presentare-un-progetto-per-lattivazione-di-tirocini-formativi-in-ambito-turistico-per-giovani-con-disabilita",
+            "custom": {
+                "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Turismo",
+                "Stanziamento": "€ 180.000"
+            }
+        },
+        {
+            "deadline": "2026-02-12",
+            "title": "Bando Erasmus+ 2026: Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento – Mobilità del personale nel campo dello Sport",
+            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. L’azione “Mobilità del personale nel campo dello Sport” mira a contribuire allo sviluppo delle organizzazioni sportive sostenendo la mobilità a fini di apprendimento del loro personale.L'obiettivo generale di questa azione è offrire al personale delle organizzazioni sportive, principalmente nel settore degli sport di base, l'opportunità di migliorare le proprie competenze e qualifiche e di acquisire nuove abilità attraverso la mobilità a fini di apprendimento trascorrendo un periodo all'estero, contribuendo in tal modo allo sviluppo e al rafforzamento delle capacità delle organizzazioni sportive.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-mobilita-del-personale-nel-campo-dello-sport",
+            "custom": {
+                "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Salute e medicina, Sport",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-05",
+            "title": "EPIC-X - Bando aperto per startup deep-tech guidate da donne",
+            "description": "EPIC-X è un progetto con lo scopo di accelerare l’innovazione e liberare il potenziale di eccellenza, collegando gli ecosistemi regionali di tutta Europa. La sua missione è quella di sostenere e valorizzare le startup deep-tech guidate da donne in 16 Paesi europei con livelli di innovazione moderati o emergenti, attraverso un approccio olistico che combina networking, programmi di accelerazione su misura, collaborazione transfrontaliera e politiche mirate.Al cuore di EPIC-X si trova il suo innovativo programma Acceleration+, basato su un’approfondita ricerca e comprensione delle esigenze delle fondatrici di startup deep-tech. Il programma è strutturato attorno a pilastri fondamentali come lo sviluppo avanzato delle tecnologie deep-tech, le Strategie di Specializzazione Intelligente (S3) e le specifiche esigenze ancora insoddisfatte delle imprenditrici. Le startup selezionate partecipano al programma EPIC-X Acceleration+, della durata di sei mesi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/epic-x-bando-aperto-per-startup-deep-tech-guidate-da-donne",
+            "custom": {
+                "Topics": "Competitività imprese, Imprenditoria femminile, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Supporto alle imprese",
+                "Stanziamento": "€ 1.200.000"
+            }
+        },
+        {
+            "deadline": "2026-01-31",
+            "title": "AICS - Risposta multisettoriale per aumentare le possibilità di accesso ai servizi di base per la popolazione più vulnerabile in Libia",
+            "description": "La Call mira a migliorare la qualità della vita delle persone in condizione di maggiore vulnerabilità, con un’attenzione particolare ai rifugiati sudanesi e alle comunità ospitanti. L’iniziativa punta a rafforzare le capacità di risposta locali nei settori salute, istruzione, acqua e igiene (WASH), protezione e sminamento, così da aumentare l’accesso equo, tempestivo e continuativo ai servizi di base e promuovere interventi di prevenzione e risposta ai rischi legati alla presenza di ordigni esplosivi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/aics-risposta-multisettoriale-per-aumentare-le-possibilita-di-accesso-ai-servizi-di-base-per-la-popolazione-piu-vulnerabile-in-libia",
+            "custom": {
+                "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Sostenibilità sociale",
+                "Stanziamento": "€ 5.009.398"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "CERV - Contributi per implementare progetti di Reti fra Città",
+            "description": "Il Programma CERV (Cittadinanza, Eguaglianza, Diritti e Valori) intende fornire finanziamenti per azioni volte a sostenere l’uguaglianza, l'impegno dei cittadini, l'attuazione dei diritti e dei valori dell'UE.In tale contesto si inserisce il bando “Reti fra città” che, con il fine di ampliare la prospettiva dei cittadini dell’UE, intende finanziare progetti che incentivino il senso di appartenenza e identità europee attraverso attività che implementino le reti fra le città.In particolare, il bando risponde ai seguenti obiettivi:Promuovere gli scambi tra cittadini di diversi Paesi, in particolare attraverso reti di città, offrendo un’esperienza della ricchezza e della diversità del patrimonio comune dell’UnioneSviluppare reti sostenibili di città, approfondendo e rafforzando la loro cooperazione, definendo al contempo attività comuni volte a promuovere i valori dell’Unione e i diritti fondamentaliSostenere in modo inclusivo l’impegno e la partecipazione dei cittadini alla vita democratica e all’elaborazione delle politiche pubbliche a livello locale",
+            "link": "https://www.obiettivoeuropa.com/bandi/cerv-contributi-per-implementare-progetti-di-reti-fra-citta",
+            "custom": {
+                "Topics": "Asilo e migrazione, Cooperazione Internazionale, Cybersecurity, Diritti e Cittadinanza, Educazione e istruzione, Fiere ed eventi, Formazione e lavoro, Giustizia e sicurezza, Inclusione Sociale e Solidarietà, Media e informazione, Migrazione e sviluppo, Parità di genere, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 12.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "Lombardia - Sostegno manifestazioni sportive sul territorio lombardo",
+            "description": "La Regione Lombardia con il bando intende sostenere il mondo sportivo lombardo per la realizzazione di manifestazioni sportive, riconducibili a tutte le discipline olimpiche e paralimpiche e alle discipline sportive associate, quale strumento per avvicinare i cittadini alla pratica sportiva e valorizzare il territorio regionale in termini di prestigio legato a vocazione e specificità sportive. I contributi previsti sono volti a sostenere le manifestazioni sportive, a carattere agonistico o dilettantistico, scopo di lucro, che si svolgono dal 1° ottobre 2025 al 30 giugno 2026",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-sostegno-manifestazioni-sportive-sul-territorio-lombardo",
+            "custom": {
+                "Topics": "Fiere ed eventi, Manifestazioni Sportive, Sport, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 1.350.000"
+            }
+        },
+        {
+            "deadline": "2026-01-31",
+            "title": "Umbria - Investimenti non produttivi finalizzati ad arrestare e invertire la perdita di biodiversità e a preservare il paesaggio rurale",
+            "description": "L’intervento sostiene investimenti non produttivi su superfici agricole (anche non utilizzate) con finalità ambientale, puntando alla tutela della biodiversità, alla resilienza climatica, alla salvaguardia degli habitat e del paesaggio rurale.L’Azione 1 mira, in particolare, a rendere il sistema agricolo più resiliente ai cambiamenti climatici, ad arrestare e invertire la perdita di biodiversità, favorire la convivenza tra attività agricole e fauna selvatica, preservare elementi storici e tradizionali del paesaggio rurale e rafforzare gli ecosistemi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/umbria-investimenti-non-produttivi-finalizzati-ad-arrestare-e-invertire-la-perdita-di-biodiversita-e-a-preservare-il-paesaggio-rurale",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Allevamento, Ambiente e Sviluppo sostenibile, Benessere e diritti degli animali, Biodiversità",
+                "Stanziamento": "€ 1.000.000"
+            }
+        },
+        {
+            "deadline": "2026-10-01",
+            "title": "Bando Erasmus+ 2026: Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento – Progetti di mobilità per animatori socioeducativi",
+            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. Nell’ambito di questa azione specifica “Progetti di mobilità per animatori socioeducativi”, le organizzazioni possono ricevere sostegno per realizzare progetti che comprendono una o più attività di apprendimento per lo sviluppo professionale e il rafforzamento delle capacità degli animatori socioeducativi e della loro organizzazione.L'azione sostiene, infatti, lo sviluppo professionale degli animatori socioeducativi e lo sviluppo di un'animazione socioeducativa di qualità a livello locale, regionale, nazionale, europeo e internazionale, grazie a esperienze di apprendimento non formale e informale in attività di mobilità. Più specificamente, i progetti mirano a:fornire opportunità di apprendimento non formale e informale per lo sviluppo educativo e professionale degli animatori socioeducativi, contribuendo a esperienze pratiche individuali di alta qualità nonché all'evoluzione delle organizzazioni attive nell'animazione socioeducativa e dei relativi sistemi;costruire una comunità di animatori socioeducativi in grado di sostenere la qualità dei progetti e delle attività per i giovani nei programmi dell'UE e non solo;sviluppare pratiche locali di animazione socioeducativa e contribuire al rafforzamento delle capacità dei partecipanti e delle loro organizzazioni a favore di un'animazione socioeducativa di qualità, che abbiano un chiaro impatto sul lavoro normalmente svolto dagli animatori socioeducativi con i giovani.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-progetti-di-mobilita-per-animatori-socioeducativi",
+            "custom": {
+                "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Media e informazione",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-31",
+            "title": "Comune di Udine - Bando per il rilancio economico 2025",
+            "description": "Il Comune di Udine, al fine di favorire la ripresa economica e il rafforzamento del tessuto imprenditoriale urbano, con particolare attenzione ai quartieri periferici caratterizzati da fragilità sociodemografiche, ed al centro cittadino del Comune di Udine, dove si registrano fenomeni di desertificazione commerciale e difficoltà di ricambio generazionale, stanzia contributi a fondo perduto per investimenti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/comune-di-udine-bando-per-il-rilancio-economico",
+            "custom": {
+                "Topics": "Artigianato, Commercio, Supporto alle imprese, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 1.400.000"
+            }
+        },
+        {
+            "deadline": "2026-01-30",
+            "title": "GAL Ternano - Bando azione A.2.1. Valorizzazione degli eventi storico culturali e dei prodotti tipici locali",
+            "description": "L’azione mira a rafforzare l’attrattività del territorio ternano-narnese-amerino attraverso la valorizzazione di eventi storico-culturali, iniziative turistiche e prodotti tipici locali. L’intento è promuovere la conoscenza del territorio, sostenere il senso di identità delle comunità rurali, rilanciare l’imprenditorialità locale, aumentare la qualità della vita e contribuire alla fruibilità del territorio sia per residenti che per turisti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/gal-ternano-bando-azione-a21-valorizzazione-degli-eventi-storico-culturali-e-dei-prodotti-tipici-locali",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Arte e Cultura, Artigianato, Festival e mostre, Fiere ed eventi, Gastronomia, Manifestazioni culturali, Marketing e comunicazione, Media e informazione, Sviluppo e promozione territoriale, Turismo",
+                "Stanziamento": "€ 1.200.000"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "Basilicata - Avviso pubblico - Potenziamento delle infrastrutture di ricerca pubbliche lucane in ambito S3",
+            "description": "La Regione con l’avviso intende promuovere il potenziamento e lo sviluppo delle Infrastrutture di Ricerca (IR) pubbliche lucane, anche mediante la loro messa in rete, ed ampliare in tal modo l’offerta di servizi ad alto contenuto tecnico-scientifico a favore delle imprese nei vari ambiti tematici identificati dalla S3 regionale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/basilicata-avviso-pubblico-potenziamento-delle-infrastrutture-di-ricerca-pubbliche-lucane-in-ambito-s3",
+            "custom": {
+                "Topics": "Ammodernamento impianti, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 14.371.429"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Emilia-Romagna - Manifestazione di interesse per l'integrazione dei programmi di ricerca",
+            "description": "La Regione Emilia-Romagna intende sostenere attività di ricerca, di innovazione e di trasferimento tecnologico degli attori protagonisti dell’Ecosistema Regionale dell’Innovazione, i Laboratori e Centri per l’innovazione accreditati (tutte le tipologie) nell’ambito della Rete Alta Tecnologia della Regione Emilia-Romagna, i Clust-ER regionali e le Associazioni Big Data e MUNER, le imprese, i Soggetti Gestori dei Tecnopoli, con l’obiettivo di partecipare alle numerose opportunità di finanziamento diretto della Commissione Europec",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-manifestazione-di-interesse-per-lintegrazione-dei-programmi-di-ricerca",
+            "custom": {
+                "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
+                "Stanziamento": "€ 530.000"
+            }
+        },
+        {
+            "deadline": "2026-12-17",
+            "title": "EIC Accelerator bando 2026",
+            "description": "EIC Accelerator è un programma di finanziamento nell'ambito di Horizon Europe che offre sostegno a start-up e PMI per sviluppare innovazioni ad alto impatto con il potenziale di creare nuovi mercati o di sconvolgere quelli esistenti. L'EIC Accelerator si concentra in particolare sulle innovazioni basate su scoperte scientifiche o scoperte tecnologiche (\"deep tech\"), per le quali è necessario un finanziamento significativo su un lungo periodo di tempo prima che si possano generare ritorni.",
+            "link": "https://www.obiettivoeuropa.com/bandi/eic-accelerator-bando",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Alimentazione e nutrizione, Ambiente e Sviluppo sostenibile, Economia circolare, Energie Rinnovabili, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Ricerca Scientifica, Salute e medicina, Supporto alle imprese, Transizione digitale",
+                "Stanziamento": "€ 634.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-30",
+            "title": "Trentino-Alto Adige - Contributi per attività di interesse regionale",
+            "description": "Sono considerate di interesse regionale tutte le iniziative, manifestazioni, eventi e attività che valorizzano la Regione ed i suoi interessi e che promuovono l’incontro, lo scambio culturale e l’associazionismo nelle comunità della Regione.",
+            "link": "https://www.obiettivoeuropa.com/bandi/trentino-alto-adige-contributi-per-attivita-di-interesse-regionale",
+            "custom": {
+                "Topics": "Arte e Cultura, Manifestazioni culturali, Manifestazioni Sportive, Sviluppo e promozione territoriale",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-05",
+            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Sviluppo di capacità nel campo dello sport",
+            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo. I progetti di sviluppo delle capacità sono progetti di cooperazione internazionale basati su partenariati multilaterali tra organizzazioni attive nel campo dello sport nei paesi aderenti al programma e nei paesi terzi non associati al programma nella regione 1 (Balcani occidentali) e nella regione 2 (vicinato orientale). Tali progetti mirano a sostenere le attività e le politiche sportive nei paesi terzi non associati al programma in quanto veicolo di promozione dei valori e strumento educativo per incentivare lo sviluppo personale e sociale degli individui e costruire comunità più coese. L'azione ha i seguenti obiettivi:accrescere la capacità delle organizzazioni sportive di base;incoraggiare la pratica dello sport e dell'attività fisica nei paesi terzi non associati al programma;promuovere l'inclusione sociale nello sport;promuovere valori positivi attraverso lo sport (quali la correttezza, la tolleranza o lo spirito di squadra);promuovere la cooperazione tra le diverse regioni del mondo attraverso iniziative congiunte.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-sviluppo-di-capacita-nel-campo-dello-sport",
+            "custom": {
+                "Topics": "Asilo e migrazione, Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Manifestazioni Sportive, Marginalità sociale, Sport",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "Bando Erasmus+ 2026: Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento – Scambi virtuali nel campo dell’istruzione superiore e della gioventù",
+            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. In questo contesto, i progetti di scambi virtuali consistono in attività online interpersonali che promuovono il dialogo interculturale e lo sviluppo delle competenze trasversali e consentono a ogni giovane di accedere a un'istruzione internazionale e interculturale di alta qualità (sia formale che non formale) senza bisogno della mobilità fisica.  L'azione ha i seguenti obiettivi:incoraggiare il dialogo interculturale con i paesi terzi non associati al programma e accrescere la tolleranza attraverso interazioni interpersonali online, basandosi su tecnologie digitali e favorevoli ai giovani;promuovere vari tipi di scambi virtuali a complemento della mobilità fisica nell'ambito di Erasmus+, così da consentire a un maggior numero di giovani di beneficiare di un'esperienza interculturale e internazionale;rafforzare il pensiero critico e l'alfabetizzazione mediatica, in particolare nell'uso di Internet e dei social media, ad esempio per contrastare la discriminazione, l'indottrinamento, la polarizzazione e la radicalizzazione violenta;promuovere lo sviluppo delle competenze digitali e trasversali degli studenti, dei giovani e degli animatori socioeducativi, compresa la pratica delle lingue straniere e del lavoro di squadra, in particolare per migliorare l'occupabilità;promuovere la cittadinanza e i valori comuni di libertà, tolleranza e non discriminazione attraverso l'istruzione;rafforzare la dimensione giovanile nelle relazioni dell'UE con i paesi terzi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-scambi-virtuali-nel-campo-dellistruzione-superiore-e-della-gioventu",
+            "custom": {
+                "Topics": "Arte e Cultura, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-05-15",
+            "title": "Friuli-Venezia Giulia - Contributi per trasferimento dati PEBA nel sistema informativo",
+            "description": "La Regionale Friuli- Venezia Giulia concede ai Comuni un contributo, una tantum, a copertura dei costi sostenuti per trasferire i dati contenuti nei Piani di Eliminazione delle Barriere Architettoniche (PEBA) elaborati senza l’ausilio dell’applicativo fornito dalla regione, nel sistema informativo unico regionale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-contributi-per-trasferimento-dati-peba-nel-sistema-informativo",
+            "custom": {
+                "Topics": "Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Sviluppo e promozione territoriale",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-12",
+            "title": "ERDERA - Joint Transnational Call: Risoluzione di casi irrisolti relativi a malattie rare genetiche e non genetiche",
+            "description": "Il bando ERDERA JTC 2026 mira a promuovere progetti di ricerca transnazionali e interdisciplinari dedicati alla risoluzione di casi ancora irrisolti di malattie rare genetiche e non genetiche. L’obiettivo principale è migliorare la diagnosi di pazienti che, nonostante precedenti indagini cliniche e genetiche, rimangono senza una chiara identificazione della causa della malattia. Il bando intende favorire l’integrazione di competenze, dati e approcci innovativi a livello europeo e internazionale, con un forte orientamento ai bisogni dei pazienti e alla futura trasferibilità dei risultati nella pratica clinica.",
+            "link": "https://www.obiettivoeuropa.com/bandi/erdera-joint-transnational-call-risoluzione-di-casi-irrisolti-relativi-a-malattie-rare-genetiche-e-non-genetiche",
+            "custom": {
+                "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Ricerca Scientifica, Salute e medicina, Sanità",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "CREA - Bando Distribuzione di film europei",
+            "description": "Il Programma “Europa Creativa” incentiva azioni a sostegno dei settori culturali e creativi europei.Gli obiettivi generali del Programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Il bando Distribuzione di film europei intende dare sostegno e incoraggiare la distribuzione transnazionale di film europei recenti fornendo fondi ai distributori, in base ai loro risultati di mercato, per ulteriori reinvestimenti nell’acquisizione, promozione e distribuzione (anche online) di film europei non nazionali recenti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-distribuzione-di-film-europei",
+            "custom": {
+                "Topics": "Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
+                "Stanziamento": "€ 34.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-03",
+            "title": "ARISE - Seconda Open Call: Middleware open-source e in tempo reale per l'interazione uomo-robot per l'industria",
+            "description": "Il Progetto ARISE mira a rendere l'Interazione uomo-robot (HRI) industriale più accessibile, più economica e più facile da adattare, in particolare nei settori della sanità, dell'intralogistica e della produzione. L’obiettivo è quello di dotare l'industria europea di un solido middleware open-source, sviluppare un framework HRI umano-centrico affidabile e creare un ecosistema sostenibile per l'innovazione aperta nella robotica industriale.Per raggiungere questo obiettivo, il consorzio del progetto annuncia due bandi aperti agli operatori del settore. Nel secondo bando, ARISE finanzierà fino a 13 progetti di soluzioni HRI-enabled per l'automazione robotica industriale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/arise-1-open-call-middleware-open-source-e-in-tempo-reale-per-linterazione-uomo-robot-per-lindustria",
+            "custom": {
+                "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Sanità, Supporto alle imprese, Transizione digitale",
+                "Stanziamento": "€ 5.200.000"
+            }
+        },
+        {
+            "deadline": "2026-02-04",
+            "title": "iCOSHELLs - Open Call: Nuove innovazioni e soluzioni da testare dai Living Labs",
+            "description": "L’Open Call del progetto europeo iCOSHELLs ha l’obiettivo di coinvolgere nuovi attori e nuove soluzioni innovative nei Living Labs già attivi in diversi Paesi europei, per testare e validare in contesti reali prototipi orientati al miglioramento della salute del suolo. I progetti selezionati entrano a far parte a pieno titolo dei Living Labs e partecipano a processi di co-creazione, sperimentazione sul campo, monitoraggio e apprendimento collettivo, contribuendo agli obiettivi della Missione UE “A Soil Deal for Europe”, in particolare su riduzione dell’inquinamento del suolo, miglioramento della biodiversità e incremento della consapevolezza (soil literacy).",
+            "link": "https://www.obiettivoeuropa.com/bandi/icoshells-open-call-nuove-innovazioni-e-soluzioni-da-testare-dai-living-labs",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ricerca Scientifica, Sviluppo e promozione territoriale",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "CREA - Circolazione delle opere letterarie europee",
+            "description": "Il bando “Circolazione delle opere letterarie europee” intende sostenere progetti che prevedano attività di traduzione, pubblicazione, distribuzione e promozione di opere letterarie.Le priorità del bando sono:aumentare la circolazione transnazionale e la diversità delle opere letterarie europee, attraverso la traduzione, la pubblicazione, la distribuzione e la promozione di opere di narrativa scritte in lingue meno diffuse. promuovere la lettura e la diversità linguistica e culturale della letteratura europea presso un vasto pubblico. sostenere la professione di traduttore letterario in linea con i principi di buone condizioni di lavoro e di equa retribuzione.aumentare la competitività del settore librario incoraggiando la cooperazione tra i diversi attori della catena del valore del libro, in particolare tra editori, librerie e biblioteche.",
+            "link": "https://www.obiettivoeuropa.com/bandi/europa-creativa-circolazione-delle-opere-letterarie-europee",
+            "custom": {
+                "Topics": "Arte e Cultura, Editoria e informazione, Educazione e istruzione, Libro e lettura, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
+                "Stanziamento": "€ 5.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-21",
+            "title": "ERA4Health – Call PREVENT-OO: Comprendere e prevenire sovrappeso e obesità",
+            "description": "Attraverso il bando, ERA4health offre agli scienziati di diversi Paesi la possibilità di costruire una collaborazione di valore su progetti di ricerca interdisciplinari comuni, basati sulla complementarità e sulla condivisione delle competenze nel campo dell’obesità, con un chiaro approccio di ricerca traslazionale.Un coinvolgimento approfondito e bidirezionale di diversi attori contribuirà a sviluppare strategie di ricerca efficaci promuovendo la cooperazione a livello transnazionale e aprendo la strada a nuove conoscenze e nuove strategie di prevenzione per gli europei e non solo.I risultati dei progetti finanziati contribuiranno a ridurre il peso del sovrappeso e dell’obesità in Europa grazie a una migliore comprensione dei meccanismi, ancora poco studiati, alla base di sovrappeso e obesità, il che permetterà di sviluppare nuove strategie preventive e terapeutiche più mirate.",
+            "link": "https://www.obiettivoeuropa.com/bandi/era4health-call-prevent-oo-comprendere-e-prevenire-sovrappeso-e-obesita",
+            "custom": {
+                "Topics": "Ricerca Scientifica, Salute e medicina, Sanità",
+                "Stanziamento": "€ 18.940.000"
+            }
+        },
+        {
+            "deadline": "2026-02-05",
+            "title": "LEAP-SE - Bando Europa-Africa per la Ricerca e l’Innovazione sull’Energia Sostenibile – 2026",
+            "description": "I membri del consorzio LEAP-SE lanciano la seconda edizione di un bando congiunto transnazionale per proposte, cofinanziato da enti europei e africani di finanziamento della ricerca, con un ulteriore contributo della Commissione Europea.Il bando mira a rafforzare la partnership a lungo termine tra Europa e Africa sulla ricerca e innovazione nel campo dell’energia sostenibile, sostenendo progetti che affrontino l’intera filiera energetica. L’intento è contribuire alla transizione energetica africana, favorendo soluzioni tecnologiche e modelli innovativi adatti ai contesti locali, promuovendo al tempo stesso capacità di pianificazione energetica, sostenibilità sociale ed economica, e cooperazione tra attori pubblici, privati e del mondo della ricerca.",
+            "link": "https://www.obiettivoeuropa.com/bandi/leap-se-bando-europa-africa-per-la-ricerca-e-linnovazione-sullenergia-sostenibile",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Innovazione tecnologica, digitalizzazione, ICT, Mobilità sostenibile, Ricerca Scientifica, Sviluppo e promozione territoriale, Transizione ecologica, Transizione energetica",
+                "Stanziamento": "€ 16.500.000"
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "Lombardia - Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo",
+            "description": "La misura intende sostenere la realizzazione di Grandi eventi sportivi di rilevanza internazionale organizzati sul territorio lombardo che, per valore e prestigio e specificità contribuiscono, nel semestre successivo ai Giochi olimpici e paralimpici invernali, a dare continuità all’azione di promozione dell’immagine regionale e alla valorizzazione del territorio lombardo, assicurando visibilità e rappresentatività alle diverse realtà locali. I contributi previsti sono volti a sostenere gli eventi che si svolgono dal 1° aprile 2026 al 30 settembre 2026.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-grandi-eventi-sportivi-sul-territorio-lombardo",
+            "custom": {
+                "Topics": "Inclusione Sociale e Solidarietà, Sport, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 500.000"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "CCIAA Bolzano - Interventi per la promozione della digitalizzazione delle microimprese",
+            "description": "Il bando intende erogare dei contributi alle microimprese per interventi diretti ad incentivarne le competenze ed i servizi digitali al fine di incrementarne l’ammodernamento e la competitività.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-bolzano-interventi-per-la-promozione-della-digitalizzazione-delle-microimprese",
+            "custom": {
+                "Topics": "Competitività imprese, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Transizione digitale",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "GAL Terre Astigiane – Bando Intervento SRD14: Investimenti produttivi non agricoli in aree rurali",
+            "description": "L’intervento sostiene la creazione e lo sviluppo di attività extra-agricole nelle aree rurali, con l’obiettivo di mantenerne l’attrattività e contrastarne lo spopolamento. Mira, inoltre, a migliorare la qualità della vita, potenziando servizi e iniziative che valorizzano le risorse locali e favoriscono nuove opportunità di lavoro, soprattutto per giovani e donne.",
+            "link": "https://www.obiettivoeuropa.com/bandi/gal-terre-astigiane-bando-intervento-srd14-investimenti-produttivi-non-agricoli-in-aree-rurali",
+            "custom": {
+                "Topics": "Acquisto macchinari e/o attrezzature, Acquisto macchine e strumentazioni, Agricoltura e sviluppo rurale, Artigianato, Brevetti e licenze, Commercio, Consulenza specializzata, Edilizia, Ristrutturazione, recupero, riqualificazione, Servizi, Supporto alle imprese, Sviluppo e promozione territoriale, Turismo",
+                "Stanziamento": "€ 159.742"
+            }
+        },
+        {
+            "deadline": "2026-05-15",
+            "title": "Lazio - Tecniche lavorazione ridotta dei suoli",
+            "description": "L'intervento mira a preservare il suolo promuovendo tecniche di coltivazione che riducono il disturbo e migliorano la fertilità. L'adozione di lavorazioni meno profonde o di non lavorazione contrasta il degrado, rafforza la struttura del terreno, previene erosione e compattamento, ottimizza l'uso di risorse fossili, aumenta la sostanza organica e la capacità idrica del suolo, e riduce le emissioni di CO2 rispetto alle lavorazioni tradizionali.Con l’avviso si intende attivare la presentazione delle domande di sostegno per l’anno 2026 a valere sull’Intervento SRA03 del Piano Strategico Nazionale PAC 2023/2027 e del relativo Complemento per lo Sviluppo Rurale (CSR) per la Regione Lazio per le seguenti Azioni:Azione 3.1 - Adozione di tecniche di semina su sodo / no tillage (NT);Azione 3.2 - Adozione di tecniche di minima lavorazione / minimum tillage (MT) e/o di tecniche di lavorazione a bande / strip tillage",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-tecniche-lavorazione-ridotta-dei-suoli",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-14",
+            "title": "Fondazione Carilucca - Bando Spettacolo dal vivo",
+            "description": "L’obiettivo del bando è volto a sostenere progetti che prevedano la realizzazione di spettacoli e rappresentazioni dal vivo intesi come teatro, musica, danza. Nello specifico la Fondazione intende:favorire lo sviluppo dello spettacolo dal vivo, puntando su qualità artistica, innovazione, competenze, multidisciplinarità e integrazione con cultura, educazione e turismo;sostenere la dimensione sociale attraverso inclusione, accessibilità, partecipazione ed esperienza culturale come strumento di benessere per la comunità;promuovere il ricambio generazionale valorizzando giovani talenti e professionisti emergenti;incentivare la dimensione educativa, avvicinando nuovi pubblici, soprattutto giovani, alle arti dal vivo con finalità formative;sostenere la formazione professionale di artisti, tecnici e organizzatori, favorendo anche residenze artistiche e processi creativi innovativi;incoraggiare connessioni e sinergie tra soggetti, settori e territori diversi, promuovendo reti aperte e collaborazione;valorizzare e promuovere i territori, integrando spettacolo dal vivo e patrimonio culturale, e individuando luoghi di interesse da utilizzare per eventi e performance.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cr-lucca-bando-spettacolo-dal-vivo",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Danza, Festival e mostre, Fiere ed eventi, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Manifestazioni culturali, Media e informazione, Musica, Sviluppo e promozione territoriale, Teatro, Turismo",
+                "Stanziamento": "€ 600.000"
+            }
+        },
+        {
+            "deadline": "2026-06-18",
+            "title": "CREA – Bando Agenti di vendita di film europei",
+            "description": "Il Programma “Europa Creativa” incentiva azioni a sostegno dei settori culturali e creativi europei.Gli obiettivi generali del Programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Il bando in particolare, incoraggerà e sosterrà una più ampia distribuzione transnazionale di film europei recenti, erogando fondi agli agenti di vendita europei, in base ai loro risultati sul mercato, per ulteriori reinvestimenti nell'acquisizione, promozione e distribuzione (anche online) di film europei non nazionali recenti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-agenti-di-vendita-di-film-europei",
+            "custom": {
+                "Topics": "Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
+                "Stanziamento": "€ 5.500.000"
+            }
+        },
+        {
+            "deadline": "2026-01-16",
+            "title": "Veneto - Bando Intervento SRE01: insediamento giovani agricoltori",
+            "description": "L’intervento è finalizzato alla concessione di un sostegno a giovani imprenditori agricoli di età fino a quarantuno anni non compiuti che si insediano per la prima volta in un’azienda agricola in qualità di capo dell’azienda e presentano di un piano aziendale per lo sviluppo dell’attività agricola.La finalità dell’intervento è quella di incrementare il numero di aziende condotte da giovani offrendo opportunità e strumenti per attrarre gli stessi nel settore agricolo e per consentire di attuare idee imprenditoriali innovative con approcci produttivi maggiormente sostenibili sia in termini di ambiente che in termini economici e sociali.L'intervento è attivato esclusivamente tramite il Pacchetto Giovani.",
+            "link": "https://www.obiettivoeuropa.com/bandi/veneto-bando-intervento-sre01-insediamento-giovani-agricoltori",
+            "custom": {
+                "Topics": "Agricoltura e sviluppo rurale, Avvio attività, Supporto alle imprese",
+                "Stanziamento": "€ 14.000.000"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Emilia-Romagna - Attrazione investimenti in Emilia-Romagna - Accordi regionali di insediamento e sviluppo delle imprese",
+            "description": "Il bando è finalizzato a raccogliere proposte per la realizzazione di investimenti strategici, che comprendano, prioritariamente, attività di ricerca industriale e di sviluppo sperimentale finalizzati a sviluppare e diffondere significativi avanzamenti tecnologici per il sistema produttivo e alla realizzazione di nuovi risultati di rilevanza tecnologica e industriale, di interesse per le filiere produttive regionali e favorire la transizione industriale, digitale e green lungo la direttrice della S3 anche attraverso la valorizzazione e l’attrazione di alte competenze.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-attrazione-investimenti-in-emilia-romagna-accordi-regionali-di-insediamento-e-sviluppo-delle-imprese",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Formazione e lavoro, Ricerca Scientifica, Supporto alle imprese, Sviluppo e promozione territoriale",
+                "Stanziamento": "€ 8.000.000"
+            }
+        },
+        {
+            "deadline": "2026-10-31",
+            "title": "Provincia di Varese - Dote Impresa Collocamento Mirato",
+            "description": "La presente misura è finalizzata a sostenere le imprese private, a condizione che dispongano di una sede operativa nel territorio della Regione Lombardia.La misura prevede tre tipologie di intervento, di seguito specificate:Linea Consulenza, formazione e servizi: agevolazioni finalizzate all'erogazione di servizi propedeutici alla definizione e all'adattamento delle caratteristiche aziendali, al fine di favorire l'inserimento e/o il mantenimento in organico di persone con disabilità.Linea Contributi per ausili: l'erogazione di contributi alle imprese per l'acquisto di ausili e per l'adattamento del posto di lavoro con l’obiettivo di garantire l'inserimento e/o il mantenimento in azienda di persone con disabilità.Linea Isola formativa: creazione di nuovi ambienti di lavoro all’interno delle aziende integrati nei processi produttivi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/provincia-di-varese-dote-impresa-collocamento-mirato",
+            "custom": {
+                "Topics": "Competitività imprese, Formazione e lavoro, Inclusione Sociale e Solidarietà, Supporto alle imprese",
+                "Stanziamento": "€ 1.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Lombardia - Green Heat 100%",
+            "description": "L’iniziativa è finalizzata al finanziamento di interventi per la realizzazione di impianti e di reti di teleriscaldamento e teleraffrescamento che utilizzino fonti rinnovabili e/o recuperino calore di scarto sul territorio regionale. Ciò consente una progressiva transizione verso un nuovo sistema energetico regionale che minimizzi il ricorso alle fonti fossili, contribuisca a ridurre le emissioni di gas climalteranti e inquinanti e diversifichi l'approvvigionamento energetico, riducendo la dipendenza energetica. L’azione sarà realizzata in coerenza con le indicazioni del Programma Regionale Energia Ambiente e Clima relative alla territorializzazione dello sviluppo delle fonti rinnovabili.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-green-heat-100",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Green economy",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-20",
+            "title": "Lazio - Avviso Pubblico per la realizzazione di progetti nel campo della cybersecurity",
+            "description": "La Regione Lazio finanzia progetti sperimentali per rafforzare la consapevolezza e la cultura della cybersicurezza e le tecnologie abilitanti (e.g. IoT, AI, Blockchain, 5G, etc.) al fine di sviluppare competenze qualificate nel settore. L’avviso mira a combinare formazione/informazione nelle scuole e iniziative divulgative sul territorio per giovani, con attenzione anche agli sbocchi professionali e al collegamento con il mercato del lavoro.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-avviso-pubblico-per-la-realizzazione-di-progetti-nel-campo-della-cybersecurity",
+            "custom": {
+                "Topics": "Cybersecurity, Educazione e istruzione, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione",
+                "Stanziamento": "€ 500.000"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "Lazio - Giovani Attività Professionali",
+            "description": "Il bando intende sostenere l’avvio e lo sviluppo delle attività professionali di giovani professionisti under 40 iscritti a specifici ordini, con l’obiettivo di rafforzare la crescita sostenibile, la competitività e l’occupazione nel Lazio. Gli interventi mirano sia alla creazione di nuove attività, sia all’ampliamento, ristrutturazione o ammodernamento di quelle avviate di recente, anche attraverso soluzioni digitali.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-giovani-attivita-professionali",
+            "custom": {
+                "Topics": "Acquisto macchinari e/o attrezzature, Brevetti e licenze, Certificazioni, Competitività imprese, Consulenza specializzata, Edilizia, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
+                "Stanziamento": "€ 5.000.000"
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "CCIAA Venezia Giulia Trieste Gorizia - Contributi e finanziamenti a sostegno dell‘economia locale",
+            "description": "La CCIAA con il bando sostiene le iniziative di promozione economica atte a produrre vantaggi all’economia provinciale, a valorizzare il territorio e/o caratteristiche di particolari aree o zone o settori economici dello stesso.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-venezia-giulia-trieste-gorizia-contributi-e-finanziamenti-a-sostegno-delleconomia-locale",
+            "custom": {
+                "Topics": "Commercio, Sviluppo e promozione territoriale",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-28",
+            "title": "Friuli - Venezia Giulia - Interventi a sostegno della filiera bosco-legno",
+            "description": "Il bando della Regione Autonoma Friuli - Venezia Giulia è finalizzato all’acquisizione delle domande di accesso agli incentivi in conto capitale, a parziale copertura degli investimenti produttivi della filiera bosco-legno, incentivando lo sviluppo sostenibile dell'economia del legno nel territorio regionale e promuovendo l’iniziativa di sviluppo tecnologico e innovativo orientata alla valorizzazione della risorsa legno regionale, alla crescita sostenibile e alla valorizzazione del comparto",
+            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-interventi-a-sostegno-della-filiera-bosco-legno-in-aree-interne",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale, Transizione ecologica",
+                "Stanziamento": "€ 1.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-01",
+            "title": "NGI Fediversity: creare l’hosting stack del futuro",
+            "description": "Fediversity è un consorzio finanziato dalla Commissione Europea per sviluppare ulteriormente piattaforme, applicazioni e framework mobili liberi e open source, e si basa su molti progetti finanziati dall'iniziativa Next Generation Internet. I risultati del progetto dovrebbero semplificare notevolmente la creazione e l'erogazione di servizi stabili e sicuri, sul web e non solo.Fediversity è uno sforzo globale per portare a tutti servizi cloud ospitati, facili da usare, con al centro la portabilità dei servizi e la libertà personale. Vuole fornire a tutti sistemi informatici sicuri e di alta qualità per l'uso quotidiano, senza tracciamento, senza sfruttamento, in modo da funzionare ovunque e scalare senza sforzo.Per questo motivo, si invitano gli interessati a dare il proprio contributo per aiutare il Progetto a rimodellare lo stato delle cose e creare insieme un Internet aperto, affidabile e preciso per tutti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/ngi-fediversity-creare-lhosting-stack-del-futuro",
+            "custom": {
+                "Topics": "Diritti e Cittadinanza, Fiere ed eventi, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ricerca Scientifica",
+                "Stanziamento": "€ 450.000"
+            }
+        },
+        {
+            "deadline": "2026-12-30",
+            "title": "Unioncamere Lombardia - Avviso Formazione continua",
+            "description": "Il bando si pone l’obiettivo di favorire lo sviluppo professionale dei lavoratori in azienda rispetto alle esigenze formative specifiche di tutte le figure professionali e tutte le tipologie di impresa che caratterizzano il tessuto produttivo lombardo tramite voucher per usufruire di corsi di formazione selezionabili dal Catalogo regionale della formazione continua. La terza edizione si pone in continuità rispetto alle precedenti e inoltre amplia la platea delle imprese inserendo anche il settore agricolo che necessita di competenze trasversali utili a sviluppare filoni di attività innovative fortemente richieste dal mercato.",
+            "link": "https://www.obiettivoeuropa.com/bandi/unioncamere-lombardia-avviso-formazione-continua",
+            "custom": {
+                "Topics": "Formazione e lavoro",
+                "Stanziamento": "€ 17.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "Liguria - Promozione dell’eco-efficienza e riduzione di consumi di energia primaria negli edifici e strutture pubbliche",
+            "description": "In attuazione dell’Obiettivo specifico: 2.1. “Promuovere l'efficienza energetica e ridurre le emissioni di gas a effetto serra” - Azione 2.1.1 – “Promozione dell’eco-efficienza e riduzione di consumi di energia primaria negli edifici e strutture pubbliche” del PR FESR Liguria 2021-2027, il bando si propone di ridurre il fabbisogno energetico e le emissioni inquinanti degli edifici pubblici.",
+            "link": "https://www.obiettivoeuropa.com/bandi/liguria-promozione-delleco-efficienza-e-riduzione-di-consumi-di-energia-primaria-in-strutture-ed-edifici-pubblici",
+            "custom": {
+                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Sviluppo e promozione territoriale, Transizione energetica",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2026-01-14",
+            "title": "ANCI - Avviso pubblico per la presentazione di proposte progettuali rivolte allo scambio intergenerazionale per la creazione di opportunità di reddito e occupazione per i giovani under 35",
+            "description": "Il bando intende avviare una procedura volta a supportare i destinatari nella realizzazione di progettualità che prevedano lo svolgimento da parte di giovani under 35 di attività, interventi e/o servizi innovativi, anche essenziali, che si caratterizzino per innovatività nella loro formulazione, costruzione e/o realizzazione e di cui siano fruitori (ed eventualmente co-attuatori) prevalentemente gli anziani autosufficienti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/anci-avviso-pubblico-per-la-presentazione-di-proposte-progettuali-rivolte-allo-scambio-intergenerazionale-per-la-creazione-di-opportunita-di-reddito-e-occupazione-per-i-giovani-under-35",
+            "custom": {
+                "Topics": "Arte e Cultura, Formazione e lavoro, Mobilità sostenibile, Sostenibilità sociale, Sviluppo e promozione territoriale, Turismo",
+                "Stanziamento": "€ 2.500.000"
+            }
+        },
+        {
+            "deadline": "2026-02-27",
+            "title": "Toscana - Finanziamenti per l'inserimento lavorativo di cittadini dei Paesi terzi",
+            "description": "L’avviso mira a promuovere l’inserimento e/o il reinserimento stabile e di qualità nel mercato del lavoro delle cittadine e dei cittadini di Paesi terzi, attraverso percorsi sperimentali integrati che combinano politiche attive, tirocinio e formazione, insieme a misure di accompagnamento per sostenere l’autonomia economica e favorire l’inclusione nelle organizzazioni aziendali.",
+            "link": "https://www.obiettivoeuropa.com/bandi/toscana-finanziamenti-per-linserimento-lavorativo-di-cittadini-dei-paesi-terzi",
+            "custom": {
+                "Topics": "Formazione e lavoro, Inclusione Sociale e Solidarietà, Supporto alle imprese",
+                "Stanziamento": "€ 600.000"
+            }
+        },
         {
             "deadline": "2026-03-31",
             "title": "CCIAA Frosinone Latina - Bando pubblici esercizi",
@@ -682,16 +1282,6 @@
             }
         },
         {
-            "deadline": "2026-03-12",
-            "title": "CEF - Energie rinnovabili transfrontaliere",
-            "description": "Il regolamento (UE) 2021/1153 del Parlamento europeo e del Consiglio che istituisce il Meccanismo per collegare l'Europa (Connecting Europe Facility - CEF) sostiene le infrastrutture e la connettività in Europa nei tre settori dei trasporti, dell'energia e del digitale. Per il periodo di finanziamento 2021-2027, una nuova categoria di progetti ammissibili è presente nella parte energetica del programma CEF rivisto: i progetti transfrontalieri nel campo delle energie rinnovabili (progetti CB RES).L'invito riguarda i seguenti Topic:CEF-E-2026-CBRENEW - Lavori - CEF2 Energia - Progetti transfrontalieri di energia rinnovabileCEF-E-2026-CBRENEW - Studi - CEF2 Energia - Progetti transfrontalieri di energia rinnovabileEntrambi i temi mirano a consentire l'attuazione di progetti CB RES con significativi benefici socioeconomici, nell'ambito del settore delle energie rinnovabili e, in particolare, per sostenere la cooperazione transfrontaliera nel campo delle energie rinnovabili. In particolare, l'assistenza finanziaria nell'ambito dell’invito contribuirà a sostenere i progetti CB RES che non ricevono finanziamenti adeguati dal mercato e dovrebbe massimizzare il suo valore aggiunto per l'adozione di investimenti nelle energie rinnovabili.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cef-energie-rinnovabili-transfrontaliere",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Giustizia e sicurezza, Innovazione tecnologica, digitalizzazione, ICT, Transizione energetica",
-                "Stanziamento": "€ 150.000.000"
-            }
-        },
-        {
             "deadline": "2026-01-30",
             "title": "GAL Consorzio Lunigiana - Bando SRD14: Investimenti produttivi non agricoli in aree rurali",
             "description": "Il bando mira a sostenere la creazione e lo sviluppo di attività imprenditoriali extra-agricole nelle aree rurali del territorio del GAL Consorzio Lunigiana, con l’obiettivo di contrastare lo spopolamento, rafforzare l’attrattività dei territori e migliorare la qualità della vita delle comunità locali.L’intervento incentiva investimenti produttivi capaci di valorizzare le risorse locali, ampliare e qualificare i servizi offerti alla popolazione e alle imprese, e contribuire alla crescita dell’occupazione, con particolare attenzione ai giovani e alle donne.",
@@ -772,16 +1362,6 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "CCIAA Cremona-Mantova-Pavia - Bando Transizione Ecologica",
-            "description": "La CCIAA di Mantova intende promuovere la transizione ecologica delle MPMI mantovane, nell’ambito del progetto di supporto alla doppia transizione digitale ed ecologica autorizzato dal Ministro delle Imprese e del Made in Italy.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-mantova-bando-transizione-ecologica",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Supporto alle imprese",
-                "Stanziamento": "€ 30.000"
-            }
-        },
-        {
             "deadline": "2026-09-03",
             "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Centri di eccellenza professionale",
             "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, il programma prevede il sostegno a “partenariati per l'eccellenza”, finalizzati a sostenere progetti con una prospettiva sostenibile a lungo termine. Nell'ambito di questo tipo di partenariato sono sostenute le azioni seguenti:Centri di eccellenza professionale (CoVE)Accademie degli insegnanti Erasmus+Azione Erasmus MundusL'obiettivo principale dell'iniziativa CoVE è la creazione e lo sviluppo di reti di collaborazione transnazionali che riuniscono i portatori di interessi dell'IFP a livello locale e regionale in partenariati pubblico-privato solidi e di ampia portata, creando in tal modo ecosistemi globali delle competenze per l'innovazione, lo sviluppo regionale e l'inclusione sociale e sostenendo la competitività europea. I partenariati mirano a conseguire gli obiettivi seguenti:garantire competenze di alta qualità attraverso un'erogazione di IFP flessibile e incentrata sul discente, che favorisca opportunità di occupazione e di carriera qualitativamente elevate, rispondendo rapidamente alle esigenze di un'economia innovativa, inclusiva e sostenibile, come pure alle esigenze della società;sostenere e fungere da volano per lo sviluppo locale e regionale, l'innovazione e l'inclusione sociale;contribuire alla convergenza verso l'alto dell'eccellenza dell'IFP, migliorare la qualità dell'IFP a livello di sistema in un numero sempre maggiore di paesi;fare in modo che le realizzazioni e i risultati siano utilizzati e abbiano un impatto al di là delle organizzazioni partner del progetto e oltre il periodo del progetto.",
@@ -789,16 +1369,6 @@
             "custom": {
                 "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Internazionalizzazione, Media e informazione, Ricerca Scientifica, Sviluppo e promozione territoriale",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-16",
-            "title": "Veneto - Bando Intervento SRE01: insediamento giovani agricoltori",
-            "description": "L’intervento è finalizzato alla concessione di un sostegno a giovani imprenditori agricoli di età fino a quarantuno anni non compiuti che si insediano per la prima volta in un’azienda agricola in qualità di capo dell’azienda e presentano di un piano aziendale per lo sviluppo dell’attività agricola.La finalità dell’intervento è quella di incrementare il numero di aziende condotte da giovani offrendo opportunità e strumenti per attrarre gli stessi nel settore agricolo e per consentire di attuare idee imprenditoriali innovative con approcci produttivi maggiormente sostenibili sia in termini di ambiente che in termini economici e sociali.L'intervento è attivato esclusivamente tramite il Pacchetto Giovani.",
-            "link": "https://www.obiettivoeuropa.com/bandi/veneto-bando-intervento-sre01-insediamento-giovani-agricoltori",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Avvio attività, Supporto alle imprese",
-                "Stanziamento": "€ 14.000.000"
             }
         },
         {
@@ -849,36 +1419,6 @@
             "custom": {
                 "Topics": "Competitività imprese, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Supporto alle imprese, Transizione digitale",
                 "Stanziamento": "€ 4.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-29",
-            "title": "Lombardia - Sostegno manifestazioni sportive sul territorio lombardo",
-            "description": "La Regione Lombardia con il bando intende sostenere il mondo sportivo lombardo per la realizzazione di manifestazioni sportive, riconducibili a tutte le discipline olimpiche e paralimpiche e alle discipline sportive associate, quale strumento per avvicinare i cittadini alla pratica sportiva e valorizzare il territorio regionale in termini di prestigio legato a vocazione e specificità sportive. I contributi previsti sono volti a sostenere le manifestazioni sportive, a carattere agonistico o dilettantistico, scopo di lucro, che si svolgono dal 1° ottobre 2025 al 30 giugno 2026",
-            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-sostegno-manifestazioni-sportive-sul-territorio-lombardo",
-            "custom": {
-                "Topics": "Fiere ed eventi, Manifestazioni Sportive, Sport, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 1.350.000"
-            }
-        },
-        {
-            "deadline": "2026-02-26",
-            "title": "Liguria - Promozione dell’eco-efficienza e riduzione di consumi di energia primaria negli edifici e strutture pubbliche",
-            "description": "In attuazione dell’Obiettivo specifico: 2.1. “Promuovere l'efficienza energetica e ridurre le emissioni di gas a effetto serra” - Azione 2.1.1 – “Promozione dell’eco-efficienza e riduzione di consumi di energia primaria negli edifici e strutture pubbliche” del PR FESR Liguria 2021-2027, il bando si propone di ridurre il fabbisogno energetico e le emissioni inquinanti degli edifici pubblici.",
-            "link": "https://www.obiettivoeuropa.com/bandi/liguria-promozione-delleco-efficienza-e-riduzione-di-consumi-di-energia-primaria-in-strutture-ed-edifici-pubblici",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Sviluppo e promozione territoriale, Transizione energetica",
-                "Stanziamento": "€ 20.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-05",
-            "title": "EPIC-X - Bando aperto per startup deep-tech guidate da donne",
-            "description": "EPIC-X è un progetto con lo scopo di accelerare l’innovazione e liberare il potenziale di eccellenza, collegando gli ecosistemi regionali di tutta Europa. La sua missione è quella di sostenere e valorizzare le startup deep-tech guidate da donne in 16 Paesi europei con livelli di innovazione moderati o emergenti, attraverso un approccio olistico che combina networking, programmi di accelerazione su misura, collaborazione transfrontaliera e politiche mirate.Al cuore di EPIC-X si trova il suo innovativo programma Acceleration+, basato su un’approfondita ricerca e comprensione delle esigenze delle fondatrici di startup deep-tech. Il programma è strutturato attorno a pilastri fondamentali come lo sviluppo avanzato delle tecnologie deep-tech, le Strategie di Specializzazione Intelligente (S3) e le specifiche esigenze ancora insoddisfatte delle imprenditrici. Le startup selezionate partecipano al programma EPIC-X Acceleration+, della durata di sei mesi.",
-            "link": "https://www.obiettivoeuropa.com/bandi/epic-x-bando-aperto-per-startup-deep-tech-guidate-da-donne",
-            "custom": {
-                "Topics": "Competitività imprese, Imprenditoria femminile, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Supporto alle imprese",
-                "Stanziamento": "€ 1.200.000"
             }
         },
         {
@@ -949,16 +1489,6 @@
             "custom": {
                 "Topics": "Arte e Cultura, Audiovisivi e Cinema, Diritti e Cittadinanza, Educazione e istruzione, Festival e mostre, Fiere ed eventi, Inclusione Sociale e Solidarietà, Manifestazioni culturali, Media e informazione, Sviluppo e promozione territoriale, Turismo",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "GAL Terre Astigiane – Bando Intervento SRD14: Investimenti produttivi non agricoli in aree rurali",
-            "description": "L’intervento sostiene la creazione e lo sviluppo di attività extra-agricole nelle aree rurali, con l’obiettivo di mantenerne l’attrattività e contrastarne lo spopolamento. Mira, inoltre, a migliorare la qualità della vita, potenziando servizi e iniziative che valorizzano le risorse locali e favoriscono nuove opportunità di lavoro, soprattutto per giovani e donne.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-terre-astigiane-bando-intervento-srd14-investimenti-produttivi-non-agricoli-in-aree-rurali",
-            "custom": {
-                "Topics": "Acquisto macchinari e/o attrezzature, Acquisto macchine e strumentazioni, Agricoltura e sviluppo rurale, Artigianato, Brevetti e licenze, Commercio, Consulenza specializzata, Edilizia, Ristrutturazione, recupero, riqualificazione, Servizi, Supporto alle imprese, Sviluppo e promozione territoriale, Turismo",
-                "Stanziamento": "€ 159.742"
             }
         },
         {
@@ -1082,16 +1612,6 @@
             }
         },
         {
-            "deadline": "2026-03-05",
-            "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Sviluppo di capacità nel campo dello sport",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo. I progetti di sviluppo delle capacità sono progetti di cooperazione internazionale basati su partenariati multilaterali tra organizzazioni attive nel campo dello sport nei paesi aderenti al programma e nei paesi terzi non associati al programma nella regione 1 (Balcani occidentali) e nella regione 2 (vicinato orientale). Tali progetti mirano a sostenere le attività e le politiche sportive nei paesi terzi non associati al programma in quanto veicolo di promozione dei valori e strumento educativo per incentivare lo sviluppo personale e sociale degli individui e costruire comunità più coese. L'azione ha i seguenti obiettivi:accrescere la capacità delle organizzazioni sportive di base;incoraggiare la pratica dello sport e dell'attività fisica nei paesi terzi non associati al programma;promuovere l'inclusione sociale nello sport;promuovere valori positivi attraverso lo sport (quali la correttezza, la tolleranza o lo spirito di squadra);promuovere la cooperazione tra le diverse regioni del mondo attraverso iniziative congiunte.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-2-cooperazione-tra-organizzazioni-e-istituzioni-sviluppo-di-capacita-nel-campo-dello-sport",
-            "custom": {
-                "Topics": "Asilo e migrazione, Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Manifestazioni Sportive, Marginalità sociale, Sport",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-01-15",
             "title": "Sicilia – Bando per Azioni dirette a migliorare la produzione e la commercializzazione del miele – Campagna apistica 2025/2026",
             "description": "Il Dipartimento agricoltura dell’Assessorato regionale dell’agricoltura, dello sviluppo rurale e della pesca mediterranea, intende assegnare agli apicoltori siciliani i finanziamenti inerenti la campagna apistica 2023-2024. Presentando apposita istanza, gli apicoltori potranno incrementare i propri livelli produttivi e/o migliorare la qualità dei propri prodotti.",
@@ -1139,16 +1659,6 @@
             "custom": {
                 "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
                 "Stanziamento": "€ 45.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Basilicata - Avviso pubblico - Potenziamento delle infrastrutture di ricerca pubbliche lucane in ambito S3",
-            "description": "La Regione con l’avviso intende promuovere il potenziamento e lo sviluppo delle Infrastrutture di Ricerca (IR) pubbliche lucane, anche mediante la loro messa in rete, ed ampliare in tal modo l’offerta di servizi ad alto contenuto tecnico-scientifico a favore delle imprese nei vari ambiti tematici identificati dalla S3 regionale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/basilicata-avviso-pubblico-potenziamento-delle-infrastrutture-di-ricerca-pubbliche-lucane-in-ambito-s3",
-            "custom": {
-                "Topics": "Ammodernamento impianti, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 14.371.429"
             }
         },
         {
@@ -1232,16 +1742,6 @@
             }
         },
         {
-            "deadline": "2026-10-01",
-            "title": "Bando Erasmus+ 2026: Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento – Progetti di mobilità per animatori socioeducativi",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. Nell’ambito di questa azione specifica “Progetti di mobilità per animatori socioeducativi”, le organizzazioni possono ricevere sostegno per realizzare progetti che comprendono una o più attività di apprendimento per lo sviluppo professionale e il rafforzamento delle capacità degli animatori socioeducativi e della loro organizzazione.L'azione sostiene, infatti, lo sviluppo professionale degli animatori socioeducativi e lo sviluppo di un'animazione socioeducativa di qualità a livello locale, regionale, nazionale, europeo e internazionale, grazie a esperienze di apprendimento non formale e informale in attività di mobilità. Più specificamente, i progetti mirano a:fornire opportunità di apprendimento non formale e informale per lo sviluppo educativo e professionale degli animatori socioeducativi, contribuendo a esperienze pratiche individuali di alta qualità nonché all'evoluzione delle organizzazioni attive nell'animazione socioeducativa e dei relativi sistemi;costruire una comunità di animatori socioeducativi in grado di sostenere la qualità dei progetti e delle attività per i giovani nei programmi dell'UE e non solo;sviluppare pratiche locali di animazione socioeducativa e contribuire al rafforzamento delle capacità dei partecipanti e delle loro organizzazioni a favore di un'animazione socioeducativa di qualità, che abbiano un chiaro impatto sul lavoro normalmente svolto dagli animatori socioeducativi con i giovani.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-progetti-di-mobilita-per-animatori-socioeducativi",
-            "custom": {
-                "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Media e informazione",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-05-28",
             "title": "Lazio - Avviso pubblico per il finanziamento di misure per favorire l'inserimento lavorativo delle persone con disabilità",
             "description": "La finalità dell’avviso è quella di favorire l’inclusione socio-lavorativa delle persone con disabilità, incentivando la formazione, l’inserimento in tirocinio, l’assunzione e il consolidamento dei rapporti di lavoro.In particolare, le misure previste si configurano come un aiuto all’ingresso e alla permanenza nel mercato del lavoro delle persone con disabilità, favorendo la collaborazione fra servizi del Collocamento mirato previsti dalla L.68/99 e i soggetti datoriali che intendono perseguire, nel proprio progetto imprenditoriale, tra gli altri obiettivi, anche la responsabilità sociale di impresa.",
@@ -1249,16 +1749,6 @@
             "custom": {
                 "Topics": "Formazione e lavoro, Inclusione Sociale e Solidarietà, Supporto alle imprese",
                 "Stanziamento": "€ 10.000.000"
-            }
-        },
-        {
-            "deadline": "2026-04-23",
-            "title": "CREA - Bando Distribuzione di film europei",
-            "description": "Il Programma “Europa Creativa” incentiva azioni a sostegno dei settori culturali e creativi europei.Gli obiettivi generali del Programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Il bando Distribuzione di film europei intende dare sostegno e incoraggiare la distribuzione transnazionale di film europei recenti fornendo fondi ai distributori, in base ai loro risultati di mercato, per ulteriori reinvestimenti nell’acquisizione, promozione e distribuzione (anche online) di film europei non nazionali recenti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-distribuzione-di-film-europei",
-            "custom": {
-                "Topics": "Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
-                "Stanziamento": "€ 34.000.000"
             }
         },
         {
@@ -1272,16 +1762,6 @@
             }
         },
         {
-            "deadline": "2026-02-03",
-            "title": "ARISE - Seconda Open Call: Middleware open-source e in tempo reale per l'interazione uomo-robot per l'industria",
-            "description": "Il Progetto ARISE mira a rendere l'Interazione uomo-robot (HRI) industriale più accessibile, più economica e più facile da adattare, in particolare nei settori della sanità, dell'intralogistica e della produzione. L’obiettivo è quello di dotare l'industria europea di un solido middleware open-source, sviluppare un framework HRI umano-centrico affidabile e creare un ecosistema sostenibile per l'innovazione aperta nella robotica industriale.Per raggiungere questo obiettivo, il consorzio del progetto annuncia due bandi aperti agli operatori del settore. Nel secondo bando, ARISE finanzierà fino a 13 progetti di soluzioni HRI-enabled per l'automazione robotica industriale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/arise-1-open-call-middleware-open-source-e-in-tempo-reale-per-linterazione-uomo-robot-per-lindustria",
-            "custom": {
-                "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Sanità, Supporto alle imprese, Transizione digitale",
-                "Stanziamento": "€ 5.200.000"
-            }
-        },
-        {
             "deadline": "2026-02-16",
             "title": "UniCredit Foundation - Piattaforma UCF Edu-Fund per il finanziamento di programmi multidimensionali volti a contrastare la povertà educativa",
             "description": "UniCredit Foundation ha l'obiettivo di liberare il potenziale della prossima generazione europea offrendo ai giovani in tutta Europa maggiori opportunità nel campo dell’istruzione e di sostenerli nel loro percorso di vita e nel mondo professionale.La Fondazione sostiene iniziative per contrastare l’abbandono scolastico, migliorare l’occupabilità, incentivare il conseguimento di titoli universitari e promuovere lo studio e la ricerca e, in linea con questa missione, pubblica il bando UCF Edu-Fund Platform. Questa è, infatti, un’iniziativa ambiziosa volta a sostenere programmi che affrontano la povertà educativa tra gli studenti della scuola secondaria di primo e secondo grado, di età compresa tra 11 e 19 anni.",
@@ -1289,16 +1769,6 @@
             "custom": {
                 "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà",
                 "Stanziamento": "€ 6.000.000"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "CCIAA Bolzano - Interventi per la promozione della digitalizzazione delle microimprese",
-            "description": "Il bando intende erogare dei contributi alle microimprese per interventi diretti ad incentivarne le competenze ed i servizi digitali al fine di incrementarne l’ammodernamento e la competitività.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-bolzano-interventi-per-la-promozione-della-digitalizzazione-delle-microimprese",
-            "custom": {
-                "Topics": "Competitività imprese, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Transizione digitale",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -1412,16 +1882,6 @@
             }
         },
         {
-            "deadline": "2026-02-10",
-            "title": "EIT Urban Mobility - Flagship Accelerator Open Call",
-            "description": "Il bando mira a selezionare organizzazioni incaricate di progettare e realizzare il Flagship Accelerator Programme di EIT Urban Mobility per il periodo 2026–2028. L’obiettivo principale del programma è individuare, supportare e far crescere startup early-stage (pre-seed) altamente innovative nel settore della mobilità urbana sostenibile, creando al contempo un flusso strutturato di opportunità di investimento de-risked coerente con la strategia di impact investing di EIT Urban Mobility.",
-            "link": "https://www.obiettivoeuropa.com/bandi/eit-urban-mobility-flagship-accelerator-open-call",
-            "custom": {
-                "Topics": "Competitività imprese, Formazione e lavoro, Mobilità sostenibile, Supporto alle imprese",
-                "Stanziamento": "€ 1.500.000"
-            }
-        },
-        {
             "deadline": "2023-02-28",
             "title": "GAL Appennino bolognese - Valorizzazione castagneti da frutto",
             "description": "Il bando persegue l’obiettivo generale di contribuire ad arrestare e invertire la perdita di biodiversità, migliorare i servizi ecosistemici e preservare gli habitat e i paesaggi",
@@ -1439,16 +1899,6 @@
             "custom": {
                 "Topics": "Ambiente e Sviluppo sostenibile, Mobilità sostenibile, Sviluppo e promozione territoriale, Turismo",
                 "Stanziamento": "€ 300.000"
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Emilia-Romagna - Attrazione investimenti in Emilia-Romagna - Accordi regionali di insediamento e sviluppo delle imprese",
-            "description": "Il bando è finalizzato a raccogliere proposte per la realizzazione di investimenti strategici, che comprendano, prioritariamente, attività di ricerca industriale e di sviluppo sperimentale finalizzati a sviluppare e diffondere significativi avanzamenti tecnologici per il sistema produttivo e alla realizzazione di nuovi risultati di rilevanza tecnologica e industriale, di interesse per le filiere produttive regionali e favorire la transizione industriale, digitale e green lungo la direttrice della S3 anche attraverso la valorizzazione e l’attrazione di alte competenze.",
-            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-attrazione-investimenti-in-emilia-romagna-accordi-regionali-di-insediamento-e-sviluppo-delle-imprese",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Formazione e lavoro, Ricerca Scientifica, Supporto alle imprese, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 8.000.000"
             }
         },
         {
@@ -1702,16 +2152,6 @@
             }
         },
         {
-            "deadline": "2027-03-31",
-            "title": "CCIAA Milano - Negozi e Botteghe",
-            "description": "Il Comune di Milano sta realizzando un Programma Triennale di interventi per l’Economia di Prossimità la cui finalità è sostenere il piccolo commercio, l’artigianato, i servizi di quartiere e, in generale, le micro e piccole imprese che si affacciano su strada e garantiscono servizi per i cittadini a breve distanza da casa, opportunità di lavoro per i residenti, sicurezza, vitalità e coesione sociale nei quartieri. Attraverso il bando, promosso in collaborazione con la Camera di commercio Milano Monza Brianza e Lodi, il Comune intende sostenere interventi per aprire o ammodernare micro e piccole attività imprenditoriali con vetrina su strada oltre la circonvallazione esterna attraverso l'erogazione di contributi a fondo perduto e servizi di accompagnamento e supporto.Il bando prevede due diverse Linee di intervento:LINEA 1- VETRINE APERTELINEA 2 - VETRINE DA APRIRE",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-milano-negozi-e-botteghe",
-            "custom": {
-                "Topics": "Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 4.000.000"
-            }
-        },
-        {
             "deadline": "2026-01-22",
             "title": "Sardegna - Contributi per la diffusione e distribuzione di opere cinematografiche di interesse regionale",
             "description": "La Regione eroga contributi per il lancio pubblicitario e per campagne promozionali e di marketing, sia in Italia che all’estero, tesi ad agevolare la distribuzione e la diffusione di opere cinematografiche di interesse regionale nei circuiti, nei festival, nelle rassegne e nei premi di cinema.",
@@ -1812,36 +2252,6 @@
             }
         },
         {
-            "deadline": "2026-01-20",
-            "title": "Interreg VI-A Italia–Malta - Targeted call 2/2025 per la presentazione di progetti di cooperazione",
-            "description": "L’avviso pubblico è diretto ad acquisire proposte progettuali puntuali, concrete e cantierabili a valere sugli obiettivi specifici collegati alle 4 priorità del Programma. In particolare, l’avviso si configura come una “targeted call” rivolta a proposte progettuali su temi che non sono stati sufficientemente trattati dai progetti finora finanziati.",
-            "link": "https://www.obiettivoeuropa.com/bandi/interreg-vi-a-italiamalta-targeted-call-22025-per-la-presentazione-di-progetti-di-cooperazione",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Aiuti umanitari e Protezione civile, Ambiente e Sviluppo sostenibile, Arte e Cultura, Cooperazione Internazionale, Economia circolare, Green economy, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Sanità, Servizi, Supporto alle imprese, Sviluppo e promozione territoriale, Transizione digitale, Transizione ecologica, Transizione energetica, Turismo",
-                "Stanziamento": "€ 24.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-14",
-            "title": "Fondazione Carilucca - Bando Spettacolo dal vivo",
-            "description": "L’obiettivo del bando è volto a sostenere progetti che prevedano la realizzazione di spettacoli e rappresentazioni dal vivo intesi come teatro, musica, danza. Nello specifico la Fondazione intende:favorire lo sviluppo dello spettacolo dal vivo, puntando su qualità artistica, innovazione, competenze, multidisciplinarità e integrazione con cultura, educazione e turismo;sostenere la dimensione sociale attraverso inclusione, accessibilità, partecipazione ed esperienza culturale come strumento di benessere per la comunità;promuovere il ricambio generazionale valorizzando giovani talenti e professionisti emergenti;incentivare la dimensione educativa, avvicinando nuovi pubblici, soprattutto giovani, alle arti dal vivo con finalità formative;sostenere la formazione professionale di artisti, tecnici e organizzatori, favorendo anche residenze artistiche e processi creativi innovativi;incoraggiare connessioni e sinergie tra soggetti, settori e territori diversi, promuovendo reti aperte e collaborazione;valorizzare e promuovere i territori, integrando spettacolo dal vivo e patrimonio culturale, e individuando luoghi di interesse da utilizzare per eventi e performance.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cr-lucca-bando-spettacolo-dal-vivo",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Danza, Festival e mostre, Fiere ed eventi, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Manifestazioni culturali, Media e informazione, Musica, Sviluppo e promozione territoriale, Teatro, Turismo",
-                "Stanziamento": "€ 600.000"
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "Fondazione CR Firenze - Conservazione e valorizzazione Biblioteche e Archivi",
-            "description": "Attraverso il bando la Fondazione CR Firenze intende sostenere azioni di promozione, restauro e valorizzazione relativi a luoghi della cultura intesi quali: Biblioteche e Archivi storici. Nello specifico, il bando ha l’obiettivo di:rafforzare e innovare il complesso di azioni, strumenti e servizi di Biblioteche e Archivi agli utenti, migliorandone la diffusione di contenuti;favorire lo sviluppo di azioni volte a stimolare la partecipazione culturale e la frequentazione dei luoghi della cultura come stimolo al benessere e alla crescita intellettuale e civile della comunità, con particolare riferimento alle scuole.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cr-firenze-conservazione-e-valorizzazione-biblioteche-e-archivi",
-            "custom": {
-                "Topics": "Arte e Cultura, Edilizia, Educazione e istruzione, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-02-27",
             "title": "Fondazione CRC - Bando Generale",
             "description": "Il bando offre a tutti i soggetti ammissibili attivi nelle aree e nei settori di intervento della Fondazione CRC di presentare richieste di contributo, per un importo superiore a 10.000 euro, per progetti rilevanti che si svolgono sul territorio di riferimento della Fondazione.",
@@ -1929,16 +2339,6 @@
             "custom": {
                 "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
                 "Stanziamento": "€ 800.000"
-            }
-        },
-        {
-            "deadline": "2026-01-21",
-            "title": "ERA4Health – Call PREVENT-OO: Comprendere e prevenire sovrappeso e obesità",
-            "description": "Attraverso il bando, ERA4health offre agli scienziati di diversi Paesi la possibilità di costruire una collaborazione di valore su progetti di ricerca interdisciplinari comuni, basati sulla complementarità e sulla condivisione delle competenze nel campo dell’obesità, con un chiaro approccio di ricerca traslazionale.Un coinvolgimento approfondito e bidirezionale di diversi attori contribuirà a sviluppare strategie di ricerca efficaci promuovendo la cooperazione a livello transnazionale e aprendo la strada a nuove conoscenze e nuove strategie di prevenzione per gli europei e non solo.I risultati dei progetti finanziati contribuiranno a ridurre il peso del sovrappeso e dell’obesità in Europa grazie a una migliore comprensione dei meccanismi, ancora poco studiati, alla base di sovrappeso e obesità, il che permetterà di sviluppare nuove strategie preventive e terapeutiche più mirate.",
-            "link": "https://www.obiettivoeuropa.com/bandi/era4health-call-prevent-oo-comprendere-e-prevenire-sovrappeso-e-obesita",
-            "custom": {
-                "Topics": "Ricerca Scientifica, Salute e medicina, Sanità",
-                "Stanziamento": "€ 18.940.000"
             }
         },
         {
@@ -2032,16 +2432,6 @@
             }
         },
         {
-            "deadline": "2026-01-30",
-            "title": "AICS - Sviluppo rurale inclusivo e sostenibile nel Nord dell’Albania",
-            "description": "L’avviso di AICS Tirana mira ad affidare a un’Associazione Temporanea di Scopo (ATS) di Organizzazioni della Società Civile l’attuazione dell’iniziativa triennale “Sviluppo rurale inclusivo e sostenibile nel Nord dell’Albania” (AID 13007). L’obiettivo generale è contribuire allo sviluppo sostenibile e inclusivo delle aree rurali e marginali del nord del Paese (prefetture di Shkoder, Lezhe e Kukes), rafforzando le comunità locali attraverso un’agricoltura sostenibile, la tutela dell’ambiente, la promozione dell’eco-turismo e dell’agriturismo e la valorizzazione delle risorse ambientali, naturalistiche, agricole, culturali e della biodiversità locali. L’iniziativa punta ad aumentare il reddito di piccoli agricoltori e allevatori, migliorare le condizioni socio-economiche delle comunità rurali, favorire l’occupazione – con particolare attenzione a giovani e donne – e rafforzare la consapevolezza sui cambiamenti climatici, in un’ottica di equità di genere e di integrazione delle donne nei processi di sviluppo (gender mainstreaming).",
-            "link": "https://www.obiettivoeuropa.com/bandi/aics-sviluppo-rurale-inclusivo-e-sostenibile-nel-nord-dellalbania",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Cooperazione Internazionale, Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Marginalità sociale, Sostenibilità sociale, Turismo",
-                "Stanziamento": "€ 4.800.000"
-            }
-        },
-        {
             "deadline": "2026-04-09",
             "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Partenariati europei per lo sviluppo scolastico",
             "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, il bando sostiene Partenariati europei per lo sviluppo scolastico, con l'obiettivo di migliorare l'innovazione strategica e la condivisione di pratiche tra i principali attori dei sistemi di istruzione scolastica in settori chiave quali la promozione dello sviluppo professionale continuo degli insegnanti, l'aumento dell'attrattiva della professione di insegnante e il miglioramento della qualità dell'insegnamento e della formazione in generale.Nello specifico, i partenariati europei per lo sviluppo scolastico mirano a: migliorare la qualità dell'apprendimento e dell'insegnamento nelle scuole attraverso la cooperazione europea;rafforzare la capacità istituzionale e le strutture necessarie per ampliare le opportunità di mobilità ai fini dell'apprendimento nell'istruzione scolastica, creando sinergie con le opportunità dell'azione chiave 1 di Erasmus+;stimolare l'innovazione nelle pratiche, nelle procedure e nelle politiche in materia di istruzione scolastica, applicando i risultati e le migliori pratiche derivanti da progetti transnazionali di successo, ampliandone l'impatto.",
@@ -2062,16 +2452,6 @@
             }
         },
         {
-            "deadline": "2026-01-15",
-            "title": "Lazio - Giovani Attività Professionali",
-            "description": "Il bando intende sostenere l’avvio e lo sviluppo delle attività professionali di giovani professionisti under 40 iscritti a specifici ordini, con l’obiettivo di rafforzare la crescita sostenibile, la competitività e l’occupazione nel Lazio. Gli interventi mirano sia alla creazione di nuove attività, sia all’ampliamento, ristrutturazione o ammodernamento di quelle avviate di recente, anche attraverso soluzioni digitali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lazio-giovani-attivita-professionali",
-            "custom": {
-                "Topics": "Acquisto macchinari e/o attrezzature, Brevetti e licenze, Certificazioni, Competitività imprese, Consulenza specializzata, Edilizia, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
-                "Stanziamento": "€ 5.000.000"
-            }
-        },
-        {
             "deadline": "2026-03-31",
             "title": "ISF - Supporto all’attuazione della nuova legislazione sulla resilienza delle entità critiche",
             "description": "Il bando mira a sostenere l’attuazione della Direttiva UE sulla resilienza delle entità critiche (CER), rafforzando la capacità dell’Unione e degli Stati membri di prevenire, resistere, rispondere e riprendersi da eventi che possono compromettere la fornitura di servizi essenziali. L’azione si inserisce nel quadro delle strategie europee ProtectEU e European Preparedness Union Strategy e promuove un approccio “whole-of-society”, basato sulla cooperazione tra autorità pubbliche e operatori privati che gestiscono infrastrutture critiche.Il bando finanzia progetti che migliorino l’implementazione pratica della direttiva, favoriscano la cooperazione transfrontaliera e intersettoriale e aumentino la preparazione contro minacce intenzionali, naturali o ibride. Nello specifico, il bando copre i seguenti Topic:ISF-2026-TF2-AG-CER-STRENGTH — Rafforzamento del quadro sulla resilienza delle entità critiche (CER)ISF-2026-TF2-AG-CER-TEST — Test di stress sulla resilienza delle infrastrutture critiche, intersettoriali e transfrontalieri",
@@ -2079,16 +2459,6 @@
             "custom": {
                 "Topics": "Acquisto macchinari e/o attrezzature, Cooperazione Internazionale, Diritti e Cittadinanza, Formazione e lavoro, Giustizia e sicurezza, Media e informazione",
                 "Stanziamento": "€ 15.000.000"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Provincia autonoma di Bolzano - Reti di teleriscaldamento",
-            "description": "Il bando promuove la costruzione di condotte efficienti per il teleriscaldamento e il teleraffrescamento ai sensi dell'articolo 2, punto 41, della direttiva 2012/27/UE esclusivamente nelle aree servite delimitate per la prima volta tramite decreto del direttore dell'Agenzia provinciale per l'Ambiente e la tutela del clima dopo il 31 dicembre 2019.",
-            "link": "https://www.obiettivoeuropa.com/bandi/provincia-autonoma-di-bolzano-reti-di-teleriscaldamento",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 5.000.000"
             }
         },
         {
@@ -2109,26 +2479,6 @@
             "custom": {
                 "Topics": "Agricoltura e sviluppo rurale, Alimentazione e nutrizione, Fiere ed eventi, Manifestazioni culturali, Sviluppo e promozione territoriale",
                 "Stanziamento": "€ 130.000"
-            }
-        },
-        {
-            "deadline": "2026-02-12",
-            "title": "ERDERA - Joint Transnational Call: Risoluzione di casi irrisolti relativi a malattie rare genetiche e non genetiche",
-            "description": "Il bando ERDERA JTC 2026 mira a promuovere progetti di ricerca transnazionali e interdisciplinari dedicati alla risoluzione di casi ancora irrisolti di malattie rare genetiche e non genetiche. L’obiettivo principale è migliorare la diagnosi di pazienti che, nonostante precedenti indagini cliniche e genetiche, rimangono senza una chiara identificazione della causa della malattia. Il bando intende favorire l’integrazione di competenze, dati e approcci innovativi a livello europeo e internazionale, con un forte orientamento ai bisogni dei pazienti e alla futura trasferibilità dei risultati nella pratica clinica.",
-            "link": "https://www.obiettivoeuropa.com/bandi/erdera-joint-transnational-call-risoluzione-di-casi-irrisolti-relativi-a-malattie-rare-genetiche-e-non-genetiche",
-            "custom": {
-                "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Ricerca Scientifica, Salute e medicina, Sanità",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-02-01",
-            "title": "NGI Fediversity: creare l’hosting stack del futuro",
-            "description": "Fediversity è un consorzio finanziato dalla Commissione Europea per sviluppare ulteriormente piattaforme, applicazioni e framework mobili liberi e open source, e si basa su molti progetti finanziati dall'iniziativa Next Generation Internet. I risultati del progetto dovrebbero semplificare notevolmente la creazione e l'erogazione di servizi stabili e sicuri, sul web e non solo.Fediversity è uno sforzo globale per portare a tutti servizi cloud ospitati, facili da usare, con al centro la portabilità dei servizi e la libertà personale. Vuole fornire a tutti sistemi informatici sicuri e di alta qualità per l'uso quotidiano, senza tracciamento, senza sfruttamento, in modo da funzionare ovunque e scalare senza sforzo.Per questo motivo, si invitano gli interessati a dare il proprio contributo per aiutare il Progetto a rimodellare lo stato delle cose e creare insieme un Internet aperto, affidabile e preciso per tutti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/ngi-fediversity-creare-lhosting-stack-del-futuro",
-            "custom": {
-                "Topics": "Diritti e Cittadinanza, Fiere ed eventi, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ricerca Scientifica",
-                "Stanziamento": "€ 450.000"
             }
         },
         {
@@ -2192,16 +2542,6 @@
             }
         },
         {
-            "deadline": "2026-01-31",
-            "title": "Comune di Udine - Bando per il rilancio economico 2025",
-            "description": "Il Comune di Udine, al fine di favorire la ripresa economica e il rafforzamento del tessuto imprenditoriale urbano, con particolare attenzione ai quartieri periferici caratterizzati da fragilità sociodemografiche, ed al centro cittadino del Comune di Udine, dove si registrano fenomeni di desertificazione commerciale e difficoltà di ricambio generazionale, stanzia contributi a fondo perduto per investimenti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/comune-di-udine-bando-per-il-rilancio-economico",
-            "custom": {
-                "Topics": "Artigianato, Commercio, Supporto alle imprese, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 1.400.000"
-            }
-        },
-        {
             "deadline": "2025-12-31",
             "title": "Friuli - Venezia Giulia - Aiuti sul costo dei premi assicurativi a copertura delle perdite dovute a rischi agricoli e rischi di insolvenza",
             "description": "La Regione con il bando concede degli aiuti sul costo dei premi assicurativi pagati a copertura delle perdite dovute ai seguenti rischi:calamità naturali, intendendosi a tale scopo terremoti, valanghe, frane e inondazioni, trombe d'aria, uragani, incendi boschivi di origine naturale;avverse condizioni atmosferiche quali gelo, tempeste e grandine, ghiaccio, piogge forti o persistenti, siccità;epizoozie od organismi nocivi ai vegetali;costi di rimozione e distruzione dei capi morti;insolvenza di clienti imprenditori privati.",
@@ -2229,16 +2569,6 @@
             "custom": {
                 "Topics": "Ambiente e Sviluppo sostenibile, Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale",
                 "Stanziamento": "€ 7.945.865"
-            }
-        },
-        {
-            "deadline": "2026-01-14",
-            "title": "ANCI - Avviso pubblico per la presentazione di proposte progettuali rivolte allo scambio intergenerazionale per la creazione di opportunità di reddito e occupazione per i giovani under 35",
-            "description": "Il bando intende avviare una procedura volta a supportare i destinatari nella realizzazione di progettualità che prevedano lo svolgimento da parte di giovani under 35 di attività, interventi e/o servizi innovativi, anche essenziali, che si caratterizzino per innovatività nella loro formulazione, costruzione e/o realizzazione e di cui siano fruitori (ed eventualmente co-attuatori) prevalentemente gli anziani autosufficienti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/anci-avviso-pubblico-per-la-presentazione-di-proposte-progettuali-rivolte-allo-scambio-intergenerazionale-per-la-creazione-di-opportunita-di-reddito-e-occupazione-per-i-giovani-under-35",
-            "custom": {
-                "Topics": "Arte e Cultura, Formazione e lavoro, Mobilità sostenibile, Sostenibilità sociale, Sviluppo e promozione territoriale, Turismo",
-                "Stanziamento": "€ 2.500.000"
             }
         },
         {
@@ -2302,16 +2632,6 @@
             }
         },
         {
-            "deadline": "2026-01-30",
-            "title": "GAL Ternano - Bando azione A.2.1. Valorizzazione degli eventi storico culturali e dei prodotti tipici locali",
-            "description": "L’azione mira a rafforzare l’attrattività del territorio ternano-narnese-amerino attraverso la valorizzazione di eventi storico-culturali, iniziative turistiche e prodotti tipici locali. L’intento è promuovere la conoscenza del territorio, sostenere il senso di identità delle comunità rurali, rilanciare l’imprenditorialità locale, aumentare la qualità della vita e contribuire alla fruibilità del territorio sia per residenti che per turisti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-ternano-bando-azione-a21-valorizzazione-degli-eventi-storico-culturali-e-dei-prodotti-tipici-locali",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Arte e Cultura, Artigianato, Festival e mostre, Fiere ed eventi, Gastronomia, Manifestazioni culturali, Marketing e comunicazione, Media e informazione, Sviluppo e promozione territoriale, Turismo",
-                "Stanziamento": "€ 1.200.000"
-            }
-        },
-        {
             "deadline": "2026-02-12",
             "title": "Sicilia – Bando Sicilia efficiente: meno consumi, più futuro",
             "description": "L’avviso mira a sostenere le imprese siciliane nella realizzazione di progetti per ridurre i consumi energetici e le emissioni di gas serra. In linea con il programma PO FESR 2014-2020, azione 2.1.2, promuove interventi integrati che riguardano sia i processi produttivi sia gli edifici aziendali, incentivando l’uso di energie rinnovabili per l’autoconsumo e la produzione di energia destinata ai cicli produttivi, anche tramite impianti da fonti rinnovabili.",
@@ -2332,26 +2652,6 @@
             }
         },
         {
-            "deadline": "2026-01-31",
-            "title": "AICS - Risposta multisettoriale per aumentare le possibilità di accesso ai servizi di base per la popolazione più vulnerabile in Libia",
-            "description": "La Call mira a migliorare la qualità della vita delle persone in condizione di maggiore vulnerabilità, con un’attenzione particolare ai rifugiati sudanesi e alle comunità ospitanti. L’iniziativa punta a rafforzare le capacità di risposta locali nei settori salute, istruzione, acqua e igiene (WASH), protezione e sminamento, così da aumentare l’accesso equo, tempestivo e continuativo ai servizi di base e promuovere interventi di prevenzione e risposta ai rischi legati alla presenza di ordigni esplosivi.",
-            "link": "https://www.obiettivoeuropa.com/bandi/aics-risposta-multisettoriale-per-aumentare-le-possibilita-di-accesso-ai-servizi-di-base-per-la-popolazione-piu-vulnerabile-in-libia",
-            "custom": {
-                "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Sostenibilità sociale",
-                "Stanziamento": "€ 5.009.398"
-            }
-        },
-        {
-            "deadline": "2026-04-15",
-            "title": "Lombardia - Green Heat 100%",
-            "description": "L’iniziativa è finalizzata al finanziamento di interventi per la realizzazione di impianti e di reti di teleriscaldamento e teleraffrescamento che utilizzino fonti rinnovabili e/o recuperino calore di scarto sul territorio regionale. Ciò consente una progressiva transizione verso un nuovo sistema energetico regionale che minimizzi il ricorso alle fonti fossili, contribuisca a ridurre le emissioni di gas climalteranti e inquinanti e diversifichi l'approvvigionamento energetico, riducendo la dipendenza energetica. L’azione sarà realizzata in coerenza con le indicazioni del Programma Regionale Energia Ambiente e Clima relative alla territorializzazione dello sviluppo delle fonti rinnovabili.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-green-heat-100",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Green economy",
-                "Stanziamento": "€ 20.000.000"
-            }
-        },
-        {
             "deadline": "2026-01-05",
             "title": "Puglia - Interventi a valere sul fondo nazionale per il contrasto al consumo di suolo",
             "description": "Il bando ha la finalità di favorire il contrasto al consumo di suolo finanziando interventi volti a invertire il processo di urbanizzazione che causa l’impermeabilizzazione e il degrado dei suoli mediante il ripristino delle aree compromesse in aree verdi fruibili e ad uso pubblico, migliorare la qualità dell’ambiente e sensibilizzare la popolazione sull’importanza della tutela del suolo, promuovendo una maggiore consapevolezza riguardo ai benefici ecologici e sociali derivanti dalla sua conservazione.",
@@ -2359,16 +2659,6 @@
             "custom": {
                 "Topics": "Ambiente e Sviluppo sostenibile",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-06-18",
-            "title": "CREA – Bando Agenti di vendita di film europei",
-            "description": "Il Programma “Europa Creativa” incentiva azioni a sostegno dei settori culturali e creativi europei.Gli obiettivi generali del Programma sono:salvaguardare, sviluppare e promuovere la diversità e il patrimonio culturale e linguistico europeo;aumentare la competitività e il potenziale economico dei settori culturali e creativi, in particolare del settore audiovisivo.L’obiettivo specifico della sezione “Media” è quello di promuovere la competitività, la scalabilità, la cooperazione, l'innovazione e la sostenibilità, anche attraverso la mobilità nel settore audiovisivo europeo.Il bando in particolare, incoraggerà e sosterrà una più ampia distribuzione transnazionale di film europei recenti, erogando fondi agli agenti di vendita europei, in base ai loro risultati sul mercato, per ulteriori reinvestimenti nell'acquisizione, promozione e distribuzione (anche online) di film europei non nazionali recenti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/crea-bando-agenti-di-vendita-di-film-europei",
-            "custom": {
-                "Topics": "Arte e Cultura, Audiovisivi e Cinema, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
-                "Stanziamento": "€ 5.500.000"
             }
         },
         {
@@ -2429,16 +2719,6 @@
             "custom": {
                 "Topics": "Giustizia e sicurezza, Supporto alle imprese",
                 "Stanziamento": "€ 215.000"
-            }
-        },
-        {
-            "deadline": "2026-11-16",
-            "title": "Lombardia - Contributi per iniziative e manifestazioni di rilievo regionale",
-            "description": "La Regione Lombardia intende sostenere iniziative culturali, scientifiche, educative, sportive, economiche e sociali, a carattere regionale, nazionale e internazionale, di rilevante importanza.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-contributi-per-iniziative-e-manifestazioni-di-rilievo-regionale",
-            "custom": {
-                "Topics": "Arte e Cultura, Sport, Supporto alle imprese, Sviluppo e promozione territoriale, Turismo",
-                "Stanziamento": "€ 490.000"
             }
         },
         {
@@ -2529,16 +2809,6 @@
             "custom": {
                 "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Supporto alle imprese",
                 "Stanziamento": "€ 1.977.477"
-            }
-        },
-        {
-            "deadline": "2026-02-05",
-            "title": "LEAP-SE - Bando Europa-Africa per la Ricerca e l’Innovazione sull’Energia Sostenibile – 2026",
-            "description": "I membri del consorzio LEAP-SE lanciano la seconda edizione di un bando congiunto transnazionale per proposte, cofinanziato da enti europei e africani di finanziamento della ricerca, con un ulteriore contributo della Commissione Europea.Il bando mira a rafforzare la partnership a lungo termine tra Europa e Africa sulla ricerca e innovazione nel campo dell’energia sostenibile, sostenendo progetti che affrontino l’intera filiera energetica. L’intento è contribuire alla transizione energetica africana, favorendo soluzioni tecnologiche e modelli innovativi adatti ai contesti locali, promuovendo al tempo stesso capacità di pianificazione energetica, sostenibilità sociale ed economica, e cooperazione tra attori pubblici, privati e del mondo della ricerca.",
-            "link": "https://www.obiettivoeuropa.com/bandi/leap-se-bando-europa-africa-per-la-ricerca-e-linnovazione-sullenergia-sostenibile",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Innovazione tecnologica, digitalizzazione, ICT, Mobilità sostenibile, Ricerca Scientifica, Sviluppo e promozione territoriale, Transizione ecologica, Transizione energetica",
-                "Stanziamento": "€ 16.500.000"
             }
         },
         {
@@ -2639,16 +2909,6 @@
             "custom": {
                 "Topics": "Competitività imprese, Fiere ed eventi, Internazionalizzazione, Supporto alle imprese, Sviluppo e promozione territoriale",
                 "Stanziamento": "€ 12.000"
-            }
-        },
-        {
-            "deadline": "2026-03-02",
-            "title": "CCIAA Umbria - Bando per la partecipazione a fiere in Italia e all’estero",
-            "description": "La Camera di Commercio dell’Umbria, al fine di sostenere le imprese nei processi di conoscenza dei mercati italiani ed internazionali e favorirne i processi di internazionalizzazione, prevede la concessione di contributi a favore delle micro e piccole imprese, volti ad incentivare la partecipazione a fiere di rilevanza internazionale in Italia e all’estero.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-umbria-bando-per-la-partecipazione-a-fiere-in-italia-e-allestero",
-            "custom": {
-                "Topics": "Competitività imprese, Fiere ed eventi, Internazionalizzazione, Media e informazione, Supporto alle imprese",
-                "Stanziamento": "€ 150.000"
             }
         },
         {
@@ -2822,16 +3082,6 @@
             }
         },
         {
-            "deadline": "2026-01-28",
-            "title": "Friuli - Venezia Giulia - Interventi a sostegno della filiera bosco-legno",
-            "description": "Il bando della Regione Autonoma Friuli - Venezia Giulia è finalizzato all’acquisizione delle domande di accesso agli incentivi in conto capitale, a parziale copertura degli investimenti produttivi della filiera bosco-legno, incentivando lo sviluppo sostenibile dell'economia del legno nel territorio regionale e promuovendo l’iniziativa di sviluppo tecnologico e innovativo orientata alla valorizzazione della risorsa legno regionale, alla crescita sostenibile e alla valorizzazione del comparto",
-            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-interventi-a-sostegno-della-filiera-bosco-legno-in-aree-interne",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale, Transizione ecologica",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
-        {
             "deadline": "2025-12-12",
             "title": "Centro per il libro e la lettura – Bando Città che legge",
             "description": "Il bando intende promuovere e diffondere l’abitudine alla lettura attraverso un’azione coordinata delle varie strutture presenti sul territorio (biblioteche, librerie, scuole, Asl, etc.), mediante iniziative che sappiano coniugare il valore formativo della lettura con la sua dimensione “ludica” e la sua valenza di strumento di dialogo in grado di favorire lo sviluppo e la coesione sociale In particolare il Centro si propone di:istituire e/o rafforzare circuiti culturali integrati per la promozione della lettura che coinvolgano istituzioni scolastiche, biblioteche di pubblica lettura, librerie, istituzioni, associazioni culturali, ospedali e strutture socio-assistenziali, centri anziani, istituti penitenziari;favorire la cooperazione tra istituzioni scolastiche, biblioteche, enti locali, librerie, istituti culturali, istituzioni della formazione superiore, centri provinciali per l’istruzione degli adulti ed enti di ricerca per l’attivazione di iniziative di promozione della lettura nei territori, valorizzando e promuovendo inoltre le buone pratiche di promozione della lettura con particolare attenzione alle fasce deboli della popolazione;sostenere iniziative di promozione del libro e della lettura finalizzate al mantenimento, rafforzamento e sviluppo del tessuto sociale, attraverso la costruzione di reti di rapporti che colleghino tutti i soggetti attivi nel territorio, allo scopo di rendere la lettura un’abitudine sociale diffusa e uno strumento di inclusione e partecipazione;favorire la costituzione di nuove filiere che includano i diversi attori legati alla diffusione del libro al fine di sperimentare forme innovative nella gestione di attività di promozione della lettura;realizzare progetti di promozione del libro e della lettura che coinvolgano, oltre ai luoghi tradizionalmente deputati, anche spazi di scambio e relazione negli ambienti della vita quotidiana, attraverso esperienze che permettano ai libri di entrare nei vari ambiti della socialità (ad esempio in: consultori, studi pediatrici, asili nido, centri sportivi, teatri, centri commerciali, mercati rionali, circoli ricreativi, istituti educativi e di promozione sociale, etc.);coinvolgere e sensibilizzare alla lettura un pubblico quanto più esteso e diversificato, con particolare riguardo all’attivazione o al potenziamento di servizi culturali all’interno delle strutture scolastichefavorire proposte in grado di sensibilizzare alla lettura fasce di età attualmente poco coinvolte nei programmi di promozione, incentivando la cultura dell’integrazione anche in una prospettiva di sostegno alle fasce più deboli.",
@@ -2852,16 +3102,6 @@
             }
         },
         {
-            "deadline": "2026-01-30",
-            "title": "Piemonte - Intervento SRD05: Azione SRD05.2 Impianto di arboricoltura a ciclo breve (pioppicoltura) su superfici agricole",
-            "description": "L’azione SRD05.2 “Impianto di arboricoltura a ciclo breve o medio-lungo su superfici agricole” sostiene la realizzazione di impianti con finalità multiple (ambientali, paesaggistiche, socio-ricreative, produttive), realizzati con specie forestali arboree e arbustive autoctone di origine certificata, di antico indigenato o altre specie forestali adatte alle condizioni ambientali locali, compresi i cloni di pioppo, reversibili al termine del ciclo colturale.Nello specifico, il bando prevede il finanziamento di nuovi impianti di arboricoltura a ciclo breve (pioppicoltura): piantagioni arboree temporanee con cloni di pioppo, escludendo la pioppicoltura ordinaria (monoclonale), di durata minima pari a 8 anni.",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-csr-2023-2027-intervento-srd05-azione-srd052-impianto-di-arboricoltura-a-ciclo-breve-pioppicoltura-su-superfici-agricole",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Supporto alle imprese, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 1.956.394"
-            }
-        },
-        {
             "deadline": "2026-03-10",
             "title": "Bando Erasmus+ 2026: Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni – Partenariati per l’innovazione: Alleanze per l’innovazione",
             "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoLe azioni sostenute nell'ambito dell’Azione chiave 2 – Cooperazione tra organizzazioni e istituzioni dovrebbero contribuire in modo significativo alle priorità del programma e avere ricadute positive e durature sulle organizzazioni partecipanti, sui sistemi politici nel cui ambito tali azioni si svolgono come pure sulle organizzazioni e sulle persone direttamente o indirettamente coinvolte nelle attività organizzate. Questa azione chiave dovrebbe generare lo sviluppo, il trasferimento e/o l'attuazione di pratiche innovative a livello organizzativo, locale, regionale, nazionale o europeo.Nel contesto dell’Azione chiave 2, i Partenariati per l'innovazione sostengono progetti volti a ottenere un impatto sistemico a livello europeo mediante la capacità di diffondere i risultati dei progetti su scala europea e/o di trasferirli in diversi contesti tematici o geografici. Nell'ambito di questo tipo di partenariato sono comprese le alleanze per l'innovazione. Queste azioni sono volte a rafforzare la capacità di innovazione dell'Europa mediante la cooperazione e il flusso di conoscenze tra l'istruzione superiore, l'istruzione e formazione professionale (sia iniziale che continua) e l'ambiente socio-economico in generale, compresa la ricerca. Sono volte inoltre a potenziare l'offerta di nuove competenze e a superare lo squilibrio tra domanda e offerta di competenze, progettando e creando nuovi programmi di studio per l'istruzione superiore e l'istruzione e formazione professionale, sostenendo lo sviluppo dello spirito di iniziativa e della mentalità imprenditoriale nell'UE.",
@@ -2869,26 +3109,6 @@
             "custom": {
                 "Topics": "Cooperazione Internazionale, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, STEM, Supporto alle imprese, Sviluppo e promozione territoriale",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-26",
-            "title": "Emilia-Romagna - Invito a presentare un progetto per l’attivazione di tirocini formativi in ambito turistico per giovani con disabilità",
-            "description": "La Regione Emilia-Romagna intende favorire il protagonismo e la valorizzazione delle persone con disabilità nello sviluppo di nuovi modelli di offerta turistica accessibile ed inclusiva. Tale obiettivo verrà perseguito attraverso l’attivazione di 60 tirocini formativi presso imprese o altre organizzazioni attive nel Turismo, creando opportunità di sviluppo delle competenze e di avvio di sperimentazioni di inclusione lavorativa.",
-            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-invito-a-presentare-un-progetto-per-lattivazione-di-tirocini-formativi-in-ambito-turistico-per-giovani-con-disabilita",
-            "custom": {
-                "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Turismo",
-                "Stanziamento": "€ 180.000"
-            }
-        },
-        {
-            "deadline": "2027-08-31",
-            "title": "Piemonte - Fondo rischi Confidi e voucher finanziamenti",
-            "description": "La misura “Fondo rischi Confidi e voucher finanziamenti” del PR FESR Piemonte 2021–2027 mira a favorire l’accesso al credito delle PMI piemontesi che non riescono a ottenere finanziamenti sufficienti dal mercato. Il sostegno riguarda operazioni finalizzate a investimenti in beni materiali/immateriali o capitale circolante.La misura combina:garanzie rilasciate da Confidi selezionati, sostenute da un Fondo rischi regionale;voucher a fondo perduto destinati a ridurre i costi della garanzia e gli interessi del finanziamento",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-fondo-rischi-confidi-e-voucher-finanziamenti",
-            "custom": {
-                "Topics": "Acquisto macchinari e/o attrezzature, Supporto alle imprese",
-                "Stanziamento": "€ 10.000.000"
             }
         },
         {
@@ -2949,16 +3169,6 @@
             "custom": {
                 "Topics": "Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale",
                 "Stanziamento": "€ 2.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-29",
-            "title": "Lombardia - Sostegno alla realizzazione di grandi eventi sportivi sul territorio lombardo",
-            "description": "La misura intende sostenere la realizzazione di Grandi eventi sportivi di rilevanza internazionale organizzati sul territorio lombardo che, per valore e prestigio e specificità contribuiscono, nel semestre successivo ai Giochi olimpici e paralimpici invernali, a dare continuità all’azione di promozione dell’immagine regionale e alla valorizzazione del territorio lombardo, assicurando visibilità e rappresentatività alle diverse realtà locali. I contributi previsti sono volti a sostenere gli eventi che si svolgono dal 1° aprile 2026 al 30 settembre 2026.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-grandi-eventi-sportivi-sul-territorio-lombardo",
-            "custom": {
-                "Topics": "Inclusione Sociale e Solidarietà, Sport, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 500.000"
             }
         },
         {
@@ -3122,16 +3332,6 @@
             }
         },
         {
-            "deadline": "2026-02-02",
-            "title": "Lombardia – Azione regionale volta alla riduzione delle emissioni prodotte dalle attività agromeccaniche",
-            "description": "L’azione regionale si pone l’obiettivo di:stimolare la competitività del settore della prestazione di servizi agromeccanici; - promuovere la gestione sostenibile delle attività agromeccaniche;garantire la gestione sostenibile delle risorse naturali;contribuire, nello specifico, alle azioni per la qualità dell'aria e per il clima attraverso lo sviluppo di interventi volti alla riduzione delle emissioni in atmosfera derivanti dalla gestione e distribuzione degli effluenti di allevamento/digestato",
-            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-azione-regionale-volta-alla-riduzione-delle-emissioni-prodotte-dalle-attivita-agromeccaniche",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Sviluppo e promozione territoriale",
-                "Stanziamento": "€ 1.185.883"
-            }
-        },
-        {
             "deadline": "2026-05-15",
             "title": "Lazio - Pagamento al fine di adottare e mantenere pratiche e metodi di produzione biologica",
             "description": "L’Avviso fa riferimento al PSP 2023/2027 ed in particolare all’intervento “SRA29 “pagamento al fine di adottare e mantenere pratiche e metodi di produzione biologica”, che prevede le seguenti azioni:Azione SRA29.1 “Conversione all’agricoltura biologica”Azione SRA29.2 “Mantenimento dell’agricoltura biologica”L’intervento ha come obiettivo quello di incentivare gli agricoltori a convertire e mantenere l’azienda agricola al metodo di produzione biologico. Il metodo esclude l’uso di “input chimici” di sintesi nella produzione, trasformazione e conservazione degli alimenti, prevedendo altresì l’adozione di tecniche e processi di produzione sostenibili dal punto di vista ambientale.",
@@ -3149,16 +3349,6 @@
             "custom": {
                 "Topics": "Cooperazione Internazionale, Educazione e istruzione, Formazione e lavoro, Giustizia e sicurezza, Media e informazione",
                 "Stanziamento": "€ 8.000.000"
-            }
-        },
-        {
-            "deadline": "2026-02-12",
-            "title": "Bando Erasmus+ 2026: Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento – Mobilità del personale nel campo dello Sport",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. L’azione “Mobilità del personale nel campo dello Sport” mira a contribuire allo sviluppo delle organizzazioni sportive sostenendo la mobilità a fini di apprendimento del loro personale.L'obiettivo generale di questa azione è offrire al personale delle organizzazioni sportive, principalmente nel settore degli sport di base, l'opportunità di migliorare le proprie competenze e qualifiche e di acquisire nuove abilità attraverso la mobilità a fini di apprendimento trascorrendo un periodo all'estero, contribuendo in tal modo allo sviluppo e al rafforzamento delle capacità delle organizzazioni sportive.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-mobilita-del-personale-nel-campo-dello-sport",
-            "custom": {
-                "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Salute e medicina, Sport",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -3212,16 +3402,6 @@
             }
         },
         {
-            "deadline": "2025-12-22",
-            "title": "Lombardia - Ri.Circo.Lo. Risorse Circolari in Lombardia per il sostegno alle PMI lombarde per lo sviluppo di azioni di economia circolare",
-            "description": "La misura è relativa ad azioni di simbiosi industriale, prevenzione della produzione dei rifiuti alimentari (art. 183, lett. d-bis) del d.lgs. 152/06 e s.m.i.), ottimizzazioni in ambito di sostenibilità di lavorazione e consumo di alimenti e azioni per la riduzione dello spreco alimentare e riciclaggio.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lombardia-ricircolo-risorse-circolari-in-lombardia-per-il-sostegno-alle-pmi-lombarde-per-lo-sviluppo-di-azioni-di-economia-circolare",
-            "custom": {
-                "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
-                "Stanziamento": "€ 2.300.000"
-            }
-        },
-        {
             "deadline": "2025-12-12",
             "title": "Centro per il Libro e la Lettura - Bando “Lettura per tutti”",
             "description": "Il Bando si propone di estendere l’invito alla lettura alle persone con difficoltà di lettura o con disabilità fisiche o sensoriali, che costituiscono delle fasce d’utenza particolarmente deboli perché ad alto rischio di emarginazione nell’ambito della circolazione delle informazioni e dell’accesso alla cultura.A tal fine, per poter rendere una biblioteca un luogo sempre più accessibile a tutti i potenziali utenti, è necessario:riprogettare i servizi offerti consentendo a chiunque di ritrovare o continuare a coltivare il piacere della lettura;migliorare la fruizione dei materiali e degli spazi disponibili;orientare gli utenti interessati nella scelta dei servizi e agevolarne la diffusione mediante una efficace attività di promozione e comunicazione;incrementarne il patrimonio attraverso la produzione e/o l’acquisto di testi e con attrezzature e strumenti specifici.",
@@ -3249,16 +3429,6 @@
             "custom": {
                 "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Edilizia, Gastronomia, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale, Turismo",
                 "Stanziamento": "€ 5.000.000"
-            }
-        },
-        {
-            "deadline": "2027-01-19",
-            "title": "Emilia-Romagna - Percorsi personalizzati per la formazione e l'inclusione dei minori stranieri non accompagnati",
-            "description": "L’Avviso rende disponibili percorsi personalizzati rivolti ai minori stranieri non accompagnati per garantire la loro piena partecipazione e fruizione dell’offerta formativa di IeFP realizzata dagli enti di formazione professionale accreditati, per accompagnarli nell’assolvimento del diritto dovere all’istruzione e alla formazione e nella costruzione di un proprio percorso per la transizione verso il mercato del lavoro.",
-            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-percorsi-personalizzati-per-la-formazione-e-linclusione-dei-minori-stranieri-non-accompagnati",
-            "custom": {
-                "Topics": "Aiuti umanitari e Protezione civile, Asilo e migrazione, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà",
-                "Stanziamento": "€ 3.000.000"
             }
         },
         {
@@ -4852,16 +5022,6 @@
             }
         },
         {
-            "deadline": "2026-01-31",
-            "title": "Umbria - Investimenti non produttivi finalizzati ad arrestare e invertire la perdita di biodiversità e a preservare il paesaggio rurale",
-            "description": "L’intervento sostiene investimenti non produttivi su superfici agricole (anche non utilizzate) con finalità ambientale, puntando alla tutela della biodiversità, alla resilienza climatica, alla salvaguardia degli habitat e del paesaggio rurale.L’Azione 1 mira, in particolare, a rendere il sistema agricolo più resiliente ai cambiamenti climatici, ad arrestare e invertire la perdita di biodiversità, favorire la convivenza tra attività agricole e fauna selvatica, preservare elementi storici e tradizionali del paesaggio rurale e rafforzare gli ecosistemi.",
-            "link": "https://www.obiettivoeuropa.com/bandi/umbria-investimenti-non-produttivi-finalizzati-ad-arrestare-e-invertire-la-perdita-di-biodiversita-e-a-preservare-il-paesaggio-rurale",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Allevamento, Ambiente e Sviluppo sostenibile, Benessere e diritti degli animali, Biodiversità",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
-        {
             "deadline": "2026-12-31",
             "title": "Toscana - Contributi individuali per le donne inserite in percorsi di uscita dalla violenza e di autonomia",
             "description": "Il bando ha l’obiettivo di favorire l’inserimento/reinserimento nel mercato del lavoro e supportare l’autonomia economica delle donne inserite in percorsi di uscita dalla violenza, attraverso la concessione di contributi individuali per la frequenza delle politiche attive erogate dal Centro per l'impiego (CPI), per l’iscrizione e la frequenza di percorsi formativi, prevedendo misure di accompagnamento, quali voucher di conciliazione vita-lavoro e contributi per la mobilità geografica.",
@@ -6042,16 +6202,6 @@
             }
         },
         {
-            "deadline": "2026-04-30",
-            "title": "Trentino-Alto Adige - Contributi per attività di interesse regionale",
-            "description": "Sono considerate di interesse regionale tutte le iniziative, manifestazioni, eventi e attività che valorizzano la Regione ed i suoi interessi e che promuovono l’incontro, lo scambio culturale e l’associazionismo nelle comunità della Regione.",
-            "link": "https://www.obiettivoeuropa.com/bandi/trentino-alto-adige-contributi-per-attivita-di-interesse-regionale",
-            "custom": {
-                "Topics": "Arte e Cultura, Manifestazioni culturali, Manifestazioni Sportive, Sviluppo e promozione territoriale",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "fino ad esaurimento risorse",
             "title": "Fondo accessibilità turistica – Contributi per l’accesso all’offerta turistica per le persone con disabilità",
             "description": "Il bando istitutisce un Fondo al quale potranno attingere le imprese del settore turistico per ottenere le certificazioni necessarie per rendere i propri luoghi e servizi accessibili alle persone con disabilità.",
@@ -6272,16 +6422,6 @@
             }
         },
         {
-            "deadline": "2026-10-31",
-            "title": "Provincia di Varese - Dote Impresa Collocamento Mirato",
-            "description": "La presente misura è finalizzata a sostenere le imprese private, a condizione che dispongano di una sede operativa nel territorio della Regione Lombardia.La misura prevede tre tipologie di intervento, di seguito specificate:Linea Consulenza, formazione e servizi: agevolazioni finalizzate all'erogazione di servizi propedeutici alla definizione e all'adattamento delle caratteristiche aziendali, al fine di favorire l'inserimento e/o il mantenimento in organico di persone con disabilità.Linea Contributi per ausili: l'erogazione di contributi alle imprese per l'acquisto di ausili e per l'adattamento del posto di lavoro con l’obiettivo di garantire l'inserimento e/o il mantenimento in azienda di persone con disabilità.Linea Isola formativa: creazione di nuovi ambienti di lavoro all’interno delle aziende integrati nei processi produttivi.",
-            "link": "https://www.obiettivoeuropa.com/bandi/provincia-di-varese-dote-impresa-collocamento-mirato",
-            "custom": {
-                "Topics": "Competitività imprese, Formazione e lavoro, Inclusione Sociale e Solidarietà, Supporto alle imprese",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
-        {
             "deadline": "2026-06-30",
             "title": "CCIAA Sondrio - Avviso per la concessione di contributi per l'attivazione di Percorsi per le Competenze Trasversali e l'Orientamento",
             "description": "La CCIAA intende incentivare l’inserimento di studenti in percorsi per le competenze trasversali e l’orientamento (PCTO) e per la promozione del Registro nazionale per l'alternanza scuola‐lavoro e l’iscrizione nello stesso da parte delle imprese.",
@@ -6322,16 +6462,6 @@
             }
         },
         {
-            "deadline": "2026-04-30",
-            "title": "Piemonte - Promozione della diffusione del teleriscaldamento efficiente",
-            "description": "Il bando intende promuovere l’efficienza energetica e ridurre le emissioni di gas a effetto serra attraverso investimenti per la diffusione del teleriscaldamento efficiente alimenta o integra da fon rinnovabili e/o da calore di scarto.",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-promozione-della-diffusione-del-teleriscaldamento-efficiente",
-            "custom": {
-                "Topics": "Acquisto macchinari e/o attrezzature, Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Supporto alle imprese, Transizione ecologica, Transizione energetica",
-                "Stanziamento": "€ 12.750.000"
-            }
-        },
-        {
             "deadline": "fino ad esaurimento risorse",
             "title": "Fondo Salvaguardia Imprese: Fondo per la salvaguardia dei livelli occupazionali e la prosecuzione dell’attività d’impresa",
             "description": "Il Fondo è stato istituto con il decreto-legge 19 maggio 2020, n. 34, art. 43 “Misure urgenti in materia di salute, sostegno al lavoro e all’economia, nonché di politiche sociali connesse all’emergenza epidemiologica da COVID-19”.Il Fondo gestito da Invitalia, acquisisce partecipazioni di minoranza, nel capitale di rischio di imprese in difficoltà economico-finanziaria.Obiettivi:sostenere la continuità e lo sviluppo dell’attività d’impresa;ridurre gli impatti occupazionali connessi alla situazione di crisi economico-finanziaria;attivare capitali privati/pubblici a sostegno dell’attuazione dei piani di ristrutturazione delle imprese in difficoltà;instaurare una partnership tra la proprietà/management ed Invitalia finalizzata alla creazione di valore per tutti gli azionisti, con un piano di ristrutturazione condiviso.",
@@ -6339,16 +6469,6 @@
             "custom": {
                 "Topics": "Supporto alle imprese",
                 "Stanziamento": "€ 300.000.000"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "CCIAA Venezia Giulia Trieste Gorizia - Contributi e finanziamenti a sostegno dell‘economia locale",
-            "description": "La CCIAA con il bando sostiene le iniziative di promozione economica atte a produrre vantaggi all’economia provinciale, a valorizzare il territorio e/o caratteristiche di particolari aree o zone o settori economici dello stesso.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-venezia-giulia-trieste-gorizia-contributi-e-finanziamenti-a-sostegno-delleconomia-locale",
-            "custom": {
-                "Topics": "Commercio, Sviluppo e promozione territoriale",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -6492,16 +6612,6 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "Emilia-Romagna - Manifestazione di interesse per l'integrazione dei programmi di ricerca",
-            "description": "La Regione Emilia-Romagna intende sostenere attività di ricerca, di innovazione e di trasferimento tecnologico degli attori protagonisti dell’Ecosistema Regionale dell’Innovazione, i Laboratori e Centri per l’innovazione accreditati (tutte le tipologie) nell’ambito della Rete Alta Tecnologia della Regione Emilia-Romagna, i Clust-ER regionali e le Associazioni Big Data e MUNER, le imprese, i Soggetti Gestori dei Tecnopoli, con l’obiettivo di partecipare alle numerose opportunità di finanziamento diretto della Commissione Europec",
-            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-manifestazione-di-interesse-per-lintegrazione-dei-programmi-di-ricerca",
-            "custom": {
-                "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
-                "Stanziamento": "€ 530.000"
-            }
-        },
-        {
             "deadline": "2025-12-20",
             "title": "Lazio – Bando Impresa Rosa: incentivare l’adozione di sistemi di gestione sulla parità di genere",
             "description": "L’Avviso incentiva l’adozione di sistemi di gestione sulla parità di genere da parte delle imprese del Lazio, al fine di promuovere sui luoghi di lavoro la diffusione di una cultura che sostenga l’autostima, la consapevolezza e l’autodeterminazione femminile.",
@@ -6599,16 +6709,6 @@
             "custom": {
                 "Topics": "Arte e Cultura, Festival e mostre, Fiere ed eventi, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Sviluppo e promozione territoriale",
                 "Stanziamento": "€ 100.000"
-            }
-        },
-        {
-            "deadline": "2026-01-29",
-            "title": "CREA - Circolazione delle opere letterarie europee",
-            "description": "Il bando “Circolazione delle opere letterarie europee” intende sostenere progetti che prevedano attività di traduzione, pubblicazione, distribuzione e promozione di opere letterarie.Le priorità del bando sono:aumentare la circolazione transnazionale e la diversità delle opere letterarie europee, attraverso la traduzione, la pubblicazione, la distribuzione e la promozione di opere di narrativa scritte in lingue meno diffuse. promuovere la lettura e la diversità linguistica e culturale della letteratura europea presso un vasto pubblico. sostenere la professione di traduttore letterario in linea con i principi di buone condizioni di lavoro e di equa retribuzione.aumentare la competitività del settore librario incoraggiando la cooperazione tra i diversi attori della catena del valore del libro, in particolare tra editori, librerie e biblioteche.",
-            "link": "https://www.obiettivoeuropa.com/bandi/europa-creativa-circolazione-delle-opere-letterarie-europee",
-            "custom": {
-                "Topics": "Arte e Cultura, Editoria e informazione, Educazione e istruzione, Libro e lettura, Marketing e comunicazione, Media e informazione, Supporto alle imprese",
-                "Stanziamento": "€ 5.000.000"
             }
         },
         {
@@ -7009,16 +7109,6 @@
             "custom": {
                 "Topics": "Educazione e istruzione, Inclusione Sociale e Solidarietà, Sport",
                 "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-12-17",
-            "title": "EIC Accelerator bando 2026",
-            "description": "EIC Accelerator è un programma di finanziamento nell'ambito di Horizon Europe che offre sostegno a start-up e PMI per sviluppare innovazioni ad alto impatto con il potenziale di creare nuovi mercati o di sconvolgere quelli esistenti. L'EIC Accelerator si concentra in particolare sulle innovazioni basate su scoperte scientifiche o scoperte tecnologiche (\"deep tech\"), per le quali è necessario un finanziamento significativo su un lungo periodo di tempo prima che si possano generare ritorni.",
-            "link": "https://www.obiettivoeuropa.com/bandi/eic-accelerator-bando",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Alimentazione e nutrizione, Ambiente e Sviluppo sostenibile, Economia circolare, Energie Rinnovabili, Innovazione tecnologica, digitalizzazione, ICT, Intelligenza Artificiale, Ricerca Scientifica, Salute e medicina, Supporto alle imprese, Transizione digitale",
-                "Stanziamento": "€ 634.000.000"
             }
         },
         {
@@ -8372,16 +8462,6 @@
             }
         },
         {
-            "deadline": "2026-05-15",
-            "title": "Lazio - Tecniche lavorazione ridotta dei suoli",
-            "description": "L'intervento mira a preservare il suolo promuovendo tecniche di coltivazione che riducono il disturbo e migliorano la fertilità. L'adozione di lavorazioni meno profonde o di non lavorazione contrasta il degrado, rafforza la struttura del terreno, previene erosione e compattamento, ottimizza l'uso di risorse fossili, aumenta la sostanza organica e la capacità idrica del suolo, e riduce le emissioni di CO2 rispetto alle lavorazioni tradizionali.Con l’avviso si intende attivare la presentazione delle domande di sostegno per l’anno 2026 a valere sull’Intervento SRA03 del Piano Strategico Nazionale PAC 2023/2027 e del relativo Complemento per lo Sviluppo Rurale (CSR) per la Regione Lazio per le seguenti Azioni:Azione 3.1 - Adozione di tecniche di semina su sodo / no tillage (NT);Azione 3.2 - Adozione di tecniche di minima lavorazione / minimum tillage (MT) e/o di tecniche di lavorazione a bande / strip tillage",
-            "link": "https://www.obiettivoeuropa.com/bandi/lazio-tecniche-lavorazione-ridotta-dei-suoli",
-            "custom": {
-                "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2025-12-15",
             "title": "Piemonte - Film Tv Development Fund",
             "description": "Il Piemonte Film Tv Development Fund si rivolge alle imprese di produzione piemontesi con l’obiettivo di accrescere la loro capacità di sviluppare progetti che abbiano le potenzialità di circolare in Europa e oltre e di facilitare le co-produzioni internazionali, anche con le emittenti televisive, attraverso un sostegno finanziario dedicato allo sviluppo di un singolo progetto di opera audiovisiva.",
@@ -9079,16 +9159,6 @@
             "custom": {
                 "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Biodiversità, Energie Rinnovabili, Media e informazione, Transizione ecologica",
                 "Stanziamento": "€ 70.000"
-            }
-        },
-        {
-            "deadline": "2026-03-26",
-            "title": "Bando Erasmus+ 2026: Azione chiave 1 - Mobilità individuale ai fini dell'apprendimento – Scambi virtuali nel campo dell’istruzione superiore e della gioventù",
-            "description": "Erasmus+ è il programma dell'Unione europea nel campo dell'istruzione, della formazione, della gioventù e dello sport per il periodo 2021-2027. Il Programma Erasmus+ si divide in 4 Azioni:Azione Chiave 1 – Mobilità individuale ai fini dell’apprendimentoAzione Chiave 2 – Cooperazione tra organizzazioni e istituzioniAzione Chiave 3 – Sostegno alla definizione delle politiche e alla cooperazioneAzioni Jean MonnetLe priorità trasversali del programma sono:Inclusione e diversitàTrasformazione digitaleAmbiente e lotta ai cambiamenti climaticiPartecipazione alla vita democratica, valori comuni e impegno civicoNell’ambito dell’Azione chiave 1 - Mobilità individuale a fini di apprendimento, le organizzazioni attive nel campo dell'istruzione, della formazione e della gioventù riceveranno sostegno dal programma Erasmus+ per portare avanti progetti che promuovono diversi tipologie di mobilità. I progetti saranno destinati ad alunni, studenti, tirocinanti, apprendisti, discenti adulti e giovani, personale, animatori socioeducativi e professionisti coinvolti nei settori dell'istruzione, della formazione e della gioventù. Nel lungo periodo l'effetto combinato di diverse migliaia di progetti sostenuti nell'ambito di questa azione chiave dovrebbe incidere sui sistemi di istruzione, formazione e gioventù nei paesi partecipanti al programma, stimolando riforme e catalizzando nuove risorse per le opportunità di mobilità in Europa e altrove. In questo contesto, i progetti di scambi virtuali consistono in attività online interpersonali che promuovono il dialogo interculturale e lo sviluppo delle competenze trasversali e consentono a ogni giovane di accedere a un'istruzione internazionale e interculturale di alta qualità (sia formale che non formale) senza bisogno della mobilità fisica.  L'azione ha i seguenti obiettivi:incoraggiare il dialogo interculturale con i paesi terzi non associati al programma e accrescere la tolleranza attraverso interazioni interpersonali online, basandosi su tecnologie digitali e favorevoli ai giovani;promuovere vari tipi di scambi virtuali a complemento della mobilità fisica nell'ambito di Erasmus+, così da consentire a un maggior numero di giovani di beneficiare di un'esperienza interculturale e internazionale;rafforzare il pensiero critico e l'alfabetizzazione mediatica, in particolare nell'uso di Internet e dei social media, ad esempio per contrastare la discriminazione, l'indottrinamento, la polarizzazione e la radicalizzazione violenta;promuovere lo sviluppo delle competenze digitali e trasversali degli studenti, dei giovani e degli animatori socioeducativi, compresa la pratica delle lingue straniere e del lavoro di squadra, in particolare per migliorare l'occupabilità;promuovere la cittadinanza e i valori comuni di libertà, tolleranza e non discriminazione attraverso l'istruzione;rafforzare la dimensione giovanile nelle relazioni dell'UE con i paesi terzi.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-erasmus-azione-chiave-1-mobilita-individuale-ai-fini-dellapprendimento-scambi-virtuali-nel-campo-dellistruzione-superiore-e-della-gioventu",
-            "custom": {
-                "Topics": "Arte e Cultura, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT",
-                "Stanziamento": "N/A"
             }
         },
         {
@@ -9819,16 +9889,6 @@
             "custom": {
                 "Topics": "Turismo",
                 "Stanziamento": "€ 15.000.000"
-            }
-        },
-        {
-            "deadline": "2026-12-30",
-            "title": "Unioncamere Lombardia - Avviso Formazione continua",
-            "description": "Il bando si pone l’obiettivo di favorire lo sviluppo professionale dei lavoratori in azienda rispetto alle esigenze formative specifiche di tutte le figure professionali e tutte le tipologie di impresa che caratterizzano il tessuto produttivo lombardo tramite voucher per usufruire di corsi di formazione selezionabili dal Catalogo regionale della formazione continua. La terza edizione si pone in continuità rispetto alle precedenti e inoltre amplia la platea delle imprese inserendo anche il settore agricolo che necessita di competenze trasversali utili a sviluppare filoni di attività innovative fortemente richieste dal mercato.",
-            "link": "https://www.obiettivoeuropa.com/bandi/unioncamere-lombardia-avviso-formazione-continua",
-            "custom": {
-                "Topics": "Formazione e lavoro",
-                "Stanziamento": "€ 17.000.000"
             }
         },
         {

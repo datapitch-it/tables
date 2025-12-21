@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-19 05:27:33",
+    "scraping_timestamp": "2025-12-20 07:03:50",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -1154,6 +1154,15 @@
             }
         },
         {
+            "deadline": "2026-09-03",
+            "title": "Centres of Vocational Excellence",
+            "description": "The main objective of the Centres of Vocational Excellence (CoVE) initiative is the establishment and development of transnational collaborative networks that bring together local and regional VET stakeholders (VET institutions, companies and other employers, social partners, authorities, higher education institutions, research institutes, etc.) in strong and broad public-private partnerships, thereby creating comprehensive skills ecosystems for innovation, regional development, and social inclusion and supporting European competitiveness.",
+            "link": "https://www.euro-access.eu/en/calls/2465/Centres-of-Vocational-Excellence",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
             "deadline": "2026-03-26",
             "title": "Capacity building in VET in South Mediterranean Countries",
             "description": "Capacity building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of VET in EU Member States and third countries associated to the Programme, and third countries not associated to the Programme. They aim to support the relevance, accessibility, and responsiveness of VET institutions and systems in third countries not associated to the Programme as a driver of sustainable socio-economic development.",
@@ -1442,6 +1451,24 @@
             }
         },
         {
+            "deadline": "2026-03-03",
+            "title": "European Degree Pathway Projects",
+            "description": "This action aims to accompany and support partnerships in designing and implementing the necessary actions to facilitate the rollout of the joint European degree label, promote the joint European degree label and explore the pathway toward a possible joint European degree in all fields including specific disciplines (e.g., engineering).",
+            "link": "https://www.euro-access.eu/en/calls/2498/European-Degree-Pathway-Projects",
+            "custom": {
+                "Funding Program": "Erasmus+"
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "Leadership Development programme for higher education institutions’ leaders",
+            "description": "This action will support the higher education sector in the development of deeper transnational cooperation at the European level, promoting new ways of teaching and learning, protecting academic freedom and developing fulfilling academic careers, aligned with the Council Recommendation on attractive and sustainable careers in higher education. This action will also promote female leadership in higher education.",
+            "link": "https://www.euro-access.eu/en/calls/2499/Leadership-Development-programme-for-higher-education-institutions-leaders",
+            "custom": {
+                "Funding Program": "Erasmus+"
+            }
+        },
+        {
             "deadline": "2026-04-23",
             "title": "European Film Distribution",
             "description": "Within the specific objective of promoting competitiveness, scalability, cooperation, innovation and sustainability, including through mobility, in the European audiovisual sector, one of the priorities of the MEDIA strand is to enhance the circulation, promotion, online and theatrical distribution of European audiovisual works, within the Union and internationally in the new digital environment; including through innovative business models.",
@@ -1559,6 +1586,15 @@
             }
         },
         {
+            "deadline": "2026-03-05",
+            "title": "Capacity Building in the Field of Sport",
+            "description": "Capacity Building projects are international cooperation projects based on multilateral partnerships between organisations active in the field of sport in Programme and third countries not associated to the Programme in Region 1 (Western Balkans) and Region 2 (Neighbourhood East). They aim to support sport activities and policies in third countries not associated to the Programme as a vehicle to promote values as well as an educational tool to promote the personal and social development of individuals and build more cohesive communities.",
+            "link": "https://www.euro-access.eu/en/calls/2516/Capacity-Building-in-the-Field-of-Sport",
+            "custom": {
+                "Funding Program": "Erasmus+ - Sport Actions"
+            }
+        },
+        {
             "deadline": "2026-02-11",
             "title": "Support for the implementation of the European Heritage Label",
             "description": "The general objective of the call is to continue to support the European Heritage Label network of sites, fostering training, exchanges, collaboration and opportunities among the EHL Stakeholders.",
@@ -1601,6 +1637,15 @@
             "link": "https://www.euro-access.eu/en/calls/2521/Call-for-proposals-to-National-Roma-Contact-Points",
             "custom": {
                 "Funding Program": "Citizens, Equality, Rights and Values programme"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Economics of climate change and cost of inaction",
+            "description": "As emphasized by the IPCC, it is urgent to better understand the benefits and opportunities associated with deep, rapid and sustained mitigation and accelerated adaptation action to inform strategic decisions. Comprehensive assessments of the socio-economic impacts of climate change are essential for this, however, current approaches face significant challenges with a wide uncertainty in global damage estimates, fragmentation, lack of comparability across methodologies, and reliance on extrapolation from historical data, increasingly unrealistic in the context of current unprecedented changes in the climate system.",
+            "link": "https://www.euro-access.eu/en/calls/2553/Economics-of-climate-change-and-cost-of-inaction",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
             }
         },
         {
@@ -1785,6 +1830,24 @@
         },
         {
             "deadline": "2026-03-05",
+            "title": "Small-scale Partnerships",
+            "description": "Small-scale Partnerships are designed to widen access to the programme to small-scale actors and individuals who are hard to reach in the fields of school education, adult education, vocational education and training, youth and sport.",
+            "link": "https://www.euro-access.eu/en/calls/2542/Small-scale-Partnerships",
+            "custom": {
+                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
+            }
+        },
+        {
+            "deadline": "2026-03-05",
+            "title": "Not-for-profit European sport events",
+            "description": "European sport events aim to reach a very high impact and implement follow up activities to ensure legacy in terms of societal benefits and promotion of inclusion through sport.",
+            "link": "https://www.euro-access.eu/en/calls/2543/Not-for-profit-European-sport-events",
+            "custom": {
+                "Funding Program": "Erasmus+ - Sport Actions"
+            }
+        },
+        {
+            "deadline": "2026-03-05",
             "title": "Cooperation Partnerships",
             "description": "The primary goal of Cooperation Partnerships is to allow organisations to increase the quality and relevance of their activities, to develop and reinforce their networks of partners, to increase their capacity to operate jointly at transnational level, boosting internationalisation of their activities and through exchanging or developing new practices and methods as well as sharing and confronting ideas.",
             "link": "https://www.euro-access.eu/en/calls/2544/Cooperation-Partnerships",
@@ -1853,6 +1916,69 @@
             "link": "https://www.euro-access.eu/en/calls/2551/RampI-in-Support-of-the-Clean-Industrial-Deal-Decarbonisation-of-energy-intensive-industries-Processes4Planet-and-Clean-Steel-partnerships",
             "custom": {
                 "Funding Program": "Horizon Europe"
+            }
+        },
+        {
+            "deadline": "2026-03-17",
+            "title": "Partnerships for Excellence: European Universities – European Degree exploratory  action",
+            "description": "Partnerships for Excellence support projects with a long-term sustainable perspective. This action aims at fostering excellence in higher education by supporting higher education institutions in the design, adaptation, and implementation of innovative and inclusive transnational joint programmes at bachelor, master, or doctoral levels, aligned with the criteria for the joint European degree label, as set out in Annex II of the Council Recommendation on a European Quality Assurance and Recognition System in Higher Education. The action will generate practical models and evidence to inspire broader adoption of the joint European degree label across Europe. The action also encourages targeted exploration of the concept of a European degree in engineering.",
+            "link": "https://www.euro-access.eu/en/calls/2552/Partnerships-for-Excellence-European-Universities--European-Degree-exploratory-action",
+            "custom": {
+                "Funding Program": "Erasmus+"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Advancing European climate risk assessments",
+            "description": "The development and implementation of climate adaptation strategies and plans of the EU and Member States rely on the most accurate and decision-useful assessments of climate risks that science can provide. For this purpose, the new knowledge feeding future EUCRAs (EU Climate Risk Assessments) will be essential.",
+            "link": "https://www.euro-access.eu/en/calls/2554/Advancing-European-climate-risk-assessments",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Improving climate and weather models for Africa",
+            "description": "Africa is among the regions most severely affected by climate change, mostly due to high vulnerability and low adaptive capacity. While significant advancements in global weather and climate science have transformed resilience efforts elsewhere, their benefits in Africa remain to be harnessed, to unlock the continent’s ability to address climate challenges more effectively.",
+            "link": "https://www.euro-access.eu/en/calls/2555/Improving-climate-and-weather-models-for-Africa",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Next generation climate monitoring and related capabilities",
+            "description": "Climate monitoring of Essential Climate Variables at global and regional scales is crucial to assess the state of our climate, its variability and change, and to track progress towards the goals of the Paris Agreement and the corresponding EU climate objectives. Underlying elements, in particular climate data records, reanalyses and forcings, are fundamental to climate science and serve multiple applications across weather, climate, environmental and sectoral domains, generating societal benefits. In turn, methods to distil information from this wealth of data can help extract relevant knowledge and key messages for climate policymaking.",
+            "link": "https://www.euro-access.eu/en/calls/2556/Next-generation-climate-monitoring-and-related-capabilities",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Fighting disinformation and effectively communicating on climate change",
+            "description": "Climate change science is well-established and increasingly relevant to daily life and societal welfare. However, effectively communicating both the science and the necessary climate actions remains a significant challenge. Particularly challenging is understanding and addressing the spread of misinformation, disinformation, and misinterpretation. There is also a crucial need for a strengthened public trust in science and in democracy, and for evidence-based climate communication strategies that foster a sense of agency through empowering and positive narratives. Complex messages should be made accessible, relevant, and reliable to non-specialist audiences.",
+            "link": "https://www.euro-access.eu/en/calls/2557/Fighting-disinformation-and-effectively-communicating-on-climate-change",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Closing knowledge gaps on Earth system science in support of global and regional assessments and climate policy",
+            "description": "The global community’s ability to mitigate and adapt to climate change requires the continuous advancement of climate science and related disciplines. International climate policy is informed primarily by the assessments made by the Intergovernmental Panel on Climate Change (IPCC), which provides the most comprehensive and authoritative evaluation of the state of knowledge on climate science, including the Earth’s climate system and its expected changes under different scenarios.",
+            "link": "https://www.euro-access.eu/en/calls/2558/Closing-knowledge-gaps-on-Earth-system-science-in-support-of-global-and-regional-assessments-and-climate-policy",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Networks of Towns",
+            "description": "Networks of Towns will give towns and municipalities the possibility to deepen and intensify their cooperation and debate, develop sustainable networks and outline their long-term vision for the future of European integration.",
+            "link": "https://www.euro-access.eu/en/calls/2559/Networks-of-Towns",
+            "custom": {
+                "Funding Program": "Citizens, Equality, Rights and Values programme"
             }
         }
     ]
