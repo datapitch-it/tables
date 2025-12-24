@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMREG Projects Viewer</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <style>
+        /* Custom scrollbar per la modale e sidebar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #c5c5c5; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #a8a8a8; }
+        
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans h-screen overflow-hidden">
+
+<div id="app" class="flex h-full">
+
+    <aside class="w-72 bg-white border-r border-slate-200 flex flex-col shadow-sm z-10">
+        <div class="p-6 border-b border-slate-100 bg-slate-50">
+            <h1 class="font-extrabold text-2xl text-blue-700 tracking-tight">
+                <i class="fa-solid fa-layer-group mr-2"></i>IMREG <span class="text-slate-500 font-light">Monitor</span>
+            </h1>
+            <p class="text-xs text-slate-400 mt-2" v-if="metadata.scraping_timestamp">
+                Aggiornato: {{ formatDateSimple(metadata.scraping_timestamp) }}
+            </p>
+        </div>
+
+        <div class="p-6 flex-1 overflow-y-auto">
+            
+            <div class="mb-8">
+                <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3">Seleziona Anno</h3>
+                <div class="space-y-2">
+                    <label v-for="year in yearsList" :key="year" 
+                           class="flex items-center p-2 rounded hover:bg-slate-50 cursor-pointer transition">
+                        <input type="checkbox" :value="year" v-model="selectedYears" 
+                               class="w-4 h-4 text-blue-600 rounded border-gray-300 focus:ring-blue-500">
+                        <span class="ml-3 text-sm font-medium">{{ year }}</span>
+                        <span class="ml-auto text-xs bg-slate-100 text-slate-500 px-2 py-0.5 rounded-full">
+                            {{ countProjectsByYear(year) }}
+                        </span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="mb-8">
+                <h3 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-3">Stato Progetto</h3>
+                <select v-model="selectedStatus" class="w-full bg-slate-50 border border-slate-200 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5">
+                    <option value="">Tutti gli stati</option>
+                    <option value="Ongoing">In Corso (Ongoing)</option>
+                    <option value="Ended">Terminato (Ended)</option>
+                </select>
+            </div>
+
+            <div class="bg-blue-50 rounded-xl p-4 border border-blue-100">
+                <div class="text-xs text-blue-600 font-bold uppercase mb-1">Budget Totale (Visualizzato)</div>
+                <div class="text-lg font-bold text-blue-800">€ {{ formatMoneyCompact(totalDisplayedBudget) }}</div>
+            </div>
+        </div>
+    </aside>
+
+    <main class="flex-1 flex flex-col h-full relative">
+        
+        <header class="bg-white border-b border-slate-200 p-4 flex items-center justify-between shadow-sm z-10">
+            <div class="relative w-96">
+                <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+                    <i class="fa-solid fa-search text-slate-400"></i>
+                </div>
+                <input type="text" v-model="searchQuery" 
+                       class="bg-slate-50 border border-slate-300 text-slate-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5" 
+                       placeholder="Cerca progetto, acronimo, parole chiave...">
+            </div>
+
+            <div class="text-sm font-medium text-slate-600">
+                Visualizzati <span class="text-blue-700 font-bold">{{ filteredProjects.length }}</span> progetti
+            </div>
+        </header>
+
+        <div class="flex-1 overflow-y-auto p-6 bg-slate-50">
+            
+            <div v-if="loading" class="flex justify-center items-center h-full text-slate-400">
+                <i class="fa-solid fa-spinner fa-spin text-3xl mr-3"></i> Caricamento dati...
+            </div>
+
+            <div v-else-if="filteredProjects.length === 0" class="flex flex-col justify-center items-center h-64 text-slate-400">
+                <i class="fa-regular fa-folder-open text-4xl mb-2"></i>
+                <p>Nessun progetto trovato con questi filtri.</p>
+            </div>
+
+            <div v-else class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 pb-10">
+                <div v-for="proj in filteredProjects" :key="proj['PROJECT ID']" 
+                     @click="openModal(proj)"
+                     class="group bg-white rounded-xl border border-slate-200 shadow-sm hover:shadow-xl hover:border-blue-300 transition-all duration-300 cursor-pointer flex flex-col h-full relative overflow-hidden">
+                    
+                    <div class="absolute left-0 top-0 bottom-0 w-1 bg-blue-500 opacity-0 group-hover:opacity-100 transition-opacity"></div>
+
+                    <div class="p-5 flex-1">
+                        <div class="flex justify-between items-start mb-3">
+                            <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium border"
+                                  :class="proj.Status === 'Ongoing' ? 'bg-green-100 text-green-800 border-green-200' : 'bg-gray-100 text-gray-800 border-gray-200'">
+                                <span class="w-1.5 h-1.5 mr-1.5 rounded-full" :class="proj.Status === 'Ongoing' ? 'bg-green-500' : 'bg-gray-500'"></span>
+                                {{ proj.Status }}
+                            </span>
+                            <span class="text-xs font-mono text-slate-400 bg-slate-100 px-2 py-1 rounded">{{ proj._year }}</span>
+                        </div>
+
+                        <h3 class="font-bold text-lg text-slate-800 leading-snug mb-1 group-hover:text-blue-700 transition-colors">
+                            {{ proj.TITLE }}
+                        </h3>
+                        <p class="text-xs font-bold text-blue-500 font-mono mb-3">{{ proj.ACRONYM }}</p>
+                        
+                        <p class="text-sm text-slate-500 line-clamp-3 mb-4">
+                            {{ stripHtml(proj.Objective) }}
+                        </p>
+                    </div>
+
+                    <div class="bg-slate-50 px-5 py-3 border-t border-slate-100 flex justify-between items-center text-xs">
+                        <div>
+                            <div class="text-slate-400 uppercase text-[10px] font-bold">Budget</div>
+                            <div class="font-bold text-slate-700">€ {{ formatMoney(proj['Overall budget']) }}</div>
+                        </div>
+                        <div class="text-right">
+                            <div class="text-slate-400 uppercase text-[10px] font-bold">Coord.</div>
+                            <div class="font-bold text-slate-700 flex items-center justify-end">
+                                <i class="fa-solid fa-earth-europe mr-1 text-slate-400"></i> {{ getCoordinatorCountry(proj) }}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <Transition
+        enter-active-class="transition duration-200 ease-out"
+        enter-from-class="opacity-0 scale-95"
+        enter-to-class="opacity-100 scale-100"
+        leave-active-class="transition duration-100 ease-in"
+        leave-from-class="opacity-100 scale-100"
+        leave-to-class="opacity-0 scale-95"
+    >
+        <div v-if="selectedProject" class="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6" role="dialog">
+            <div class="absolute inset-0 bg-slate-900/60 backdrop-blur-sm transition-opacity" @click="closeModal"></div>
+
+            <div class="bg-white rounded-2xl shadow-2xl w-full max-w-5xl max-h-[90vh] flex flex-col relative overflow-hidden">
+                
+                <div class="px-8 py-6 border-b border-slate-100 bg-slate-50 flex justify-between items-start sticky top-0 z-10">
+                    <div class="pr-8">
+                        <div class="flex items-center gap-3 mb-2">
+                            <span class="px-2 py-1 rounded-md text-xs font-bold bg-blue-100 text-blue-700 border border-blue-200">
+                                {{ selectedProject.Topic }}
+                            </span>
+                            <span class="text-xs text-slate-400 font-mono">ID: {{ selectedProject['PROJECT ID'] }}</span>
+                        </div>
+                        <h2 class="text-2xl font-bold text-slate-800 leading-tight">{{ selectedProject.TITLE }}</h2>
+                        <p class="text-blue-600 font-mono font-medium mt-1">{{ selectedProject.ACRONYM }}</p>
+                    </div>
+                    <button @click="closeModal" class="text-slate-400 hover:text-red-500 transition-colors p-2 rounded-full hover:bg-slate-200">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                    </button>
+                </div>
+
+                <div class="p-8 overflow-y-auto custom-scrollbar">
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
+                        <div class="bg-blue-50 p-4 rounded-xl border border-blue-100">
+                            <div class="text-xs text-blue-600 uppercase font-bold mb-1">Contributo UE</div>
+                            <div class="text-xl font-bold text-blue-900">€ {{ formatMoney(selectedProject['EU contribution']) }}</div>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border border-slate-100">
+                            <div class="text-xs text-slate-500 uppercase font-bold mb-1">Budget Totale</div>
+                            <div class="text-lg font-bold text-slate-700">€ {{ formatMoney(selectedProject['Overall budget']) }}</div>
+                        </div>
+                        <div class="bg-slate-50 p-4 rounded-xl border border-slate-100">
+                            <div class="text-xs text-slate-500 uppercase font-bold mb-1">Durata</div>
+                            <div class="text-sm font-medium text-slate-700">
+                                <div class="flex items-center"><i class="fa-regular fa-calendar mr-2"></i> {{ formatDate(selectedProject['Start date']) }}</div>
+                                <div class="flex items-center mt-1"><i class="fa-solid fa-flag-checkered mr-2"></i> {{ formatDate(selectedProject['End date']) }}</div>
+                            </div>
+                        </div>
+                         <div class="bg-slate-50 p-4 rounded-xl border border-slate-100">
+                            <div class="text-xs text-slate-500 uppercase font-bold mb-1">Coordinatore</div>
+                            <div class="text-sm font-bold text-slate-700 truncate" :title="getCoordinatorName(selectedProject)">
+                                {{ getCoordinatorName(selectedProject) }}
+                            </div>
+                            <div class="text-xs text-slate-500 mt-1">{{ getCoordinatorCountry(selectedProject) }}</div>
+                        </div>
+                    </div>
+
+                    <div class="mb-8">
+                        <h3 class="text-lg font-bold text-slate-800 mb-3 border-b pb-2">Obiettivo del Progetto</h3>
+                        <div class="prose prose-sm prose-slate max-w-none text-slate-600 bg-slate-50 p-4 rounded-lg border border-slate-100">
+                            <p class="whitespace-pre-line">{{ stripHtml(selectedProject.Objective) }}</p>
+                        </div>
+                    </div>
+
+                    <div class="mb-8">
+                        <h3 class="text-lg font-bold text-slate-800 mb-3 border-b pb-2">
+                            Partecipanti ({{ selectedProject.Participants.length }})
+                        </h3>
+                        <div class="overflow-x-auto border rounded-lg shadow-sm">
+                            <table class="w-full text-sm text-left text-slate-600">
+                                <thead class="bg-slate-100 text-slate-700 uppercase text-xs">
+                                    <tr>
+                                        <th class="px-4 py-3">Ruolo</th>
+                                        <th class="px-4 py-3">Organizzazione</th>
+                                        <th class="px-4 py-3">Paese</th>
+                                        <th class="px-4 py-3 text-right">Contributo UE</th>
+                                    </tr>
+                                </thead>
+                                <tbody class="divide-y divide-slate-100">
+                                    <tr v-for="part in selectedProject.Participants" :key="part.PIC" class="hover:bg-slate-50">
+                                        <td class="px-4 py-3">
+                                            <span class="px-2 py-1 rounded text-xs font-bold"
+                                                  :class="part.Role === 'coordinator' ? 'bg-blue-100 text-blue-700' : 'bg-gray-100 text-gray-600'">
+                                                {{ part.Role === 'coordinator' ? 'COORD' : 'PARTNER' }}
+                                            </span>
+                                        </td>
+                                        <td class="px-4 py-3 font-medium text-slate-800">{{ part['Organization Name'] }}</td>
+                                        <td class="px-4 py-3">{{ part.Country }}</td>
+                                        <td class="px-4 py-3 text-right font-mono">€ {{ formatMoney(part['EU Contribution']) }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div v-if="selectedProject.Deliverables && selectedProject.Deliverables.length > 0">
+                        <h3 class="text-lg font-bold text-slate-800 mb-3 border-b pb-2">
+                            Risultati Attesi ({{ selectedProject.Deliverables.length }})
+                        </h3>
+                        <div class="grid grid-cols-1 gap-3">
+                            <div v-for="del in selectedProject.Deliverables" :key="del.id" 
+                                 class="flex items-start p-3 bg-white border border-slate-200 rounded-lg hover:bg-blue-50 transition">
+                                <div class="flex-shrink-0 mt-1 mr-3 text-blue-500">
+                                    <i class="fa-regular fa-file-lines"></i>
+                                </div>
+                                <div>
+                                    <div class="font-bold text-slate-700 text-sm">{{ del.title }}</div>
+                                    <p class="text-xs text-slate-500 mt-1">{{ del.description || 'Nessuna descrizione disponibile.' }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div v-else class="text-slate-400 italic text-sm">Nessun deliverable specifico elencato nel dataset.</div>
+
+                </div>
+            </div>
+        </div>
+    </Transition>
+
+</div>
+
+<script>
+    const { createApp } = Vue;
+
+    createApp({
+        data() {
+            return {
+                rawData: null,
+                loading: true,
+                searchQuery: '',
+                selectedYears: [],
+                selectedStatus: '',
+                selectedProject: null,
+                metadata: {}
+            }
+        },
+        computed: {
+            yearsList() {
+                // Prende la lista degli anni dal sommario e li ordina decrescente
+                return this.rawData ? this.rawData.summary.years_list.sort((a,b) => b - a) : [];
+            },
+            // Appiattisce la struttura gerarchica (Anni -> Progetti) in un'unica lista piatta
+            allProjects() {
+                if (!this.rawData) return [];
+                let projects = [];
+                
+                this.rawData.years.forEach(yGroup => {
+                    const year = yGroup.year;
+                    if(yGroup.data.projects) {
+                        yGroup.data.projects.forEach(p => {
+                            // Clona l'oggetto per non mutare l'originale in modo distruttivo
+                            let enrichedProject = { ...p, _year: year };
+                            projects.push(enrichedProject);
+                        });
+                    }
+                });
+                return projects;
+            },
+            filteredProjects() {
+                return this.allProjects.filter(p => {
+                    // Filtro Anno
+                    if (this.selectedYears.length > 0 && !this.selectedYears.includes(p._year)) {
+                        return false;
+                    }
+                    // Filtro Status
+                    if (this.selectedStatus && p.Status !== this.selectedStatus) {
+                        return false;
+                    }
+                    // Filtro Ricerca
+                    if (this.searchQuery) {
+                        const q = this.searchQuery.toLowerCase();
+                        const textToSearch = [
+                            p.TITLE, 
+                            p.ACRONYM, 
+                            p.Objective, 
+                            p.Participants.map(part => part['Organization Name']).join(' ')
+                        ].join(' ').toLowerCase();
+                        
+                        return textToSearch.includes(q);
+                    }
+                    return true;
+                });
+            },
+            totalDisplayedBudget() {
+                return this.filteredProjects.reduce((acc, curr) => acc + (parseFloat(curr['Overall budget']) || 0), 0);
+            }
+        },
+        methods: {
+            async loadData() {
+                this.loading = true;
+                try {
+                    // ATTENZIONE: Il nome del file deve corrispondere esattamente
+                    const response = await fetch('./IMREG-INFOME_2025-12-24.json');
+                    
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    
+                    const json = await response.json();
+                    this.rawData = json;
+                    this.metadata = json.summary || {};
+                    // Seleziona tutti gli anni di default
+                    this.selectedYears = this.rawData.summary.years_list;
+                } catch (e) {
+                    console.error("Errore caricamento JSON", e);
+                    alert("Errore nel caricamento del file JSON. Assicurati che 'IMREG-INFOME_2025-12-24.json' sia nella stessa cartella dell'HTML e che tu stia usando un web server locale o le impostazioni corrette del browser.");
+                } finally {
+                    this.loading = false;
+                }
+            },
+            countProjectsByYear(year) {
+                if(!this.allProjects) return 0;
+                return this.allProjects.filter(p => p._year == year).length;
+            },
+            formatMoney(value) {
+                if (!value) return '0';
+                return Number(value).toLocaleString('it-IT', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+            },
+            formatMoneyCompact(value) {
+                 if (!value) return '0';
+                 if (value >= 1000000) {
+                     return (value / 1000000).toLocaleString('it-IT', { maximumFractionDigits: 1 }) + ' M';
+                 }
+                 return (value / 1000).toLocaleString('it-IT', { maximumFractionDigits: 0 }) + ' k';
+            },
+            formatDate(dateString) {
+                if (!dateString) return 'N/A';
+                // Gestisce timestamp o date semplici
+                return dateString.split('T')[0];
+            },
+            formatDateSimple(dateString) {
+                if (!dateString) return '';
+                return dateString.replace('T', ' ').split('.')[0];
+            },
+            getCoordinatorCountry(proj) {
+                const coord = proj.Participants.find(p => p.Role === 'coordinator');
+                return coord ? coord.Country : 'N/A';
+            },
+            getCoordinatorName(proj) {
+                 const coord = proj.Participants.find(p => p.Role === 'coordinator');
+                 return coord ? coord['Organization Name'] : 'Sconosciuto';
+            },
+            stripHtml(html) {
+                if (!html) return '';
+                // Metodo semplice per rimuovere tag HTML per l'anteprima
+                let doc = new DOMParser().parseFromString(html, 'text/html');
+                return doc.body.textContent || "";
+            },
+            openModal(proj) {
+                this.selectedProject = proj;
+                document.body.style.overflow = 'hidden'; // Blocca scroll background
+            },
+            closeModal() {
+                this.selectedProject = null;
+                document.body.style.overflow = 'auto'; // Sblocca scroll
+            }
+        },
+        mounted() {
+            this.loadData();
+            
+            // Chiudi modale con ESC
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && this.selectedProject) {
+                    this.closeModal();
+                }
+            });
+        }
+    }).mount('#app');
+</script>
+
+</body>
+</html>
