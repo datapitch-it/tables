@@ -1,11 +1,39 @@
 {
-    "scraping_timestamp": "2025-12-23 05:46:37",
+    "scraping_timestamp": "2025-12-24 06:04:59",
     "data": [
+        {
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-14",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
         {
             "deadline": "N/A",
             "title": "PNC Sisma - NEXT APPENNINO",
             "description": "Programma per il rilancio economico e sociale delle Regioni del Centro Italia colpite dai terremoti del 2009 e del 2016",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -19,7 +47,77 @@
             "deadline": "2024-07-01",
             "title": "Laboratorio per l'Imprenditorialità",
             "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-05-06",
+            "title": "Imprese Borghi",
+            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-06-15",
+            "title": "SELFIEmployment",
+            "description": "Prestiti a tasso zero per giovani, donne e disoccupati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/selfiemployment?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-03-08",
+            "title": "FactorYmpresa Turismo",
+            "description": "Una fabbrica di idee per il turismo di domani",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/factorympresa-turismo?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-10",
+            "title": "Cultura Cresce",
+            "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-05-19",
+            "title": "ON - Oltre Nuove imprese a tasso zero",
+            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -33,7 +131,7 @@
             "deadline": "N/A",
             "title": "Legge 181",
             "description": "L’incentivo per rilanciare le aree di crisi industriale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/legge-181?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/legge-181",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -47,7 +145,7 @@
             "deadline": "N/A",
             "title": "Beni strumentali - Nuova Sabatini",
             "description": "Sostiene l’acquisto di nuovi macchinari, impianti e attrezzature",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/beni-strumentali-nuova-sabatini",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -61,7 +159,7 @@
             "deadline": "N/A",
             "title": "Contratto di sviluppo",
             "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -72,10 +170,10 @@
             }
         },
         {
-            "deadline": "2021-09-22",
-            "title": "Tessile, Moda e Accessori - Edizione 2021",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2023-07-12",
+            "title": "TOCC Digitale ed Ecologica",
+            "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -86,24 +184,99 @@
             }
         },
         {
-            "deadline": "2025-12-29",
-            "title": "Avviso 0416/2025 per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Ricostruisci Abruzzo 2 a seguito degli eventi sismici del 6 aprile 2009” di cui alla Convenzione del 17/04/2025 stipulata tra STRUTTURA DI MISSIONE - PCM e il Formez PA - RA 25018 Ro 17 - CUP D51J25000110001",
-            "description": "<p>AVVISO N.2025/0416</p>\n<p>Avviso per la selezione di n. 1 risorsa (oltre 10 anni) da impegnare con contratto di collaborazione nell’ambito del Progetto “Ricostruisci Abruzzo 2 a seguito degli eventi sismici del 6 aprile 2009” di cui alla Convenzione del 17/04/2025 stipulata tra STRUTTURA DI MISSIONE - PCM e il Formez PA - RA 25018 Ro 17 - CUP D51J25000110001</p>\n<p>Il Formez PA – Centro Servizi, assistenza, studi e formazione per l’ammodernamento delle P.A. (di seguito denominato Formez PA) seleziona, nell’ambito del Progetto “Ricostruisci Abruzzo 2 a seguito degli eventi sismici del 6 aprile 2009 ”, n.1 risorsa da impegnare con contratto di collaborazione ai sensi di quanto disciplinato dall’ Accordo Collettivo Formez PA del 5 dicembre 2024 e, in applicazione dell’art. 2, comma 2, lett. a) del D. Lgs. n. 81 del 15 giugno 2015 e dalla Legge n. 81/2017 e s.m.i.</p>\n<p>Requisiti Specifici\n <br>\n - Livello di seniority: oltre 10 anni di esperienza lavorativa maturata, dall’01/01/2000 alla data di presentazione della domanda, con rapporto di lavoro subordinato o autonomo, in progettazione tecnica e analisi contabile di interventi di riqualificazione immobiliare;\n <br>\n - Titolo di studio: Laurea specialistica 28/S Ingegneria civile o 4/S Architettura e ingegneria edile o equipollenti ex lege.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e26c0f07fc224fee9df9e1483cb7e4bd",
+            "deadline": "2025-09-30",
+            "title": "Cultura Crea",
+            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "AVVISO PUBBLICO DI SELEZIONE PER IL CONFERIMENTO DI UN INCARICO NELL'AMBITO DEL PROGETTO DAL TITOLO “GRETHA\" per una prestazione di lavoro autonomo avente ad oggetto la seguente attività di supporto all’attività di ricerca dal titolo: “Integrazione e ottimizzazione dei modelli numerici per il sistema Power-to-Power a idrogeno installato presso UNIVPM”",
-            "description": "<p><span style=\"font-size: 11.0pt;\">L’attività, con incarico assegnato dal DIISM, sarà svolta in forma autonoma e consisterà nelle seguenti fasi: </span><strong><span style=\"font-size: 11.0pt;\">Sviluppo e integrazione dei modelli numerici</span></strong><strong><span style=\"font-size: 11.0pt;\">,</span></strong><span style=\"font-size: 11.0pt;\"> in ambiente Python, delle singole tecnologie di produzione, stoccaggio e utilizzo dell’idrogeno presenti nel laboratorio idrogeno UNIVPM. </span><strong><span style=\"font-size: 11.0pt;\">Costruzione del modello integrato del sistema Power-to-Power</span></strong><strong><span style=\"font-size: 11.0pt;\"> </span></strong><span style=\"font-size: 11.0pt;\">e sua<strong> <strong>ottimizzazione</strong></strong>, attraverso la combinazione dei modelli numerici delle tecnologie presenti nel laboratorio idrogeno UNIVPM -&nbsp; <span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">CUP F69J22001890004 - Responsabile scientifico prof. Gabriele Comodi&nbsp;</span></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3cb756ab93e34b0dae9fb2828ed69a77",
+            "deadline": "2026-04-29",
+            "title": "SNS Operations and Output optimisation",
+            "description": "Identifier: HORIZON-JU-SNS-2026-STREAM-CSA-01\nPillar: HORIZON-JU-SNS-2026\nOpening Date: 2026-01-29\nDeadline: 2026-04-29\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-CSA-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "HORIZON-JU-SNS-2026",
+                    "pub_date": "2025-12-23",
+                    "dc_date": "2025-12-23",
+                    "identifier": "HORIZON-JU-SNS-2026-STREAM-CSA-01"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-29",
+            "title": "Collection, Generation and Validation of Datasets  suitable for training AI Models for 6G Networks and for AIaaS",
+            "description": "Identifier: HORIZON-JU-SNS-2026-STREAM-B-01\nPillar: HORIZON-JU-SNS-2026\nOpening Date: 2026-01-29\nDeadline: 2026-04-29\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-B-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "HORIZON-JU-SNS-2026",
+                    "pub_date": "2025-12-23",
+                    "dc_date": "2025-12-23",
+                    "identifier": "HORIZON-JU-SNS-2026-STREAM-B-01"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-29",
+            "title": "SNS experimental infrastructure",
+            "description": "Identifier: HORIZON-JU-SNS-2026-STREAM-C-01\nPillar: HORIZON-JU-SNS-2026\nOpening Date: 2026-01-29\nDeadline: 2026-04-29\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-C-01",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "HORIZON-JU-SNS-2026",
+                    "pub_date": "2025-12-23",
+                    "dc_date": "2025-12-23",
+                    "identifier": "HORIZON-JU-SNS-2026-STREAM-C-01"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-29",
+            "title": "6G Devices",
+            "description": "Identifier: HORIZON-JU-SNS-2026-STREAM-CSA-02\nPillar: HORIZON-JU-SNS-2026\nOpening Date: 2026-01-29\nDeadline: 2026-04-29\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-CSA-02",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "HORIZON-JU-SNS-2026",
+                    "pub_date": "2025-12-23",
+                    "dc_date": "2025-12-23",
+                    "identifier": "HORIZON-JU-SNS-2026-STREAM-CSA-02"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-29",
+            "title": "EU-India International Collaboration",
+            "description": "Identifier: HORIZON-JU-SNS-2026-STREAM-CSA-03\nPillar: HORIZON-JU-SNS-2026\nOpening Date: 2026-01-29\nDeadline: 2026-04-29\n",
+            "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/HORIZON-JU-SNS-2026-STREAM-CSA-03",
+            "custom": {
+                "custom": {
+                    "category": "HORIZON",
+                    "guid": "HORIZON-JU-SNS-2026",
+                    "pub_date": "2025-12-23",
+                    "dc_date": "2025-12-23",
+                    "identifier": "HORIZON-JU-SNS-2026-STREAM-CSA-03"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "NUOVA IMPRESA - PICCOLI COMUNI E FRAZIONI 2026",
+            "description": "Regione Lombardia attiva per l'anno 2026 il bando “Nuova Impresa - Piccoli Comuni e Frazioni 2026” finalizzato a sostenere l’apertura di nuove attività di commercio al dettaglio in sede fissa di prodotti alimentari e generi di prima necessità nei piccoli comuni e nelle frazioni di tutti i comuni lombardi, attraverso l’erogazione di contributi sui costi connessi all’avvio di una nuova impresa ovvero di una unità locale di imprese già esistenti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-avvio-impresa/nuova-impresa-piccoli-comuni-frazioni-2026-RLO12025051423",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -115,9 +288,9 @@
         },
         {
             "deadline": "2026-01-07",
-            "title": "Procedura selettiva-comparativa, per soli titoli, finalizzata alla formazione di una graduatoria di merito per l’individuazione di esperti per l’insegnamento nei corsi di diploma accademico di I e II livello – aa.aa. 2025/2026 e 2026/2027 - Settore artistico-disciplinare: AFAM025 – Strumenti a fiato storici - Clarinetto storico (ex COMA/06)",
-            "description": "<p>Procedura selettiva-comparativa, per soli titoli, finalizzata alla formazione di una graduatoria di merito per l’individuazione di esperti per l’insegnamento nei corsi di diploma accademico di I e II livello – aa.aa. 2025/2026 e 2026/2027 - Settore artistico-disciplinare: AFAM025 – Strumenti a fiato storici - Clarinetto storico (ex COMA/06)</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=788419cc0d2048c0b0b5c72d6457b1b1",
+            "title": "AREA INTERNA NEBRODI - COMUNE DI SANT'AGATA DI MILITELLO - MANIFESTAZIONE INTERESSE PER MEMBRO AGGIUNTIVO N. 1 ESPERTO IN INFORMATICA CONCORSO A TEMPO DETERMINATO VARI PROFILI",
+            "description": "<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">AVVISO PER LA MANIFESTAZIONE DI INTERESSE finalizzata all’individuazione di n. 1 (uno) membro aggiuntivo e n. 1 (uno) supplente , esperto in materie informatiche n. 1 (uno) membro aggiuntivo e n. 1 (uno) supplente esperto in lingua inglese<span style=\"mso-spacerun: yes;\">&nbsp; </span>nella commissione<span style=\"mso-spacerun: yes;\">&nbsp; </span>esaminatrice per la formazione della graduatoria relativa al bando: </span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: IT;\"><span style=\"mso-list: Ignore;\">1)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E DETERMINATO fino al 31.12.2026 DA INQUADRARE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE(EX CAT. D) FUNZIONARIO TECNICO –MEDIANTE CONCORSO PER TITOLI E PROVA ORALE</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: IT;\"><span style=\"mso-list: Ignore;\">2)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E DETERMINATO fino al 31.12.2026 DA INQUADRARE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE(EX CAT. D) FUNZIONARIO AMMINISTRATIVO –MEDIANTE CONCORSO PER TITOLI E PROVA ORALE</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: IT;\"><span style=\"mso-list: Ignore;\">3)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">PER LA COPERTURA DI N. 2 POSTI A TEMPO PARZIALE 50% (H 18) E DETERMINATO fino al 31.12.2026<span style=\"mso-spacerun: yes;\">&nbsp; </span>DA INQUADRARE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE(EX CAT. D) FUNZIONARIO TECNICO –MEDIANTE CONCORSO PER TITOLI E PROVA ORALE</span></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7f73bcc4a7c544569baf2a1c438471d9",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -128,10 +301,136 @@
             }
         },
         {
-            "deadline": "2026-01-02",
-            "title": "Avviso n°26 /2025 Dipartimento di Matematica e Informatica",
-            "description": "<p>Avviso pubblico di selezione per il conferimento di n. 1 (UNO) contratto di lavoro autonomo nell'ambito del Piano Nazionale di Ripresa e Resilienza RICALTMIUR_CTC_2019_ATZORI - Prin 2017, RICMIUR_CTC_2023_ATZORI - PRIN BANDO 2022, Responsabile Scientifico Prof. Maurizio Atzori - SSD: INFO-01/A - cod. GSD: 01/INFO-01</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b3ff7d6124d2410e9f1fe8e44b5b0493",
+            "deadline": "2026-01-07",
+            "title": "AREA INTERNA NEBRODI - COMUNE DI SANT'AGATA DI MILITELLO - MANIFESTAZIONE INTERESSE PER MEMBRO AGGIUNTIVO N. 1 ESPERTO IN INGLESE",
+            "description": "<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">AVVISO PER LA MANIFESTAZIONE DI INTERESSE finalizzata all’individuazione di n. 1 (uno) membro aggiuntivo e n. 1 (uno) supplente , esperto in materie informatiche n. 1 (uno) membro aggiuntivo e n. 1 (uno) supplente esperto in lingua inglese<span style=\"mso-spacerun: yes;\">&nbsp; </span>nella commissione<span style=\"mso-spacerun: yes;\">&nbsp; </span>esaminatrice per la formazione della graduatoria relativa al bando: </span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: IT;\"><span style=\"mso-list: Ignore;\">1)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E DETERMINATO fino al 31.12.2026 DA INQUADRARE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE(EX CAT. D) FUNZIONARIO TECNICO –MEDIANTE CONCORSO PER TITOLI E PROVA ORALE</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: IT;\"><span style=\"mso-list: Ignore;\">2)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO E DETERMINATO fino al 31.12.2026 DA INQUADRARE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE(EX CAT. D) FUNZIONARIO AMMINISTRATIVO –MEDIANTE CONCORSO PER TITOLI E PROVA ORALE</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: IT;\"><span style=\"mso-list: Ignore;\">3)<span style=\"font: 7.0pt 'Times New Roman';\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-language: IT;\">PER LA COPERTURA DI N. 2 POSTI A TEMPO PARZIALE 50% (H 18) E DETERMINATO fino al 31.12.2026<span style=\"mso-spacerun: yes;\">&nbsp; </span>DA INQUADRARE AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE(EX CAT. D) FUNZIONARIO TECNICO –MEDIANTE CONCORSO PER TITOLI E PROVA ORALE</span></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=671e5df8fa1f44e9af134f0a3ffc9e20",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-22",
+            "title": "COMUNE DI POMEZIA - AVVISO DI PROCEDURA PER IL CONFERIMENTO DELL'INCARICO DEL COMPONENTE MONOCRATICO DEL NUCLEO DI VALUTAZIONE",
+            "description": "<p>COMUNE DI POMEZIA - AVVISO DI PROCEDURA PER IL CONFERIMENTO DELL'INCARICO DEL COMPONENTE MONOCRATICO DEL NUCLEO DI VALUTAZIONE&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c2da22b4ac264e3ea4216a6541e3f2b3",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-05",
+            "title": "Riapertura termini - PROCEDURA SELETTIVO-COMPARATIVA PER TITOLI PER L’ATTRIBUZIONE DI CONTRATTO DI INSEGNAMENTO - Viola da gamba / Violoncello / Trombone Jazz",
+            "description": "<p>È indetta la procedura di valutazione comparativa pubblica, per soli titoli, per l’individuazione di n. 3 esperti per il conferimento di contratti di collaborazione relativi all’a.a. 2025/2026 per i seguenti insegnamenti:\n <br>\n • Viola da gamba AFAM024 (COMA/03).\n <br>\n • Violoncello AFAM007 (CODI/07).\n <br>\n • Trombone Jazz AFAM024 (COMJ/08).</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=976d5fad35d64d70b9e58ea4c74574c8",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-08",
+            "title": "Selezione di n. 1 “professionista esperto in gestione, rendicontazione e controllo”, profilo Junior, per il conferimento di un incarico di lavoro autonomo, PNRR.",
+            "description": "<p>Avviso pubblico per la selezione di n. 1 “professionista esperto in gestione, rendicontazione e controllo”, profilo Junior, per il conferimento di un incarico di lavoro autonomo ex art. 7, comma 6, del D.Lgs. n. 165/2001 ai sensi dell’art. 11 comma 2) del Decreto-Legge 30 aprile 2022, n. 36, convertito con modificazioni con la Legge n. 79 del 29 giugno 2022 “Ulteriori misure urgenti per l’attuazione del Piano nazionale di ripresa e resilienza (PNRR)”</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f7172efdf4624cf28ad1c639569af566",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-12",
+            "title": "Avviso di selezione pubblica, per titoli e colloquio, per il conferimento di n. 2 incarichi di collaborazione di cui n.1 APPLICATION MANAGER e n. 1 INSTRUCTIONAL DESIGNER. Progetto EDUNEXT CUP E83C23003480007.",
+            "description": "<p>Avviso di selezione pubblica, per titoli e colloquio, per il conferimento di n. 2 incarichi di collaborazione di cui n.1 APPLICATION MANAGER e n. 1 INSTRUCTIONAL DESIGNER. Progetto EDUNEXT CUP E83C23003480007.</p>\n<p>1. È indetta una procedura selettiva, per titoli e colloquio, per il conferimento di n. 2 incarichi di collaborazione:\n <br>\n 1) n. 1 posizione di APPLICATION MANAGER (Allegato A);\n <br>\n 2) n. 1 posizione di INSTRUCTIONAL DESIGNER (Allegato B);\n <br>\n mediante stipula di contratto di lavoro autonomo ai sensi degli artt. 2222 e seguenti del Codice Civile ovvero, per i/le dipendenti di altra Pubblica Amministrazione, previamente autorizzati dall’Ente di appartenenza, mediante apposito provvedimento.</p>\n<p>2. Ogni candidata/o potrà partecipare ad una sola posizione tra le due disponibili.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f9fb2c7c427245bc9b92366b8d88b4aa",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-12",
+            "title": "AVVISO FINALIZZATO ALL’ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA COSTITUZIONE DI UN ELENCO DI ESPERTI IN PSICOLOGIA DEL LAVORO PER L’AFFIDAMENTO DI INCARICHI COME MEMBRI AGGIUNTI DI COMMISSIONE ESAMINATRICE NEI CONCORSI PUBBLICI E ALTRE SELEZIONI DI PERSONALE",
+            "description": "<p>Si rende noto che la Comunità Collinare del Friuli ha indetto avvivo finalizzato all'acquisizione di manifestazioni di interesse per la costituzione di un elenco di esperti in psicologia del lavoro per l'affidamento di incarichi come membri aggiunti di commissione esaminatrice nei concorsi pubblici e altre selezioni di personale</p>\n<p>\n <br>\n Di seguito il link da utilizzarsi per presentare la domanda di partecipazione al concorso in oggetto:\n</p>\n<p><a href=\"https://redazione3-comuni.regione.fvg.it/it/servizi-online-1121/ccdfriu_psi2025-51244\">https://redazione3-comuni.regione.fvg.it/it/servizi-online-1121/ccdfriu_psi2025-51244</a></p>\n<p>Vedasi istruzioni per la compilazione presenti in questa pagina web.</p>\n<p>Si ricorda la scadenza della presentazione della domanda di partecipazione:</p>\n<p>ore 12:00 del giorno 12 GENNAIO 2026&nbsp;&nbsp;\n <br>\n &nbsp;\n <br>\n CONSIGLI PER ACCEDERE ALLA DOMANDA DI PARTECIPAZIONE ONLINE:\n <br>\n – Leggere attentamente le istruzioni;\n <br>\n – Accedere con browser diversi da Internet Explorer (si consglia Google Chrome, Mozzilla FireFox, ecc)</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=48e8a4de7a6e41e1b9ac50113ac4fbc5",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-07",
+            "title": "UNIVERSITA' DEL SALENTO: Avviso pubblico di procedura comparativa per titoli e colloquio per l’affidamento di n. 1 incarico di prestazione occasionale per le esigenze del PRIN 2022 PNRR “Digital Transition and Human Values. DigitHuman” (cod. P2022X5MSS - CUP F53D23010740001 – PNRR M4.C2.1.1) – referente scientifica: Prof.ssa Fiorella Battaglia – Incarico 1",
+            "description": "<p>Avviso pubblico di procedura comparativa per titoli e colloquio per l’affidamento di n. 1 incarico di prestazione occasionale per le esigenze del PRIN 2022 PNRR “Digital Transition and Human Values. DigitHuman” (cod. P2022X5MSS - CUP F53D23010740001 – PNRR M4.C2.1.1) – referente scientifica: Prof.ssa Fiorella Battaglia – Incarico 1</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fc928079c7d94dc2a2bab623cb408b8d",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-07",
+            "title": "UNIVERSITA' DEL SALENTO: Avviso pubblico di procedura comparativa per titoli e colloquio per l’affidamento di n. 1 incarico di prestazione occasionale per le esigenze del PRIN 2022 PNRR “Digital Transition and Human Values. DigitHuman” (cod. P2022X5MSS - CUP F53D23010740001 – PNRR M4.C2.1.1) – referente scientifica: Prof.ssa Fiorella Battaglia – Incarico 2",
+            "description": "<p>Avviso pubblico di procedura comparativa per titoli e colloquio per l’affidamento di n. 1 incarico di prestazione occasionale per le esigenze del PRIN 2022 PNRR “Digital Transition and Human Values. DigitHuman” (cod. P2022X5MSS - CUP F53D23010740001 – PNRR M4.C2.1.1) – referente scientifica: Prof.ssa Fiorella Battaglia – Incarico 2&nbsp; &nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=494356d16e2246d8b2e73692681047b9",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-07",
+            "title": "AVVISO DI SELEZIONE PER L’ASSUNZIONE A TEMPO DETERMINATO PART-TIME DI N.2 FUNZIONARI TECNICI AI SENSI DELL’ART. 110 COMMA 2 DEL D.LGS. N.267/2000 E S.M.I",
+            "description": "<p><strong><span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">AVVISO DI SELEZIONE PER L’ASSUNZIONE A TEMPO DETERMINATO PART-TIME DI N.2 FUNZIONARI TECNICI<span style=\"mso-spacerun: yes;\">&nbsp; </span>AI SENSI DELL’ART. 110 COMMA 2 DEL D.LGS. N.267/2000 E S.M.I&nbsp;</span></strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b032681aaec54fffb0ce038bc8cb25d6",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-07",
+            "title": "AVVISO PUBBLICO PER PROCEDURA DI VALUTAZIONE COMPARATIVA PER AFFIDAMENTO A TERZI ESTRANEI ALL’UNIVERSITÀ DI UN INCARICO DI COLLABORAZIONE TEMPORANEA CUP I53D23002590006",
+            "description": "<p>Bando per n. 1 incarico di collaborazione a valere sui fondi del progetto PRIN dal titolo “Is old really gold? International consumers’ perceptions and attitudes towards Italian cultural heritage and long-lasting brands ” – Bando DISAQ 39/2025</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=323289499c434197aec693eca2aa6b8c",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -143,23 +442,9 @@
         },
         {
             "deadline": "2026-01-06",
-            "title": "UNIVERSITA' DEL SALENTO: Procedura comparativa per Titoli e Colloquio per il conferimento di n. 4 incarichi lavoro autonomo Psicologi per Progetto «You W.I.N.! (Work to Inclusive Needs)",
-            "description": "<p>Avviso pubblico di procedura comparativa per Titoli e Colloquio per il&nbsp;conferimento di n. 4 (quattro) incarichi di lavoro autonomo in qualità di Psicologi per le&nbsp;esigenze del Progetto «You W.I.N.! (Work to Inclusive Needs) CLP “2023-PE3-00477” – CUP&nbsp;“J84C25000210004”, PNRR, Missione 5 - Componente 3 Investimento 3 Interventi socio-&nbsp;educativi strutturati per combattere la povertà educativa nel Mezzogiorno a sostegno del Terzo&nbsp;Settore – finanziato dall'Unione Europea- NextGenerationEU. Responsabile Scientifico: Prof.&nbsp;Sergio Salvatore.</p>\n<p>Il link diretto alla pagina web della procedura è il seguente:&nbsp;</p>\n<p><a href=\"https://trasparenza.unisalento.it/page/5/details/11412/dsus-avviso-pubblico-di-procedura-comparativa-per-titoli-e-colloquio-per-il-conferimento-di-n-4-quattro-incarichi-di-lavoro-autonomo-in-qualita-di-psicologi-per-le-esigenze-del-progetto-you-win-work-to-inclusive-needs-clp-2023-pe3-00477-cup-j84c25000210004-pnrr-missione-5-componente-3-investimento-3-interventi-socio-educativi-strutturati-per-combattere-la-poverta-educativa-nel-mezzogiorno-a-sostegno-del-terzo-settore-finanziato-dallunione-europea-nextgenerationeu-responsabile-scientifico-prof-sergio-salvatore.html\">https://trasparenza.unisalento.it/page/5/details/11412/dsus-avviso-pubblico-di-procedura-comparativa-per-titoli-e-colloquio-per-il-conferimento-di-n-4-quattro-incarichi-di-lavoro-autonomo-in-qualita-di-psicologi-per-le-esigenze-del-progetto-you-win-work-to-inclusive-needs-clp-2023-pe3-00477-cup-j84c25000210004-pnrr-missione-5-componente-3-investimento-3-interventi-socio-educativi-strutturati-per-combattere-la-poverta-educativa-nel-mezzogiorno-a-sostegno-del-terzo-settore-finanziato-dallunione-europea-nextgenerationeu-responsabile-scientifico-prof-sergio-salvatore.html</a></p>\n<p>Per tutte le informazioni relative al Bando di che trattasi, consultare l'allegato D.D. n. 605 del 22.12.2025</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ddde5995d9e74c449f2cbcaf0278ae51",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-21",
-            "title": "PROCEDURA PROGRESSIONE VERTICALE EX ART. 13 C. 6 CCNL 16.11.2022 PER N. 3 UNITA' DALL'AREA ISTRUTTORI ALL'AREA FUNZIONARI il profilo educatori professionali",
-            "description": "<p>Procedura progressione verticale ex art. 13 c. 6 CCNL 16.11.2022 per n. 3 unità dall'area istruttori all'area funzionari per il profilo educatori professionali</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=54446a34f09c4cd8b777cec8b84c5937",
+            "title": "AVVISO PUBBLICO PER LA NOMINA DEL COMPONENTE DEL NUCLEO DI VALUTAZIONE COSTITUITO IN FORMA MONOCRATICA",
+            "description": "<p>AVVISO PUBBLICO PER LA NOMINA DEL COMPONENTE DEL NUCLEO DI VALUTAZIONE COSTITUITO IN FORMA MONOCRATICA PER IL TRIENNIO 2026/2028</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d620cded64df44f3904162dc3d6eb0ca",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -171,9 +456,9 @@
         },
         {
             "deadline": "2026-01-07",
-            "title": "Bando di selezione pubblica per titoli e colloquio per il conferimento di n. 1 (uno) contratto di lavoro autonomo occasionale per Project Manager, nell’ambito del progetto “Advanced Sustainable AI Management HEI Curricula (ASAM-C) - CUP: B96I25000180006",
-            "description": "<p>Selezione pubblica per titoli e colloquio per il conferimento di n. 1 (uno) contratto&nbsp;di lavoro autonomo occasionale per Project Manager</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b024cfe9487c41aabe1a5bf4d7d1c817",
+            "title": "AVVISO PUBBLICO DI SELEZIONE, PER TITOLI E COLLOQUIO, PER L’AFFIDAMENTO DI UN INCARICO, DI LAVORO AUTONOMO, ESPERITI SUPPORTO ALLA RICERCA",
+            "description": "<p>Supporto al reclutamento dei soggetti nello studio; Valutazione dei soggetti partecipanti allo studio e raccolta dei dati clinici e strumentali.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a140174bfbd44a2db09a323134a5979c",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -184,244 +469,302 @@
             }
         },
         {
-            "deadline": "2026-12-31",
-            "title": "Anno2026_AVVISO DI MANIFESTAZIONE D'INTERESSE PER LA FORMAZIONE DI ELENCHI DI PERSONALE MEDICO DI VARIE DISCIPLINE PER L’AFFIDAMENTO DI INCARICHI LIBERO PROFESSIONALI CON CONTRATTO DI LAVORO AUTONOMO A MEDICI SPECIALIZZATI O SPECIALIZZANDI (ISCRITTI ALL’ULTIMO E PENULTIMO ANNO DELLE SCUOLE DI SPECIALIZZAZIONE) ai sensi art. 7, comma 6, del Decreto Legislativo 30/03/2001 n. 165 e s.m.i.",
-            "description": "<p>Anno2026_AVVISO DI MANIFESTAZIONE DI INTERESSE PER LA FORMAZIONE DI ELENCHI DI PERSONALE MEDICO DI VARIE DISCIPLINE PER L'AFFIDAMENTO DI INCARICHI LIBEROPROFESSIONALI CON CONTRATTO DI LAVORO AUTONOMO A MEDICI SPECIALIZZATI O SPECIALIZZANDI (ISCRITTI ALL' ULTIMO E PENULTIMO ANNO DELLE SCUOLE DI SPECIALIZZAZIONE) ai sensi dell' art. 7, comma 6, del Decreto Legislativo 30/03/2001 n. 165 e s.m.i.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9adb810a1b5e48aaa77ae8e56b05ea53",
+            "deadline": "2026-03-31",
+            "title": "Fondazione Caritro - Bando percorsi di crescita culturale",
+            "description": "La Fondazione stimola la produzione, la diffusione e la valorizzazione di attività culturali in quanto viene ritenuta un’azione strategica per favorire e promuovere la crescita e lo sviluppo della società. In particolare, la capacità del sistema locale di programmare e realizzare progetti culturali favorisce in modo diffuso la creatività, la conoscenza, la partecipazione attiva, il confronto e il dialogo tra idee e visioni diverse. Il bando si pone l’obiettivo di:Favorire la crescita artistica e culturale dei professionisti e delle professioniste del settore culturale e socio-culturale, nell’intento di professionalizzare l’ecosistema territorialeSupportare la trasformazione organizzativa e lo sviluppo delle competenze delle realtà locali che operano nell’ambito della culturaValorizzare risorse e apprendimenti delle realtà proponenti al fine di costruire processi in continuità con le esperienze in attoValorizzare la circuitazione e la presentazione pubblica di produzioni e proposte culturali, come occasione di sperimentazione sul campoPromuovere il miglioramento delle relazioni con i pubblici, nella prospettiva di condivisione, accessibilità e diversificazionePromuovere connessioni tra soggetti, linguaggi e territori, rafforzando le reti di collaborazione e il dialogo tra diverse espressioni del sistema culturale locale",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-caritro-bando-percorsi-di-crescita-culturale",
             "custom": {
                 "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
+                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Musica",
+                    "Stanziamento": "€ 250.000"
                 }
             }
         },
         {
-            "deadline": "2026-01-29",
-            "title": "Fondazione del VCO - Bando Oratori VCO",
-            "description": "La Fondazione intende sostenere gli oratori del territorio del VCO con l’obiettivo di favorire l’aggregazione fra i giovani, contrastando il disagio sociale, l’abbandono scolastico e sportivo, promuovendo valori di inclusione, solidarietà e responsabilità.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-del-vco-bando-oratori-vco",
+            "deadline": "2026-03-17",
+            "title": "Liguria – Bando RiGenerazioni: sostegno a interventi integrati per favorire l’inserimento lavorativo di disoccupati sul territorio ligure",
+            "description": "L’avviso sostiene progetti integrati di politica attiva del lavoro per aumentare l’occupabilità di persone disoccupate e, al contempo, contribuire alla rivitalizzazione socio-economica dei territori liguri, con attenzione prioritaria (ma non esclusiva) alle aree interne, periferiche ed entroterra. Il bando richiede che l’intervento sia costruito su una “idea centrale” di sviluppo locale, fondata su un’analisi dei fabbisogni territoriali e capace di generare ricadute durature, anche attraverso il coinvolgimento attivo dei Comuni nei partenariati.A supporto dei piani di sviluppo proposti possono essere attivati:Investimenti sulle competenze umane e professionali, finalizzati a sostenere le opportunità di inserimento lavorativo offerte dal contesto territoriale, rafforzando il capitale umano in funzione delle vocazioni locali;Azioni di affiancamento dell’iniziativa, volte ad accrescere la consapevolezza e l’adesione dei destinatari e degli attori sociali di riferimento, favorendo l’attivazione di processi collaborativi tra soggetti operanti sul territorio funzionali alla massimizzazione delle ricadute e la replicabilità futura dei risultati ottenuti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/liguria-bando-rigenerazioni-sostegno-a-interventi-integrati-per-favorire-linserimento-lavorativo-di-disoccupati-sul-territorio-ligure",
             "custom": {
                 "custom": {
-                    "Topics": "Acquisto macchinari e/o attrezzature, Diritti e Cittadinanza, Educazione e istruzione, Inclusione Sociale e Solidarietà, Servizi sociali e socio-sanitari, Sport",
-                    "Stanziamento": "€ 30.000"
+                    "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà",
+                    "Stanziamento": "€ 4.000.000"
                 }
             }
         },
         {
-            "deadline": "2026-02-28",
-            "title": "Fondazione Cariparma - Sostegno (R)esistente",
-            "description": "Il bando si pone l’obiettivo di sostenere le istituzioni protagoniste dello sviluppo sociale e culturale del territorio della provincia di Parma nello svolgimento delle attività tradizionalmente sostenute dalla Fondazione, garantendo contestualmente l’accompagnamento di un Advisor strategico per lo sviluppo di progettualità di lungo periodo finalizzate all’auto-sostenibilità. In particolare, il bando mira a sostenere attività esistenti ad alto valore sociale e radicate nel territorio, con un ampio coinvolgimento di stakeholder.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-sostegno-resistente",
+            "deadline": "2026-03-11",
+            "title": "Sicilia - Intervento SRG01: Sostegno gruppi operativi PEI AGRI",
+            "description": "Lo scopo dell’intervento è quello di favorire lo sviluppo dell’innovazione, di nuovi prodotti, di nuove tecniche di produzione, nuovi modelli organizzativi e gestionali.",
+            "link": "https://www.obiettivoeuropa.com/bandi/sicilia-intervento-srg01-sostegno-gruppi-operativi-pei-agri",
             "custom": {
                 "custom": {
-                    "Topics": "Arte e Cultura, Inclusione Sociale e Solidarietà, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 3.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Lazio – Bando Arti e Creatività: attivazione di laboratori formativi e culturali presso i Teatri e Cinema",
-            "description": "La Regione Lazio intende rafforzare il ruolo di teatri e cinema territoriali come luoghi generatori di sapere per giovani e studenti, promuovendo la produzione, diffusione e fruizione di attività culturali e formative. L’iniziativa mira anche a contrastare fenomeni che incidono sulla condizione giovanile (es. bullismo/cyberbullismo, dispersione scolastica, fragilità), favorendo modalità di apprendimento non formali e valorizzando al contempo le professionalità del settore spettacolo.",
-            "link": "https://www.obiettivoeuropa.com/bandi/lazio-bando-arti-e-creativita-attivazione-di-laboratori-formativi-e-culturali-presso-i-teatri-e-cinema",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Danza, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Teatro",
-                    "Stanziamento": "€ 2.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "Fondazione Tercas - Bando Volontariato, Filantropia e Beneficenza",
-            "description": "La Fondazione Tercas con l’avviso, intende garantire un intervento diretto a supporto di progetti ideati da soggetti in possesso dei requisiti di finanziabilità previsti dal Regolamento dell’attività istituzionale al fine di dare continuità, rispetto agli anni passati, a quelle azioni in grado di contribuire alla promozione dello sviluppo del territorio, alla sua crescita culturale, alla valorizzazione delle relative risorse ed anche alla creazione di nuove opportunità occupazionali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-tercas-bando-volontariato-filantropia-e-beneficenza",
-            "custom": {
-                "custom": {
-                    "Topics": "Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Marginalità sociale, Salute e medicina, Servizi sociali e socio-sanitari, Supporto psicologico, Sviluppo e promozione territoriale",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "Toscana - Finanziamenti per percorsi di formazione nel commercio",
-            "description": "Il bando ha lo scopo di favorire lo sviluppo di un’offerta formativa di qualità attraverso la realizzazione di interventi formativi nell’ambito del commercio rivolti a persone disoccupate/inattive finalizzati al loro inserimento o reinserimento lavorativo.",
-            "link": "https://www.obiettivoeuropa.com/bandi/toscana-finanziamenti-per-percorsi-di-formazione-nel-commercio",
-            "custom": {
-                "custom": {
-                    "Topics": "Commercio, Formazione e lavoro, Supporto alle imprese",
-                    "Stanziamento": "€ 3.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-05",
-            "title": "Fondazione Caritro - Bando eventi culturali",
-            "description": "La Fondazione stimola la produzione, la diffusione e la valorizzazione di attività culturali in quanto viene ritenuta un’azione strategica per favorire e promuovere la crescita e lo sviluppo della società. In particolare, la capacità del sistema locale di programmare e realizzare progetti culturali favorisce in modo diffuso la creatività, la conoscenza, la partecipazione attiva, il confronto e il dialogo tra idee e visioni diverse.La Fondazione intende favorire la crescita qualitativa del sistema culturale sostenendo progetti di eventi di rilevanza artistica e culturale sviluppati con logiche di rete e che prevedano di:accrescere la partecipazione e fruizione culturale di un pubblico ampiovalorizzare l’apporto professionale di giovani artisti/e e/o operatori/trici culturalicoinvolgere altre realtà culturali, anche extra-provinciali, nella progettazione e realizzazione degli eventi culturali",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-caritro-bando-eventi-culturali",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 620.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "Fondazione Tercas - Bando Arte, attività e beni culturali",
-            "description": "La Fondazione Tercas con l’avviso intende intende garantire un intervento diretto a supporto di progetti ideati da soggetti in possesso dei requisiti di finanziabilità previsti dal Regolamento dell’attività istituzionale al fine di dare continuità, rispetto agli anni passati, a quelle azioni in grado di contribuire alla promozione dello sviluppo del territorio, alla sua crescita culturale, alla valorizzazione delle relative risorse ed anche alla creazione di nuove opportunità occupazionali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-tercas-bando-arte-attivita-e-beni-culturali",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Educazione e istruzione, Formazione e lavoro, Musica, Sviluppo e promozione territoriale, Teatro",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-28",
-            "title": "Fondazione Cariparma - Competenze plus",
-            "description": "La Fondazione Cariparma, in linea con le priorità strategiche di rafforzamento delle persone e del territorio e nell’ambito specifico della valorizzazione del capitale umano e sociale, si pone come facilitatore nello sviluppo di una cultura orientata all’apprendimento continuo per la crescita personale e il benessere collettivo. In particolare, il bando mira a:promuovere una cultura dell'apprendimento continuo, cioè lungo diverse fasi della vita delle persone – dalla fase scolare a quella professionale;fornire servizi di orientamento e consulenza professionale per aiutare le persone a individuare e sviluppare le loro competenze e intraprendere un percorso di carriera coerente e soddisfacente;valorizzare le competenze acquisite anche attraverso esperienza e apprendimento non formale, non solo dentro a contesti istituzionali (es. la scuola), ma in tutti i contesti educativi in senso ampio;Supportare fortemente l’acquisizione di competenze distintive, aggiuntive rispetto a un percorso formativo già completato o in corso.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-competenze-plus",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Educazione e istruzione, Formazione e lavoro",
-                    "Stanziamento": "€ 1.200.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Piemonte - Bando a sportello per contributi per iniziative di comunicazione e promo-pubblicità nell'ambito di eventi e attrattori turistici",
-            "description": "Al fine di valorizzare turisticamente l'eccellenza del territorio, la Lr. 14/2016 prevede che siano concessi contributi alle ATL, a enti pubblici o di diritto pubblico e ad associazioni senza scopo di lucro per attività di comunicazione e di promo-pubblicità realizzate nell'ambito di manifestazioni ed eventi organizzati nelle località del Piemonte.Nello specifico il bando a sportello che viene pubblicato prevede la concessione di contributi secondo l’ordine cronologico di presentazione delle domande, fino ad esaurimento delle risorse disponibili. La misura sostiene attività di comunicazione e di promo-pubblicità realizzate nell'ambito di iniziative ed attrattori di valenza turistica.",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-bando-a-sportello-per-contributi-per-iniziative-di-comunicazione-e-promo-pubblicita-nellambito-di-eventi-e-attrattori-turistici",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Festival e mostre, Fiere ed eventi, Manifestazioni culturali, Marketing e comunicazione, Media e informazione, Sviluppo e promozione territoriale, Turismo",
-                    "Stanziamento": "€ 500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-25",
-            "title": "Abruzzo – Bando per il supporto all'invecchiamento attivo",
-            "description": "L’avviso sostiene la promozione dell’invecchiamento attivo in Abruzzo finanziando interventi integrati e innovativi finalizzati a migliorare qualità della vita, benessere psicofisico e partecipazione sociale delle persone anziane. In particolare, l’iniziativa intende valorizzare il ruolo attivo degli over 65, favorire il mantenimento dell’autonomia, rafforzare legami comunitari e intergenerazionali e prevenire isolamento e fragilità (anche con azioni di contrasto alla solitudine e di supporto emotivo/psicologico).",
-            "link": "https://www.obiettivoeuropa.com/bandi/abruzzo-bando-per-il-supporto-allinvecchiamento-attivo",
-            "custom": {
-                "custom": {
-                    "Topics": "Alimentazione e nutrizione, Arte e Cultura, Artigianato, Diritti e Cittadinanza, Educazione e istruzione, Inclusione Sociale e Solidarietà, Media e informazione, Salute e medicina, Servizi sociali e socio-sanitari, Sport, Supporto psicologico, Volontariato",
-                    "Stanziamento": "€ 3.800.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-29",
-            "title": "CCIAA Brescia - Fiere Italia",
-            "description": "La CCIAA intende promuovere la partecipazione a fiere e mostre con qualifica nazionale o internazionale ed incontri d'affari organizzati e programmati (variamente denominati come \"matching\", workshop, ecc.) aventi valenza nazionale e/o internazionale, che si svolgono in Italia (esclusa la Regione Lombardia). Le manifestazioni ammesse a contributo ai sensi del presente bando dovranno svolgersi nel periodo dal 1 gennaio 2025 al 31 dicembre 2025.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-fiere-italia",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale, Turismo",
-                    "Stanziamento": "€ 523.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Piemonte - Bando selettivo per contributi per iniziative di comunicazione e promo-pubblicità nell'ambito di eventi e attrattori turistici",
-            "description": "Al fine di valorizzare turisticamente l'eccellenza del territorio, la Lr. 14/2016 prevede che siano concessi contributi alle ATL, a enti pubblici o di diritto pubblico e ad associazioni senza scopo di lucro per attività di comunicazione e di promo-pubblicità realizzate nell'ambito di manifestazioni ed eventi organizzati nelle località del Piemonte.Nello specifico il bando selettivo che viene pubblicato prevede la concessione di contributi tramite procedura valutativa con attribuzione di punteggi e approvazione di una graduatoria di merito. La misura sostiene attività di comunicazione e di promo-pubblicità realizzate nell'ambito di iniziative turistiche ed attrattori di livello internazionale, nazionale, regionale e locale.",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-bando-selettivo-per-contributi-per-iniziative-di-comunicazione-e-promo-pubblicita-nellambito-di-eventi-e-attrattori-turistici",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Festival e mostre, Fiere ed eventi, Manifestazioni culturali, Marketing e comunicazione, Media e informazione, Sviluppo e promozione territoriale, Turismo",
-                    "Stanziamento": "€ 875.936"
-                }
-            }
-        },
-        {
-            "deadline": "2026-10-15",
-            "title": "Fondazione Caritro - Bando digitale per la cultura",
-            "description": "La Fondazione stimola la produzione, la diffusione e la valorizzazione di attività culturali in quanto viene ritenuta un’azione strategica per favorire e promuovere la crescita e lo sviluppo della società. In particolare, la capacità del sistema locale di programmare e realizzare progetti culturali favorisce in modo diffuso la creatività, la conoscenza, la partecipazione attiva, il confronto e il dialogo tra idee e visioni diverse.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-caritro-bando-digitale-per-la-cultura",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Innovazione tecnologica, digitalizzazione, ICT, Sviluppo e promozione territoriale, Transizione digitale, Turismo",
-                    "Stanziamento": "€ 400.000"
-                }
-            }
-        },
-        {
-            "deadline": "2025-04-14",
-            "title": "CCIAA Milano Monza Brianza Lodi - Bando CONneSSi",
-            "description": "La Camera di commercio di Milano Monza Brianza Lodi mira a rafforzare la diffusione di una cultura digitale orientata all’internazionalizzazione, in continuità con le iniziative “Internazionalizzazione 20%” e “Punto Impresa Digitale” (PID), con l’obiettivo di sostenere la crescita delle imprese sui mercati esteri attraverso la progettazione e l’adozione di avanzate strategie di marketing digitale, nonché aumentare le competenze interne delle aziende sui temi del digital export, dell’analisi dei dati e dell’utilizzo dell’intelligenza Artificiale a supporto dei processi commerciali. Il bando, in particolare, intende sostenere le MPMI mediante contributi per gli investimenti volti a:acquisire servizi specializzati per la pianificazione, lo sviluppo e la gestione di strategie di marketing digitale orientate ai mercati globali;ottimizzare il posizionamento digitale dell’impresa e avviare attività di promozione e comunicazione rivolte ai mercati internazionali, così da migliorare la visibilità e la competitività online;potenziare la presenza e l’immagine aziendale sui social media, aumentando l’attrattività verso utenti, partner e clienti esteri attraverso contenuti, campagne e strategie mirate.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-milano-monza-brianza-lodi-bando-connessi",
-            "custom": {
-                "custom": {
-                    "Topics": "Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Marketing e comunicazione, Media e informazione, Supporto alle imprese, Transizione digitale",
-                    "Stanziamento": "€ 2.500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-22",
-            "title": "Piemonte - Promozione dei prodotti di qualità",
-            "description": "L’intervento sostiene la realizzazione di iniziative di informazione e promozione da parte di associazioni di produttori sui regimi di qualità dell’Unione europea e sui sistemi di qualità nazionali per migliorare la redditività delle imprese e la loro posizione nella catena del valore, consolidare le filiere agroalimentari dei prodotti di qualità e aumentare il grado di conoscenza e il consumo dei prodotti di qualità da parte dei consumatori sul mercato interno all’Unione.",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-promozione-dei-prodotti-di-qualita",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Alimentazione e nutrizione, Ambiente e Sviluppo sostenibile, Commercio, Competitività imprese, Marketing e comunicazione, Media e informazione, Supporto alle imprese, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 6.662.132"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-31",
-            "title": "Fondazione Cariparma - PAT.T.O. per il Territorio",
-            "description": "Al fine di arricchire sempre più le risorse a disposizione della collettività nella provincia di Parma, il bando si pone come obiettivo la valorizzazione del patrimonio del territorio. In particolare, il bando mira a:promuovere la riqualificazione e il riuso del patrimonio sottoutilizzato anche attraverso collaborazioni e partenariati tra diversi attori, favorendo l'innovazione sociale e l'imprenditoria sociale;utilizzare risorse disponibili sul territorio per generare impatti positivi sulla comunità e creare nuove opportunità di lavoro e integrazione;restituire alla comunità componenti del patrimonio locale per creare nuove opportunità di socializzazione e sviluppo;valorizzare e riscoprire le potenzialità del patrimonio di Parma e provincia allo scopo di sviluppare la coesione della comunità.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-patto-per-il-territorio",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 5.500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "CCIAA Nuoro - Bando per la concessione di contributi per l’organizzazione di iniziative promozionali",
-            "description": "La CCIAA di Nuoro intende concedere contributi per l’organizzazione di iniziative che promuovano il territorio, la cultura e le imprese della circoscrizione della Camera, da realizzarsi nel periodo compreso fra il 01/01/2026 e il 30/06/2026.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-nuoro-bando-per-la-concessione-di-contributi-per-lorganizzazione-di-iniziative-promozionali",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Competitività imprese, Formazione e lavoro, Internazionalizzazione, Supporto alle imprese, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 100.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-05-07",
-            "title": "Emilia-Romagna - Sostegno agli investimenti delle Comunità energetiche rinnovabili",
-            "description": "L’obiettivo di questo Bando è quello di favorire lo sviluppo di Comunità Energetiche Rinnovabili, in coerenza con la L.R. 5/2022, attraverso la concessione di contributi economici che contribuiscono a coprire i costi per la fornitura e posa in opera degli impianti di produzione e accumulo dell’energia a servizio delle comunità energetiche stesse e delle relative spese tecniche. Oltre ai benefici ambientali che la nascita delle CER potrà apportare con l’incremento della produzione di energia da fonti rinnovabili, ci si aspetta che le Comunità possano generare benefici dal punto di vista economico e sociale, soprattutto attraverso il coinvolgimento di soggetti economicamente svantaggiati, al fine di combattere la povertà energetica.",
-            "link": "https://www.obiettivoeuropa.com/bandi/bando-per-il-sostegno-allo-sviluppo-di-comunita-energetiche-rinnovabili-emilia-romagna",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Economia circolare, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Sostenibilità sociale, Sviluppo e promozione territoriale, Transizione ecologica, Transizione energetica",
-                    "Stanziamento": "€ 2.500.000"
+                    "Topics": "Agricoltura e sviluppo rurale, Formazione e lavoro, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 18.000.000"
                 }
             }
         },
         {
             "deadline": "2026-02-27",
-            "title": "Fondazione Pro Valtellina - Bando estate",
-            "description": "Attraverso il Bando Estate, la Fondazione Pro Valtellina ETS promuove la realizzazione di campus, centri e oratori estivi destinati a bambini e adolescenti per riattivare la voglia di stare insieme, di svago e di libertà fornendo alle famiglie anche un valido aiuto nella gestione del periodo estivo, dopo la chiusura delle scuole. Fondazione Pro Valtellina intende privilegiare, in particolare, progetti di enti pubblici, parrocchie, associazioni e altre realtà del terzo settore con esperienze già consolidate negli anni precedenti, con l’esclusione di Associazioni, Enti e Società sportive dilettantistiche, per iniziative inclusive ed educative e, al contempo, tenendo presenti: la fedeltà alla missione degli enti organizzatori, le indicazioni governative, la situazione generale delle famiglie, il bene delle nuove generazioni, la condizione economica e lavorativa generale, la fiducia dei genitori, i dispositivi di protezione individuale, l’attenzione alle situazioni a rischio di emarginazione.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-pro-valtellina-bando-estate",
+            "title": "Piemonte - Investimenti per ridurre le emissioni (SRD02 - A)",
+            "description": "L'intervento sostiene gli investimenti volti alla razionalizzazione dei processi produttivi agricoli che riducano l’emissione di gas climalteranti (metano e protossido di azoto) e di altri agenti inquinanti dell’aria (ammoniaca) e/o aumentino la capacità di sequestro di carbonio nel suolo. L'intervento concorre altresì a sostenere l’adeguamento delle imprese agricole ai criteri e ai vincoli previsti dal Piano Stralcio Agricoltura per la qualità dell’aria.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-investimenti-per-ridurre-le-emissioni-srd02-a",
             "custom": {
                 "custom": {
-                    "Topics": "Educazione e istruzione, Inclusione Sociale e Solidarietà, Sport",
-                    "Stanziamento": "€ 125.000"
+                    "Topics": "Acquisto macchinari e/o attrezzature, Acquisto macchine e strumentazioni, Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Edilizia, Supporto alle imprese, Transizione ecologica",
+                    "Stanziamento": "€ 313.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-16",
+            "title": "DG Cinema e Audiovisivo - Bando contributi selettivi opere cinematografiche in regime di coproduzione o di compartecipazione internazionale minoritaria",
+            "description": "La DG intende erogare dei contributi alla produzione di opere cinematografiche di lungometraggio realizzate in coproduzione internazionale ovvero in compartecipazione internazionale in cui la partecipazione delle imprese italiane sia minoritaria rispetto alla partecipazione di almeno una delle imprese non italiane che possiedono la quota più alta di diritti di utilizzazione e sfruttamento sull’opera.",
+            "link": "https://www.obiettivoeuropa.com/bandi/dg-cinema-e-audiovisivo-bando-contributi-selettivi-opere-cinematografiche-in-regime-di-coproduzione-o-di-compartecipazione-internazionale-minoritaria",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Supporto alle imprese",
+                    "Stanziamento": "€ 6.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "non disponibile",
+            "title": "Sicilia - Interventi di Riqualificazione/Potenziamento/Efficientamento delle Aree Artigianali",
+            "description": "L’invito si propone di sostenere il consolidamento, la salvaguardia e il rafforzamento del tessuto imprenditoriale siciliano attraverso interventi volti a migliorarne la competitività, garantirne la neutralità climatica e la trasformazione digitale e innovativa. In particolare, sono sostenuti interventi di riqualificazione delle aree artigianali esistenti per rafforzare competitività e sviluppo del tessuto produttivo, puntando su: miglioramento infrastrutturale “materiale”, trasformazione digitale delle aree, sostenibilità ambientale e valorizzazione/recupero di aree o immobili dismessi.L’obiettivo è aumentare funzionalità e attrattività delle aree, sostenere imprese già insediate e favorire nuovi insediamenti compatibili, migliorando sicurezza, accessibilità e qualità dei servizi.",
+            "link": "https://www.obiettivoeuropa.com/bandi/sicilia-interventi-di-riqualificazionepotenziamentoefficientamento-delle-aree-artigianali",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Artigianato, Edilizia, Energie Rinnovabili, Fotovoltaico, Innovazione tecnologica, digitalizzazione, ICT, Mobilità sostenibile, Rigenerazione Urbana, Ristrutturazione, recupero, riqualificazione, Supporto alle imprese",
+                    "Stanziamento": "€ 50.815.038"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-30",
+            "title": "Liguria - Potenziamento delle Infrastrutture di Ricerca che operano in ambito S3 finalizzato all'avanzamento tecnologico delle imprese del territorio",
+            "description": "Riconoscendo il ruolo cruciale delle Infrastrutture di Ricerca (IR) come motori di sviluppo scientifico, tecnologico ed economico, la misura mira principalmente a sostenere l'ampliamento e il potenziamento della strumentazione e delle attrezzature scientifiche delle IR pubbliche e private del territorio che operano nei settori strategici individuati dalla Strategia di Specializzazione Intelligente (S3).Lo scopo è quello di massimizzare la collaborazione tra ricerca e impresa facilitando l'interazione e la creazione di reti di conoscenza e trasferimento tecnologico e garantire un maggiore accesso alle IR da parte delle MPMI.",
+            "link": "https://www.obiettivoeuropa.com/bandi/liguria-potenziamento-delle-infrastrutture-di-ricerca-che-operano-in-ambito-s3-finalizzato-allavanzamento-tecnologico-delle-imprese-del-territorio",
+            "custom": {
+                "custom": {
+                    "Topics": "Acquisto macchinari e/o attrezzature, Acquisto macchine e strumentazioni, Brevetti e licenze, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
+                    "Stanziamento": "€ 3.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2027-03-31",
+            "title": "Sardegna - Programma di Sostegno allo sviluppo delle nuove Imprese Innovative",
+            "description": "Il bando mira a rafforzare la capacità di innovazione e l’introduzione di tecnologie avanzate sostenendo gli investimenti delle nuove imprese con particolare attenzione alle MPMI nei settori prioritari individuati dalla S3 regionale. Il programma si concretizza attraverso il cofinanziamento di Piani di Sviluppo Aziendale organici e funzionali alla strategia di crescita delle nuove imprese, che prevedono interventi tecnologici innovativi, spese per il personale e servizi di consulenza avanzati e qualificati finalizzati a favorire la crescita sostenibile, la competitività e il consolidamento sul mercato delle nuove imprese regionali.",
+            "link": "https://www.obiettivoeuropa.com/bandi/sardegna-programma-di-sostegno-allo-sviluppo-delle-nuove-imprese-innovative",
+            "custom": {
+                "custom": {
+                    "Topics": "Artigianato, Competitività imprese, Manifatturiero, Supporto alle imprese, Turismo",
+                    "Stanziamento": "€ 10.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-30",
+            "title": "Lazio – Bando Progetto Milestone",
+            "description": "La Regione Lazio pubblica un avviso pubblico a valere sul PR FSE+ Lazio, attraverso il quale intende proseguire nel sostegno alla qualificazione e all’inserimento lavorativo dei giovani laureati e laureandi del Lazio, attraverso una nuova iniziativa progettuale denominata “Mobilità Internazionale dei giovani Laureati e laureandi per Esperienze di Sviluppo e Trasferimento Occupazionale Nell’Economia del Lazio” (PROGETTO MILESTONE), ideata nell’ottica di dare continuità, con alcune innovazioni, agli obiettivi della nota e precedente iniziativa “Torno Subito” e che rientra all’interno dell’elenco delle operazioni pianificate di importanza strategica.Il Progetto mira alla promozione di percorsi di apprendimento finalizzati al miglioramento e alla valorizzazione delle competenze delle giovani generazioni, articolati attraverso due Linee di Azione:Linea I – MILESTONE Formazione – percorsi di apprendimento in alta formazioneLinea II – MILESTONE Lavoro – percorsi di apprendimento in contesti di impresa",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-bando-progetto-milestone",
+            "custom": {
+                "custom": {
+                    "Topics": "Educazione e istruzione, Formazione e lavoro",
+                    "Stanziamento": "€ 15.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-16",
+            "title": "Friuli-Venezia Giulia - Bando per l’accesso ai contributi a favore delle agenzie di viaggio e tour operator",
+            "description": "Il bando intende erogare contributi - secondo la regola ‘de minimis’ - a favore delle agenzie di viaggio e tour operator con sede legale e operativa nella Regione Autonoma Friuli Venezia Giulia.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-per-laccesso-ai-contributi-a-favore-delle-agenzie-di-viaggio-e-tour-operator-friuli-venezia-giulia-",
+            "custom": {
+                "custom": {
+                    "Topics": "Supporto alle imprese, Turismo",
+                    "Stanziamento": "€ 395.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-28",
+            "title": "Fondazione Cariparma - Sessione erogativa per eventi",
+            "description": "Il bando è finalizzato a sostenere eventi (con un contributo minimo di Euro 5.000 e massimo di Euro 10.000) da realizzarsi nel periodo 1° maggio 2026 – 30 aprile 2027. Tali eventi dovranno essere pertinenti ai settori rilevanti e ai settori ammessi individuati nel Documento Programmatico 2026 (Volontariato, filantropia e beneficenza; Salute pubblica, medicina preventiva e riabilitativa; Famiglia e valori connessi; Arte, attività e beni culturali; Educazione, istruzione e formazione; Protezione e qualità ambientale; Crescita e formazione giovanile; Ricerca scientifica e tecnologica; Assistenza agli anziani). Verranno quindi ammessi eventi quali:rassegne;festival;spettacoli;mostre;convegni;manifestazioni.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-sessione-erogativa-per-eventi",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Educazione e istruzione, Fiere ed eventi, Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale, Volontariato",
+                    "Stanziamento": "€ 500.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Piemonte - Ristrutturazione e ammodernamento dei siti e degli impianti di produzione, macchinari e strumenti per birrifici artigianali",
+            "description": "Il bando è finalizzato alla concessione di contributi per interventi di ristrutturazione e ammodernamento dei siti e degli impianti di produzione di birra artigianale da filiera brassicola regionale, acquisto di macchinari e di strumenti di dotazione, in funzione delle innovazioni tecnologiche, sia in ambito organizzativo che di processo produttivo compresi i processi di certificazione di qualità.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-ristrutturazione-e-ammodernamento-dei-siti-e-degli-impianti-di-produzione-macchinari-e-strumenti-per-birrifici-artigianali",
+            "custom": {
+                "custom": {
+                    "Topics": "Acquisto macchinari e/o attrezzature, Alimentazione e nutrizione, Ammodernamento impianti, Gastronomia, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
+                    "Stanziamento": "€ 102.371"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Toscana - Agevolazioni alla ristorazione per l'impiego dei prodotti locali della Toscana",
+            "description": "La Regione Toscana intende dare attuazione alle disposizioni del DM 6 maggio 2022, che prevede di perseguire la transizione ecologica, che, nel caso specifico, si ottiene sostenendo e incrementando l'offerta di prodotti a indicazione geografica e biologici, prodotti agroalimentari tradizionali. I beneficiari dovrebbero anche mettere in atto attività per migliorare la conoscenza dei consumatori relativamente alla storia, alla cultura enogastronomica della regione di riferimento, di cui tali produzioni sono espressioni.Per tali motivi è emanato un bando che prevede la concessione di un'agevolazione una tantum uguale per ogni tipologia di beneficiario che presenta un'istanza ritenuta ammissibile e in possesso dei requisiti previsti dal DM 6 maggio 2022, al fine di favorire la transizione ecologica nel settore della ristorazione.",
+            "link": "https://www.obiettivoeuropa.com/bandi/toscana-agevolazioni-alla-ristorazione-per-limpiego-dei-prodotti-locali-della-toscana",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Alimentazione e nutrizione, Fiere ed eventi, Gastronomia, Marketing e comunicazione, Media e informazione, Sviluppo e promozione territoriale, Turismo",
+                    "Stanziamento": "€ 89.507"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-31",
+            "title": "Fondazione Cariparma - Welfare connesso",
+            "description": "Al fine di valorizzare la ricchezza della conoscenza e dell’offerta di servizi di welfare nel territorio della provincia di Parma, la Fondazione si pone l’obiettivo di sostenere iniziative e progetti che promuovano lo scambio di risorse e la collaborazione tra attori diversi, anche grazie all’introduzione di tecnologie digitali abilitanti a ottenere un maggiore impatto sul territorio a favore delle persone più fragili. In particolare, il bando mira a:favorire la collaborazione e promuovere una maggiore efficacia delle azioni degli attori della rete del welfare;introdurre ed utilizzare strumenti digitali per la rilevazione, elaborazione e condivisione di dati e per la fruizione integrata di servizi;creare le condizioni per la formazione di reti sociali e istituzionali all’interno del territorio, incoraggiando l’interazione tra i rappresentati della comunità, delle istituzioni, delle organizzazioni e delle imprese; promuovere lo scambio di risorse tra gli attori protagonisti del territorio per ridurre le duplicazioni di processi o servizi, per favorire la circolazione di informazioni e per aumentare l’efficacia delle azioni a supporto dell’area welfare.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-welfare-connesso",
+            "custom": {
+                "custom": {
+                    "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 4.400.000"
+                }
+            }
+        },
+        {
+            "deadline": "non disponibile",
+            "title": "Sicilia - Contributi finalizzati alla scrittura di sceneggiature di film di produzione cinematografica/televisiva e di serie TV",
+            "description": "L'Amministrazione interviene in favore del settore dell’audiovisivo per:promuovere e sostenere opere audiovisive originali e di qualità;potenziare l’immagine della Sicilia attraverso il rafforzamento della committenza pubblica, mirata a supportare opere audiovisive legate al territorio siciliano per valorizzarne attualità, storia, cultura, paesaggio, tradizioni, enogastronomia e identità;promuovere e sostenere i professionisti del settore audiovisivo operanti sul territorio regionale;sostenere opere audiovisive realizzate in Sicilia espressamente legate a tratti identitari del territorio dell'Isola, ma tuttavia capaci di dare impulso alla filiera audiovisiva regionale e di promuovere impatti economici e occupazionali sul territorio siciliano.In particolare, attraverso l’avviso, intende concedere contributi a fondo perduto per la scrittura di sceneggiature originali ovvero tratte da altre opere protette ai sensi della legge sul diritto d’autore, dalle quali sia possibile realizzare opere cinematografiche a contenuto narrativo di finzione interamente ambientate in Sicilia, nella forma di film lungometraggi e serie tv.",
+            "link": "https://www.obiettivoeuropa.com/bandi/sicilia-contributi-finalizzati-alla-scrittura-di-sceneggiature-di-film-di-produzione-cinematograficatelevisiva-e-di-serie-tv",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Audiovisivi e Cinema, Media e informazione, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 150.000"
+                }
+            }
+        },
+        {
+            "deadline": "2027-01-28",
+            "title": "Emilia-Romagna - Percorsi extra diritto-dovere, in modalità duale - Apprendistato di I livello o alternanza rafforzata - per qualifica IeFP",
+            "description": "L’Avviso intende garantire la continuità di un’offerta formativa finalizzata ad ampliare ulteriormente le opportunità per i giovani di assolvere il diritto dovere all’istruzione e alla formazione e di acquisire una qualifica professionale di III liv. EQF del sistema IeFP. In particolare, si intende rendere disponibile un’offerta formativa della durata di 990 ore, aggiuntiva rispetto all’offerta ordinamentale, finalizzata a permettere ai giovani che abbiano assolto l’obbligo scolastico e abbiano frequentato almeno due anni di istruzione secondaria di secondo grado, privi di una qualifica professionale o di un titolo di studio di istruzione secondaria di secondo grado, di essere accompagnati nel passaggio a un percorso di terza annualità IeFP finalizzato al conseguimento di una qualifica professionale di III liv. EQF e di assolvere il diritto-dovere all’istruzione e formazione.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-percorsi-extra-diritto-dovere-in-modalita-duale-apprendistato-di-i-livello-o-alternanza-rafforzata-per-qualifica-iefp",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà",
+                    "Stanziamento": "€ 1.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-10",
+            "title": "Piemonte – Bando MATCHIN: Mobilizing Advanced Talents for Competence and High INnovation",
+            "description": "Il bando intende favorire forme di transizione dal mondo pubblico della ricerca all’impresa di figure altamente qualificate, riconoscendo la centralità del rafforzamento delle capacità e competenze e l’importanza del loro apporto alla crescita e sviluppo delle imprese locali e più in generale dell’economia regionale, attraverso l’innalzamento qualitativo del capitale umano nelle imprese stesse. In questo contesto, la misura persegue l’obiettivo, da un lato, di promuovere la ricerca e sviluppo, il trasferimento tecnologico e l'innovazione all'interno delle organizzazioni, dall'altro di offrire ai ricercatori nuove opportunità di carriera, valorizzando la loro formazione avanzata e le competenze maturate presso gli Organismi di Ricerca (OdR)Il bando si articola in due Linee di intervento:Linea A - Inserimento di figure altamente qualificate tramite assunzioneLinea B - Messa a disposizione temporanea di ricercatori, tramite convenzione tra Università o Enti pubblici di ricerca e l’azienda.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-bando-matchin-mobilizing-advanced-talents-for-competence-and-high-innovation",
+            "custom": {
+                "custom": {
+                    "Topics": "Formazione e lavoro, Ricerca Scientifica",
+                    "Stanziamento": "€ 5.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-05",
+            "title": "CCIAA Brescia - Fiere in Lombardia",
+            "description": "La CCIAA intende promuovere la partecipazione a fiere e mostre con qualifica nazionale o internazionale ed incontri d'affari organizzati e programmati (variamente denominati come \"matching\", workshop, ecc.) aventi valenza nazionale e/o internazionale, che si svolgono in Regione Lombardia. Le manifestazioni ammesse a contributo ai sensi del presente bando dovranno svolgersi nel periodo dal 1 gennaio 2025 al 31 dicembre 2025.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-brescia-fiere-in-lombardia",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Artigianato, Commercio, Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale, Turismo",
+                    "Stanziamento": "€ 327.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-28",
+            "title": "Friuli - Venezia Giulia - Interventi per la riqualificazione e riconversione produttiva sostenibile",
+            "description": "Il bando mira a sostenere interventi di riqualificazione e riconversione produttiva sostenibile all'interno di complessi produttivi degradati. L'obiettivo è promuovere la modernizzazione, la crescita e lo sviluppo sostenibile dell'economia regionale, incentivando il recupero di edifici e aree produttive non utilizzate da oltre tre anni o non più idonee alle attività produttive. Questo intervento si inserisce nel quadro delle disposizioni per la modernizzazione e lo sviluppo sostenibile del Friuli Venezia Giulia, come previsto dall'articolo 84 della legge regionale 22 febbraio 2021, n. 3.",
+            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-interventi-per-la-riqualificazione-e-riconversione-produttiva-sostenibile",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Edilizia, Energie Rinnovabili, Rigenerazione Urbana, Ristrutturazione, recupero, riqualificazione, Superamento barriere archietettoniche, Transizione energetica",
+                    "Stanziamento": "€ 1.350.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-02",
+            "title": "Friuli-Venezia Giulia - SRE01: Insediamento giovani agricoltori",
+            "description": "La Regione Friuli-Venezia Giulia con il bando intende concedere un sostegno a giovani imprenditori agricoli di età fino a quarantuno anni non compiuti che si insediano per la prima volta in un’azienda agricola in qualità di capo dell’azienda, a fronte di presentazione di un piano aziendale per lo sviluppo dell’attività agricola.In tal senso, l’intervento è finalizzato a offrire strumenti per attrarre giovani nel settore agricolo e per consentire di attuare idee imprenditoriali innovative anche mediante approcci produttivi maggiormente sostenibili sia in termini di ambiente, sia in termini economici e sociali. L’intervento risponde ai seguenti obiettivi specifici del CSR:OS7 “Attrarre e sostenere i giovani agricoltori e altri nuovi agricoltori e facilitare lo sviluppo imprenditoriale sostenibile nelle zone rurali”;OS8 “Promuovere l’occupazione, la crescita, la parità di genere, inclusa la partecipazione delle donne all’agricoltura, l’inclusione sociale e lo sviluppo nelle zone rurali, comprese la bioeconomia circolare e la silvicoltura sostenibile.",
+            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-sre01-insediamento-giovani-agricoltori",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Avvio attività, Formazione e lavoro",
+                    "Stanziamento": "€ 2.450.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-24",
+            "title": "Sicilia - Progetti di valore: investimenti per la crescita sostenibile dei Comuni siciliani",
+            "description": "Attraverso l’avviso, la Regione Siciliana intende concedere contributi a fondo perduto ai Comuni siciliani per finanziare interventi infrastrutturali finalizzati alla rigenerazione e riqualificazione dei centri urbani e delle periferie, nonché alla riqualificazione architettonica e al miglioramento della sicurezza degli edifici pubblici e a interventi di manutenzione straordinaria e opere di urbanizzazione primaria.",
+            "link": "https://www.obiettivoeuropa.com/bandi/sicilia-progetti-di-valore-investimenti-per-la-crescita-sostenibile-dei-comuni-siciliani",
+            "custom": {
+                "custom": {
+                    "Topics": "Edilizia, Innovazione tecnologica, digitalizzazione, ICT, Rigenerazione Urbana, Ristrutturazione, recupero, riqualificazione, Superamento barriere archietettoniche, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 28.220.848"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Umbria - Avviso Progetto Bandiera: produzione di idrogeno a basse emissioni in aree dismesse",
+            "description": "La Regione dell’Umbria mira a sostenere gli investimenti per la diffusione del vettore idrogeno, sostenendo le fasi fondamentali quale la produzione, lo stoccaggio, il trasporto e l’utilizzo.",
+            "link": "https://www.obiettivoeuropa.com/bandi/umbria-avviso-progetto-bandiera-produzione-di-idrogeno-a-basse-emissioni-in-aree-dismesse",
+            "custom": {
+                "custom": {
+                    "Topics": "Ambiente e Sviluppo sostenibile, Energie Rinnovabili, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Sviluppo e promozione territoriale, Transizione ecologica, Transizione energetica",
+                    "Stanziamento": "€ 10.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-30",
+            "title": "Fondazione Tercas - Bando educazione istruzione e formazione",
+            "description": "La Fondazione Tercas, consapevole dell’importanza di un sistema educativo efficace e di qualità, intende garantire un intervento diretto a supporto di progetti ideati da istituti di istruzione pubblici e paritari della Provincia di Teramo al fine di dare continuità, rispetto agli anni passati, a quelle azioni in grado di favorire la realizzazione di progetti che tendano a riportare il sistema scolastico locale a livelli adeguati a sostenere lo sviluppo economico e sociale del territorio.",
+            "link": "https://www.obiettivoeuropa.com/bandi/bando-educazione-istruzione-e-formazione",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-28",
+            "title": "Fondazione Cariparma - Sessione erogativa generale",
+            "description": "Il bando è finalizzato a sostenere attività e progetti di dimensioni contenute (con un contributo massimo di Euro 5.000) pertinenti ai settori rilevanti ed ai settori ammessi individuati nel Documento Programmatico 2026 (Volontariato, filantropia e beneficenza; Salute pubblica, medicina preventiva e riabilitativa; Famiglia e valori connessi; Arte, attività e beni culturali; Educazione, istruzione e formazione; Protezione e qualità ambientale; Crescita e formazione giovanile; Ricerca scientifica e tecnologica; Assistenza agli anziani) ma che non rispondono agli obiettivi dei bandi specifici attivati dalla Fondazione nel 2026.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-sessione-generale",
+            "custom": {
+                "custom": {
+                    "Topics": "Aiuti umanitari e Protezione civile, Ambiente e Sviluppo sostenibile, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Giustizia e sicurezza, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Media e informazione, Ricerca Scientifica, Salute e medicina, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 500.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Piemonte - Formazione, aggiornamento e riqualificazione degli operatori della filiera brassicola regionale e organizzazione di iniziative/eventi",
+            "description": "L’intervento sostiene la formazione, l'aggiornamento professionale e la riqualificazione degli operatori dell'intera filiera brassicola regionale, l’organizzazione di iniziative/eventi finalizzati a favorire la corretta informazione al consumatore anche promuovendo la giusta consapevolezza delle caratteristiche qualitative del prodotto.",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-formazione-aggiornamento-e-riqualificazione-degli-operatori-della-filiera-brassicola-regionale-e-organizzazione-di-iniziativeeventi",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Fiere ed eventi, Formazione e lavoro, Gastronomia, Marketing e comunicazione, Media e informazione, Supporto alle imprese, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 112.700"
                 }
             }
         }
