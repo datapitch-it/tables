@@ -1,81 +1,11 @@
 {
-    "scraping_timestamp": "2025-12-25 07:01:21",
+    "scraping_timestamp": "2025-12-26 10:11:14",
     "data": [
-        {
-            "deadline": "2021-03-08",
-            "title": "FactorYmpresa Turismo",
-            "description": "Una fabbrica di idee per il turismo di domani",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/factorympresa-turismo",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2022-07-25",
-            "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
-            "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-05-20",
-            "title": "Investimenti sostenibili 4.0 - Bando 2025",
-            "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-10-01",
-            "title": "Investimenti nel settore della nautica da diporto sostenibile",
-            "description": "Gli incentivi per favorire la transizione ecologica con l’utilizzo di motori elettrici",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nel-settore-della-nautica-da-diporto-sostenibile?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
         {
             "deadline": "2022-06-07",
             "title": "Fondo impresa femminile",
             "description": "L’incentivo per le imprese guidate da donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-11-10",
-            "title": "Sostegno autoproduzione di energia da fonti rinnovabili nelle PMI",
-            "description": "Contributi per le imprese che utilizzano impianti solari fotovoltaici o mini eolici",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-autoproduzione-di-energia-da-fonti-rinnovabili-nelle-pmi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -89,7 +19,91 @@
             "deadline": "2025-10-14",
             "title": "Resto al Sud",
             "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-09-22",
+            "title": "Tessile, Moda e Accessori - Edizione 2021",
+            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-07-25",
+            "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
+            "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2019-05-20",
+            "title": "Fondo nazionale efficienza energetica",
+            "description": "L’incentivo a sostegno degli investimenti in efficienza energetica",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-nazionale-efficienza-energetica?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-19",
+            "title": "Staff House",
+            "description": "Il contributo per le spese di alloggio dei lavoratori sostenute dalle imprese del settore turistico",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/staff-house?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-05-20",
+            "title": "Investimenti sostenibili 4.0 - Bando 2025",
+            "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-11-10",
+            "title": "Sostegno autoproduzione di energia da fonti rinnovabili nelle PMI",
+            "description": "Contributi per le imprese che utilizzano impianti solari fotovoltaici o mini eolici",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-autoproduzione-di-energia-da-fonti-rinnovabili-nelle-pmi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -103,7 +117,7 @@
             "deadline": "2023-08-25",
             "title": "Pnrr Capacity Building - Transizione Ecologica",
             "description": "Avviso Pubblico PNRR – Capacity building per operatori cultura per la transizione ecologica – (Azione BI)",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-ecologica?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-ecologica",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -117,7 +131,7 @@
             "deadline": "2023-08-25",
             "title": "Pnrr Capacity Building - Transizione Digitale",
             "description": "Avviso Pubblico PNRR – Capacity building per operatori cultura per transizione digitale – (Azione AI)",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-digitale?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnrr-capacity-building-transizione-digitale",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -131,7 +145,7 @@
             "deadline": "2021-12-15",
             "title": "Voucher Internazionalizzazione",
             "description": "Il contributo per le micro e piccole imprese che puntano ai mercati esteri",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/voucher-internazionalizzazione?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/voucher-internazionalizzazione",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -145,271 +159,13 @@
             "deadline": "2024-12-02",
             "title": "Cratere sismico aquilano",
             "description": "L’incentivo che valorizza eccellenze nei Comuni del sisma",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cratere-sismico-aquilano?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cratere-sismico-aquilano",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
                     "Area Classification": "Italia",
                     "Tipologia Scadenza": "Singola",
                     "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-08",
-            "title": "Procedura comparativa per titoli per la formazione di elenco di esperti per incarichi di insegnamento Contrabbasso jazz presso il Conservatorio di musica di Lecce",
-            "description": "<p>Procedura comparativa pubblica per titoli per la formazione di un elenco di esperti per incarichi di insegnamento per Contrabbasso jazz AFAM028 (ex COMJ/03) presso il Conservatorio di musica \"Tito Schipa\" di Lecce</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e11e87531e7f4af19228d5a5c009d9d9",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-09",
-            "title": "Avviso pubblico di selezione per il conferimento di incarico di Responsabile dell'Ufficio Tecnico mediante procedura ex articolo 110 D. Lgs. n. 267/2000",
-            "description": "<p>Avvio della procedura di selezione per il conferimento di incarico di Responsabile dell'Ufficio Tecnico mediante procedura ex articolo 110 D. Lgs. n. 267/2000 fino al 31/12/2026 per n. 4 ore settimanali</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=e1f63b4fc005485d8faa17edd503f2eb",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-02",
-            "title": "AVVISO PUBBLICO PER LA FORMAZIONE DI UN ELENCO ED INDIVIDUAZIONE DI COMPONENTI ESPERTI ESTERNI IN RELAZIONE A N.05 CONCORSI IN ITINERE",
-            "description": "<p><span style=\"font-family: Calibri, sans-serif;\">il Comune di </span><span style=\"font-family: Calibri, sans-serif;\">Paterno’</span><span style=\"font-family: Calibri, sans-serif;\">, con il presente avviso, intende costituire un elenco di soggetti dotati di comprovata esperienza e professionalità per la nomina </span><span style=\"font-family: Calibri, sans-serif;\">di </span><span style=\"font-family: Calibri, sans-serif;\">Componenti, di n. </span><span style=\"font-family: Calibri, sans-serif;\">5</span><span style=\"font-family: Calibri, sans-serif;\"> commissioni </span><span style=\"font-family: Calibri, sans-serif;\">di concorso </span><span style=\"font-family: Calibri, sans-serif;\"> previste dai bandi di concorso per la copertura di: </span></p>\n<p>&nbsp;</p>\n<ul>\n <li>\n  <p><span style=\"font-family: Calibri, sans-serif;\">n. 7 posti a tempo pieno e indeterminato di n.07 agenti della Polizia Locale Area degli Istruttori del CCNL 16/11/2022 </span></p>\n </li>\n</ul>\n<ul>\n <li>\n  <p><span style=\"font-family: Calibri, sans-serif;\">n.05 posti di Geometra Area degli Istruttori del CCNL comparto Funzioni Locali del CCNL 16/11/2022</span></p>\n </li>\n <li>\n  <p><span style=\"font-family: Calibri, sans-serif;\">n.03 posti di Funzionario Tecnico Ingegnere Architetto Area dei Funzionari e delle Elevate Qualificazioni del CCNL Funzioni Locali del 16/11/2022</span></p>\n </li>\n <li>\n  <p><span style=\"font-family: Calibri, sans-serif;\">n.03 posti di Ragioniere Area degli Istruttori del CCNL Funzioni Locali del CCNL 16/11/2022</span></p>\n </li>\n <li>\n  <p><span style=\"font-family: Calibri, sans-serif;\">N.02 posti di Autista Scuolabus Area degli Operatori Esperti del CCNL Funzioni Locali del CCNL 16/11/2022;</span></p>\n </li>\n</ul>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=a6abbb4c59514f4e8b59021cb4926240",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-12",
-            "title": "SELEZIONE PER LA COSTITUZIONE DI UN RAPPORTO DI LAVORO MEDIANTE CONTRATTO EX ART. 108 D.LGS. N. 267/2000, IN QUALITA’ DI DIRETTORE GENERALE",
-            "description": "<p>SELEZIONE PER LA COSTITUZIONE DI UN RAPPORTO DI LAVORO MEDIANTE CONTRATTO EX ART. 108 &nbsp;D.LGS. N. 267/2000, IN QUALITA’ DI DIRETTORE GENERALE&nbsp;</p>\n<p>&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9f85ebf981e24a949dd01fff99072681",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-13",
-            "title": "Avviso per il conferimento di n. 2 (due) incarichi di lavoro autonomo profilo geometra ex art. 7, comma 6 del D. Lgs. n. 165/2001 per la durata di 24 mesi",
-            "description": "<p><span style=\"mso-bidi-font-size: 12.0pt;\">Il Comune di Brienza intende conferire n. 2 (due) incarichi di collaborazione professionale, ai sensi dell’articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165, con le modalità e alle condizioni di cui all'avviso mediante costituzione di rapporto di lavoro autonomo per un periodo di 24 (ventiquattro) mesi.</span></p>\n<p><span style=\"mso-bidi-font-size: 12.0pt;\">Il presente Avviso pubblico è finalizzato alla ricerca <strong>di n. 2 due figure professionali</strong> <strong>di geometra</strong>, con esperienza professionale correlata al contenuto della prestazione richiesta e delle competenze ricercate.</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=9bf346db293945319a065bca6ae79661",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-04",
-            "title": "AVVISO FINALIZZATO ALL’ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA NOMINA DELLA COMMISSIONE GIUDICATRICE DEL CONCORSO PUBBLICO PER L'ASSUNZIONE A TEMPO INDETERMINATO DI N.1 ISTRUTTORE AMMINISTRATIVO FULL-TIME -SETTORE AFFARI GENERALI, UFFICIO ANAGRAFE E STATO CIVILE - COMUNE DI CAPISTRELLO",
-            "description": "<p>Avvio di reclutamento mediante avviso pubblico per la nomina dei componenti della commissione per l'espletamento del concorso per l'assunzione a tempo indeterminato full- time di n. 1 istruttore amministrativo inquadrato nell'area degli istruttori (ex Cat. C) settore Affari Generali, Ufficio Anagrafe e Stato Civile</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bdc801ee0ddc474e934a769f34b64af4",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-13",
-            "title": "Avviso per il conferimento di un incarico di lavoro autonomo profilo esperto amministrativo-contabile ex art. 7, comma 6 del D. Lgs. n. 165/2001 per la durata di 24 mesi",
-            "description": "<p><span style=\"mso-bidi-font-size: 12.0pt;\">Il Comune di Brienza intende conferire n. 1 (uno) incarico di collaborazione professionale, ai sensi dell’articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165, con le modalità e alle condizioni di cui all'allegato avviso, mediante costituzione di rapporto di lavoro autonomo per un periodo di 24 (ventiquattro) mesi.</span></p>\n<p><span style=\"mso-bidi-font-size: 12.0pt;\">Il presente Avviso pubblico è finalizzato alla ricerca <strong>di n. 1 (una) figura professionale</strong> di esperto amministrativo/contabile, con esperienza professionale correlata al contenuto della prestazione richiesta e delle competenze ricercate.</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4253eda854af4c8a98f1189804d06709",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-23",
-            "title": "c_f781_2025_pnrr_motta_santanastasia",
-            "description": "<p><span style=\"mso-bidi-font-size: 12.0pt;\">È indetta, ai sensi del combinato disposto dell’art. 11, comma 2, del D. L. 30 aprile 2022 n. 36, convertito con modificazioni con Legge n. 79 del 29.06.2022 “<em>Ulteriori misure</em> <em>urgenti per l’attuazione del Piano nazionale di ripresa e resilienza (PNRR</em>)” e dell’art. 7, comma 6, del Decreto Legislativo 30 marzo 2001, n. 165, una selezione pubblica finalizzata al conferimento di n. 1 incarico di lavoro autonomo ad esperto esterno di comprovata qualificazione professionale, analoga a quella del personale non reclutato tramite i concorsi pubblici previsti e banditi in Gazzetta Ufficiale n. 27 del 06.04.2022 e n. 82 del 15.10.2021, da destinare al potenziamento delle attività degli Uffici tecnici per l’attuazione e gestione delle misure previste dal PNRR. </span><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: HE;\">L’incarico potrà avere una durata massima di 10 mesi e comunque nei limiti della durata di attuazione dei progetti </span><span style=\"font-size: 12.0pt; mso-bidi-font-size: 10.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: HE;\">del PNRR. </span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=603243dbae2e4bceaaffe4f06a7c1b03",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-13",
-            "title": "Avviso per il conferimento di un incarico di lavoro autonomo profilo esperto amministrativo ex art. 7, comma 6 del D. Lgs. n. 165/2001 per la durata di 24 mesi",
-            "description": "<p><span style=\"mso-bidi-font-size: 12.0pt;\">L’Amministrazione Comunale di Brienza intende conferire n. 1 (uno) incarico di collaborazione professionale, ai sensi dell’articolo 7, comma 6, del decreto legislativo 30 marzo 2001, n. 165, con le modalità e alle condizioni di cui all'avviso mediante costituzione di rapporto di lavoro autonomo per un periodo di 24 (ventiquattro) mesi.</span></p>\n<p><span style=\"mso-bidi-font-size: 12.0pt;\">Il presente Avviso pubblico è finalizzato alla ricerca <strong>di n. 1 (una) figura professionale</strong> di esperto amministrativo, con esperienza professionale correlata al contenuto della prestazione richiesta e delle competenze ricercate.</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=f06447cf53c14e87a201cefb3e141e52",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "GAL Tradizione delle Terre Occitane - Intervento SRG07: Bando Smart Village",
-            "description": "Il Bando mira a generare ricadute ambientali, economiche, sociali, oltre che contrastare lo spopolamento nelle aree interne e favorire le relazioni metromontane, tra zone rurali e zone urbane. L’intervento si rivolge a gruppi di beneficiari pubblici e/o privati e sostiene investimenti per la preparazione e l’attuazione di Strategie Smart Village (SSV) al fine di fornire una chiara comprensione del funzionamento di questa innovativa modalità di intervento a favore del territorio.Con il termine “smart village” si indica un modello di sviluppo pensato per i territori rurali, che mette al centro la comunità locale chiedendo ai vari attori di cooperare in modo attivo per migliorare la qualità della vita, rendere più efficienti i servizi, sviluppare progetti innovativi e sostenibili, e rafforzare il tessuto socio-economico in un contesto di aree interne o montane.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-tradizione-delle-terre-occitane-intervento-srg07-bando-smart-village",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Alimentazione e nutrizione, Ambiente e Sviluppo sostenibile, Biodiversità, Consulenza specializzata, Gastronomia, Inclusione Sociale e Solidarietà, Smart cities, Sviluppo e promozione territoriale, Turismo",
-                    "Stanziamento": "€ 400.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-20",
-            "title": "GAL Alto Bellunese - Intervento SRG07 Cooperazione per lo sviluppo rurale, locale e smart villages: cooperazione forestale",
-            "description": "L’azione sostiene progetti di cooperazione aventi ad oggetto la costituzione e l’avvio o la realizzazione di nuove iniziative di consorzi o associazioni tra i proprietari e conduttori di terreni forestali aventi natura privata o mista pubblica-privata, cui possono partecipare anche imprese di utilizzazione e trasformazione del legname ed altri soggetti.Tali forme di aggregazione hanno l’obiettivo di gestire in forma aggregata le superfici agrosilvopastorali sottoponendole a uno o più piani di gestione forestale e favorendo la gestione sostenibile e multifunzionale del bosco e l’incremento, il miglioramento e la valorizzazione delle risorse forestali e silvopastorali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-alto-bellunese-intervento-srg07-cooperazione-per-lo-sviluppo-rurale-locale-e-smart-villages-cooperazione-forestale",
-            "custom": {
-                "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 50.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-28",
-            "title": "Fondazione Cariparma - Avere cura di chi cura",
-            "description": "Con particolare riferimento al ruolo dei caregiver sul territorio della provincia di Parma e nella piena consapevolezza della centralità del ruolo di tali figure e della varietà dei bisogni di supporto, la Fondazione si pone come obiettivo di sostenere iniziative e progetti mirati al sostegno dei caregiver, intesi come tutti coloro che sono coinvolti in attività di cura per la parte prevalente della propria giornata. In particolare, il bando mira a: realizzare progetti di sollievo per i caregiver che abbiano un impatto importante sul loro benessere, e non marginale, sporadico o i cui effetti non perdurino nel tempo;incoraggiare la condivisione di esperienze, buone pratiche e attività di sostegno reciproco;realizzare servizi di consulenza per offrire supporto professionale;erogare programmi di formazione per offrire strumenti pratici e competenze specifiche per affrontare le sfide del caregiving.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-avere-cura-di-chi-cura",
-            "custom": {
-                "custom": {
-                    "Topics": "Inclusione Sociale e Solidarietà, Servizi sociali e socio-sanitari",
-                    "Stanziamento": "€ 1.800.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-31",
-            "title": "Umbria - Investimenti non produttivi forestali",
-            "description": "L’intervento persegue le seguenti finalità:Migliorare la conservazione della biodiversità e degli habitat forestali, garantendo la presenza di aree forestali di elevato valore naturalistico;Mantenere una copertura continua dei soprassuoli, migliorando le funzioni microclimatiche dei popolamenti forestali, la resilienza al cambiamento climatico, e ai potenziali danni da eventi naturali, parassiti e malattie;Valorizzare la funzione protettiva dei soprassuoli forestali nella conservazione del suolo, nell’equilibrio idrogeologico e nella regolazione del deflusso idrico;Contribuire alla mitigazione del cambiamento climatico e all’assorbimento e lo stoccaggio del carbonio atmosferico nei soprassuoli, nel suolo e nella biomassa legnosa, incentivando azioni che aumentano la capacità di sequestro del carbonio;Migliorare l’erogazione dei servizi ecosistemici, valorizzando le funzioni ambientali e pubbliche delle foreste al fine di promuovere anche il riconoscimento dei servizi forniti dagli ecosistemi forestali (PES).L’intervento SRD11 - Investimenti non produttivi forestali prevede le seguenti azioni:Azione SRD11.1) Tutela dell’ambiente, adattamento al cambiamento climatico e conservazione del paesaggioAzione SRD11.2) Miglioramento e realizzazione delle infrastrutture al servizio dell’uso multifunzionale del boscoAzione SRD11.3) Elaborazione di Piani di gestione forestale e strumenti equivalenti.",
-            "link": "https://www.obiettivoeuropa.com/bandi/umbria-investimenti-non-produttivi-forestali",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Biodiversità, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 5.000.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-31",
-            "title": "Fondazione Cariparma - Rotte sostenibili",
-            "description": "Al fine di contribuire alla crescita del territorio e in risposta al bisogno di rafforzamento delle competenze, il bando si pone come obiettivo di rafforzare le capacità di programmazione e progettazione degli enti tramite la realizzazione di azioni di accompagnamento e capacity building. In particolare, il bando mira a:promuovere una cultura dell’innovazione all'interno delle organizzazioni e delle comunità, incoraggiando l'apertura al cambiamento, la creatività, il pensiero critico e l'assunzione di rischi;sviluppare la “cultura del dato” che consente di raccogliere ed elaborare informazioni utili allo sviluppo delle istituzioni e della comunità;favorire analisi e visioni condivise, integrando informazioni, conoscenze, competenze e prospettive differenti, in un’ottica partecipata;realizzare le condizioni per la sensibilizzazione, la formazione e la creazione di spazi di collaborazione e sperimentazione tra diversi attori quali istituzioni accademiche, aziende private, enti pubblici, incubatori e acceleratori.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-rotte-sostenibili",
-            "custom": {
-                "custom": {
-                    "Topics": "Formazione e lavoro, Innovazione tecnologica, digitalizzazione, ICT",
-                    "Stanziamento": "€ 1.300.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-04-30",
-            "title": "Fondazione Cariparma - Play, learn, grow!",
-            "description": "Con il bando la Fondazione, coerentemente con le priorità strategiche di rafforzamento delle persone e nell’ambito specifico della valorizzazione del capitale umano e sociale, si pone come obiettivo il miglioramento dell’apprendimento della lingua inglese nella scuola primaria e nella scuola dell’infanzia, attraverso l’attivazione di ore di insegnamento impartite da docenti madrelingua o dotati di certificazione di livello C2 (il massimo grado di competenza linguistica, equivalente a quella di un madrelingua altamente istruito).",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-play-learn-grow",
-            "custom": {
-                "custom": {
-                    "Topics": "Arte e Cultura, Educazione e istruzione",
-                    "Stanziamento": "€ 1.300.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-28",
-            "title": "Fondazione Cariparma - Generare conoscenza per crescere insieme",
-            "description": "Per contrastare le povertà e supportare i territori e le persone tutte verso una sempre maggiore comprensione delle dinamiche del sistema di welfare, nonché per supportare le istituzioni verso scelte di policy sempre più solide e coerenti, la Fondazione si pone l'obiettivo di ricomporre la frammentazione informativa e di conoscenze sul welfare locale. In particolare, il bando mira a:favorire la ricomposizione di informazioni, sia sui fenomeni che sui servizi erogati sul territorio;promuovere la ricerca e soprattutto la condivisione di tali dati e informazioni sui fenomeni sociali, sulle esigenze dei territori e delle comunità e sui servizi e opportunità già esistenti;supportare in modo efficace le scelte sia istituzionali che individuali nell’ambito del welfare.",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-generare-conoscenza-per-crescere-insieme",
-            "custom": {
-                "custom": {
-                    "Topics": "Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Ricerca Scientifica, Salute e medicina, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 500.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-02-28",
-            "title": "CCIAA Lecce - Bando transizione energetica ed ecologica",
-            "description": "La CCIAA intende incentivare l’avvio da parte delle imprese di percorsi per favorire la transizione energetica attraverso interventi di efficienza energetica, introduzione di Fonti di Energia Rinnovabile, la partecipazione a Comunità Energetiche Rinnovabili nonché l’adozione di sistemi tesi a ridurre i consumi idrici.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-lecce-bando-transizione-energetica-ed-ecologica",
-            "custom": {
-                "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Competitività imprese, Consulenza specializzata, Economia circolare, Formazione e lavoro, Green economy, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese, Transizione digitale, Transizione ecologica",
-                    "Stanziamento": "€ 350.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "CCIAA Nuoro - Bando contributi per la partecipazione a fiere e mostre in Italia e all’estero",
-            "description": "La CCIAA di Nuoro intende procedere alla concessione di contributi alle imprese, operanti nella circoscrizione territoriale di competenza, per la partecipazione a fiere e mostre in Italia e all’estero aventi inizio e fine nel periodo compreso fra il dal  01/01/2026 e il 30/06/2026, con lo scopo di promuovere lo sviluppo delle imprese.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-nuoro-bando-contributi-per-la-partecipazione-a-fiere-e-mostre-in-italia-e-allestero",
-            "custom": {
-                "custom": {
-                    "Topics": "Competitività imprese, Cooperazione Internazionale, Formazione e lavoro, Supporto alle imprese, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 100.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-03-09",
-            "title": "CCIAA Frosinone-Latina - Bando per la concessione di contributi per sistemi di video sorveglianza digitale",
-            "description": "La CCIAA promuove investimenti in sistemi di video sorveglianza digitale da parte delle MPMI della circoscrizione camerale di competenza con l’obiettivo di contribuire al potenziamento del presidio del territorio e dell’innalzamento dei suoi livelli di sicurezza.",
-            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-frosinone-latina-bando-per-la-concessione-di-contributi-per-sistemi-di-video-sorveglianza-digitale",
-            "custom": {
-                "custom": {
-                    "Topics": "Giustizia e sicurezza, Innovazione tecnologica, digitalizzazione, ICT, Supporto alle imprese",
-                    "Stanziamento": "€ 100.000"
-                }
-            }
-        },
-        {
-            "deadline": "2026-06-30",
-            "title": "Comune di Napoli - Bando di concessione delle agevolazioni a favore delle piccole imprese e delle microimprese per interventi per lo sviluppo imprenditoriale in aree di degrado urbano",
-            "description": "L’obiettivo principale è quello di continuare a sostenere la crescita e lo sviluppo delle piccole e micro imprese (MPI) situate in aree di degrado urbano spesso fragili e in difficoltà, offrendo loro l’opportunità di accedere a contributi economici che consentano di investire in nuovi progetti e/o di modernizzare le proprie attività. Le agevolazioni sono finalizzate allo sviluppo di progetti imprenditoriali relativi a piccole imprese e microimprese (artigiane, industriali, commerciali, di servizi e sociali), già esistenti o di nuova costituzione, aventi unità locale localizzate esclusivamente nelle seguenti Municipalità/Quartieri del Comune di Napoli:Municipalità 2 - Mercato, Pendino, Avvocata, Montecalvario, San Giuseppe, Porto; Municipalità 3 - Stella, San Carlo all’Arena;Municipalità 4 - San Lorenzo, Vicaria, Poggioreale, Zona Industriale; Municipalità 6 - Ponticelli, Barra, San Giovanni a Teduccio;Municipalità 7 - Miano, Secondigliano, San Pietro a Patierno; Municipalità 8 - Piscinola, Marianella, Chiaiano, Scampia;Municipalità 9 - Soccavo, Pianura;Municipalità 10 - Bagnoli, Fuorigrotta.I progetti presentati dalle singole imprese possono riguardare una delle seguenti tipologie di intervento:Intervento 1: Sostegno a processi di consolidamento e di innovazione di imprese già costituite;Intervento 2: Sostegno alla creazione di nuove imprese.",
-            "link": "https://www.obiettivoeuropa.com/bandi/comune-di-napoli-bando-di-concessione-delle-agevolazioni-a-favore-delle-piccole-imprese-e-delle-microimprese-per-interventi-per-lo-sviluppo-imprenditoriale-in-aree-di-degrado-urbano",
-            "custom": {
-                "custom": {
-                    "Topics": "Supporto alle imprese, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 4.000.000"
                 }
             }
         }
