@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2025-12-29 15:06:00",
+    "scraping_timestamp": "2025-12-31 06:52:40",
     "data": [
         {
             "deadline": "Invalid Date",
@@ -191,18 +191,6 @@
                 "Area Classification": "Global (working in 2 or more regions)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€400,000"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "Civil Conflict Resolution and Peacebuilding",
-            "description": "Ifa – Institut für Auslandsbeziehungen",
-            "link": "https://gfmd.info/fundings/civil-conflict-resolution-and-peacebuilding/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "N/A"
             }
         },
         {

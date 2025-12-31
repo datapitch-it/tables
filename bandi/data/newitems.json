@@ -1,11 +1,25 @@
 {
-    "scraping_timestamp": "2025-12-29 15:08:55",
+    "scraping_timestamp": "2025-12-31 06:55:56",
     "data": [
+        {
+            "deadline": "2025-10-14",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
         {
             "deadline": "2023-07-12",
             "title": "TOCC Digitale ed Ecologica",
             "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -19,7 +33,7 @@
             "deadline": "N/A",
             "title": "PNC Sisma - NEXT APPENNINO",
             "description": "Programma per il rilancio economico e sociale delle Regioni del Centro Italia colpite dai terremoti del 2009 e del 2016",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -30,10 +44,10 @@
             }
         },
         {
-            "deadline": "2021-09-22",
-            "title": "Tessile, Moda e Accessori - Edizione 2021",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2024-07-01",
+            "title": "Laboratorio per l'Imprenditorialità",
+            "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -47,7 +61,7 @@
             "deadline": "2023-09-15",
             "title": "Accedere",
             "description": "Il Programma per l’ingresso dei soggetti svantaggiati nel mercato del lavoro",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -58,10 +72,10 @@
             }
         },
         {
-            "deadline": "2025-12-10",
-            "title": "Cultura Cresce",
-            "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2025-05-06",
+            "title": "Imprese Borghi",
+            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -73,9 +87,23 @@
         },
         {
             "deadline": "N/A",
-            "title": "Smart&Start Italia",
-            "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia?from=/per-chi-vuole-fare-impresa/incentivi",
+            "title": "Legge 181",
+            "description": "L’incentivo per rilanciare le aree di crisi industriale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/legge-181?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Contratto di sviluppo",
+            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -89,7 +117,7 @@
             "deadline": "2017-03-03",
             "title": "Finanziamenti a vittime di mancati pagamenti",
             "description": "Sostengono le PMI e i professionisti a fronte della mancata riscossione dei pagamenti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/finanziamenti-vittime-di-mancati-pagamenti?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/finanziamenti-vittime-di-mancati-pagamenti",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -100,10 +128,10 @@
             }
         },
         {
-            "deadline": "2025-12-19",
-            "title": "Staff House",
-            "description": "Il contributo per le spese di alloggio dei lavoratori sostenute dalle imprese del settore turistico",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/staff-house",
+            "deadline": "N/A",
+            "title": "Rilanciamo le aree di crisi industriale",
+            "description": "Sosteniamo i territori in difficoltà economica con incentivi alle Imprese e all’occupazione per il rilancio delle aree di crisi industriale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -117,7 +145,21 @@
             "deadline": "2025-05-20",
             "title": "Investimenti sostenibili 4.0 - Bando 2025",
             "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-bando-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -131,7 +173,7 @@
             "deadline": "2022-11-23",
             "title": "Confidi",
             "description": "Garanzie agevolate e finanziamenti agevolati da parte dei confidi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -145,7 +187,7 @@
             "deadline": "2022-11-17",
             "title": "Sviluppo della logistica agroalimentare",
             "description": "L'incentivo per innovare la logistica e ridurre l'impatto ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sviluppo-della-logistica-agroalimentare?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sviluppo-della-logistica-agroalimentare",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -159,7 +201,7 @@
             "deadline": "2025-11-10",
             "title": "Sostegno autoproduzione di energia da fonti rinnovabili nelle PMI",
             "description": "Contributi per le imprese che utilizzano impianti solari fotovoltaici o mini eolici",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-autoproduzione-di-energia-da-fonti-rinnovabili-nelle-pmi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-autoproduzione-di-energia-da-fonti-rinnovabili-nelle-pmi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -173,7 +215,7 @@
             "deadline": "2023-06-30",
             "title": "Hard to abate (HTA)",
             "description": "L’incentivo per la decarbonizzazione dei processi industriali attraverso l’utilizzo di idrogeno a basse emissioni di carbonio",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/hard-abate-hta?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/hard-abate-hta",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -187,7 +229,7 @@
             "deadline": "2022-11-30",
             "title": "Fondo Crisi Ucraina",
             "description": "L’incentivo per il sostegno alle imprese danneggiate dalla crisi ucraina",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-crisi-ucraina?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-crisi-ucraina",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -198,10 +240,10 @@
             }
         },
         {
-            "deadline": "2022-06-23",
-            "title": "Investimenti innovativi delle imprese agricole",
-            "description": "Fondo per imprese attive nella produzione, trasformazione e commercializzazione di prodotti agricoli",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-innovativi-delle-imprese-agricole",
+            "deadline": "2023-10-18",
+            "title": "Investimenti sostenibili 4.0 - PN RIC 21-27",
+            "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-pn-ric-21-27?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -212,10 +254,10 @@
             }
         },
         {
-            "deadline": "2024-12-02",
-            "title": "Cratere sismico aquilano",
-            "description": "L’incentivo che valorizza eccellenze nei Comuni del sisma",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cratere-sismico-aquilano",
+            "deadline": "2017-04-11",
+            "title": "Agevolazioni per le imprese confiscate o sequestrate alla criminalità",
+            "description": "Finanziamenti a tasso zero per le imprese confiscate o sequestrate alla criminalità organizzata",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/agevolazioni-le-imprese-confiscate-o-sequestrate-alla-criminalita?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -226,10 +268,10 @@
             }
         },
         {
-            "deadline": "2024-10-31",
-            "title": "Giovani diplomati",
-            "description": "È l’incentivo per i contratti di apprendistato nell'enogastronomia e nell’ospitalità alberghiera",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati?from=/per-le-imprese/incentivi",
+            "deadline": "2024-04-30",
+            "title": "Macchinari e beni strumentali",
+            "description": "È l’incentivo per l’acquisto di macchinari professionali nella ristorazione, pasticceria e gelateria per valorizzare il patrimonio dell'enogastronomia italiana",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/macchinari-e-beni-strumentali",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -243,7 +285,7 @@
             "deadline": "2022-11-16",
             "title": "Concerie",
             "description": "L’incentivo per l’industria e la filiera del settore conciario",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/concerie?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/concerie",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -257,7 +299,35 @@
             "deadline": "2023-09-30",
             "title": "Fondo per i prodotti del commercio equo e solidale",
             "description": "Per le imprese che hanno fornito prodotti da commercio equo e solidale nelle gare d’appalto della PA",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-i-prodotti-del-commercio-equo-e-solidale?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-i-prodotti-del-commercio-equo-e-solidale",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-09-22",
+            "title": "Fondo Imprese Creative",
+            "description": "Sostiene, valorizza e promuove il settore nazionale delle imprese creative",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-imprese-creative?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-09-30",
+            "title": "Cultura Crea",
+            "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -271,7 +341,7 @@
             "deadline": "2013-12-31",
             "title": "Autoimprenditorialità",
             "description": "L'incentivo previsto dal decreto legislativo 185/2000 Titolo I",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/autoimprenditorialita?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/autoimprenditorialita",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -282,10 +352,80 @@
             }
         },
         {
-            "deadline": "2026-01-13",
-            "title": "PROCEDURA COMPARATIVA ESTERNA PUBBLICA PER IL CONFERIMENTO DI IN-CARICHI DI DOCENZA PER LA DISCIPLINA 77 AFAM057 (ex CODL/02) LINGUA STRANIERA COMUNITARIA INGLESE",
-            "description": "<p>È indetta una procedura comparativa finalizzata all’individuazione di un docente esterno cui affidare, con contratto di lavoro autonomo, un incarico di insegnamento ai sensi dell'art. 10 del DPR 83/2024 per la seguente disciplina: AFAM057 (ex CODL/02) LINGUA STRANIERA COMUNITARIA INGLESE</p>\n<p>- modulo per i corsi accademici di Primo Livello (27 ore);</p>\n<p>- modulo per i corsi accademici di Secondo Livello (27 ore).</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4fbd02f34ff340d3809fe3175703d0f4",
+            "deadline": "2026-01-14",
+            "title": "COMUNE DI MINERVINO MURGE - AVVISO PUBBLICO DI SELEZIONE COMPARATIVA EX ART. 110, COMMA 1, DEL TUEL PER IL CONFERIMENTO DI N. 1 INCARICO A TEMPO DETERMINATO DI FUNZIONARIO TECNICO CUI CONFERIRE LA RESPONSABILITA’ DEL SETTORE V° URBANISTICA (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE-EX CAT.D).",
+            "description": "<p>Il Comune di Minervino Murge intende procedere al conferimento mediante procedura comparativa ai sensi dell'art. 110, comma 1, del D.Lgs. n. 267/2000 (TUEL) di un incarico di 36 ore settimanali e determinato per la durata non superiore alla durata del mandato del Commissario Straordinario, per la copertura del posto di Funzionario Tecnico cui conferire la responsabilità del Settore V - Urbanistica, categoria di accesso Area Funzionari/Elevata Qualificazione (CCNL 2019-2021 comparto Funzioni Locali). Ulteriori dettagli sono reperibili nel bando allegato.</p>\n<p><strong>La domanda dovrà essere corredata da un dettagliato curriculum professionale, da compilarsi sul portale InPA e da allegare nella sezione allegati</strong>, il quale dovrà evidenziare, in particolare, l’esperienza professionale maturata nello svolgimento delle attività oggetto dell’incarico e, in ogni caso, contenere tutte le indicazioni utili a valutare l’attività professionale, di studio e di lavoro del concorrente, con l’esatta precisazione dei periodi ai quali si riferiscono le attività medesime, le collaborazioni e le pubblicazioni ed ogni altro riferimento che il concorrente ritenga di rappresentare, nel proprio interesse, per la valutazione della sua attività.</p>\n<p>Il Comune si riserva la facoltà di accertare la veridicità delle dichiarazioni rese dagli interessati nelle suddette domande e che in caso di dichiarazioni mendaci si procederà secondo quanto previsto dalle vigenti disposizioni in materia.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=60e9fff6845f4b3e96444f46c599bf5b",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "COMUNE DI BUSSOLENO - SELEZIONE EX ART. 110, C. 1 T.U.E.L., FUNZIONARIO DI VIGILANZA, AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI, A TEMPO DETERMINATO (SEI MESI) E PIENO A CUI ATTRIBUIRE L’INCARICO DI RESPONSABILE DELL'AREA DI VIGILANZA",
+            "description": "<p>Avviso pubblico di selezione, tramite procedura comparativa, per la copertura di n.1 posto a tempo determinato (6 mesi) e pieno con inquadramento nell'area dei funzionari e dell'elevata qualificazione - profilo professionale di \"Funzionario di Vigilanza\" , cui conferire l'incarico di responsabile dell'area di vigilanza - in attuazione della disciplina di cui all'art. 110, c.1 del D.Lgs. n. 267/2000 (TUEL).&nbsp;</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=06d8ea39882044f1b33a512cc24032b1",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "PROVINCIA DI FOGGIA - AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE FINALIZZATO ALL’INDIVIDUAZIONE DI ESPERTI AI QUALI CONFERIRE L’INCARICO DI COMPONENTE ESTERNO E MEMBRO AGGIUNTO DELLE COMMISSIONI ESAMINATRICI DELLE PROCEDURE SELETTIVE INDETTE DALLA PROVINCIA DI FOGGIA.",
+            "description": "<p>PROVINCIA DI FOGGIA - AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE FINALIZZATO ALL’INDIVIDUAZIONE DI ESPERTI AI QUALI CONFERIRE L’INCARICO DI COMPONENTE ESTERNO E MEMBRO AGGIUNTO DELLE COMMISSIONI ESAMINATRICI DELLE PROCEDURE SELETTIVE INDETTE DALLA PROVINCIA DI FOGGIA.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7bf50354c8644ca08e83d3176906ce70",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-29",
+            "title": "AVVISO PUBBLICO PER IL CONFERIMENTO DI UN INCARICO CON CONTRATTO DI LAVORO A TEMPO DETERMINATO E FULL-TIME (36 ORE SETTIMANALI), EX ART. 110, COMMA 1, DEL D.LGS. N. 267/2000, DI FUNZIONARIO TECNICO (EX CATEGORIA D), PER LA DIREZIONE DEL SERVIZIO LAVORI PUBBLICI (LL.PP.)",
+            "description": "<p><a href=\"https://www.servizistriano.it/kweb/at/striano/section-5056\">https://www.servizistriano.it/kweb/at/striano/section-5056</a></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=c7e15507d6304828b632977aad81d2c3",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-23",
+            "title": "AVVISO PUBBLICO per la costituzione di una Long List di esperti, mediante procedura comparativa per titoli, esperienze professionali e colloquio, per l’eventuale conferimento di incarichi professionali esterni per l’attuazione del “Piano attuativo locale per il contrasto alla povertà” − Intervento a valere sul Fondo nazionale per la lotta alla povertà e all’esclusione sociale, QSFP 2018 e QSFP annualità 2023, e per l’attuazione delle misure previste dal (FRPS) annualità 2024. L.R. 23/2023",
+            "description": "<p>È indetto avviso pubblico, per la costituzione di una Long List di esperti, mediante procedura comparativa per titoli, esperienze professionali e colloquio, per l’eventuale conferimento di incarichi professionali esterni, ai fini dell’attuazione del “Piano attuativo locale per il contrasto alla povertà” − Intervento a valere sul Fondo nazionale per la lotta alla povertà e all’esclusione sociale, QSFP annualità 2018-2023, e per l’attuazione delle misure previste dal Fondo Nazionale Politiche Sociali (FRPS) annualità 2024. L.R. 23/2023. E' prevista la selezione delle seguenti figure professionali:\n <br>\n ▪ N. 4 Assistenti Sociali;\n <br>\n ▪ N. 1 Psicologo;\n <br>\n ▪ N. 1 Mediatore Linguistico e Culturale;\n <br>\n ▪ N. 3 Educatore Professionale (di cui n. 1 con qualifica di matricista);\n <br>\n ▪ N. 1 Psicoterapeuta.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=0892f40030bb45eabd3925bf8320ced1",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-09",
+            "title": "Procedura comparativa pubblica, per titoli e colloquio, per l’attribuzione di n. 5 contratti di prestazione d’opera professionale ex art.7, comma 6 del D.lgs. 165/2001 e ss.mm.ii PARCO ARCHEOLOGICO DI ERCOLANO",
+            "description": "<p>SELEZIONE PER TITOLI E COLLOQUIO DI N. 5 PROFESSIONISTI (ARCHEOLOGO, ARCHITETTO, AVVOCATO, RESTAURATORE, INGEGNERE)</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3b30313a6c3747dc95f12d0345c179ee",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -297,9 +437,9 @@
         },
         {
             "deadline": "2026-01-13",
-            "title": "Procedura comparativa pubblica per titoli per la formazione di un elenco di esperti per l'affidamento di incarichi di insegnamento in Multimedialità (ex COME/06) presso il Conservatorio di musica di Lecce",
-            "description": "<p>Procedura comparativa pubblica per titoli per la formazione di un elenco di esperti per l'affidamento di incarichi di insegnamento in Multimedialità (ex COME/06) presso il Conservatorio di musica di Lecce</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=6b5dca9a6a344507b6a4c44107f02b20",
+            "title": "AVVISO PUBBLICO PER IL CONFERIMENTO DI INCARICO A CONTRATTO A TEMPO PIENO (36 ORE) E DETERMINATO (3 ANNI) - EX.ART. 110 COMMA 1 DEL TUEL DI N. 1 FIGURA DI FUNZIONARIO TECNICO – AREA DEI FUNZIONARI E DELLE ELEVATE QUALIFICAZIONI A CUI AFFIDARE L’INCARICO DI RESPONSABILE DELL’AREA LAVORI PUBBLICI",
+            "description": "<p><span style=\"font-family: 'times new roman', times, serif;\">È<span style=\"font-size: 12pt;\"> indetta una selezione pubblica comparativa finalizzata a<span style=\"font-size: 12pt; line-height: 107%;\">l conferimento di n. 1 incarico a tempo pieno (36 ore settimanali) e determinato (max 36 mesi), ai sensi dell’art. 110, comma 1, del D.Lgs. n. 267/2000, di Funzionario Tecnico – Area dei Funzionari e delle Elevate Qualificazioni – Responsabile dell’Area Lavori Pubblici.</span></span></span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=de24a62b9aae40c08313bd05c54f9b91",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -310,10 +450,10 @@
             }
         },
         {
-            "deadline": "2026-01-13",
-            "title": "Procedura comparativa pubblica per titoli per la formazione di un elenco di esperti per l'affidamento di incarichi di insegnamento in Acustica musicale (ex COME/03) presso il Conservatorio di musica di Lecce",
-            "description": "<p>Procedura comparativa pubblica per la formazione di un elenco di&nbsp; esperti per l'affidamento di incarichi di insegnamento in Acustica musicale (ex COME/03) presso il Conservatorio di musica di Lecce</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=8beb9edcbefb419a9264a26ff95356b1",
+            "deadline": "2026-01-20",
+            "title": "MANIFESTAZIONE DI INTERESSE PER L’INDIVIDUAZIONE DEI MEMBRI ESTERNI DELL'ORGANISMO REGIONALE PER I CONTROLLI DI LEGALITA’ TRA ESPERTI DI ELEVATA E ACCERTATA PROFESSIONALITÀ CON ESPERIENZE NEL SETTORE PUBBLICO O PRIVATO (O.RE.CO.L.)",
+            "description": "<p><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">VISTO il regolamento del 12 gennaio 2023, n. 1, rubricato “<em>Regolamento delle procedure di controllo interno in attuazione dell’articolo 4, comma 7 e dell’articolo 9 della legge regionale 1 dicembre 2022, n. 42 (Riordino del sistema di controlli interni e istituzione dell’Organismo regionale per i controlli di legalità)”</em>;</span></p>\n<p><strong><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">LA REGIONE CALABRIA INDICE</span></strong><strong><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">&nbsp;</span></strong></p>\n<p><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">una procedura per la formazione di un elenco di esperti con esperienza nel settore pubblico o privato, dal quale scegliere quattro componenti, di cui uno con funzioni di Presidente, dell’Organismo regionale per i controlli di legalità, esterni all'amministrazione regionale.</span></p>\n<p><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">I predetti esperti devono essere in possesso di elevata e accertata professionalità, desumibile da un titolo di studio universitario e/o da particolare specializzazione, accertata per mezzo di documentati curricula, nelle materie occorrenti allo svolgimento delle funzioni rimesse all’Organismo regionale per i controlli di legalità, ai sensi dell’art.11 della predetta legge regionale, al fine di prevenire, individuare e contrastare i rischi di corruzione, illegalità ed infiltrazioni criminali.&nbsp;</span></p>\n<p><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">I componenti del citato Organismo regionale per i controlli di legalità (O.RE.CO.L) non devono trovarsi in una posizione, neppure potenziale, di conflitto di interessi con l'Ente.&nbsp;</span></p>\n<p><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">Le manifestazioni di disponibilità ad essere inseriti nell’elenco degli esperti di elevata e accertata professionalità con esperienze nel settore pubblico o privato, comprensive del curriculum vitae, debitamente datato, sottoscritto e riportante le dichiarazioni rese ai sensi degli artt. 46 e 47 del DPR n. 445/2000, dovranno pervenire <strong>entro il 20 gennaio 2026</strong>, esclusivamente tramite casella di posta elettronica certificata all'indirizzo PEC: </span><a href=\"mailto:dipartimento.organizzazionepersonale@pec.regione.calabria.it\"><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\">dipartimento.organizzazionepersonale@pec.regione.calabria.it</span></a><span style=\"mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;\"> e dovranno riportare il seguente oggetto: “<em><span style=\"text-decoration: underline;\">Manifestazione di interesse per l’individuazione dei membri esterni dell'Organismo regionale per i Controlli di Legalità. O.RE.CO.L</span></em>”.</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=34a9b44bc36448d29248f10ca6b41540",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -324,10 +464,10 @@
             }
         },
         {
-            "deadline": "2026-01-08",
-            "title": "ADEGUAMENTO DEI REQUISITI E RIAPERTURA TERMINI AVVISO PUBBLICO DI PROCEDURA COMPARATIVA PER TITOLI E COLLOQUIO, FINALIZZATA AL CONFERIMENTO DI N. 6 INCARICHI LIBERO-PROFESSIONALI DI FACILITATORE RELAZIONALE NEI PRONTO SOCCORSO DELL’AZIENDA USL TOSCANA SUD EST",
-            "description": "<p>CONFERIMENTO INCARICHI LIBERO PROFESSIONALI PER FACILITATORE RELAZIONALE DI PRONTO SOCCORSO - RIAPERTURA TERMINI</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=026554caf53a49ddb0fb7b8571893b78",
+            "deadline": "2026-01-07",
+            "title": "BANDO LAVORO AUTONOMO PROFESSIONALE N. 19_2025 DIPARTIMENTO DI BIOMEDICINA TRASLAZIONALE E NEUROSCIENZE DELL'UNIVERSITA' DI BARI",
+            "description": "<p><a href=\"https://reclutamento.ict.uniba.it/bandi-di-lavoro/centro-di-eccellenza-di-ateneo-per-l2019innovazione-e-la-creativita-innovation-creativity-center-d-d-n-129del-29_12_2025-bando-di-lavoro-autonomo-dibrain#ec1db1f4e10d46bf88b288863627800f\">https://reclutamento.ict.uniba.it/bandi-di-lavoro/centro-di-eccellenza-di-ateneo-per-l2019innovazione-e-la-creativita-innovation-creativity-center-d-d-n-129del-29_12_2025-bando-di-lavoro-autonomo-dibrain#ec1db1f4e10d46bf88b288863627800f</a></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d64f4f3a75f44f9db1fb3fc52895dbb4",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -338,64 +478,146 @@
             }
         },
         {
-            "deadline": "2026-01-13",
-            "title": "SELEZIONE PUBBLICA CONFERIMENTO INCARICO A TEMPO DETERMINATO E PIENO N.1 FUNZIONARIO ELEVATA QUALIFICAZIONE SETTORE FINANZIARIO E TRIBUTI AI SENSI DELL’ ART.110, COMMA 1, DEL D.LGS. 267/2000 E S.M.I",
-            "description": "<p>Selezione pubblica per il conferimento di incarico con posizione organizzativa a tempo determinato e pieno di n. 1 Funzionario EQ nel Settore Finanziario e Tributi</p>\n<p>Pubblicato AVVISO PROROGA TERMINE</p>\n<p>Pubblicato AVVISO DI RIAPERTURA TERMINE DI SCADENZA&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3ac1db89ba704290a3ac8a982935c17f",
+            "deadline": "2026-03-04",
+            "title": "Fondazione Umbria - Bando “Futuro Sostenibile”",
+            "description": "Il bando intende dare continuità alle iniziative del Welfare 2022, integrandole stabilmente nel territorio e favorendo percorsi di sviluppo sostenibile. Gli obiettivi principali sono: rafforzare l’integrazione delle attività nel territorio, valorizzando le risorse e le caratteristiche locali;coinvolgere attivamente nuovi attori locali, consolidando le reti e le collaborazioni esistenti;integrare le azioni del progetto con servizi e iniziative già attive, riducendo sovrapposizioni e dispersioni;sostenere una prospettiva di sostenibilità nel tempo, sia dal punto di vista sociale che organizzativo;attivare reti a scala locale ed extra-locale per ampliare le opportunità e favorire nuove connessioni;promuovere strategie capaci di adattarsi ai cambiamenti e correggere eventuali criticità, assicurando continuità e capacità di risposta nel tempo;radicare la progettualità attraverso processi partecipativi o strumenti di amministrazione condivisa che ne favoriscano la continuità e la sostenibilità;valorizzare le Comunità Intraprendenti presenti sul territorio ovvero sostenere quelle realtà che promuovono processi di trasformazione sociale attraverso forme di organizzazione dal basso - i gruppi di cittadini o le organizzazioni, attivandosi nel proprio contesto di riferimento, possono infatti sperimentare collettivamente soluzioni innovative",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-umbria-bando-futuro-sostenibile",
             "custom": {
                 "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "N/A",
-                    "Tipologia Scadenza": "N/A",
+                    "Topics": "Ambiente e Sviluppo sostenibile, Innovazione tecnologica, digitalizzazione, ICT, Sostenibilità sociale, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 300.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-09-15",
+            "title": "Fondo per le donne del Mediterraneo – Richieste di contributo",
+            "description": "Fin dalla sua creazione, il Fondo Mediterraneo per le Donne si è impegnato a rafforzare il movimento femminile in tutti i Paesi del bacino del Mediterraneo. Il suo scopo è quello di contribuire in modo concreto e ambizioso al miglioramento della condizione delle donne, le quali, tra le varie sfide che devono affrontare, devono lottare contro la disuguaglianza e la violenza e difendere i loro diritti e le loro libertà.Il Fondo Mediterraneo per le Donne sostiene le attività delle donne che lavorano per cambiare la regione mediterranea:finanziando le associazioni femminili per fornire loro le risorse materiali e umane per agire;rafforzando le capacità delle giovani donne leader per consentire loro di mobilitare meglio le loro forze e usare la loro creatività per costruire una società più giusta;riunendo le organizzazioni per fornire loro uno spazio per discutere, unirsi e agire insieme;intervenendo presso le principali istituzioni per chiedere sovvenzioni più ampie e più accessibili per le associazioni femminili.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondo-per-le-donne-del-mediterraneo-richieste-di-contributo",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Media e informazione",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-13",
+            "title": "Emilia- Romagna – Sostegno a progetti di internazionalizzazione delle PMI, consorzi e aggregazioni di PMI",
+            "description": "Il bando si pone l’obiettivo di rafforzare la presenza delle imprese dell’Emilia-Romagna sui mercati internazionali, favorendo anche la diversificazione delle destinazioni dell’export regionale. A questo scopo il bando prevede il supporto a progetti di internazionalizzazione e di promozione internazionale realizzati da piccole e medie imprese, singolarmente o in aggregazione.",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-sostegno-a-progetti-di-internazionalizzazione-delle-pmi-consorzi-e-aggregazioni-di-pmi",
+            "custom": {
+                "custom": {
+                    "Topics": "Formazione e lavoro, Media e informazione, Supporto alle imprese, Sviluppo e promozione territoriale",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-12",
+            "title": "Fondazione Compagnia di San Paolo - Bando per Comuni: Feste del Primo Voto",
+            "description": "La Fondazione Compagnia di San Paolo, nel Documento Programmatico Pluriennale 2025-2028, riconosce la costruzione di cittadinanza, democrazia e diritti come leve decisive per ridurre le disuguaglianze e sostenere lo sviluppo dei territori. La Missione Favorire partecipazione attiva dell’Obiettivo Cultura opera per rafforzare l’alfabetizzazione politica e il desiderio di informarsi, valorizzando il ruolo delle nuove generazioni come protagoniste della vita democratica. In questa prospettiva è essenziale la funzione di riferimento e coordinamento svolta dalle Pubbliche Amministrazioni che, lavorando in sinergia con le risorse presenti sul proprio territorio (scuole, terzo settore, organizzazioni giovanili,) possono sostenere il protagonismo civico dei e delle neo- maggiorenni (come elettorato attivo e passivo). In questo quadro, il Bando sostiene progetti finalizzati a preparare e valorizzare simbolicamente il “rito di passaggio” in cui si acquisisce il diritto di voto come momento civico fondante e occasione di riconoscimento pubblico. La “Festa del Primo Voto” è pensata come rito di comunità: un’iniziativa memorabile ad alto contenuto simbolico e partecipativo, capace di innescare processi di consapevolezza e responsabilità da parte dei/delle giovani neo-elettori/ttrici e dare l’idea della democrazia come esperienza condivisa.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-compagnia-di-san-paolo-bando-per-comuni-feste-del-primo-voto",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
             "deadline": "2026-02-27",
-            "title": "Sardegna - Progetti di Innovazione Collaborativa",
-            "description": "L’intervento finanzia Progetti di Innovazione Collaborativa (PIC) proposti da parte di Organismi di ricerca pubblici intenzionati a intraprendere un percorso di trasferimento tecnologico e animazione a favore di un gruppo di imprese che decidono di partecipare.",
-            "link": "https://www.obiettivoeuropa.com/bandi/sardegna-progetti-di-innovazione-collaborativa",
+            "title": "ISMEA - Imprenditoria giovanile e femminile in agricoltura",
+            "description": "La misura Più Impresa è dedicata ai giovani e alle donne che intendono subentrare nella conduzione di un'azienda agricola o che sono già attivi in agricoltura da almeno due anni e intendono ampliare la propria impresa, migliorandone la competitività con un piano di investimenti fino ad 1,5 milioni di euro. Nello specifico la misura mira a favorire il ricambio generazionale in agricoltura e il miglioramento, l'ammodernamento o il consolidamento di aziende agricole esistenti condotte da giovani o donne.",
+            "link": "https://www.obiettivoeuropa.com/bandi/ismea-imprenditoria-giovanile-e-femminile-in-agricoltura",
             "custom": {
                 "custom": {
-                    "Topics": "Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
-                    "Stanziamento": "€ 13.000.000"
+                    "Topics": "Agricoltura e sviluppo rurale, Allevamento, Ambiente e Sviluppo sostenibile, Competitività imprese, Edilizia, Energie Rinnovabili, Formazione e lavoro, Green economy, Imprenditoria femminile, Innovazione tecnologica, digitalizzazione, ICT, Ristrutturazione, recupero, riqualificazione, Supporto alle imprese",
+                    "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2026-03-02",
-            "title": "Friuli-Venezia Giulia - Supporto alla genitorialità e sperimentazione dell'affido professionale",
-            "description": "L’avviso persegue l’obiettivo specifico di migliorare l'accesso paritario e tempestivo a servizi di qualità, sostenibili e a prezzi accessibili, compresi i servizi che promuovono l'accesso agli alloggi e all'assistenza incentrata sulla persona, anche in ambito sanitario; modernizzare i sistemi di protezione sociale, anche promuovendo l'accesso alla protezione sociale, prestando particolare attenzione ai minori e ai gruppi svantaggiati; migliorare l'accessibilità, anche per le persone con disabilità, l'efficacia e la resilienza dei sistemi sanitari e dei servizi di assistenza di lunga durataCon l’avviso, nello specifico, si intende realizzare una filiera di interventi nell’ambito della prevenzione, della promozione, della sensibilizzazione e del sostegno rivolti a minori e famiglie in situazioni di fragilità e consentire l’attivazione dei servizi anche in quegli ambiti territoriali che non sono stati interessati a progettualità finanziate a valere sull’Avviso della precedente edizione.",
-            "link": "https://www.obiettivoeuropa.com/bandi/friuli-venezia-giulia-supporto-alla-genitorialita-e-sperimentazione-dellaffido-professionale",
+            "deadline": "2026-04-23",
+            "title": "MIMIT - Area di crisi industriale: Trieste",
+            "description": "La misura promuove la realizzazione di una o più iniziative imprenditoriali nel territorio dell’area di crisi industriale complessa di Trieste, finalizzate al rafforzamento del tessuto produttivo locale e all’attrazione di nuovi investimenti.",
+            "link": "https://www.obiettivoeuropa.com/bandi/mimit-area-di-crisi-industriale-trieste",
             "custom": {
                 "custom": {
-                    "Topics": "Diritti e Cittadinanza, Inclusione Sociale e Solidarietà, Marginalità sociale, Sanità, Servizi sociali e socio-sanitari",
-                    "Stanziamento": "€ 1.535.680"
+                    "Topics": "Supporto alle imprese, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 15.000.000"
                 }
             }
         },
         {
-            "deadline": "2026-04-30",
-            "title": "Piemonte - Intervento SRA31 - Sostegno per la conservazione, l’uso e lo sviluppo sostenibile delle risorse genetiche forestali. Azione 31.3 lettera e) “Accompagnamento”",
-            "description": "La finalità dell’intervento è incrementare la conservazione, l'uso, lo sviluppo e la valorizzazione sostenibile delle risorse genetiche forestali in situ ed ex situ, anche attraverso il sostegno alla produzione di materiali di moltiplicazione di elevata qualità e di origine certificata, ai sensi delle norme Europee e nazionali vigenti, valorizzando la collaborazione tra le componenti pubblica e privata della filiera vivaistica. Con il bando, nell’ambito dell’azione SRA31.3 - Accompagnamento, sulla base di quanto previsto dal CSR 2023-2027 della Regione Piemonte, si intende attivare l’operazione:e) fornire accompagnamento, informazione e diffusione, formazione degli operatori e scambio delle conoscenze e buone pratiche, e corretta comunicazione e divulgazione alla cittadinanza, incluse le scuole.",
-            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-intervento-sra31-sostegno-per-la-conservazione-luso-e-lo-sviluppo-sostenibile-delle-risorse-genetiche-forestali-azione-313-lettera-e-accompagnamento",
+            "deadline": "2026-06-30",
+            "title": "CCIAA Bolzano - Bando Voucher Internazionalizzazione",
+            "description": "Il sistema camerale si propone di promuovere la competitività delle Micro, Piccole e Medie Imprese di tutti i settori economici attraverso il sostegno all’acquisizione di servizi di natura legale attinenti al commercio internazionale. L’obiettivo del bando “Consulenza legale per l’internazionalizzazione 2026” è di realizzare azioni di immediato supporto alle MPMI, della circoscrizione territoriale camerale, attivando contributi a fondo perduto (voucher) a copertura parziale delle spese sostenute per l’acquisizione di servizi di consulenza di natura legale.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-bolzano-bando-voucher-internazionalizzazione",
             "custom": {
                 "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Educazione e istruzione, Formazione e lavoro",
+                    "Topics": "Competitività imprese, Innovazione tecnologica, digitalizzazione, ICT, Internazionalizzazione, Supporto alle imprese, Transizione digitale",
                     "Stanziamento": "€ 100.000"
                 }
             }
         },
         {
-            "deadline": "2026-03-31",
-            "title": "GAL delle Valli di Lanzo, Ceronda e Casternone - Bando Spazi Pubblici da RI- CREARE",
-            "description": "La misura contribuisce a migliorare la qualità della vita e l’attrattività complessiva delle aree rurali del territorio GAL, sostenendo la rigenerazione e la creazione di spazi pubblici ricreativi, culturali e sportivi destinati alla comunità locale e ai visitatori. L’obiettivo generale è quello di rafforzare la coesione sociale e la vitalità dei centri rurali, promuovendo luoghi di incontro, benessere e relazione accessibili, sostenibili e di qualità.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-delle-valli-di-lanzo-ceronda-e-casternone-bando-spazi-pubblici-da-ri-creare",
+            "deadline": "2026-09-30",
+            "title": "Marche - Avviso pubblico ‘just in time’ per progetti di miglioramento delle condizioni occupazionali nel contesto delle convenzioni trilaterali",
+            "description": "L’avviso intende sostenere e rafforzare lo strumento delle convenzioni trilaterali (art. 12-bis L. 68/1999), promuovendo l’inserimento lavorativo e il miglioramento delle condizioni occupazionali di persone con disabilità e persone in situazione di svantaggio sociale inserite tramite tali convenzioni. Il supporto pubblico è orientato sia a favorire l’integrazione e la crescita professionale dei lavoratori “fragili” (attraverso tutoraggio specialistico), sia a supportare le cooperative/aziende negli adeguamenti necessari del posto di lavoro e negli ausili utili all’autonomia lavorativa.",
+            "link": "https://www.obiettivoeuropa.com/bandi/marche-avviso-pubblico-just-in-time-per-progetti-di-miglioramento-delle-condizioni-occupazionali-nel-contesto-delle-convenzioni-trilaterali",
             "custom": {
                 "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Diritti e Cittadinanza, Impianti sportivi, Inclusione Sociale e Solidarietà, Rigenerazione Urbana, Ristrutturazione, recupero, riqualificazione, Servizi, Sport, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 584.960"
+                    "Topics": "Acquisto macchinari e/o attrezzature, Diritti e Cittadinanza, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Superamento barriere archietettoniche, Supporto alle imprese",
+                    "Stanziamento": "€ 1.000.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-26",
+            "title": "Fondazione Cariplo – Bando Attenta-mente",
+            "description": "La finalità del bando è consolidare le sperimentazioni più mature e promettenti sostenute con le prime due edizioni del Bando Attenta-mente, favorendone l’evoluzione e la stabilizzazione, affinché possano radicarsi nei territori e nel sistema locale dei servizi, generando impatti duraturi e trasformativi. In linea con le edizioni precedenti, gli obiettivi specifici sono:garantire l’intercettazione quanto più precoce di minori a rischio, con situazioni di malessere emergente o sommerso, affinché non rischino di essere trascurate e quindi di evolvere in diagnosi gravi e patologie croniche;aumentare la capacità degli enti di articolare per e con i minori - a rischio o con disturbi già conclamati - forme di supporto e cura tempestive, ben calibrate e coordinate sul piano educativo, sociale e sanitario, affinché la risposta non sia parziale o frammentata;a partire dalle alleanze sinora sviluppate tra gli attori del terzo settore, del pubblico e della comunità, favorire la costruzione di governance territoriali stabili che consentano di mantenere nel tempo la ricomposizione delle risorse e delle strategie di intervento, potenziando così la capacità di risposta dei territori.In aggiunta, alla luce di quanto emerso dal percorso di monitoraggio rispetto all’importanza di sostenere maggiormente il “mondo adulto”, i progetti dovranno anche:offrire informazione, formazione e supporto agli adulti di riferimento per rafforzare la loro capacità di promuovere benessere e di cogliere tempestivamente i segnali di malessere e di rischio, con una particolare attenzione al sostegno dei genitori più fragili, per accompagnarli a una maggiore consapevolezza delle proprie difficoltà e risorse, e della eventuale necessità di un lavoro sul proprio benessere personale che influenza quello del minore.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariplo-bando-attenta-mente",
+            "custom": {
+                "custom": {
+                    "Topics": "Inclusione Sociale e Solidarietà, Salute e medicina, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 3.500.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-04-30",
+            "title": "Piemonte - Sostegno per la conservazione, l’uso e lo sviluppo sostenibile delle risorse genetiche forestali: promuovere la conservazione ex situ",
+            "description": "La finalità dell’intervento è incrementare la conservazione, l'uso, lo sviluppo e la valorizzazione sostenibile delle risorse genetiche forestali in situ ed ex situ, anche attraverso il sostegno alla produzione di materiali di moltiplicazione di elevata qualità e di origine certificata, ai sensi delle norme europee e nazionali vigenti, valorizzando la collaborazione tra le componenti pubblica e privata della filiera vivaistica.In particolare, attraverso il bando si intendono attivare le operazioni volte a:b) impiantare, ripristinare ed eseguire cure colturali di arboreti di prima generazione finalizzati alla produzione di materiale qualificato;d) sostenere la raccolta, gestione e trattamento dei semi e le prime fasi di produzione di MFM di specie autoctone arboree e arbustive forestali locali, nella filiera vivaistica pubblica forestale, anche in un'ottica di partnership tra soggetti pubblici e privati della filiera;",
+            "link": "https://www.obiettivoeuropa.com/bandi/piemonte-sostegno-per-la-conservazione-luso-e-lo-sviluppo-sostenibile-delle-risorse-genetiche-forestali-promuovere-la-conservazione-ex-situ",
+            "custom": {
+                "custom": {
+                    "Topics": "Acquisto macchinari e/o attrezzature, Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Ristrutturazione, recupero, riqualificazione, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 1.500.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-07-30",
+            "title": "CCIAA Umbria - Bando Voucher Formazione e Orientamento",
+            "description": "Con l’iniziativa “Bando Voucher Formazione e Orientamento – AS 2025-2026” la Camera di Commercio si propone di stimolare i progetti di avvicinamento al mondo del lavoro attraverso il sostegno alle imprese che partecipano attivamente a progetti di potenziamento del raccordo scuola-lavoro.All’interno di tale obiettivo, il Bando si propone di incentivare e supportare la partecipazione delle imprese a percorsi finalizzati allo sviluppo, in contesti di apprendimento “non formali e informali” delle competenze trasversali e per l’orientamento (PCTO), con particolare ma non esclusivo riferimento ai percorsi che portino gli studenti ad ottenere una certificazione di parte terza rilasciata dalla Camera di Commercio.",
+            "link": "https://www.obiettivoeuropa.com/bandi/cciaa-umbria-bando-voucher-formazione-e-orientamento",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Supporto alle imprese",
+                    "Stanziamento": "€ 45.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-13",
+            "title": "Fondazione Unicredit - Marco Fanno Phd Research Grant",
+            "description": "L'Associazione Marco Fanno, con il supporto cooperativo di UniCredit Foundation, bandisce un concorso per titoli per l'assegnazione di due borse di dottorato di ricerca in economia e finanza in memoria di Marco Fanno, da destinare a due dipartimenti di economia o finanza di prim'ordine di università italiane (sia statali che private).L'obiettivo principale di queste borse di ricerca è quello di valorizzare i programmi di dottorato delle università italiane e renderli più competitivi a livello internazionale, aumentando i fondi di ricerca a disposizione dei dottorandi. Le borse possono essere utilizzate a discrezione dei dipartimenti vincitori con l'obiettivo di migliorare la qualità del corso di dottorato. I dipartimenti vincitori possono quindi decidere di utilizzare le borse per integrare e completare le borse di dottorato esistenti, sostenere l'attività di ricerca e organizzare workshop o conferenze dei propri dottorandi, finanziare la loro partecipazione a workshop o conferenze o periodi di visita all'estero.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-unicredit-marco-fanno-phd-research-grant",
+            "custom": {
+                "custom": {
+                    "Topics": "Educazione e istruzione, Formazione e lavoro, Ricerca Scientifica",
+                    "Stanziamento": "N/A"
                 }
             }
         }
