@@ -1,6 +1,42 @@
 {
-    "scraping_timestamp": "2025-12-31 06:52:25",
+    "scraping_timestamp": "2026-01-01 08:58:40",
     "data": [
+        {
+            "deadline": "2026-01-30",
+            "title": "PROCEDURA COMPARATIVA PER L’AFFIDAMENTO DELL’INCARICO DI PERITO DEMANIALE PER LE OPERAZIONI DI VERIFICA DEMANIALE E PROPOSTA DI SISTEMAZIONE RELATIVA ALLE ZONE DENOMINATE MURGIA DELLA CITTA’",
+            "description": "<p><span style=\"font-size: 12.0pt; line-height: 112%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">PROCEDURA COMPARATIVA PER L’AFFIDAMENTO DELL’INCARICO DI PERITO DEMANIALE PER LE OPERAZIONI DI VERIFICA DEMANIALE E PROPOSTA DI SISTEMAZIONE RELATIVA ALLE ZONE DENOMINATE MURGIA DELLA CITTA’</span></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ae3c7577c96a4d3e9466eb07e7efea65",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-10",
+            "title": "Avviso di selezione pubblica per il conferimento di incarichi di collaborazione autonoma per vari profili -Progetto Azioni formative e Azione di internazionalizzazione",
+            "description": "<p>Selezione pubblica mediante procedura comparativa <u>per solo colloquio</u> per il conferimento di incarichi di collaborazione autonoma per vari profili a supporto del Progetto “Azioni formative per il personale scolastico FSE + Sicilia 2021-27” nell’ambito della Convenzione per lo svolgimento delle funzioni di Organismo Intermedio del PR FSE+ 2021/2027” Priorità “Assistenza Tecnica” intervento “Preparazione, attuazione, sorveglianza e controllo” per le attività afferenti la Linea C: Assistenza Tecnica, e Progetto “Azione di internazionalizzazione dei sistemi educativi – FSE+ Sicilia 2021 – 2027” nell’ambito della Convenzione per lo svolgimento delle funzioni di Organismo Intermedio del PR FSE+ 2021/2027” - Priorità “Assistenza Tecnica” intervento “Informazione e comunicazione” del PR FSE+ Sicilia per le attività di cui alla Linea B: Azione di promozione e Comunicazione - Priorità “Assistenza Tecnica” intervento “Preparazione, attuazione, sorveglianza e controllo” per le attività afferenti la Linea C: Assistenza Tecnica CUP G71C25000100006 (Cod. SEL 19/2025).</p>\n<p><strong>Per maggiori dettagli sui requisiti di ammissione, compenso e giornate lavorative si invita a leggere con attenzione l'avviso di selezione e relativi allegati 1 e 2</strong></p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=116748dffef74442bbbf662aefd0cf5b",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-01-15",
+            "title": "AVVISO DI SELEZIONE, PER TITOLI , RISERVATA AL PERSONALE IN SERVIZIO PRESSO IL COMUNE DI VAL DELLA TORRE , PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL'ART. 52, COMMA 1-BIS, PENULTIMO PERIODO DEL D.LGS. 165/2001 E ART. 13 COMMI 6, 7, 8 DEL C.C.N.L. FUNZIONI LOCALI DEL 16/11/2022, PER LA COPERTURA DI 1 POSTO DA AREA DEGLI OPERATORI ESPERTI AD AREA ISTRUTTORI AMMINISTRATIVI.",
+            "description": "<p>Avviso di selezione, per titoli, riservata al personale in servizio presso il Comune di Val della Torre, per la progressione tra le aree, ai sensi dell'art. 52, comma 1-bis, penultimo periodo del D.Lgs. 165/2001 e art. 13 commi 6, 7,8 del C.C.N.L. Funzioni Locali del 16/11/2022, per la copertura di 1 posto da area degli operatori esperti ad Area Istruttori Amministrativi.</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa0fd86af54d466ea318360e06f0dcde",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2026-01-14",
             "title": "COMUNE DI MINERVINO MURGE - AVVISO PUBBLICO DI SELEZIONE COMPARATIVA EX ART. 110, COMMA 1, DEL TUEL PER IL CONFERIMENTO DI N. 1 INCARICO A TEMPO DETERMINATO DI FUNZIONARIO TECNICO CUI CONFERIRE LA RESPONSABILITA’ DEL SETTORE V° URBANISTICA (AREA DEI FUNZIONARI E DELL’ELEVATA QUALIFICAZIONE-EX CAT.D).",
@@ -434,18 +470,6 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "AVVISO PUBBLICO DI SELEZIONE PER IL CONFERIMENTO DI UN INCARICO NELL'AMBITO DEL PROGETTO DAL TITOLO “GRETHA\" per una prestazione di lavoro autonomo avente ad oggetto la seguente attività di supporto all’attività di ricerca dal titolo: “Integrazione e ottimizzazione dei modelli numerici per il sistema Power-to-Power a idrogeno installato presso UNIVPM”",
-            "description": "<p><span style=\"font-size: 11.0pt;\">L’attività, con incarico assegnato dal DIISM, sarà svolta in forma autonoma e consisterà nelle seguenti fasi: </span><strong><span style=\"font-size: 11.0pt;\">Sviluppo e integrazione dei modelli numerici</span></strong><strong><span style=\"font-size: 11.0pt;\">,</span></strong><span style=\"font-size: 11.0pt;\"> in ambiente Python, delle singole tecnologie di produzione, stoccaggio e utilizzo dell’idrogeno presenti nel laboratorio idrogeno UNIVPM. </span><strong><span style=\"font-size: 11.0pt;\">Costruzione del modello integrato del sistema Power-to-Power</span></strong><strong><span style=\"font-size: 11.0pt;\"> </span></strong><span style=\"font-size: 11.0pt;\">e sua<strong> <strong>ottimizzazione</strong></strong>, attraverso la combinazione dei modelli numerici delle tecnologie presenti nel laboratorio idrogeno UNIVPM -&nbsp; <span style=\"font-size: 11.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-fareast-theme-font: minor-fareast; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;\">CUP F69J22001890004 - Responsabile scientifico prof. Gabriele Comodi&nbsp;</span></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3cb756ab93e34b0dae9fb2828ed69a77",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-01-07",
             "title": "Procedura selettiva-comparativa, per soli titoli, finalizzata alla formazione di una graduatoria di merito per l’individuazione di esperti per l’insegnamento nei corsi di diploma accademico di I e II livello – aa.aa. 2025/2026 e 2026/2027 - Settore artistico-disciplinare: AFAM025 – Strumenti a fiato storici - Clarinetto storico (ex COMA/06)",
             "description": "<p>Procedura selettiva-comparativa, per soli titoli, finalizzata alla formazione di una graduatoria di merito per l’individuazione di esperti per l’insegnamento nei corsi di diploma accademico di I e II livello – aa.aa. 2025/2026 e 2026/2027 - Settore artistico-disciplinare: AFAM025 – Strumenti a fiato storici - Clarinetto storico (ex COMA/06)</p>",
@@ -650,18 +674,6 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "Riapertura termini Avviso pubblico per formulazione graduatoria biennale per conferimento incarichi di lavoro autonomo - ai sensi dell’art. 7, co. 6 del D. Lgs. 165/2001 e dell’art. 4 commi 4 e 6 del D.L. n. 215/2023 convertito nella L. 18/2024 - con contratto libero professionale, a Dirigenti Medici, nelle sole discipline di: Pediatria, Ginecologia e Ostetricia",
-            "description": "<p>Si comunica che è&nbsp;stata disposta&nbsp;<strong>la</strong>&nbsp;<strong>riapertura dei termini</strong>&nbsp;dell’avviso pubblico, approvato con deliberazione n. 1449 del 24/10/2024, per la formulazione di una graduatoria biennale per il conferimento di incarichi di lavoro autonomo - ai sensi dell’art. 7, co. 6 del D. Lgs. 165/2001 e dell’art. 4 commi 4 e 6 del D.L. n. 215/2023 convertito nella L. 18/2024 - con contratto libero professionale a Dirigenti Medici <strong>nelle sole discipline di: Pediatria</strong>&nbsp;e<strong> Ginecologia e Ostetricia</strong>.</p>\n<p><strong>Le candidature potranno essere presentate da giovedì 18 dicembre 2025 e fino alle ore 23:59 di mercoledì 31 dicembre 2025.</strong></p>\n<p>Si ricorda che quanto dichiarato in fase di compilazione della domanda costituisce AUTODICHIARAZIONE E AUTOCERTIFICAZIONE ai sensi del D.P.R. 445/2000.</p>\n<p>Pertanto in caso di dichiarazioni non veritiere, false o mendaci si applicano gli artt. 75 e 76 del D.P.R. con conseguenze penali nei casi previsti dalla legge.</p>\n<p>Il bando è consultabile su inPA e sul sito&nbsp;<a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a>, piattaforma tramite la quale è possibile partecipare al concorso registrandosi, con i propri dati anagrafici, selezionando la procedura d’interesse e compilando, in ogni sua parte, il format online.</p>\n<p>Si invitano, altresì, i candidati che vogliano integrare o/e modificare e/o aggiornare la propria istanza di partecipazione ad utilizzare ESCLUSIVAMENTE il seguente link https://asptrapani.selezionieconcorsi.it/ e selezionare l’avviso nella disciplina di interesse. In caso contrario, sono fatte salve le istanze già presentate utilizzando il precedente format.&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=b6dc063c8c9b4a22a1edb22632580be6",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2035-12-16",
             "title": "FORMULAZIONE DI UN ELENCO DI INFERMIERI, IN LIBERA PROFESSIONE, DA INCARICARSI A SVOLGERE LA PROPRIA ATTIVITÀ PROFESSIONALE PRESSO I SERVIZI RESIDENZIALI E SIMIRESIDENZIALI PER ANZIANI NON AUTOSUFFICIENTI DELL’AZIENDA ASP COMUNI MODENESI AREA NORD",
             "description": "<p><span style=\"font-size: 11.0pt; line-height: 115%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Calibri; mso-fareast-language: EN-US;\">AVVISO PER LA FORMULAZIONE DI UN ELENCO DI INFERMIERI, IN LIBERA PROFESSIONE, DA INCARICARSI A SVOLGERE LA PROPRIA ATTIVITÀ PROFESSIONALE PRESSO I SERVIZI RESIDENZIALI E SIMIRESIDENZIALI PER ANZIANI NON AUTOSUFFICIENTI DELL’AZIENDA ASP COMUNI MODENESI AREA NORD</span></p>",
@@ -714,30 +726,6 @@
             "title": "Avviso per l’iscrizione all’albo dei componenti delle commissioni esaminatrici di concorsi pubblici e selezioni, indetti dall’Amministrazione regionale della Regione Autonoma della Sardegna, rivolto ai dirigenti delle amministrazioni pubbliche di cui all'art. 1, comma 2, del D. lgs. 165/2001, esterni al Sistema Regione, professionisti ed esperti nelle materie oggetto delle distinte sezioni dell'albo",
             "description": "<p><strong><span style=\"font-size: 13.0pt; font-family: 'Calibri',sans-serif; mso-fareast-font-family: Calibri; color: black;\">Avviso per l’iscrizione all’albo dei componenti delle commissioni esaminatrici di concorsi pubblici e selezioni, indetti dall’Amministrazione regionale della Regione Autonoma della Sardegna, rivolto ai dirigenti delle amministrazioni pubbliche di cui all'art. 1, comma 2, del D. lgs. 165/2001, esterni al Sistema Regione, professionisti ed esperti nelle materie oggetto delle distinte sezioni dell'albo</span></strong></p>",
             "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=d2a41fe0950c43bfaa6813f9d53d1779",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "COMUNE DI SARONNO AVVISO PUBBLICO PER AFFIDAMENTO DI INCARICO PROFESSIONALE DI ADDETTO STAMPA",
-            "description": "<p><strong>IL SEGRETARIO GENERALE</strong></p>\n<p>VISTA la legge 07.06.2000 n. 150 “Disciplina delle attività di informazione e di comunicazione delle pubbliche amministrazioni”;</p>\n<p>VISTO il DPR 21.09.2001 n. 422 “Regolamento recante norme per l’individuazione dei titoli professionali del personale da utilizzare presso le Pubbliche Amministrazioni per le attività di informazione e di comunicazione e disciplina degli interventi formativi”;</p>\n<p>Vista la determinazione n. 1454 del 16.12.2025 avente ad oggetto “Approvazione Avviso Pubblico per affidamento di incarico professionale di Addetto Stampa”;</p>\n<p>Visto il Regolamento comunale sull’Ordinamento degli Uffici e dei Servizi;</p>\n<p>RENDE NOTO</p>\n<p>Che la Città di Saronno intende procedere all’affidamento dell’incarico professionale per le funzioni di Addetto Stampa;</p>\n<p>L’incarico avrà per oggetto una prestazione di lavoro autonomo, ex art. 2222 e ss c.c., da svolgersi nel rispetto delle direttive ed indirizzi dell’Amministrazione comunale.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=36f631ef8c5a47eaafdccf3dd3f8a06f",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "CONFERIMENTO DI N.1 INCARICO DI COLLABORAZIONE NELL’UFFICIO DI STAFF DEL SINDACO AI SENSI DELL’ART. 90 DEL D.LGS. N. 267/2000",
-            "description": "<p><span style=\"font-size: 14.0pt;\">Il COMUNE DI BIANCO</span> intende provvedere al conferimento, ai sensi dell’art. 90 del d.lgs. n. 267/2000 (TUEL) e art 7/bis, del vigente Regolamento Uffici e servizi dell’Ente, di<span style=\"mso-spacerun: yes;\">&nbsp; </span>assunzione all’impiego presso il Comune di Bianco, di n.1 incarico di collaborazione nell'ufficio di staff del Sindaco part time 18 ore settimanali.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fe464d83fdad43d5ae317e4373863ee3",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -806,18 +794,6 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTE ESPERTO ESTERNO DELLA COMMISSIONE ESAMINATRICE PER L’AVVISO PUBBLICO DI SELEZIONE PER MOBILITÀ ESTERNA VOLONTARIA, AI SENSI DELL'ARTICOLO 30, DEL D. LGS. N. 165/2001 E SS.MM.II., PER LA COPERTURA, A TEMPO PIENO ED INDETERMINATO DI 1 UNITÀ DA INQUADRARE NELL'AREA DEI FUNZIONARI ED E.Q., CON IL PROFILO PROFESSIONALE DI FUNZIONARIO AMMINISTRATIVO/CONTABILE",
-            "description": "<p><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri;\">MANIFESTAZIONE DI INTERESSE A RICOPRIRE L’INCARICO DI COMPONENTE ESPERTO ESTERNO DELLA COMMISSIONE ESAMINATRICE PER </span><span style=\"font-size: 12.0pt; line-height: 115%; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri;\">L’AVVISO PUBBLICO DI SELEZIONE PER MOBILITÀ ESTERNA VOLONTARIA, AI SENSI DELL'ARTICOLO 30, DEL D. LGS. N. 165/2001 E SS.MM.II., PER LA COPERTURA, A TEMPO PIENO ED INDETERMINATO DI 1 UNITÀ DA INQUADRARE NELL'AREA DEI FUNZIONARI ED E.Q., CON IL PROFILO PROFESSIONALE DI FUNZIONARIO <span style=\"color: black;\">AMMINISTRATIVO/CONTABILE</span></span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4a4d92335c3e453a9d61188f93ada74d",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-01-12",
             "title": "Bando di selezione pubblica per l'assunzione a tempo indeterminato di n 1 Cuoco Responsabile di Cucina",
             "description": "<p>Bando di selezione pubblica per titoli e colloquio per l'assunzione a tempo determinato di n 1 responsabile cucina presso la RSA - Casa di Riposo per Anziani di Tignale - Azienda Speciale Tignale Servizi \"Manlio Bonincontri\". E' indetta una selezione pubblica per titoli e colloquio finalizzata alla formazione di una graduatoria. Il posto è inquadrato nella Posizione economica AREA DEGLI ISTRUTTORI del vigente CCNL Enti Locali, con profilo professionale di riferimento \"cuoco responsabile di cucina\" o equivalente.</p>",
@@ -878,34 +854,10 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA NOMINA DELL'ORGANISMO INDIPENDENTE DEL CONTROLLO DI GESTIONE IN COMPOSIZIONE COLLEGIALE DEL COMUNE DI SESSA AURUNCA PER IL TRIENNIO 2026/2028.",
-            "description": "<p>PROCEDURA SELETTIVA PUBBLICA PER L'ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA NOMINA DELL'ORGANISMO INDIPENDENTE DEL CONTROLLO DI GESTIONE IN COMPOSIZIONE COLLEGIALE DEL COMUNE DI SESSA AURUNCA PER IL TRIENNIO 2026/2028.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=185d6051083946fa88bbc59afe60d446",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2028-11-24",
             "title": "Avviso di manifestazione di interesse per la costituzione di un Elenco di esperti nel campo della gestione e progettazione evolutiva di progetti Europei",
             "description": "<p>E' indetta una procedura per istituire un Elenco di operatori esperti e di comprovata esperienza, anche universitaria, nel campo della gestione e progettazione evolutiva di progetti Europei, secondo gli elementi di seguito precisati ed indicati. L’Elenco è aperto a tutti gli operatori interessati ad instaurare rapporti contrattuali con il Comune di Viareggio, per le categorie definite nel presente documento. Sono individuate quattro differenti sezioni secondo le seguenti macro categorie tematiche:\n <br>\n 1. Nuovo Bauhaus Europeo (NEB)- Rigenerazione e riqualificazione urbana - Green Deal Europeo, Mobilità;\n <br>\n 2. Energia ed economia circolare; biodiversità, tutela delle risorse e del clima;\n <br>\n 3. Turismo sostenibile, sviluppo economico locale e competitività;\n <br>\n 4. Creazioni e creatività urbane e identità territoriale</p>",
             "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=4dacf03c839e4a0589e9eeae07424d42",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "RIAPERTURA TERMINI Avviso Pubblico per soli titoli, per la formulazione di una graduatoria biennale, per il conferimento di incarichi di lavoro autonomo – ai sensi dell’art.7 co.6 del D. Lgs. n.165/01 e ai sensi dell’art.4, commi 4 e 6, del D.L. Milleproroghe, convertito nella L.18/24 – a Dirigenti medici nella per la disciplina di Anatomia Patologica",
-            "description": "<p>Si comunica che è<span style=\"letter-spacing: 1.55pt;\"> </span>stata disposta <strong>la</strong> <strong>riapertura dei termini</strong><span style=\"mso-bidi-font-weight: bold;\"> di presentazione delle candidature dell’avviso approvato con deliberazione n. 1684 del 06/12/2024, per la sola disciplina di </span><strong>Anatomia Patologica</strong><span style=\"mso-bidi-font-weight: bold;\">, per la formulazione di una graduatoria biennale da utilizzare per il conferimento di incarichi di lavoro autonomo </span>ai sensi dell’art. 7, co. 6 del D. Lgs. 165/2001 e dell’art. 4 commi 4 e 6 del D.L. n. 215/2023 convertito nella L. 18/2024<span style=\"mso-bidi-font-weight: bold;\">.</span><strong><span style=\"mso-bidi-font-size: 12.0pt; color: black;\">&nbsp;</span></strong></p>\n<p><strong><span style=\"color: black; mso-color-alt: windowtext;\">Le candidature potranno essere presentate da sabato 22 novembre 2025 e fino alle ore 23:59 di mercoledì 31 dicembre 2025.</span></strong><span style=\"mso-bidi-font-size: 12.0pt; color: black;\">&nbsp;</span></p>\n<p><span style=\"mso-bidi-font-size: 12.0pt; color: black;\">Si ricorda che quanto dichiarato in fase di compilazione della domanda costituisce AUTODICHIARAZIONE E AUTOCERTIFICAZIONE ai sensi del D.P.R. 445/2000. </span></p>\n<p><span style=\"mso-bidi-font-size: 12.0pt; color: black;\">Pertanto, in caso di dichiarazioni non veritiere, false o mendaci si applicano gli artt. 75 e 76 del D.P.R. con conseguenze penali nei casi previsti dalla legge.</span></p>\n<p><span style=\"mso-bidi-font-size: 12.0pt; color: black;\">Il bando è consultabile sul sito&nbsp;<a href=\"https://asptrapani.selezionieconcorsi.it/\">https://asptrapani.selezionieconcorsi.it/</a>, piattaforma tramite la quale è possibile partecipare al concorso registrandosi, con i propri dati anagrafici, selezionando la procedura d’interesse e compilando, in ogni sua parte, il format online. </span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=7187a282897e43a6a6c21490cf504197",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -950,46 +902,10 @@
             }
         },
         {
-            "deadline": "2025-12-31",
-            "title": "UNIVERSITA' DEGLI STUDI DI MILANO-BICOCCA / AVVISO AI DIPENDENTI TECNICI DI ALTRE PUBBLICHE AMMINISTRAZIONI PER INCARICO DI COLLAUDATORE",
-            "description": "<p><strong>AVVISO AI DIPENDENTI TECNICI DI ALTRE PUBBLICHE AMMINISTRAZIONI PER L'INDIVIDUAZIONE DEI SOGGETTI A CUI AFFIDARE L'INCARICO DI COLLAUDATORE TECNICO-AMMINISTRATIVO, COLLAUDATORE TECNICO-FUNZIONALE E COLLAUDATORE STATICO</strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bc262e5c1f1e45a98d097233f5e9a029",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "Avviso pubblico manifestazione di interesse iscrizione roster nazionale controllori di primo livello programmi Interreg 2021-2027- Codice FLC_01 - Candidatura per controllore individuale",
-            "description": "<p>Avviso pubblico manifestazione di interesse iscrizione roster nazionale controllori di primo livello (liberi professionisti)&nbsp;dei Programmi Interreg 2021-2027- Codice FLC_01 - Candidatura per controllore individuale&nbsp;</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=af6fdeb3c972410aa8ced76ef05d742c",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2099-12-30",
             "title": "AVVISO DI SELEZIONE PUBBLICA PER SOLI TITOLI AI FINI DELLA COSTITUZIONE DELL’ “ALBO DEI RILEVATORI STATISTICI” UTILE AL CONFERIMENTO DI INCARICHI PROFESSIONALI PER INDAGINI STATISTICHE E PER IL CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI, SVOLTE DAL COMUNE DI PIACENZA PER CONTO DELL’ISTAT.",
             "description": "<p>Avviso Pubblico&nbsp; Per la Costituzione dell’Albo Permanente&nbsp; dei Rilevatori Statistici</p>",
             "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3d170dff9beb408db715ff876be20524",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2025-12-31",
-            "title": "AVVISO DI SELEZIONE PUBBLICA APERTA PER LA FORMAZIONE DI UN ELENCO DI PROFESSIONISTI PER IL CONFERIMENTO DI UN INCARICO DI FARMACISTA",
-            "description": "<p>AVVISO DI SELEZIONE PUBBLICA APERTA PER LA FORMAZIONE DI UN ELENCO DI PROFESSIONISTI PER IL CONFERIMENTO DI UN INCARICO DI FARMACISTA</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=bbd684a03f644d5a862222acc56d0a82",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
