@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-01 08:58:57",
+    "scraping_timestamp": "2026-01-03 06:31:39",
     "data": [
         {
             "deadline": "Invalid Date",
@@ -47,18 +47,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€3,800"
-            }
-        },
-        {
-            "deadline": "2026-01-02",
-            "title": "Global Media Defence Fund 2025",
-            "description": "UNESCO",
-            "link": "https://gfmd.info/fundings/global-media-defence-fund-gmdf-2025/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "USD 15,000 to USD 50,000."
             }
         },
         {

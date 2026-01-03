@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2026-01-01 08:59:13",
+    "scraping_timestamp": "2026-01-03 06:31:56",
     "data": [
+        {
+            "deadline": "N/A",
+            "title": "RiSC - Richiesta Somme urgenze Comunali",
+            "description": "N/A",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/risc-richiesta-somme-urgenze-comunali-RLY12025051163",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "N/A",
             "title": "Servizi Integrativi -  Prov. Como",
@@ -3054,18 +3066,6 @@
             "title": "Avviso per l'accesso al Fondo di Garanzia per le imprese che operano nel campo dello spettacolo",
             "description": "Il Fondo di Garanzia, istituito dall'art.6 della legge regionale del 30 luglio 2008 n. 21, è finalizzato a favorire l'accesso al credito delle imprese che operano nel settore dello spettacolo. E' gestito da Finlombarda S.p.A. che interviene mediante la concessione di garanzie a fronte di finanziamenti erogati dagli Istituti di credito aderenti",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/avviso-l-accesso-fondo-garanzia-imprese-che-operano-campo-spettacolo-RLL12020011887",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "RiSC - Richiesta Somme urgenze Comunali",
-            "description": "N/A",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/eventi-calamitosi/risc-richiesta-somme-urgenze-comunali-RLY12025051163",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

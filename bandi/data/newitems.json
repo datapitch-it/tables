@@ -1,53 +1,39 @@
 {
-    "scraping_timestamp": "2026-01-01 09:02:08",
+    "scraping_timestamp": "2026-01-03 06:35:20",
     "data": [
+        {
+            "deadline": "2025-12-10",
+            "title": "Cultura Cresce",
+            "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2021-05-19",
+            "title": "ON - Oltre Nuove imprese a tasso zero",
+            "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
         {
             "deadline": "N/A",
             "title": "Imprenditoria femminile",
             "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-le-imprese/incentivi",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2024-07-01",
-            "title": "Laboratorio per l'Imprenditorialità",
-            "description": "La sfida che coinvolge gli studenti universitari per far emergere le migliori idee innovative d’Impresa",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/laboratorio-limprenditorialita",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2021-09-22",
-            "title": "Tessile, Moda e Accessori - Edizione 2021",
-            "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2025-05-06",
-            "title": "Imprese Borghi",
-            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -59,9 +45,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "Legge 181",
-            "description": "L’incentivo per rilanciare le aree di crisi industriale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/legge-181",
+            "title": "Smart&Start Italia",
+            "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -72,10 +58,10 @@
             }
         },
         {
-            "deadline": "N/A",
-            "title": "Contratto di sviluppo",
-            "description": "Per i grandi investimenti nei settori industriale, agroindustriale, turistico e della tutela ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/contratto-di-sviluppo",
+            "deadline": "2017-11-07",
+            "title": "Italia Economia Sociale",
+            "description": "La misura finanzia investimenti ad alto impatto sociale e culturale sostenibili sul piano ambientale",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/italia-economia-sociale?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -86,10 +72,52 @@
             }
         },
         {
-            "deadline": "N/A",
-            "title": "Rilanciamo le aree di crisi industriale",
-            "description": "Sosteniamo i territori in difficoltà economica con incentivi alle Imprese e all’occupazione per il rilancio delle aree di crisi industriale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/rilanciamo-le-aree-di-crisi-industriale",
+            "deadline": "2022-06-07",
+            "title": "Fondo impresa femminile",
+            "description": "L’incentivo per le imprese guidate da donne",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-10-14",
+            "title": "Resto al Sud",
+            "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2024-10-31",
+            "title": "Giovani diplomati",
+            "description": "È l’incentivo per i contratti di apprendistato nell'enogastronomia e nell’ospitalità alberghiera",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati?from=/per-le-imprese/incentivi",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "Italia",
+                    "Tipologia Scadenza": "Singola",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-09-15",
+            "title": "Accedere",
+            "description": "Il Programma per l’ingresso dei soggetti svantaggiati nel mercato del lavoro",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -103,7 +131,7 @@
             "deadline": "2022-07-25",
             "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
             "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -114,24 +142,10 @@
             }
         },
         {
-            "deadline": "2023-10-18",
-            "title": "Investimenti sostenibili 4.0 - PN RIC 21-27",
-            "description": "È l’incentivo a sostegno di nuovi investimenti imprenditoriali innovativi e sostenibili",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-sostenibili-40-pn-ric-21-27",
-            "custom": {
-                "custom": {
-                    "Topics": "N/A",
-                    "Area Classification": "Italia",
-                    "Tipologia Scadenza": "Singola",
-                    "Stanziamento": "N/A"
-                }
-            }
-        },
-        {
-            "deadline": "2017-04-11",
-            "title": "Agevolazioni per le imprese confiscate o sequestrate alla criminalità",
-            "description": "Finanziamenti a tasso zero per le imprese confiscate o sequestrate alla criminalità organizzata",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/agevolazioni-le-imprese-confiscate-o-sequestrate-alla-criminalita",
+            "deadline": "2022-11-23",
+            "title": "Confidi",
+            "description": "Garanzie agevolate e finanziamenti agevolati da parte dei confidi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -145,7 +159,7 @@
             "deadline": "2023-07-03",
             "title": "Bravo Innovation Hub",
             "description": "L'acceleratore per le Imprese italiane più innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/bravo-innovation-hub?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/bravo-innovation-hub",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -156,10 +170,10 @@
             }
         },
         {
-            "deadline": "2023-07-12",
-            "title": "TOCC Digitale ed Ecologica",
-            "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-le-imprese/incentivi",
+            "deadline": "2023-09-30",
+            "title": "Fondo per i prodotti del commercio equo e solidale",
+            "description": "Per le imprese che hanno fornito prodotti da commercio equo e solidale nelle gare d’appalto della PA",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-i-prodotti-del-commercio-equo-e-solidale?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -170,10 +184,10 @@
             }
         },
         {
-            "deadline": "2023-06-15",
-            "title": "SELFIEmployment",
-            "description": "Prestiti a tasso zero per giovani, donne e disoccupati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/selfiemployment?from=/per-chi-vuole-fare-impresa/incentivi",
+            "deadline": "2025-05-06",
+            "title": "Imprese Borghi",
+            "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-le-imprese/incentivi",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -184,10 +198,10 @@
             }
         },
         {
-            "deadline": "2026-01-30",
-            "title": "PROCEDURA COMPARATIVA PER L’AFFIDAMENTO DELL’INCARICO DI PERITO DEMANIALE PER LE OPERAZIONI DI VERIFICA DEMANIALE E PROPOSTA DI SISTEMAZIONE RELATIVA ALLE ZONE DENOMINATE MURGIA DELLA CITTA’",
-            "description": "<p><span style=\"font-size: 12.0pt; line-height: 112%; font-family: 'Calibri',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-latin; color: black; mso-ansi-language: IT; mso-fareast-language: IT; mso-bidi-language: AR-SA;\">PROCEDURA COMPARATIVA PER L’AFFIDAMENTO DELL’INCARICO DI PERITO DEMANIALE PER LE OPERAZIONI DI VERIFICA DEMANIALE E PROPOSTA DI SISTEMAZIONE RELATIVA ALLE ZONE DENOMINATE MURGIA DELLA CITTA’</span></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=ae3c7577c96a4d3e9466eb07e7efea65",
+            "deadline": "2022-12-31",
+            "title": "Fondo Aree Interne - Comune di Villa Latina - Anno 2022",
+            "description": "Cos'è Il presente Avviso in attuazione del \"Fondo di sostegno alle attività economiche dei comuni delle aree interne\" è finalizzato al sostegno del sistema economico, commerciale e artigianale del Comune di Villa Latina.  A chi si rivolge Il bando è rivolto alle piccole e micro imprese che svolgono la propria attività attraverso la presenza di un'unità operativa ubicata nel territorio del Comune di Villa Latina.  Cosa prevede Il presente Avviso prevede l'erogazione di un contributo a fondo perduto per le spese di gestione e di investimento affrontate nel corso del 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-villa-latina-anno-2022",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -198,10 +212,10 @@
             }
         },
         {
-            "deadline": "2026-01-10",
-            "title": "Avviso di selezione pubblica per il conferimento di incarichi di collaborazione autonoma per vari profili -Progetto Azioni formative e Azione di internazionalizzazione",
-            "description": "<p>Selezione pubblica mediante procedura comparativa <u>per solo colloquio</u> per il conferimento di incarichi di collaborazione autonoma per vari profili a supporto del Progetto “Azioni formative per il personale scolastico FSE + Sicilia 2021-27” nell’ambito della Convenzione per lo svolgimento delle funzioni di Organismo Intermedio del PR FSE+ 2021/2027” Priorità “Assistenza Tecnica” intervento “Preparazione, attuazione, sorveglianza e controllo” per le attività afferenti la Linea C: Assistenza Tecnica, e Progetto “Azione di internazionalizzazione dei sistemi educativi – FSE+ Sicilia 2021 – 2027” nell’ambito della Convenzione per lo svolgimento delle funzioni di Organismo Intermedio del PR FSE+ 2021/2027” - Priorità “Assistenza Tecnica” intervento “Informazione e comunicazione” del PR FSE+ Sicilia per le attività di cui alla Linea B: Azione di promozione e Comunicazione - Priorità “Assistenza Tecnica” intervento “Preparazione, attuazione, sorveglianza e controllo” per le attività afferenti la Linea C: Assistenza Tecnica CUP G71C25000100006 (Cod. SEL 19/2025).</p>\n<p><strong>Per maggiori dettagli sui requisiti di ammissione, compenso e giornate lavorative si invita a leggere con attenzione l'avviso di selezione e relativi allegati 1 e 2</strong></p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=116748dffef74442bbbf662aefd0cf5b",
+            "deadline": "2026-05-07",
+            "title": "Bando per il sostegno agli investimenti delle comunità energetiche rinnovabili - Regione Emilia Romagna - 2025",
+            "description": "Cos'è Il bando intende dare attuazione all’Azione 2.2.3 “Sostegno allo sviluppo di comunità energetiche” prevista dal PR FESR Emilia-Romagna 2021-27. Con il bando si intende favorire lo sviluppo di Comunità Energetiche Rinnovabili, in coerenza con la L. R. 5/2022, attraverso la concessione di contributi economici che contribuiscono a coprire i costi per l’installazione degli impianti di produzione e accumulo dell’energia a servizio delle comunità energetiche stesse.  A chi si rivolge Imprese, Cooperative, Enti pubblici Possono presentare domanda di contributo: • le Comunità Energetiche Rinnovabili (CER), costituite in conformità con la Dir. 2018/2001/UE e con le norme nazionali di recepimento della stessa (D. Lgs. 199/2021, il DM 414/2023 e il D. Dir. MASE 22/2024 ss.mm.ii);• i singoli membri delle Comunità Energetiche Rinnovabili di cui al precedente punto che al momento della domanda facciano parte di una CER già costituita.  Il soggetto che presenta la domanda di contributo deve essere il medesimo soggetto che sostiene l’investimento per la realizzazione dell’impianto/potenziamento di impianto per il quale viene richiesto il contributo. Non possono presentare domanda di contributo le persone fisiche. Non possono partecipare al Bando le imprese operanti nel settore della produzione primaria di prodotti agricoli, nonché nei settori della pesca e dell’acquacoltura, ai sensi dell’articolo 1, paragrafo 3, del Regolamento (UE) n. 651/2014 e s.m.i. nonché gli istituti di credito e altri istituti finanziari.  Cosa prevede Sono ammissibili a finanziamento, a valere sul presente Bando gli interventi di nuova costruzione o potenziamento di uno o più impianti/UP di produzione di energia da fonti rinnovabili a servizio di Comunità Energetiche Rinnovabili (CER) conformi alla Dir. 2018/2001/UE e alle successive disposizioni nazionali di recepimento, di proprietà della CER o di uno dei suoi membri. L’impianto deve essere a servizio di una Comunità energetica rinnovabile. Pertanto, se il richiedente è un membro della CER, al momento della domanda di contributo egli deve presentare documentazione idonea a dimostrare la disponibilità di energia eccedente per la condivisione nella CER. Contributo massimo concedibile 150.000,00 € ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/bando-il-sostegno-agli-investimenti-delle-comunita-energetiche-rinnovabili-regione-emilia",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -212,10 +226,10 @@
             }
         },
         {
-            "deadline": "2026-01-15",
-            "title": "AVVISO DI SELEZIONE, PER TITOLI , RISERVATA AL PERSONALE IN SERVIZIO PRESSO IL COMUNE DI VAL DELLA TORRE , PER LA PROGRESSIONE TRA LE AREE, AI SENSI DELL'ART. 52, COMMA 1-BIS, PENULTIMO PERIODO DEL D.LGS. 165/2001 E ART. 13 COMMI 6, 7, 8 DEL C.C.N.L. FUNZIONI LOCALI DEL 16/11/2022, PER LA COPERTURA DI 1 POSTO DA AREA DEGLI OPERATORI ESPERTI AD AREA ISTRUTTORI AMMINISTRATIVI.",
-            "description": "<p>Avviso di selezione, per titoli, riservata al personale in servizio presso il Comune di Val della Torre, per la progressione tra le aree, ai sensi dell'art. 52, comma 1-bis, penultimo periodo del D.Lgs. 165/2001 e art. 13 commi 6, 7,8 del C.C.N.L. Funzioni Locali del 16/11/2022, per la copertura di 1 posto da area degli operatori esperti ad Area Istruttori Amministrativi.</p>",
-            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=fa0fd86af54d466ea318360e06f0dcde",
+            "deadline": "2025-12-17",
+            "title": "Bando per la concessione di contributi a favore delle piccole e micro imprese artigiane e commerciali ubicate nel territorio del Comune di Bonnanaro",
+            "description": "Cos'è Bando per la concessione di contributi a favore delle piccole e micro imprese artigiane e commerciali ubicate nel territorio del comune di Bonnanaro a valere sul fondo di sostegno alle attività economiche, artigianali e commerciali - Legge n. 205 del 27/12/2017 art. 1, commi 65 ter - 65 quater - 65 quinquies. D. P. C. M. 24/09/2020D. L. n. 60 del 07/05/2024 art. 15  A chi si rivolge Imprese nel settore commercio e artigianato con sede nel comune di Bonnanaro.  Cosa prevede Il contributo di Euro 16.012,56 assegnato al Comune di Bonnanaro per l’annualità 2022 (con regolazione del conguaglio delle economie registrate per l’annualità precedente), di cui al D. P. C. M. 24 settembre 2020 a valere sul fondo di sostegno alle attività economiche, artigianali e commerciali di cui ai commi 65-ter, 65-quater e 65-quinquies dell’articolo 1, della Legge 27.12.2017, n. 205 è destinato ad azioni di sostegno economico in favore di piccole e micro imprese in possesso dei requisiti di cui all’articolo 1 del presente bando, consistenti nell’erogazione di contributi a fondo perduto per spese di gestione, determinati secondo i seguenti criteri determinati dalla Giunta Comunale con la Deliberazione n. 70 in data 10.12.2025:a) il contributo è riconosciuto per spese di gestione sostenute (pagate) nell’anno 2022, riferite all’anno 2022;b) il contributo è articolato in due quote: quota fissa e quota variabile;c) le risorse complessive di euro 16.012,56 sono destinate al riconoscimento della quota fissa del contributo per euro 12.000,00 e al riconoscimento della quota variabile del contributo per euro 4.012,56;d) la quota fissa di contributo riconosciuta alla singola impresa è ottenuta ripartendo in maniera eguale tra tutti i beneficiari le risorse complessive pari ad euro 12.000,00, applicando la seguente formula:quota fissa contributo singola impresa = totale risorse disponibili € 12.000,00 / totale numero domande ammesse;e) la quota variabile di contributo riconosciuta alla singola impresa è ottenuta ripartendo in maniera proporzionale tra tutti i beneficiari le risorse complessive pari ad euro 4.012,56, applicando la seguente formula:quota variabile contributo singola impresa = [(totale risorse disponibili € 4.012,56 / totale spesa complessiva domande ammesse) x spesa ammessa singola impresa];f) il contributo complessivo assegnato ad ogni singola impresa (quota fissa + quota variabile) non potrà eccedere le spese di gestione dichiarate e ritenute ammissibili; ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/bando-la-concessione-di-contributi-favore-delle-piccole-e-micro-imprese-artigiane-e",
             "custom": {
                 "custom": {
                     "Topics": "N/A",
@@ -226,62 +240,266 @@
             }
         },
         {
-            "deadline": "2026-04-08",
-            "title": "Veneto - Contributi a sostegno della redazione dei Piani di riassetto forestale",
-            "description": "Il bando ha l’obiettivo di favorire la redazione e la revisione dei Piani di riassetto forestale, con il fine di sostenere le pratiche di gestione sostenibile dei patrimoni silvopastorali.",
-            "link": "https://www.obiettivoeuropa.com/bandi/veneto-contributi-a-sostegno-della-redazione-dei-piani-di-riassetto-forestale-1",
+            "deadline": "2025-12-31",
+            "title": "Fondo Aree Interne - Comune di Castino - Annualità 2021",
+            "description": "Cos'è Contributi ai comuni delle aree interne a valere sul fondo di sostegno alle attività economiche artigianali e commerciali .  A chi si rivolge L'incentivo è destinato alle attività economiche, artigianali e commerciali con sede nel comune di Castino.  Cosa prevede Erogazione di contributi a fondo perduto a sostegno del commercio e dell'artigianato previsto dal fondo nazionale di sostegno alle attività economiche, artigianali e commerciali. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-castino-annualita-2021",
             "custom": {
                 "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile",
-                    "Stanziamento": "€ 196.620"
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-31",
+            "title": "Fondo Aree Interne - Comune di Perito - Annualità 2021-2022",
+            "description": "Cos'è Avviso pubblico per contributi a fondo perduto per le spese di gestione sostenute dalle attività economiche commerciali e artigianali operanti nel Comune di Perito - Annualità 2021-2022.  A chi si rivolge I Beneficiari del presente Avviso sono le piccole e micro imprese che svolgono, alla data di presentazione della domanda, attività economiche in ambito commerciale e artigianale (iscritte all'albo delle Imprese artigiane) attraverso un'unità operativa (unità locale) ubicata nel territorio del Comune di Orria ovvero intraprendano nuove attività economiche nel territorio comunale.  Cosa prevede Contributi a fondo perduto per le spese di gestione sostenute dalle attività economiche commerciali e artigianali. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-perito-annualita-2021-2022",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
                 }
             }
         },
         {
             "deadline": "2026-02-28",
-            "title": "Contributi liberali della Banca d’Italia per iniziative d'interesse pubblico e somme a scopo di beneficenza",
-            "description": "Banca d'Italia, nel rispetto delle norme statutarie e delle delibere assunte in materia dai competenti organi decisionali, concede contributi per iniziative d'interesse pubblico e somme a scopo di beneficenza. In particolare la Banca concede liberalità per inizative nei seguenti settori:ricerca, cultura e educazione in campi affini alle funzioni istituzionali (economia, moneta, credito, finanza);ricerca scientifica, promozione culturale, formazione giovanile e scolastica;beneficenza, solidarietà e pubblico interesse.",
-            "link": "https://www.obiettivoeuropa.com/bandi/contributi-liberali-della-banca-ditalia-per-iniziative-dinteresse-pubblico-e-somme-a-scopo-di-beneficenza",
+            "title": "Agevolazioni per la promozione dell'economia locale mediante la riapertura e l'ampliamento di attività commerciali, artigianali e di servizi - Comune di Cattolica - 2026",
+            "description": "Cos'è Sono agevolazioni per la promozione dell'economia locale mediante la riapertura e l'ampliamento di attività commerciali, artigianali e di servizi ai sensi dell'articolo 30-TER del D. L. 30/04/2019, N.34 - convertito dalla L. 58/2019 (c.d. Decreto Crescita).  A chi si rivolge A esercenti attività nei seguenti settori: - artigianato;- turismo;- fornitura di servizi destinati alla tutela ambientale;- fornitura di servizi destinati alla fruizione di beni culturali e al tempo libero;- commercio al dettaglio, limitatamente agli esercizi di cui all’art.4, comma 1, lettere d) e e) del D. Lgs. 31/03/1998 n.114 (esercizi di vicinato e medie strutture di vendita); - somministrazione di alimenti e di bevande al pubblico;che abbiano:→ ampliato esercizi commerciali già esistenti;→ riaperto esercizi chiusi da almeno sei mesi.  Cosa prevede Agevolazioni consistono nell’erogazione di contributi per l’anno nel quale avviene l’apertura o l’ampliamento degli esercizi previsti e per i tre anni successivi. La misura del contributo di cui al periodo precedente è rapportata alla somma del 100% dei tributi comunali dovuti dall'esercente e regolarmente pagati nell'anno precedente a quello nel quale è presentata la richiesta di concessione, da calcolarsi con le modalità di seguito descritte. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/agevolazioni-la-promozione-delleconomia-locale-mediante-la-riapertura-e-lampliamento-di",
             "custom": {
                 "custom": {
-                    "Topics": "Arte e Cultura, Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica, Salute e medicina, Servizi sociali e socio-sanitari, Sviluppo e promozione territoriale",
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
                     "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2026-04-30",
-            "title": "GAL Borba - Bando pubblico per la selezione di Progetti Integrati di Filiera (PIF) – SRD01 -SRD13 – SRD14",
-            "description": "Il bando è finalizzato a sostenere la realizzazione di progetti integrati di filiera (PIF). Ad essi devono partecipare, contemporaneamente e in forma congiunta, più soggetti, ciascuno dei quali realizza un intervento nella propria azienda non soltanto per conseguire un proprio vantaggio diretto, ma anche per favorire la competitività della filiera nel suo complesso e, indirettamente, di tutte le imprese che vi aderiscono.",
-            "link": "https://www.obiettivoeuropa.com/bandi/gal-borba-bando-pubblico-per-la-selezione-di-progetti-integrati-di-filiera-pif-srd01-srd13-srd14",
+            "deadline": "N/A",
+            "title": "Fondo Aree Interne - Comune di Castel San Niccolò - Anno 2022",
+            "description": "Cos'è Bando per il sostegno alle attività economiche, artigianali e commerciali nelle aree interne ex L. 160/2019.  A chi si rivolge Piccole e Medie Imprese con sede legale nel comune di Castel San Niccolò.  Cosa prevede Sostenere lo sviluppo economico e contrastare lo spopolamento nelle aree interne del Paese. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-castel-san-niccolo-anno-2022",
             "custom": {
                 "custom": {
-                    "Topics": "Agricoltura e sviluppo rurale, Commercio, Competitività imprese, Supporto alle imprese",
-                    "Stanziamento": "€ 430.000"
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2026-01-31",
-            "title": "Fondazione Cariparma - Comunità sostenibili",
-            "description": "Al fine di arricchire sempre più le risorse a disposizione della collettività nella provincia di Parma, il bando si pone l’obiettivo di sostenere la transizione ecologica e promuovere la cultura della sostenibilità nei territori, con particolare riferimento alle aree periferiche. In particolare, supporta gli enti e le organizzazioni che agiscono per la tutela del paesaggio e della biodiversità, per una relazione più sostenibile tra uomo e natura, per dare spazio alle potenzialità delle aree interne e rurali quali laboratori di inclusione sociale attraverso lo sviluppo di azioni di sostenibilità e rigenerazione ambientale, ma anche sociale ed economica. Gli obiettivi del bando si possono così riassumere:promuovere politiche che guardano al territorio e alle sue risorse in maniera integrata, finalizzate a creare una relazione più sostenibile tra uomo e natura;favorire collaborazioni e partenariati tra attori di natura diversa, accomunati da obiettivi e valori di sostenibilità ambientale, sociale ed economica, anche con il supporto di professionalità diversificate; promuovere attività di analisi e conoscenza del contesto di riferimento come base per la definizione delle politiche orientate alla sostenibilità;promuovere progetti di transizione ecologica che sviluppino le potenzialità delle aree periferiche quali luoghi privilegiati di accelerazione e coesione sociale, ambientale ed economica",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariparma-comunita-sostenibili",
+            "deadline": "2025-12-04",
+            "title": "Fondo Comuni Marginali - Comune di Belmonte Castello - Anno 2022",
+            "description": "Cos'è Il bando, in attuazione del Fondo di sostegno ai comuni marginali, è finalizzato al sostegno del sistema economico del Comune di Belmonte Castello.  A chi si rivolge Sono ammessi ai benefici del presente bando: - gli agricoltori, i commercianti e gli artigiani che aprono una nuova attività economica nel territorio del Comune di Belmonte Castello; - le imprese che hanno regolarmente costituito un'attività già iscritta al registro delle imprese purché intraprendano una \"nuova attività economica\", dopo la pubblicazione del bando, attivando o variando il codice ATECO in possesso, iscritto presso la Camera di Commercio.  Cosa prevede L'erogazione di contributi per spese di gestione e di investimento a seguito di nuova apertura. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-belmonte-castello-anno-2022",
             "custom": {
                 "custom": {
-                    "Topics": "Ambiente e Sviluppo sostenibile, Arte e Cultura, Sviluppo e promozione territoriale",
-                    "Stanziamento": "€ 2.000.000"
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
                 }
             }
         },
         {
-            "deadline": "2026-02-12",
-            "title": "Fondazione Caritro - Bando programmazione culturale",
-            "description": "La Fondazione stimola la produzione, la diffusione e la valorizzazione di attività culturali in quanto viene ritenuta un’azione strategica per favorire e promuovere la crescita e lo sviluppo della società. In particolare, la capacità del sistema locale di programmare e realizzare progetti culturali favorisce in modo diffuso la creatività, la conoscenza, la partecipazione attiva, il confronto e il dialogo tra idee e visioni diverse. Nello specifico, il bando intende promuovere e valorizzare le progettualità pluriennali delle realtà creative e culturali del territorio che vengono sostenute anche per mezzo di risorse e contributi assegnati dalla Pubblica Amministrazione (come, ad esempio, i fondi nazionali e provinciali per lo spettacolo dal vivo, le convenzioni provinciali a tema culturale e le attività istituzionali in ambito artistico e culturale degli enti pubblici strumentali della Provincia autonoma di Trento).",
-            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-caritro-bando-programmazione-culturale",
+            "deadline": "2025-11-04",
+            "title": "Fondo Aree Interne - Comune di Palagano - Annualità 2022",
+            "description": "Cos'è Bando per la concessione di contributi a fondo perduto a sostegno del settore del commercio e dell’artigianato previsto dal fondo nazionale di sostegno alle attività economiche, artigianali e commerciali - Annualità 2022.  A chi si rivolge Sono ammesse a fruire del contributo le micro imprese che svolgono la loro attività nell’ambito commerciale ed artigianale di cui al Decreto del Ministero dello Sviluppo Economico del 18.05.2005, che svolgono attività economiche nel settore dell’artigianato e del commercio previste dalle relative normative di settore, con sede legale ed un’unità operativa ubicata nel territorio del Comune di Palagano, per le specifiche attività previste dall'art. 7 del bando, ed in possesso dei requisiti previsti dal bando.  Cosa prevede Il bando prevede l'erogazione di contributi a fondo perduto per ciascuna impresa candidata e ammessa sulla base delle spese sostenute, fatturate e pagate nell'anno 2022. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-aree-interne-comune-di-palagano-annualita-2022",
             "custom": {
                 "custom": {
-                    "Topics": "Arte e Cultura",
-                    "Stanziamento": "€ 400.000"
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2023-02-28",
+            "title": "Fondo Comuni Marginali - Comune di Stella Cilento - Annualità 2021",
+            "description": "Cos'è Il Fondo Comuni Marginali è un'iniziativa del Governo italiano, gestita dal Dipartimento per le politiche di coesione, che ha stanziato risorse per sostenere i piccoli comuni afflitti da spopolamento e svantaggio.  A chi si rivolge Imprese costituite o da costituire con sede legale nel comune di Stella Cilento.  Cosa prevede-Sostenere le economie locali attraverso contributi a fondo perduto.-Incentivare l'apertura di nuove attività commerciali, artigianali e agricole.-Promuovere l'adeguamento di immobili comunali da concedere in uso.-Attrarre nuovi residenti nei comuni svantaggiati. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/fondo-comuni-marginali-comune-di-stella-cilento-annualita-2021",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-05",
+            "title": "Marchi+ 2025",
+            "description": "Cos'è La misura Marchi+2025 è l’intervento che intende supportare le imprese di micro, piccola e media dimensione nella tutela dei marchi all’estero mediante agevolazioni concesse nella forma di contributo in conto capitale, attraverso le seguenti misure agevolative:Misura A - Agevolazioni per favorire la registrazione di marchi dell’Unione europea presso EUIPO (Ufficio dell’Unione europea per la Proprietà Intellettuale) attraverso l’acquisto di servizi specialistici esterni;Misura B - Agevolazioni per favorire la registrazione di marchi internazionali presso OMPI (Organizzazione Mondiale per la Proprietà Intellettuale) attraverso l’acquisto di servizi specialistici esterni. La dotazione finanziaria, riferita all’annualità 2025 e stanziata per l’attuazione dell’intervento, è pari a 2 milioni di euro.  A chi si rivolge Possono beneficiare delle agevolazioni le imprese che, alla data di presentazione della domanda di partecipazione, siano in possesso, a pena di esclusione, dei seguenti requisiti:avere una dimensione di micro, piccola o media impresa secondo quanto definito dalla raccomandazione della Commissione europea 2003/361/CE e dall’allegato I del regolamento (UE) n. 651/2014 della Commissione e successive modifiche e integrazioni;avere sede legale e operativa in Italia;essere regolarmente costituite, iscritte nel Registro delle imprese e risultare attive;essere nel pieno e libero esercizio dei propri diritti, non essere in stato di liquidazione o scioglimento e non essere sottoposte a procedure concorsuali ed essere in regola con l’assolvimento degli obblighi contributivi attestati dal documento unico di regolarità contributiva (DURC);operare nel rispetto delle vigenti norme sul lavoro, sulla prevenzione degli infortuni e sulla salvaguardia dell’ambiente;non avere nei propri confronti cause di divieto, di decadenza o di sospensione di cui all’articolo 67 della vigente normativa antimafia (decreto legislativo 6 settembre 2011, n. 159 e successive modifiche e integrazioni);non essere incorse in sanzioni interdittive di cui all’art. 9, comma 2, lettere c) e d) del decreto legislativo 8 giugno 2001, n. 231 e ss.mm.ii. o ad altra sanzione che comporta il divieto di contrarre con la pubblica amministrazione, compresi i provvedimenti interdittivi di cui all’art. 14 del decreto legislativo 9 aprile 2008, n. 81;non avere legali rappresentanti o amministratori che, alla data di presentazione della domanda, siano stati condannati con sentenza definitiva o decreto penale di condanna divenuto irrevocabile o sentenza di applicazione della pena richiesta ai sensi dell’art. 444 del codice di procedura penale, per i reati che costituiscono motivo di esclusione di un operatore economico dalla partecipazione a una procedura di appalto o concessione ai sensi della normativa in materia di contratti pubblici relativi a lavori, servizi e forniture vigente alla data di presentazione della domanda;non essere incorse in revoche e/o non avere procedimenti in corso connessi ad atti di revoca per indebita percezione di risorse pubbliche;essere titolari del marchio oggetto della domanda di partecipazione;Per la Misura A:aver effettuato, a decorrere dal 1° gennaio 2022, il deposito della domanda di registrazione presso EUIPO del marchio oggetto dell’agevolazione e aver ottemperato al pagamento delle relative tasse di deposito;nonchéaver ottenuto la registrazione, presso EUIPO, del marchio dell’Unione europea oggetto della domanda di partecipazione. Tale registrazione deve essere avvenuta in data antecedente la presentazione della domanda di partecipazione;Per la Misura B:aver effettuato, a decorrere dal 1° gennaio 2022, almeno una delle seguenti attività:il deposito della domanda di registrazione presso OMPI di un marchio registrato a livello nazionale presso UIBM o di un marchio dell’Unione europea registrato presso EUIPO e aver ottemperato al pagamento delle relative tasse di registrazione;il deposito della domanda di registrazione presso OMPI di un marchio per il quale è già stata depositata domanda di registrazione presso UIBM o presso EUIPO e aver ottemperato al pagamento delle relative tasse di registrazione;il deposito della domanda di designazione successiva di un marchio registrato presso OMPI e aver ottemperato al pagamento delle relative tasse di registrazione;nonchéaver ottenuto la pubblicazione della domanda di registrazione sul registro internazionale dell’OMPI (Madrid Monitor) del marchio oggetto della domanda di partecipazione. La pubblicazione della domanda di registrazione del marchio sul registro internazionale dell’OMPI (Madrid Monitor) deve essere avvenuta in data antecedente la presentazione della domanda di partecipazione.essere in regola con l’obbligo in materia di assicurazioni a copertura dei danni da calamità naturali ed eventi catastrofali ai sensi dell’articolo 1, comma 101 della legge 30 dicembre 2023, n. 213 e del decreto-legge 31 marzo 2025, n. 39.  Cosa prevede Per la Misura A, le agevolazioni sono concesse nella misura dell’80% (ottanta percento) delle spese ammissibili sostenute per le tasse di deposito e per l’acquisizione dei servizi specialistici esterni e nel rispetto degli importi massimi previsti per ciascuna tipologia e comunque entro l’importo massimo complessivo per marchio di euro 6.000,00 (seimila/00). Nel caso di imprese in possesso della certificazione della parità di genere tale percentuale è elevata all’85% (ottantacinque percento), ai sensi dell’articolo 5, comma 3, legge 5 novembre 2021, n. 162. Per la Misura B, le agevolazioni sono concesse nella misura del 90% (novanta percento) delle spese ammissibili sostenute per le tasse di registrazione e per l’acquisizione dei servizi specialistici esterni e nel rispetto degli importi massimi previsti per ciascuna tipologia e comunque entro l’importo massimo complessivo per marchio di euro 9.000,00 (novemila/00). Nel caso di imprese in possesso della certificazione della parità di genere tale percentuale è elevata al 95% (novantacinque percento), ai sensi dell’articolo 5, comma 3, legge 5 novembre 2021, n. 162. ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/marchi-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2025-12-19",
+            "title": "Disegni+ 2025",
+            "description": "Cos'è La misura Disegni+2025 è l’intervento che intende supportare le imprese di micro, piccola e media dimensione nella valorizzazione di disegni e modelli attraverso agevolazioni concesse nella forma di contributo in conto capitale. La dotazione finanziaria, riferita all’annualità 2025 e stanziata per l’attuazione dell’intervento, è pari a 10 milioni di euro.  A chi si rivolge Possono beneficiare delle agevolazioni le imprese che, alla data di presentazione della domanda di partecipazione, siano in possesso, a pena di esclusione, dei seguenti requisiti:avere una dimensione di micro, piccola o media impresa, sulla base dei requisiti previsti dalla raccomandazione della Commissione europea 2003/361/CE e dall’allegato I del regolamento (UE) n. 651/2014 della Commissione e successive modifiche e integrazioni; avere sede legale e operativa in Italia;essere regolarmente costituite, iscritte nel Registro delle imprese e risultare attive;essere nel pieno e libero esercizio dei propri diritti, non essere in stato di liquidazione o scioglimento, non essere sottoposte a procedure concorsuali ed essere in regola con l’assolvimento degli obblighi contributivi attestati dal documento unico di regolarità contributiva (DURC);operare nel rispetto delle vigenti norme sul lavoro, sulla prevenzione degli infortuni e sulla salvaguardia dell’ambiente;non avere nei propri confronti cause di divieto, di decadenza o di sospensione di cui all’articolo 67 della vigente normativa antimafia (decreto legislativo 6 settembre 2011, n. 159 e successive modifiche e integrazioni);non essere incorse in sanzioni interdittive di cui all’art. 9, comma 2, lettere c) e d) del decreto legislativo 8 giugno 2001, n. 231 e ss.mm.ii. o ad altra sanzione che comporta il divieto di contrarre con la pubblica amministrazione, compresi i provvedimenti interdittivi di cui all’art. 14 del decreto legislativo 9 aprile 2008, n. 81;non avere legali rappresentanti o amministratori che, alla data di presentazione della domanda, siano stati condannati con sentenza definitiva o decreto penale di condanna divenuto irrevocabile o sentenza di applicazione della pena richiesta ai sensi dell’art. 444 del codice di procedura penale, per i reati che costituiscono motivo di esclusione di un operatore economico dalla partecipazione a una procedura di appalto o concessione ai sensi della normativa in materia di contratti pubblici relativi a lavori, servizi e forniture vigente alla data di presentazione della domanda;non essere incorse in revoche e/o non avere procedimenti in corso connessi ad atti di revoca per indebita percezione di risorse pubbliche;essere titolari del disegno/modello oggetto del progetto di valorizzazione. Il disegno/modello deve essere registrato presso l’Ufficio Italiano Brevetti e Marchi (UIBM) o l’Ufficio dell’Unione europea per la proprietà intellettuale (EUIPO) o l’Organizzazione mondiale per la proprietà intellettuale (OMPI). In tale ultimo caso tra i Paesi designati deve esserci l’Italia. Il disegno/modello deve essere registrato a decorrere dal 1° gennaio 2023 e comunque in data antecedente alla presentazione della domanda di partecipazione ed essere in corso di validità;essere in regola con l’obbligo in materia di assicurazioni a copertura dei danni da calamità naturali ed eventi catastrofali ai sensi dell’articolo 1, comma 101 della legge 30 dicembre 2023, n. 213 e del decreto-legge 31 marzo 2025, n. 39.  Cosa prevede Le agevolazioni sono concesse fino all’80% (ottanta percento) delle spese ammissibili, entro l’importo massimo di euro 60.000,00 (sessantamila) e nel rispetto degli importi massimi previsti per ciascuna tipologia di servizio. La predetta percentuale è elevata all’85% (ottantacinque percento) nel caso di imprese in possesso della certificazione della parità di genere (articolo 5, comma 3, legge 5 novembre 2021, n. 162). ",
+            "link": "https://www.incentivi.gov.it/it/catalogo/disegni-2025",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-17",
+            "title": "AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, CONFERIMENTO N. 1 INCARICO DI COLLABORAZIONE PROFESSIONALE DI PROJECT MANAGER (SUPPORTO ALLA RICERCA), A TEMPO DETERMINATO, ART. 15 OCTIES D. LGS. 502/92 E SS.MM.II., PER LE ATTIVITA’ DEL PROGETTO CODICE 5485/CM/25 DAL TITOLO \"PEPECO - PELLE DI PESCE MEDITERRANEO PER IL TRATTAMENTO DELLE USTIONI E PRODUZIONE DI SCAFFOLD CON COLLAGENE DI PESCE” FINANZIATO NELL’AMBITO DEL PN FEAMPA 2021-2027 – INTERV. COD. 221502- CUP B64D25000690009",
+            "description": "<p>In esecuzione della deliberazione n. 856 del 22.12.2025 è indetto Avviso di selezione pubblica, per titoli e colloquio, per il conferimento di n.&nbsp;1 incarico di collaborazione professionale di Project manager, (Personale di supporto alla ricerca), a tempo determinato, ai&nbsp;sensi dell'art. 15 octies D. Lgs. 502/92 e ss.mm.ii., per le attività del Progetto codice 5485/CM/25 dal titolo \"PEPECO - Pelle di&nbsp;pesce mediterraneo per il trattamento delle ustioni e produzione di scaffold con collagene di pesce”, finanziato nell’ambito del&nbsp;PN FEAMPA 2021-2027 – interv. cod. 221502- CUP B64D25000690009 – WBS HR00006 - CODICE IDENTIFICATIVO: PEPECOPM/2026</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=3232f72e5e4f4008b39afeae3b27a768",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-17",
+            "title": "AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO DI COLLABORAZIONE PROFESSIONALE DI SUPPORTO ALLA RICERCA, A TEMPO DETERMINATO, AI SENSI DELL’ART. 15 OCTIES D. LGS. 502/92 E SS.MM.II., PROGETTO PNRR-MCNT2-2023-12377898 “MULTIOMIC AND IMAGING RISK PROFILING FOR THE IDENTIFICATION OF COMORBIDITIES IN OBESE CHILDREN AND ADOLESCENTS USING ARTIFICIAL INTELLIGENCE”",
+            "description": "<p>In esecuzione della deliberazione n. 865 del 22.12.2025 è indetto Avviso di selezione pubblica, per titoli e colloquio, per il\n <br>\n conferimento di n. 1 incarico di collaborazione professionale di supporto alla ricerca, a tempo determinato, ai sensi\n <br>\n dell’art. 15 octies del D. Lgs. 502/92 e ss.mm.ii., Progetto PNRR-MCNT2-2023-12377898 “Multiomic and Imaging\n <br>\n risk Profiling for the Identification of Comorbidities in Obese Children and Adolescents using Artificial Intelligence”,\n <br>\n CUP&nbsp;U.O.3 H63C24000450006 – WBS HPNR0011 – codice identificativo: SUPPRIC2/2026</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=2cd2c91b8c4c4774bfc2ae3b71d0c146",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-01-17",
+            "title": "AVVISO DI SELEZIONE PUBBLICA, PER TITOLI E COLLOQUIO, PER IL CONFERIMENTO DI N. 1 INCARICO DI COLLABORAZIONE PROFESSIONALE, A TEMPO DETERMINATO, AI SENSI DELL’ART. 15-OCTIES DEL D. LGS. N. 502/1992 E SS.MM.II., DI SUPPORTO AMMINISTRATIVO- CONTABILE PER ATTIVITÀ DI SUPPORTO ALLA RENDICONTAZIONE DEI PROGETTI DI RICERCA – CODICE IDENTIFICATIVO: SUPPCONT/2026",
+            "description": "<p>In esecuzione della deliberazione n. 866 del 22.12.2025 è indetto Avviso di selezione pubblica, per titoli e colloquio, per il\n <br>\n conferimento di n. 1 incarico di collaborazione professionale, a tempo determinato, ai sensi dell’art. 15-octies del\n <br>\n D. Lgs. n. 502/1992 e ss.mm.ii., di supporto amministrativo- contabile per attività di supporto alla rendicontazione\n <br>\n dei progetti di ricerca. CODICE IDENTIFICATIVO: SUPPCONT/2026</p>",
+            "link": "https://www.inpa.gov.it/bandi-e-avvisi/dettaglio-bando-avviso/?concorso_id=50a451b234d94aadb2c971b704583fef",
+            "custom": {
+                "custom": {
+                    "Topics": "N/A",
+                    "Area Classification": "N/A",
+                    "Tipologia Scadenza": "N/A",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-10-30",
+            "title": "Emilia-Romagna - Investimenti per la qualificazione, il potenziamento e la diversificazione dell'offerta turistica ricettiva",
+            "description": "La Regione Emilia-Romagna intende  sostenere gli investimenti necessari per qualificare, potenziare ed innovare le attività ricettive del territorio regionale. In particolare, il bando, attraverso uno strumento creditizio agevolato che assicura adeguata garanzia per l’ottenimento dei finanziamenti e l’abbattimento dei tassi di interesse, è volto a supportare le imprese del settore, interessate a sviluppare investimenti significativi per la qualificazione ed innovazione delle strutture ricettive esistenti o per l’avvio di nuove strutture ricettive",
+            "link": "https://www.obiettivoeuropa.com/bandi/emilia-romagna-investimenti-per-la-qualificazione-il-potenziamento-e-la-diversificazione-dellofferta-turistica-ricettiva",
+            "custom": {
+                "custom": {
+                    "Topics": "Competitività imprese, Supporto alle imprese, Turismo",
+                    "Stanziamento": "€ 11.006.161"
+                }
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Fondazione Cariplo - Artescienza",
+            "description": "Il bando mira a favorire la creazione di contesti non convenzionali di ricerca, in cui sia dato tempo e spazio allo scambio, alla sperimentazione e alla contaminazione interdisciplinare tra artisti e scienziati, in risposta a una precisa esigenza di ricerca. Attraverso questo bando la Fondazione intende specificatamente:valorizzare la figura del ricercatore (inteso sia come artista che come scienziato), supportando un percorso condiviso;valorizzare il processo di dialogo tra artisti e scienziati, supportando la restituzione degli esiti alla comunità.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-cariplo-artescienza",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Innovazione tecnologica, digitalizzazione, ICT, Ricerca Scientifica",
+                    "Stanziamento": "€ 1.300.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-15",
+            "title": "Lazio – Bando Produzione integrata",
+            "description": "L’intervento “Produzione integrata” prevede un sostegno per ettaro di SAU a favore dei beneficiari che si impegnano a adottare le disposizioni tecniche indicate nei Disciplinari di Produzione Integrata (DPI) stabiliti per la fase di coltivazione, aderendo al Sistema di Qualità Nazionale Produzione integrata (SQNPI).L’adozione del metodo di Produzione Integrata contribuisce in tal modo al perseguimento dell’Obiettivo specifico 5, promuovendo lo sviluppo sostenibile e un’efficiente gestione delle risorse naturali come l’acqua e il suolo.La produzione integrata contribuisce anche al perseguimento dell’Obiettivo specifico 4, migliorando il sequestro del carbonio nel suolo e concorrendo all’adattamento ai cambiamenti climatici.",
+            "link": "https://www.obiettivoeuropa.com/bandi/lazio-bando-produzione-integrata",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile, Supporto alle imprese",
+                    "Stanziamento": "N/A"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-31",
+            "title": "GAL Terre Astigiane - Bando Progetti integrati di Filiera-Rete",
+            "description": "Il bando del GAL “Terre Astigiane” sostiene la realizzazione di Progetti Integrati di Filiera (PIF) e Progetti Integrati di Rete Territoriale (PIRT) nell’ambito della Strategia “Agire per il rafforzamento e lo sviluppo della filiera turistica integrata del territorio”. L’obiettivo è rafforzare l’economia locale aggregando più imprese in progetti congiunti che migliorino la competitività delle filiere agroalimentari e delle reti turistiche e commerciali, valorizzando le produzioni locali, integrando agricoltura, trasformazione, commercio e turismo e contrastando lo spopolamento rurale. Il bando mira a mantenere l’attrattività delle aree rurali, migliorare la qualità della vita, sostenere servizi e attività imprenditoriali legate alle risorse locali e favorire opportunità occupazionali, in particolare per giovani e donne. Le filiere/reti prioritarie sono: vitivinicola, ortofrutta (anche frutta a guscio), lattiero-casearia, carne e salumi, erbe officinali e aromatiche, miele, cereali e legumi, legno, filiera multiprodotto, rete turistica e commerciale e filiera/rete mista.",
+            "link": "https://www.obiettivoeuropa.com/bandi/gal-terre-astigiane-bando-progetti-integrati-di-filiera-rete",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Ambiente e Sviluppo sostenibile",
+                    "Stanziamento": "€ 494.436"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-27",
+            "title": "Fondazione Livorno - Bando Interventi per il sociale",
+            "description": "Fondazione Livorno, nella sua veste di persona giuridica di diritto privato senza finalità di lucro, con piena autonomia statutaria e gestionale, persegue scopi di utilità sociale e di promozione dello sviluppo economico del territorio.Nell'ambito delle sue funzioni e interessi, la Fondazione emana il bando “Interventi per il sociale”, attraverso il quale intende sostenere richieste di contributo nelle seguenti aree tematiche:Interventi a favore di bambini e adolescenti a rischio;Interventi a favore di disabili;Interventi di contrasto alle vecchie e nuove povertà.",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-livorno-bando-interventi-per-il-sociale",
+            "custom": {
+                "custom": {
+                    "Topics": "Diritti e Cittadinanza, Educazione e istruzione, Formazione e lavoro, Inclusione Sociale e Solidarietà, Marginalità sociale, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 300.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-31",
+            "title": "Abruzzo - Bando Intervento SRG03 Partecipazione a regimi di qualità",
+            "description": "L’intervento contribuisce all’obiettivo specifico SO3 “Migliorare la posizione degli agricoltori nella catena di valore” della PAC 2023-2027 al fine di sostenere le forme associative degli agricoltori che operano nei regimi di qualità, incentivando chi, tra i loro associati, aderisce ai sistemi previsti.L’intervento SRG03 inoltre:Promuove i processi di integrazione e aggregazione delle imprese e dell'offerta;Rafforza i sistemi di certificazione, regimi di qualità riconosciuta, sistemi di etichettatura volontaria per aumentare la qualità, la sostenibilità e il benessere animale, favorendo la partecipazione delle imprese delle filiere agroalimentari e rafforzando il ruolo delle OP e dei Consorzi di Tutela;Contribuisce ad aumentare il numero di aziende che partecipano a regimi di qualità anche in forma di gruppi di produttori, organizzazioni di produttori o attraverso i mercati locali;Favorisce il sistema produttivo e l'economia del territorio;Contribuisce a tutelare l'ambiente, perché il legame indissolubile con il territorio di origine esige la salvaguardia degli ecosistemi e della biodiversità;Contribuisce a sostenere la coesione sociale dell'intera comunità.",
+            "link": "https://www.obiettivoeuropa.com/bandi/abruzzo-bando-intervento-srg03-partecipazione-a-regimi-di-qualita",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Supporto alle imprese, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 6.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-02-27",
+            "title": "Fondazione CRC - Estate al Rondò",
+            "description": "Con Estate al Rondò, la Fondazione intende promuovere l’estate come periodo delle opportunità, delle esperienze e delle occasioni organizzando laboratori e incontri negli spazi interni e nella piazza esterna dedicati a bambini e ragazzi, famigli e gruppi di centri estivi:Spazi Bianchi EstateEducare in Terrazza EstateTutti giù per terra Laboratori Centri Estivi",
+            "link": "https://www.obiettivoeuropa.com/bandi/fondazione-crc-estate-al-rondo",
+            "custom": {
+                "custom": {
+                    "Topics": "Arte e Cultura, Educazione e istruzione, Musica, Sviluppo e promozione territoriale",
+                    "Stanziamento": "€ 40.000"
+                }
+            }
+        },
+        {
+            "deadline": "2026-05-31",
+            "title": "GAL Terre Astigiane - SRD07 – Investimenti in infrastrutture per l’agricoltura e per lo sviluppo socio-economico delle aree rurali_ Azione 5) Infrastrutture ricreative pubbliche",
+            "description": "Il bando SRD07 Azione 5 “Infrastrutture ricreative pubbliche” del GAL Terre Astigiane sostiene interventi infrastrutturali nei comuni dell’area GAL per realizzare, adeguare e ampliare spazi e servizi ricreativi, sportivi, culturali e socio-assistenziali aperti alla popolazione residente e non residente. L’obiettivo è migliorare la qualità della vita nelle aree rurali, contrastare lo spopolamento soprattutto nei piccoli comuni, rafforzare le occasioni di socializzazione e inclusione (in particolare per giovani, anziani e persone con minore mobilità) e rendere il territorio più attrattivo come luogo di residenza, studio, lavoro e turismo.",
+            "link": "https://www.obiettivoeuropa.com/bandi/gal-terre-astigiane-srd07-investimenti-in-infrastrutture-per-lagricoltura-e-per-lo-sviluppo-socio-economico-delle-aree-rurali_-azione-5-infrastrutture-ricreative-pubbliche",
+            "custom": {
+                "custom": {
+                    "Topics": "Agricoltura e sviluppo rurale, Arte e Cultura, Edilizia, Impianti sportivi, Sport, Sviluppo e promozione territoriale, Turismo",
+                    "Stanziamento": "€ 414.563"
                 }
             }
         }
