@@ -1,11 +1,11 @@
 {
-    "scraping_timestamp": "2026-01-03 06:31:36",
+    "scraping_timestamp": "2026-01-07 06:59:45",
     "data": [
         {
             "deadline": "2025-12-10",
             "title": "Cultura Cresce",
             "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -65,7 +65,7 @@
             "deadline": "N/A",
             "title": "Imprenditoria femminile",
             "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -101,7 +101,7 @@
             "deadline": "2017-11-07",
             "title": "Italia Economia Sociale",
             "description": "La misura finanzia investimenti ad alto impatto sociale e culturale sostenibili sul piano ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/italia-economia-sociale?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/italia-economia-sociale",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -137,7 +137,7 @@
             "deadline": "2025-12-31",
             "title": "Nuovo ecobonus - L’incentivo per la mobilità sostenibile",
             "description": "Una risposta concreta per una mobilità più sostenibile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/nuovo-ecobonus-lincentivo-la-mobilita-sostenibile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/nuovo-ecobonus-lincentivo-la-mobilita-sostenibile?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -149,7 +149,7 @@
             "deadline": "2025-10-01",
             "title": "Investimenti nel settore della nautica da diporto sostenibile",
             "description": "Gli incentivi per favorire la transizione ecologica con l’utilizzo di motori elettrici",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nel-settore-della-nautica-da-diporto-sostenibile",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/investimenti-nel-settore-della-nautica-da-diporto-sostenibile?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -161,7 +161,7 @@
             "deadline": "2022-06-07",
             "title": "Fondo impresa femminile",
             "description": "L’incentivo per le imprese guidate da donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -173,7 +173,7 @@
             "deadline": "2025-10-14",
             "title": "Resto al Sud",
             "description": "L’incentivo per gli imprenditori e i liberi professionisti under 56",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/resto-al-sud",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -185,7 +185,7 @@
             "deadline": "2024-10-31",
             "title": "Giovani diplomati",
             "description": "È l’incentivo per i contratti di apprendistato nell'enogastronomia e nell’ospitalità alberghiera",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -245,7 +245,7 @@
             "deadline": "2025-09-30",
             "title": "Cultura Crea",
             "description": "La cultura diventa Impresa con Cultura Crea, Taranto Crea, Cultura Crea Plus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-crea?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -281,7 +281,7 @@
             "deadline": "2023-09-15",
             "title": "Accedere",
             "description": "Il Programma per l’ingresso dei soggetti svantaggiati nel mercato del lavoro",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/accedere",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -377,7 +377,7 @@
             "deadline": "2025-12-10",
             "title": "Cultura Cresce",
             "description": "L’incentivo per le imprese culturali e creative del Mezzogiorno",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/cultura-cresce?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -413,7 +413,7 @@
             "deadline": "2021-05-19",
             "title": "ON - Oltre Nuove imprese a tasso zero",
             "description": "L’incentivo per le imprese a prevalente partecipazione giovanile o femminile",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/ON-nuove-imprese-tasso-zero?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -425,7 +425,7 @@
             "deadline": "N/A",
             "title": "Imprenditoria femminile",
             "description": "Il programma che punta a diffondere la cultura imprenditoriale tra le donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprenditoria-femminile?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -449,7 +449,7 @@
             "deadline": "N/A",
             "title": "Smart&Start Italia",
             "description": "L’incentivo per l’avvio e lo sviluppo delle startup innovative",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartstart-italia?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -569,7 +569,7 @@
             "deadline": "2017-11-07",
             "title": "Italia Economia Sociale",
             "description": "La misura finanzia investimenti ad alto impatto sociale e culturale sostenibili sul piano ambientale",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/italia-economia-sociale?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/italia-economia-sociale",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -605,7 +605,7 @@
             "deadline": "2022-07-25",
             "title": "Mobilità sostenibile – Filiera degli autobus elettrici",
             "description": "L’incentivo per la trasformazione verde e digitale dell’industria degli autobus",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/mobilita-sostenibile-filiera-degli-autobus-elettrici?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -689,7 +689,7 @@
             "deadline": "N/A",
             "title": "Brevetti+ 2025",
             "description": "L'incentivo per la valorizzazione economica dei brevetti",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2025",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/brevetti-2025?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -701,7 +701,7 @@
             "deadline": "2025-10-28",
             "title": "Sostegno alle PMI per la partecipazione alle manifestazioni fieristiche",
             "description": "Interventi a favore del settore fieristico e dei mercati rionali",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-alle-pmi-la-partecipazione-alle-manifestazioni-fieristiche",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-alle-pmi-la-partecipazione-alle-manifestazioni-fieristiche?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -713,7 +713,7 @@
             "deadline": "2025-10-30",
             "title": "Sostegno agli organizzatori per la realizzazione di iniziative di coordinamento strutturale e organizzativo",
             "description": "Interventi a favore del settore fieristico e dei mercati rionali",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-agli-organizzatori-la-realizzazione-di-iniziative-di-coordinamento-strutturale-e",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/sostegno-agli-organizzatori-la-realizzazione-di-iniziative-di-coordinamento-strutturale-e?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -797,7 +797,7 @@
             "deadline": "2022-06-07",
             "title": "Fondo impresa femminile",
             "description": "L’incentivo per le imprese guidate da donne",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-impresa-femminile",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -809,7 +809,7 @@
             "deadline": "2022-11-23",
             "title": "Confidi",
             "description": "Garanzie agevolate e finanziamenti agevolati da parte dei confidi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/confidi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -965,7 +965,7 @@
             "deadline": "2017-04-11",
             "title": "Agevolazioni per le imprese confiscate o sequestrate alla criminalità",
             "description": "Finanziamenti a tasso zero per le imprese confiscate o sequestrate alla criminalità organizzata",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/agevolazioni-le-imprese-confiscate-o-sequestrate-alla-criminalita",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/agevolazioni-le-imprese-confiscate-o-sequestrate-alla-criminalita?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -977,7 +977,7 @@
             "deadline": "2023-03-24",
             "title": "Fondo di contrasto alla deindustrializzazione",
             "description": "L’incentivo che contrasta l'impoverimento del tessuto produttivo e industriale di Lazio e Marche",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-di-contrasto-alla-deindustrializzazione",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-di-contrasto-alla-deindustrializzazione?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1241,7 +1241,7 @@
             "deadline": "2024-10-31",
             "title": "Giovani diplomati",
             "description": "È l’incentivo per i contratti di apprendistato nell'enogastronomia e nell’ospitalità alberghiera",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/giovani-diplomati",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1289,7 +1289,7 @@
             "deadline": "2023-07-12",
             "title": "TOCC Digitale ed Ecologica",
             "description": "L’incentivo per la transizione digitale ed ecologica degli organismi culturali e creativi",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tocc-digitale-ed-ecologica?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1325,7 +1325,7 @@
             "deadline": "N/A",
             "title": "PNC Sisma - NEXT APPENNINO",
             "description": "Programma per il rilancio economico e sociale delle Regioni del Centro Italia colpite dai terremoti del 2009 e del 2016",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-chi-vuole-fare-impresa/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/pnc-sisma-next-appennino?from=/per-le-imprese/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1337,7 +1337,7 @@
             "deadline": "2023-09-30",
             "title": "Fondo per i prodotti del commercio equo e solidale",
             "description": "Per le imprese che hanno fornito prodotti da commercio equo e solidale nelle gare d’appalto della PA",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-i-prodotti-del-commercio-equo-e-solidale?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/fondo-i-prodotti-del-commercio-equo-e-solidale",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1397,7 +1397,7 @@
             "deadline": "2021-09-22",
             "title": "Tessile, Moda e Accessori - Edizione 2021",
             "description": "L’incentivo a sostegno dell’industria della moda, tessile ed accessori",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/tessile-moda-e-accessori-edizione-2021?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1421,7 +1421,7 @@
             "deadline": "2025-05-06",
             "title": "Imprese Borghi",
             "description": "L’incentivo supporta le imprese dei Comuni a rischio abbandono o già abbandonati",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-le-imprese/incentivi",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/imprese-borghi?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1433,7 +1433,7 @@
             "deadline": "2024-12-21",
             "title": "SmartMoney Capo III",
             "description": "L’incentivo che supporta gli investimenti nel capitale di rischio delle startup",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-iii",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-iii?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1445,7 +1445,7 @@
             "deadline": "2024-12-31",
             "title": "SmartMoney Capo II",
             "description": "L’incentivo per le startup innovative che si preparano al lancio sul mercato",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-ii",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/smartmoney-capo-ii?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",
@@ -1469,7 +1469,7 @@
             "deadline": "2025-05-27",
             "title": "Bonus colonnine domestiche",
             "description": "Sostiene l’acquisto e l’installazione di infrastrutture per la ricarica di veicoli elettrici da parte di persone fisiche e condomìni",
-            "link": "https://www.invitalia.it/incentivi-e-strumenti/bonus-colonnine-domestiche",
+            "link": "https://www.invitalia.it/incentivi-e-strumenti/bonus-colonnine-domestiche?from=/per-chi-vuole-fare-impresa/incentivi",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Italia",

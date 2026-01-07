@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-03 06:31:10",
+    "scraping_timestamp": "2026-01-07 06:59:24",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -449,87 +449,6 @@
             "link": "https://www.euro-access.eu/en/calls/2353/Development-of-innovative-solutions-strengthening-the-security-of-renewable-energy-value-chains",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals for health data for biotech innovation leveraging the European Health Data Space",
-            "description": "The general objective of this action is to accelerate the development and deployment of AI and digital solutions in the biotech sector driven by health data, ensuring its secure and responsible use through the EHDS and leveraging AI Factories to augment these efforts.",
-            "link": "https://www.euro-access.eu/en/calls/2363/Call-for-proposals-for-health-data-for-biotech-innovation-leveraging-the-European-Health-Data-Space",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals for a programme on orphan medical devices, in particular targeting paediatric patients",
-            "description": "This action aims to support innovation in the field of medical devices by supporting non-profit organisations or consortia that provide a platform for academic bodies, scientific societies, developers of devices, in particular SMEs, and NGOs with a specific interest in innovative medical devices to help foster and guide the development of orphan devices, in particular in areas of unmet medical needs and paediatric patients.",
-            "link": "https://www.euro-access.eu/en/calls/2364/Call-for-proposals-for-a-programme-on-orphan-medical-devices-in-particular-targeting-paediatric-patients",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals to support the development of a medicine pricing, reimbursement and access tracker through the EURIPID database",
-            "description": "This action will provide EURIPID members with a better overview of access, P&R measures and decisions across the Member States.",
-            "link": "https://www.euro-access.eu/en/calls/2365/Call-for-proposals-to-support-the-development-of-a-medicine-pricing-reimbursement-and-access-tracker-through-the-EURIPID-database",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "A European flagship initiative leveraging AI and health data for cardiovascular health and related non-communicable diseases: Advancing Risk Prediction, Prevention, Treatments, Personalised Care and Rehabilitation",
-            "description": "The initiative is structured around two complementary and mutually reinforcing objectives. Together, they aim to lay the foundations for a European model of AI-enabled cardiovascular and comorbid chronic disease care, grounded in high-quality health data and real-world validated solutions.",
-            "link": "https://www.euro-access.eu/en/calls/2366/A-European-flagship-initiative-leveraging-AI-and-health-data-for-cardiovascular-health-and-related-non-communicable-diseases-Advancing-Risk-Prediction-Prevention-Treatments-Personalised-Care-and-Rehabilitation",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals to pilot and implement cancer screening programmes for prostate cancer",
-            "description": "This action will contribute to the implementation of prostate cancer screening programmes, in a stepwise approach to ensure the gradual and appropriate planning, piloting, and roll-out of the screening programmes within national priorities, as called for in the 2022 Council Recommendation and upcoming European Guidelines on cancer screening. The use of AI in ongoing (pilot) programmes shall be assessed, and the potential use of AI, where feasible, further be explored. Synergies with actions implementing the European Cancer Imaging Initiative, in particular the Cancer Image Europe platform, shall be explored. Potential synergies with the project stemming out of the “Call for proposals on advancing the adoption of artificial intelligence in health” (DI-g-24-76 from 2024 EU4Health work programme) shall be explored.",
-            "link": "https://www.euro-access.eu/en/calls/2367/Call-for-proposals-to-pilot-and-implement-cancer-screening-programmes-for-prostate-cancer",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals to contribute to the organisation of conferences and events",
-            "description": "The objective of this action is to support the organisation of not-for-profit, Union-wide highlevel science-policy-society conferences that bring together all interested parties such as citizens, patients, practitioners, scientists, policy makers from local, regional, and Union level. The conferences will cover important health topics that are related to the Union’s health priorities, and thereby contribute to the development and implementation of the European Health Union.",
-            "link": "https://www.euro-access.eu/en/calls/2368/Call-for-proposals-to-contribute-to-the-organisation-of-conferences-and-events",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals on lifelong prevention for a healthy life with focus on cardiovascular diseases",
-            "description": "The aim of this action is to contribute to reducing the burden of non-communicable diseases, including cancer, and their risk factors across the lifespan, supporting Member States’ actions.",
-            "link": "https://www.euro-access.eu/en/calls/2369/Call-for-proposals-on-lifelong-prevention-for-a-healthy-life-with-focus-on-cardiovascular-diseases",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals to pilot and implement cancer screening programmes for lung cancer",
-            "description": "This action will contribute to the implementation of lung cancer screening programmes, to enhance early detection and programme efficiency. The gradual and appropriate planning, piloting, and roll-out of the screening programs will align with national priorities and the latest scientific advancements as called for in the 2022 Council Recommendation on cancer screening. The use of AI in ongoing (pilot) programmes shall be assessed, and the potential use of AI, where feasible, further be explored. Synergies with actions implementing the European Cancer Imaging Initiative, in particular the Cancer Image Europe platform, shall be explored. Potential synergies with the project stemming out of the “Call for proposals on advancing the adoption of artificial intelligence in health” (DI-g-24-76 from the 2024 EU4Health Work Programme) shall be explored.",
-            "link": "https://www.euro-access.eu/en/calls/2370/Call-for-proposals-to-pilot-and-implement-cancer-screening-programmes-for-lung-cancer",
-            "custom": {
-                "Funding Program": "EU4Health programme"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Call for proposals to pilot and implement cancer screening programmes for gastric cancer",
-            "description": "This action will contribute to the implementation of gastric cancer screening programmes, in a stepwise approach to ensure the gradual and appropriate planning, piloting, and roll-out of the screening programmes within national priorities, as called for in the 2022 Council Recommendation on cancer screening. The use of AI in ongoing (pilot) programmes shall be assessed, and the potential use of AI, where feasible, further be explored. Potential synergies with the project stemming out of the “Call for proposals on advancing the adoption of artificial intelligence in health” (DI-g-24-76 of 2024 EU4Health work programme) shall be explored.",
-            "link": "https://www.euro-access.eu/en/calls/2371/Call-for-proposals-to-pilot-and-implement-cancer-screening-programmes-for-gastric-cancer",
-            "custom": {
-                "Funding Program": "EU4Health programme"
             }
         },
         {
