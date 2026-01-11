@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-07 06:59:47",
+    "scraping_timestamp": "2026-01-11 06:52:36",
     "data": [
         {
             "deadline": "Invalid Date",
@@ -47,30 +47,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€3,800"
-            }
-        },
-        {
-            "deadline": "2026-01-08",
-            "title": "Team Democracy Europe (TED) Call for Democracy Research Proposals",
-            "description": "The Team Europe Democracy (TED)",
-            "link": "https://gfmd.info/fundings/ted-call-for-proposals/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€60,000 per project."
-            }
-        },
-        {
-            "deadline": "2026-01-08",
-            "title": "Official Development Assistance (ODA) Germany Grants",
-            "description": "European Journalism Centre (EJC)",
-            "link": "https://gfmd.info/fundings/official-development-assistance-oda-germany-grants/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Europe (Central, Northern, Southern, Western)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€5,000 to €15,000"
             }
         },
         {

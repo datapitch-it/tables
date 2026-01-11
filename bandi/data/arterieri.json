@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-03 06:27:08",
+    "scraping_timestamp": "2026-01-07 06:56:12",
     "data": [
-        {
-            "deadline": "2026-01-05",
-            "title": "EPIC-X Open Call: al via un nuovo bando per start-up deep-tech guidate da donne",
-            "description": "Fino a 60.000 euro a fondo perduto e un programma di accelerazione di 6 mesi per imprese innovative nei Paesi “moderate & emerging innovators”",
-            "link": "https://first.art-er.it/news/epic-x-open-call",
-            "custom": {
-                "Topics": "Cascade funding, Deep tech, Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.200.000"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Pubblicate le nuove call EU4Health: focus su prevenzione, dati sanitari e innovazione medica",
-            "description": "Aperti i bandi 2025 per progetti su IA, salute cardiovascolare, screening oncologico e accesso equo alle cure",
-            "link": "https://first.art-er.it/news/nuove-call-eu4health-2025-la-salute-e-linnovazione",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 56.816.810"
-            }
-        },
-        {
-            "deadline": "2026-01-06",
-            "title": "Pubblicati i nuovi bandi di ricerca e innovazione sanitaria di EU4Health",
-            "description": "Aperti nove bandi con un budget complessivo di 56,8 milioni di euro per progetti su prevenzione, cancro, dati sanitari e dispositivi medici",
-            "link": "https://first.art-er.it/news/nuovi-bandi-eu4health-innovazione-sanitaria",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 56.816.810"
-            }
-        },
         {
             "deadline": "2026-01-07",
             "title": "L'azione PCP WISE lancia il bando di gara per innovare la gestione idrica sostenibile",
