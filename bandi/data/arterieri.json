@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-07 06:56:12",
+    "scraping_timestamp": "2026-01-11 06:48:57",
     "data": [
-        {
-            "deadline": "2026-01-07",
-            "title": "L'azione PCP WISE lancia il bando di gara per innovare la gestione idrica sostenibile",
-            "description": "La call di PCP WISE finanzia nuove tecnologie per monitorare il ciclo suolo-acqua-vegetazione e prevenire siccità, incendi e alluvioni",
-            "link": "https://first.art-er.it/news/al-gara-europea-innovare-la-gestione-dellacqua",
-            "custom": {
-                "Topics": "Artificial Intelligence, Blue Economy, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-08",
-            "title": "UTM City2City: al via il nuovo bando per accelerare le transizioni urbane sostenibili",
-            "description": "L’obiettivo è fornire alle città strumenti concreti per accelerare la transizione climatica, integrando tecnologie avanzate e nuove competenze di governance",
-            "link": "https://first.art-er.it/news/utm-city2city-rafforza-la-cooperazione-tra-citta",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-08",
-            "title": "EuroHPC JU lancia la Quantum Grand Challenge 2025 per startup in ambito quantistico",
-            "description": "Aperta fino all'8 gennaio 2026, l’iniziativa di EuroHPC JU vuole stimolare la cooperazione fra innovatori nel calcolo quantistico, istituzioni finanziarie e utilizzatori finali",
-            "link": "https://first.art-er.it/news/eurohpc-ju-lancia-la-quantum-grand-challenge-2025",
-            "custom": {
-                "Topics": "Quantum",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2026-01-13",
             "title": "Horizon Europe: bando ERC Consolidator Grants 2026",
@@ -338,6 +302,18 @@
             }
         },
         {
+            "deadline": "2026-02-02",
+            "title": "Call per esperti UE su ricerca e innovazione nell'automotive",
+            "description": "La Commissione seleziona esperti per supportare le future politiche",
+            "link": "https://first.art-er.it/news/call-esperti-ue-linnovazione-automotive",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2026-02-04",
             "title": "Progetto ARISE: aperta una nuova call per l’innovazione nella robotica collaborativa",
             "description": "Il bando punta a sostenere progetti nell'ambito della robotica collaborativa e dell’interazione uomo-macchina",
@@ -455,6 +431,18 @@
                 "Area Classification": "Italia",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 731.000.000"
+            }
+        },
+        {
+            "deadline": "2026-02-23",
+            "title": "YouRban: aperta la terza call europea per l’innovazione urbana sostenibile",
+            "description": "Il bando a cascata finanzia progetti creativi che uniscono cultura, design e riciclo per promuovere modelli urbani sostenibili e inclusivi",
+            "link": "https://first.art-er.it/news/aperta-la-terza-call-europea-innovazione-urbana",
+            "custom": {
+                "Topics": "Cascade funding, Industrie creative",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 100.000"
             }
         },
         {
@@ -638,12 +626,36 @@
             }
         },
         {
+            "deadline": "2026-03-21",
+            "title": "RER: bando 2026 per incubatori e acceleratori di impresa",
+            "description": "Il bando mira ad accompagnare le imprese emergenti e a rafforzare il ruolo della Regione come territorio competitivo e attrattivo",
+            "link": "https://first.art-er.it/news/bando-rer-acceleratori-e-incubatori-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.700.000"
+            }
+        },
+        {
             "deadline": "2026-03-24",
             "title": "EuroHPC JU: annunciati nuovi bandi per un benchmark sul supercalcolo europeo",
             "description": "Le call hanno l’obiettivo condiviso di sostenere lo sviluppo di un ecosistema HPC e quantistico più efficiente, sostenibile e integrato",
             "link": "https://first.art-er.it/news/ue-investe-nei-benchmark-supercalcolo-e-quantistica",
             "custom": {
                 "Topics": "Artificial Intelligence, Quantum",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "SNS JU​​​​​​​: avviata la selezione europea per il gruppo degli stakeholder sulle reti digitali del futuro",
+            "description": "La call della partnership europea Smart Networks and Services JU rafforza il coinvolgimento di industria ricerca e istituzioni nello sviluppo delle reti 5G e 6G",
+            "link": "https://first.art-er.it/news/sns-ju-selezione-di-stakeholder-su-reti-digitali",
+            "custom": {
+                "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
@@ -695,6 +707,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 105.500.000"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Aperte due nuove call 2ZERO per la decarbonizzazione del trasporto su strada",
+            "description": "Le call 2ZERO sostengono progetti di ricerca e innovazione per accelerare la transizione verso sistemi di trasporto stradale climaticamente neutri",
+            "link": "https://first.art-er.it/news/nuove-call-2zero-il-trasporto-zero-emissioni",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "HORIZON-CL5-2026-05-D5-01: € 68.000.000HORIZON-CL5-2026-05-D5-02: € 16.000.000"
             }
         },
         {
@@ -963,6 +987,18 @@
         },
         {
             "deadline": "2026-09-15",
+            "title": "Horizon Europe 2026: pubblicate le Industry Calls del Cluster 4",
+            "description": "570 milioni di euro disponibili per progetti di ricerca e innovazione su materiali avanzati, materie prime, tecnologie abilitanti digitali ed emergenti",
+            "link": "https://first.art-er.it/news/heu-pubblicate-le-industry-calls-del-cluster-4",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-09-15",
             "title": "Horizon Europe: nuovo bando a sostegno del Clean Industrial Deal",
             "description": "Aperto un bando Horizon Europe da 600 milioni per sostenere tecnologie pulite e processi industriali net-zero",
             "link": "https://first.art-er.it/news/nuovo-bando-heu-il-clean-industrial-deal",
@@ -1066,6 +1102,18 @@
                 "Topics": "N/A",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2027-03-18",
+            "title": "Virtual Worlds e Web 4.0: annunciati i bandi per l'ecosistema europeo dei mondi virtuali",
+            "description": "La partnership europea dedicata mira a rafforzare la leadership europea nelle tecnologie immersive e negli ambienti virtuali, con investimenti fino a 200 milioni di euro entro il 2030",
+            "link": "https://first.art-er.it/news/european-partnership-virtual-worlds-bandi-2026-27",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
             }
         },
