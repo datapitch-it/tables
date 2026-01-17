@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-11 06:48:57",
+    "scraping_timestamp": "2026-01-14 06:16:36",
     "data": [
-        {
-            "deadline": "2026-01-13",
-            "title": "Horizon Europe: bando ERC Consolidator Grants 2026",
-            "description": "Si è aperto il bando ERC Consolidator Grant per supportare ricercatori eccellenti nella fase della carriera in cui vogliono consolidare il proprio team o rafforzare le attività di ricerca indipendente",
-            "link": "https://first.art-er.it/news/ricerca-deccellenza-bando-erc-consolidator-grant-2026",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 673.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-13",
-            "title": "ERC Consolidator Grants 2026: pubblicato il bando per ricercatori indipendenti",
-            "description": "Il bando ERC Consolidator Grants 2026 sostiene ricercatori eccellenti per consolidare gruppi di ricerca indipendenti con 2 milioni di euro per progetti di 5 anni",
-            "link": "https://first.art-er.it/news/erc-consolidator-grants-2026-aperto-il-nuovo-bando",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "fino a € 2.000.000"
-            }
-        },
         {
             "deadline": "2026-01-15",
             "title": "Aperto il bando EUROLakes per il ripristino dei laghi",
