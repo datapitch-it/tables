@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-17 16:18:29",
+    "scraping_timestamp": "2026-01-20 08:31:15",
     "data": [
         {
             "deadline": "2026-02-02",
@@ -35,18 +35,6 @@
                 "Area Classification": "Europe (Central, Northern, Southern, Western)",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "€1,120,000"
-            }
-        },
-        {
-            "deadline": "2026-01-18",
-            "title": "Call for Grant Proposals from Independent Media in Armenia",
-            "description": "International Fund for Public Interest Media",
-            "link": "https://gfmd.info/fundings/call-for-grant-proposals-from-independent-media-in-armenia/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "$75,000 USD - $200,000 USD"
             }
         },
         {

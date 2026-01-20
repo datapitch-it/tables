@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2026-01-14 06:20:56",
+    "scraping_timestamp": "2026-01-17 16:18:29",
     "data": [
+        {
+            "deadline": "2026-02-02",
+            "title": "Grant to Attend Dataharvest 2026",
+            "description": "Balkan Investigative Reporting Network (BIRN)",
+            "link": "https://gfmd.info/fundings/grant-to-attend-dataharvest-2026/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€700"
+            }
+        },
         {
             "deadline": "2026-02-04",
             "title": "Global AI Accelerator for Media",
@@ -59,18 +71,6 @@
                 "Area Classification": "North America",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "USD 4,000"
-            }
-        },
-        {
-            "deadline": "2026-01-15",
-            "title": "Journalism Trust Grant",
-            "description": "Collaborative and Investigative Journalism Initiative",
-            "link": "https://gfmd.info/fundings/journalism-trust-grant/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "€1,500 to €5,000"
             }
         },
         {
