@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-20 08:30:49",
+    "scraping_timestamp": "2026-01-22 07:19:28",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -137,154 +137,10 @@
             }
         },
         {
-            "deadline": "2026-01-20",
-            "title": "Integrating advanced materials, cell design and manufacturing development for high-performance batteries aimed at mobility (Batt4EU Partnership)",
-            "description": "The scope covers quasi-solid and all-solid-state lithium-ion battery technologies (up to 5% liquid electrolyte weight percentage) which encompasses Si-C composite anodes or lithium metal anodes.",
-            "link": "https://www.euro-access.eu/en/calls/2318/Integrating-advanced-materials-cell-design-and-manufacturing-development-for-high-performance-batteries-aimed-at-mobility-Batt4EU-Partnership",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Integration of human driving behaviour in the validation of CCAM systems (CCAM Partnership)",
-            "description": "The deployment of CCAM systems in mixed traffic will mean intense interaction with all road users such as the human drivers of other vehicles as well as pedestrians and riders of two-wheelers. These interactions (including implicit and explicit communication by humans and CCAM systems) will play a crucial role in the acceptance and thereby the penetration of CCAM systems in future road transport.",
-            "link": "https://www.euro-access.eu/en/calls/2319/Integration-of-human-driving-behaviour-in-the-validation-of-CCAM-systems-CCAM-Partnership",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Monitoring and Evaluation of the Societal Readiness Pilot",
-            "description": "The European Commission has a strong interest in learning from the implementation of Societal Readiness actions piloted in eight topics from the Cluster 5 work programme 2025, and resulting in an estimate of eighteen projects to be implemented. Conclusions on the pilot’s monitoring and evaluation will be the basis for the European Commission’s decision to replicate further these actions, to improve its implementation and possibly widen its use to other fields of application.",
-            "link": "https://www.euro-access.eu/en/calls/2320/Monitoring-and-Evaluation-of-the-Societal-Readiness-Pilot",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
             "deadline": "2026-02-17",
             "title": "Phase out fossil fuel in energy intensive industries through the efficient integration of renewable energy sources",
             "description": "Proposals are expected to demonstrate an innovative solution for the efficient, long lasting and cost-effective local integration of one or a combination of renewable thermal, electrical, bioenergy and other renewable energy sources in industrial processes, for heating, cooling and power generation, while optimising process efficiency and reuse, possibly upgrade of excess heat, with the aim of avoiding or drastically reducing fossil fuel use.",
             "link": "https://www.euro-access.eu/en/calls/2321/Phase-out-fossil-fuel-in-energy-intensive-industries-through-the-efficient-integration-of-renewable-energy-sources",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Innovative construction and maintenance, with the use of new materials and techniques, for resilient and sustainable transport infrastructure",
-            "description": "The overarching policy background is the European Grean Deal, which aims to achieve climate neutrality by 2050. In the transport area, this translates into a 90% reduction of transport-related greenhouse gas emissions by 2050. To deliver the European Green Deal, there is a need to revise and upgrade numerous policies, including those for transport and large-scale infrastructures.",
-            "link": "https://www.euro-access.eu/en/calls/2322/Innovative-construction-and-maintenance-with-the-use-of-new-materials-and-techniques-for-resilient-and-sustainable-transport-infrastructure",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Accelerating freight transport and logistics digital innovation",
-            "description": "Electronic Freight Transport Information (eFTI) platforms established in line with Regulation 2020/1056 will play a central role in facilitating the implementation of business-to-authority (B2A) information exchange processes related to multimodal transport of goods. In line with the Regulation’s requirements, common specifications for a single comprehensive data set and harmonised protocols for data sharing will ensure interoperability of the information shared electronically between actors, and the requirements for rights-based access-control system will establish safeguards for cybersecurity and trust.",
-            "link": "https://www.euro-access.eu/en/calls/2323/Accelerating-freight-transport-and-logistics-digital-innovation",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Integrating inland waterway transport in smart shipping and multimodal logistics chains",
-            "description": "While the increased use of sustainable transport modes and multimodal solutions are critical levers for transport, logistics and supply chain decarbonisation, and despite obvious environmental advantages, the modal share of the EU IWT sector has remained below expectations over the last decades. The seamless integration of inland waterway transport in multimodal supply chains requires the physical and digital connection to other land transport modes and maritime transport.",
-            "link": "https://www.euro-access.eu/en/calls/2324/Integrating-inland-waterway-transport-in-smart-shipping-and-multimodal-logistics-chains",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Development of sustainable and design-to-cost batteries with (energy-)efficient manufacturing processes and based on advanced and safer materials (Batt4EU Partnership)",
-            "description": "Proposals are expected to target technologies for design-to-cost batteries, with little reliance on Critical Raw Materials (CRM), from one of the following two main technologies:",
-            "link": "https://www.euro-access.eu/en/calls/2325/Development-of-sustainable-and-design-to-cost-batteries-with-energy-efficient-manufacturing-processes-and-based-on-advanced-and-safer-materials-Batt4EU-Partnership",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Accelerated multi-physical and virtual testing for battery aging, reliability, and safety evaluation (Batt4EU Partnership)",
-            "description": "This topic aims to reduce development costs and time to market of new battery systems by accelerated multi-physical and virtual testing.",
-            "link": "https://www.euro-access.eu/en/calls/2326/Accelerated-multi-physical-and-virtual-testing-for-battery-aging-reliability-and-safety-evaluation-Batt4EU-Partnership",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Real time monitoring of regulated and non-regulated emissions from all types of vessels and other port activities in order to enforce emission limits in waterfront cities",
-            "description": "There is a pressing need to measure accurately the different types of emissions in coastal and port environments located near to cities, because of their negative impact on the environment and human health. Ports, as intricate environments showcasing a variety of vessels including novel designs, pose a challenge to the development of standardised technologies capable of collecting and assessing real-time pollutant emissions data from these ships docking at ports. This is vital for enforcing emissions limits and validating the data for enforcement purposes.",
-            "link": "https://www.euro-access.eu/en/calls/2327/Real-time-monitoring-of-regulated-and-non-regulated-emissions-from-all-types-of-vessels-and-other-port-activities-in-order-to-enforce-emission-limits-in-waterfront-cities",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Federated CCAM data exchange platform (CCAM Partnership)",
-            "description": "Data sharing plays a pivotal role in supporting R&I, enabling deployment, and enhancing the competitiveness of the CCAM industry. Within the realm of data sharing, there are two distinct categories of data that are particularly pertinent: mobility data, and data for research and development.",
-            "link": "https://www.euro-access.eu/en/calls/2328/Federated-CCAM-data-exchange-platform-CCAM-Partnership",
-            "custom": {
-                "Funding Program": "Western Balkans Info Hub"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Safety of Cyclists, Pedestrians and Users of Micromobility Devices",
-            "description": "The share of trips made by active modes is increasing, which is in line with the United Nations Sustainable Development Goals. This increase is linked to cities actively placing more focus on the mobility and safety needs of pedestrians, cyclists, e-cyclists and users of other micro-mobility device, which materialises in new regulations, and in new or improved infrastructure.",
-            "link": "https://www.euro-access.eu/en/calls/2329/Safety-of-Cyclists-Pedestrians-and-Users-of-Micromobility-Devices",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Next-generation environment perception for real world CCAM operations: Error-free and secure technologies to improve energy-efficiency, cost-effectiveness, and circularity (CCAM Partnership)",
-            "description": "The initial deployment of Level 4 automated vehicle services in urban and other complex settings has encountered significant challenges in environmental perception and decision-making, leading to occasional remote assistance calls, blockages and accidents that have impacted public trust. At the same time, the increasing computing power demand is in conflict with a limited usage of energy and resources to meet sustainability requirements.",
-            "link": "https://www.euro-access.eu/en/calls/2330/Next-generation-environment-perception-for-real-world-CCAM-operations-Error-free-and-secure-technologies-to-improve-energy-efficiency-cost-effectiveness-and-circularity-CCAM-Partnership",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Approaches, verification and training for Edge-AI building blocks for CCAM Systems (CCAM Partnership)",
-            "description": "CCAM-enabled vehicles are constantly sensing their surroundings on road conditions, location, nearby vehicles and infrastructure. Such data is shared in real-time, while data from other sources is received. This needs powerful and optimised large data processing algorithms, which requires large amounts of computing power, data processing, real-time operation and high levels of security.",
-            "link": "https://www.euro-access.eu/en/calls/2331/Approaches-verification-and-training-for-Edge-AI-building-blocks-for-CCAM-Systems-CCAM-Partnership",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Reliable data and practices to measure and calculate transport emissions in multimodal transport chains",
-            "description": "Greenhouse gas (GHG) emissions from transport represent around 25% of total man-made GHG emissions and continue to grow. The negative impact of these is further strengthened by the existence of other external costs of transport, including air pollution, noise, congestion and accidents. The EU, Member States and industry have made considerable efforts to reduce transport-related GHG emissions and associated external costs.",
-            "link": "https://www.euro-access.eu/en/calls/2332/Reliable-data-and-practices-to-measure-and-calculate-transport-emissions-in-multimodal-transport-chains",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Predicting and avoiding road crashes based on Artificial Intelligence (AI) and big data",
-            "description": "One of the principles of the Safe System Approach is to turn from mainly re-active to pro-active management of road safety, i.e. not to derive needs for intervention primarily from crash investigations, but to intervene before serious crashes happen. The ubiquitous gathering of ever-growing amounts of data and their processing in the digital transport system support this idea providing valuable information on traffic situations and events.",
-            "link": "https://www.euro-access.eu/en/calls/2333/Predicting-and-avoiding-road-crashes-based-on-Artificial-Intelligence-AI-and-big-data",
-            "custom": {
-                "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Icing in the context of sustainable aviation",
-            "description": "The field of aircraft icing is of particular importance because it relates to the safety of flight facing adverse weather conditions, which became increasingly extreme during the last decade.",
-            "link": "https://www.euro-access.eu/en/calls/2334/Icing-in-the-context-of-sustainable-aviation",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 5 - Climate, Energy and Mobility"
             }
@@ -483,15 +339,6 @@
             "title": "European co-development",
             "description": "The objective of the support to European co-development is to support the cooperation among European production companies that are developing works with a strong international audience potential.",
             "link": "https://www.euro-access.eu/en/calls/2389/European-co-development",
-            "custom": {
-                "Funding Program": "Creative Europe - Media Strand"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Markets and Networking",
-            "description": "The objective of the Markets & networking support is to enhance the promotion of European content in the global market and to foster cooperation among all parts of the audiovisual value chain for the co-creation and promotion of European audiovisual works.",
-            "link": "https://www.euro-access.eu/en/calls/2390/Markets-and-Networking",
             "custom": {
                 "Funding Program": "Creative Europe - Media Strand"
             }
@@ -2060,6 +1907,132 @@
             "link": "https://www.euro-access.eu/en/calls/2584/Improving-availability-of-secondary-raw-materials-through-recycling",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa (FNSSA)",
+            "description": "Plant pests affecting crops in the field and/or harvests during storage are an important burden to food security, contributing to significant food losses in Africa. These can also affect internal markets and trade. It is thus crucial to tackle the impact of plant pests in an integrated manner, while ensuring this is done through technologies and practices fostering agricultural sustainability, resilience to climate change and safeguarding biodiversity.",
+            "link": "https://www.euro-access.eu/en/calls/2599/Boosting-plant-health-and-reducing-losses-on-farm-and-during-storage-for-sustainable-growth-in-Africa-FNSSA",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Boosting circularity and diversification strategies of terrestrial livestock production systems",
+            "description": "Boosting circularity and diversification strategies of livestock production systems by integrating for example diverse animal breeds and species, multiple animal products and by-products, and sustainable land-use approaches like mixed crop-livestock systems and agroforestry can help to reduce environmental ad climate impact, to increase biodiversity in agricultural landscapes, to minimize waste, and to enhance overall farming system resilience to environmental and economic shocks. Such strategies can provide alternative revenue streams (e.g., meat, dairy, wool, eggs, wood, fruit, manure, ecosystem services/carbon credits), improve farmers’ income stability, reduce dependency on external inputs and on single-product markets, and create more sustainable farms and rural economies.",
+            "link": "https://www.euro-access.eu/en/calls/2600/Boosting-circularity-and-diversification-strategies-of-terrestrial-livestock-production-systems",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Green Transition Food Processing Africa",
+            "description": "The transition to green food production and processing in Africa is to be secured by supporting start-ups or other innovative SMEs in the food manufacturing industry. New processing options should increase biodiversity and improve market opportunities for underutilized crops.",
+            "link": "https://www.euro-access.eu/en/calls/2601/Green-Transition-Food-Processing-Africa",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Strengthening the EU plant protection ecosystem for a future-proof agriculture",
+            "description": "The projects under this topic are relevant to the EU policies related to the EU’s Vision for Agriculture and Food by strengthening the plant protection ecosystem and supporting a future-proof, resilient agricultural sector.",
+            "link": "https://www.euro-access.eu/en/calls/2602/Strengthening-the-EU-plant-protection-ecosystem-for-a-future-proof-agriculture",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Boosting the competitiveness of protein crops in Europe",
+            "description": "Protein crops can play a key role in advancing sustainable and resilient European agriculture offering environmental, agronomic, economic and nutritional benefits. Despite their potential, the production and use of protein crops in Europe remains limited and require targeted efforts to scale up.",
+            "link": "https://www.euro-access.eu/en/calls/2603/Boosting-the-competitiveness-of-protein-crops-in-Europe",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Sustainable and healthy diets based on health status and socio-economic risk factors of ageing population",
+            "description": "The topic \"Sustainable and healthy diets based on health status and socio-economic risk factors of ageing population\" is relevant to the EU policies related to ageing such as the Green Paper on Ageing adopted on 27 January 2021, the Commission Communication on Demographic change in Europe: a toolbox for action, Principle 18 of the European Pillar of Social rights on long-term care and the R&I Food 2030 framework.",
+            "link": "https://www.euro-access.eu/en/calls/2604/Sustainable-and-healthy-diets-based-on-health-status-and-socio-economic-risk-factors-of-ageing-population",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Tackling pesticide resistance: early detection, management strategies, and foresight",
+            "description": "Agriculture and forestry face a growing challenge from the dual threat of a shrinking portfolio of active substances and increasing pests resistance to treatments. Climate change compounds this issue by enabling pests to survive milder winters, expand their ranges, and increase their exposure to pesticides—accelerating the development of resistance.",
+            "link": "https://www.euro-access.eu/en/calls/2607/Tackling-pesticide-resistance-early-detection-management-strategies-and-foresight",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)",
+            "description": "Controlled Environment Agriculture (CEA) refers to any form of agriculture that controls and optimises environmental conditions such as temperature, humidity, carbon dioxide, light or nutrient concentration. Examples of CEA include greenhouses, vertical farms, grow rooms, building-integrated agriculture, hydroponics, aquaponics, aeroponics, as well as other innovative farming practices - both off land and land based - where technological advancements enable precise regulation of growing conditions farming.",
+            "link": "https://www.euro-access.eu/en/calls/2608/Advanced-innovative-solutions-for-improved-competitiveness-and-sustainability-in-controlled-environment-agriculture-CEA",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Leveraging R&I knowledge on microbiome",
+            "description": "Microbiome research, adopting a holistic approach through a One Health perspective, has gained traction recently but research remains fragmented and there is a need for a coordination body that monitors research in this sector and steer research efforts in a strategical direction. Nevertheless, regulatory requirements remain one of the biggest challenges translating microbiome research to innovative solutions and such body would reinsure continuity of regulatory harmonisation efforts, conducted by previous and existing initiatives.",
+            "link": "https://www.euro-access.eu/en/calls/2609/Leveraging-RampI-knowledge-on-microbiome",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Integrating a holistic perspective in microbiome research for resilient, competitive and sustainable food systems",
+            "description": "Microbiomes hold immense potential for food systems applications, but microbiomes are often studied in siloes or one ecosystem at a time. Unlocking the functional diversity of food microbiomes to help develop innovative applications requires a systems approach. The topic is relevant to the EU policies related to the Commission communication on: Building the future with nature: Boosting Biotechnology and Biomanufacturing in the EU, the Life Science Strategy, the EU Biodiversity Strategy for 2030, the Zero Pollution Action Plan, the EU strategy on research and technology infrastructure, the R&I Food 2030 Framework and the policies related to the digital transition (e.g. AI Act, etc) and contributes to climate action and biodiversity goals.",
+            "link": "https://www.euro-access.eu/en/calls/2610/Integrating-a-holistic-perspective-in-microbiome-research-for-resilient-competitive-and-sustainable-food-systems",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Advancing basic knowledge and developing tools for sustainable management of key migratory fish species",
+            "description": "The world’s migratory species are in decline, and their global extinction risk is increasing, with a growing part of this acceleration linked to climate change and a deterioration of their migration routes. Migratory marine fish stocks - ranging across a wide size spectrum - are vital for ecosystem functioning and food security, as their long-term persistence depends on management approaches that balance sustainability with ecological resilience in a system of global change.",
+            "link": "https://www.euro-access.eu/en/calls/2611/Advancing-basic-knowledge-and-developing-tools-for-sustainable-management-of-key-migratory-fish-species",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Sustainable and healthy diets for cardiovascular diseases prevention with the support of digital applications",
+            "description": "The topic of “Sustainable and healthy nutrition for the prevention of cardiovascular disease with the help of digital applications” is relevant to EU policy in the context of the “Healthier Together” initiative, the Commission Communication on the European Health Union and the Council conclusions on the improvement of cardiovascular health in the European Union, the Food Research and Innovation Framework 2030 and the European Life Sciences Strategy.",
+            "link": "https://www.euro-access.eu/en/calls/2612/Sustainable-and-healthy-diets-for-cardiovascular-diseases-prevention-with-the-support-of-digital-applications",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Accelerating the development of breeding tools for perennial crops, specifically fruits and nuts",
+            "description": "Despite the crucial role that woody perennial crops such as fruits and nuts play in our diets, as well as their importance for global economies, biodiversity conservation and climate change mitigation, traditional breeding methods for these crops remain slow and labour-intensive due to long gestation periods (juvenile phase) and complex genetics. This hinders the timely development of perennial breeds to cope with challenges like climate change, pests and diseases, impacting among others crop productivity. Developing user-friendly tools that can be effectively transferred to breeders will boost the impact and efficiency of breeding programs for perennial crops.",
+            "link": "https://www.euro-access.eu/en/calls/2613/Accelerating-the-development-of-breeding-tools-for-perennial-crops-specifically-fruits-and-nuts",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Developing innovative phytosanitary treatments for regulated plant pests to support safe international trade",
+            "description": "Effective plant health measures play a vital role in protecting agriculture and supporting global food security, safeguarding the environment, forests, and biodiversity, and enabling safe international trade. Among these measures, (post-harvest) phytosanitary treatments — such as vapour, heat, cold, irradiation, and controlled atmosphere — are critical tools to prevent the introduction and spread of regulated plant pests through imported goods.",
+            "link": "https://www.euro-access.eu/en/calls/2614/Developing-innovative-phytosanitary-treatments-for-regulated-plant-pests-to-support-safe-international-trade",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
             }
         }
     ]

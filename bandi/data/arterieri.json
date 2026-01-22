@@ -1,30 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-17 16:13:53",
+    "scraping_timestamp": "2026-01-20 08:27:17",
     "data": [
-        {
-            "deadline": "2026-01-19",
-            "title": "Al via la selezione delle Summer School 2026 per sviluppare talenti e innovazione nel deep-tech europeo",
-            "description": "Le Summer School 2026 dell'ex EIT Digital mirano a rafforzare le competenze europee nel settore deep-tech e sostenere un ecosistema imprenditoriale competitivo",
-            "link": "https://first.art-er.it/news/call-summer-school-formare-le-skills-deep-tech",
-            "custom": {
-                "Topics": "Talenti e competenze",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 170.000"
-            }
-        },
-        {
-            "deadline": "2026-01-19",
-            "title": "Aperta la call Catalyse NEB Open Call 2026: 20.000 € per startup che incarnano i valori del New European Bauhaus",
-            "description": "Un’opportunità per startup europee che vogliono crescere con impatto, sostenibilità e bellezza",
-            "link": "https://first.art-er.it/news/aperta-la-call-catalyse-neb-open-call-2026",
-            "custom": {
-                "Topics": "NEB - New European Bauhaus, Start-up in Europa, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 1.000.000"
-            }
-        },
         {
             "deadline": "2026-01-20",
             "title": "Aperto il bando Interconnected Innovation Ecosystems 2026 di Horizon Europe",
