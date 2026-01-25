@@ -1,66 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-20 08:27:17",
+    "scraping_timestamp": "2026-01-22 07:15:24",
     "data": [
-        {
-            "deadline": "2026-01-20",
-            "title": "Aperto il bando Interconnected Innovation Ecosystems 2026 di Horizon Europe",
-            "description": "Aperti 3 nuovi topic EIE che mirano a creare ed espandere ecosistemi dell'innovazione più connessi, inclusivi ed efficienti, che sostengano la scalabilità delle imprese e stimolino l'innovazione",
-            "link": "https://first.art-er.it/news/bando-2026-interconnected-innovation-ecosystems-di-heu",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "14,40 milioni €"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "EuroHPC JU: nuovo bando per rafforzare la leadership europea nel calcolo ad alte prestazioni",
-            "description": "Lo scopo della call aperta fino al 20 gennaio 2026 è potenziare l’ecosistema europeo HPC tramite centri di eccellenza e codici di riferimento, per applicazioni scientifiche e industriali ad alte prestazioni in settori chiave",
-            "link": "https://first.art-er.it/news/nuovo-bando-eurohpc-su-calcolo-ad-alte-prestazioni",
-            "custom": {
-                "Topics": "Artificial Intelligence",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 60.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Missions: i bandi 2025 di Horizon Europe",
-            "description": "Aperti 8 nuovi bandi dedicati alle cinque Missioni di Horizon Europe per sostenere la loro attuazione anche in sinergia con altri strumenti di Horizon Europe e altri finanziamenti",
-            "link": "https://first.art-er.it/news/missions-le-call-2025-di-horizon-europe",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-20",
-            "title": "Teaming for Excellence: aperto bando per ampliare la partecipazione e rafforzare lo Spazio Europeo della Ricerca",
-            "description": "Aperta la call Widera HEU 2025 per promuovere l’eccellenza nella ricerca e innovazione attraverso il bando Teaming for Excellence",
-            "link": "https://first.art-er.it/news/horizon-europe-aperta-la-call-teaming-excellence",
-            "custom": {
-                "Topics": "",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 270.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-21",
-            "title": "Aperta la nuova FORTIS Open Call #1 a supporto dell’innovazione nella robotica collaborativa",
-            "description": "La scadenza per partecipare al bando è fissata al 21 gennaio 2026 e l'obiettivo è di incrementare efficienza, sicurezza e produttività negli ambienti industriali",
-            "link": "https://first.art-er.it/news/spazio-rilanciato-il-primo-bando-del-progetto-fortis",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "Fino a € 250.000 per progetto"
-            }
-        },
         {
             "deadline": "2026-01-24",
             "title": "Premio Impresa Ambiente 2026: aperte le candidature per la XIII edizione",

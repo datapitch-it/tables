@@ -1,16 +1,40 @@
 {
-    "scraping_timestamp": "2026-01-22 07:19:54",
+    "scraping_timestamp": "2026-01-25 12:02:11",
     "data": [
         {
-            "deadline": "2026-01-23",
-            "title": "Journalism Science Alliance (JSA) Grant",
-            "description": "The Journalism Science Alliance (JSA)",
-            "link": "https://gfmd.info/fundings/journalism-science-alliance-jsa-grant/",
+            "deadline": "2026-02-20",
+            "title": "Media Forward Fund for independent media in DACH region",
+            "description": "Media Forward Fund",
+            "link": "https://gfmd.info/fundings/media-forward-fund-for-independent-media-in-dach-region/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€200,000 - €400,000"
+            }
+        },
+        {
+            "deadline": "2026-02-18",
+            "title": "Travel grant for event on public interest reporting and AI practices",
+            "description": "Tactical Tech",
+            "link": "https://gfmd.info/fundings/travel-grant-for-event-on-public-interest-reporting-and-ai/",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Europe (Central, Northern, Southern, Western)",
+                "Tipologia Scadenza": "Open",
+                "Stanziamento": "€1000"
+            }
+        },
+        {
+            "deadline": "2026-02-08",
+            "title": "Ukraine – UNESCO IPDC Call for Project Proposals 2026",
+            "description": "International Programme for the Development of Communication (IPDC)",
+            "link": "https://gfmd.info/fundings/ukraine-unesco-ipdc-call-for-project-proposals-2026/",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "Eastern Europe, Caucasus, and Central Asia",
                 "Tipologia Scadenza": "Open",
-                "Stanziamento": "€10,000 - €50,000"
+                "Stanziamento": "US$10,000-35,000"
             }
         },
         {
