@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-25 12:02:11",
+    "scraping_timestamp": "2026-01-28 17:14:44",
     "data": [
         {
             "deadline": "2026-02-20",
@@ -227,18 +227,6 @@
                 "Area Classification": "Sub-Saharan Africa",
                 "Tipologia Scadenza": "Open",
                 "Stanziamento": "Up to $5,000"
-            }
-        },
-        {
-            "deadline": "2026-01-26",
-            "title": "Nieman-Berkman Klein Fellowship",
-            "description": "Nieman-Berkman Klein",
-            "link": "https://gfmd.info/fundings/nieman-berkman-klein-fellowship/",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Global (working in 2 or more regions)",
-                "Tipologia Scadenza": "Open",
-                "Stanziamento": "Harvard University"
             }
         },
         {

@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-01-22 07:19:28",
+    "scraping_timestamp": "2026-01-25 12:01:42",
     "data": [
         {
             "deadline": "2026-01-27",
@@ -731,24 +731,6 @@
             }
         },
         {
-            "deadline": "2026-01-23",
-            "title": "Interreg SI-HU: 2nd open call for standard projects",
-            "description": "The Interreg programme Slovenia-Hungary is a European Union funding programme that supports crossborder cooperation. The vision of the cross-border programme is to contribute to an active and cooperating border/programme region aware of its environmental, natural and cultural values, through promoting sustainable utilisation, preservation and exploitation for tourism purposes, setting up a well identifiable and attractive green tourism destination.",
-            "link": "https://www.euro-access.eu/en/calls/2448/Interreg-SI-HU-2nd-open-call-for-standard-projects",
-            "custom": {
-                "Funding Program": "Interreg Slovenia-Hungary"
-            }
-        },
-        {
-            "deadline": "2026-01-22",
-            "title": "Large scale not-for-profit European sport event",
-            "description": "Large-scale European sport events aim to reach a very high impact and implement follow up activities to ensure legacy in terms of societal benefits and promotion of inclusion through sport.",
-            "link": "https://www.euro-access.eu/en/calls/2451/Large-scale-not-for-profit-European-sport-event",
-            "custom": {
-                "Funding Program": "Erasmus+ - Sport Actions"
-            }
-        },
-        {
             "deadline": "2026-03-04",
             "title": "European Universities",
             "description": "The European Universities initiative is pivotal to achieving the ambitious vision of the Union of Skills. It contributes to an innovative, globally competitive, and attractive European Education Area, in full synergy with the European Research Area and the European Higher Education Area. The initiative aims to transform the institutional cooperation between higher education institutions, strengthening the European higher education system and enabling it to compete on the global scene.",
@@ -773,15 +755,6 @@
             "link": "https://www.euro-access.eu/en/calls/2455/EU4CSOs-In-Ukraine-Call-for-Proposals-2025",
             "custom": {
                 "Funding Program": "Ukraine Facility"
-            }
-        },
-        {
-            "deadline": "2026-01-23",
-            "title": "Strengthening Capacities and introducing EU practices for sustainable operation and management of the BIO4 Campus",
-            "description": "The project aims to support establishment of the BIO4 Campus, as a renowned hub for cutting-edge research, innovation and collaboration in the life sciences within the Southeast Europe (SEE) region. The goal is to strengthen capacities to operate and manage the BIO4 Campus and increase international visibility.",
-            "link": "https://www.euro-access.eu/en/calls/2456/Strengthening-Capacities-and-introducing-EU-practices-for-sustainable-operation-and-management-of-the-BIO4-Campus",
-            "custom": {
-                "Funding Program": "Instrument for Pre-accession Assistance"
             }
         },
         {
@@ -1910,6 +1883,123 @@
             }
         },
         {
+            "deadline": "2026-04-15",
+            "title": "Embracing innovation in agriculture by peer-to-peer learning via on farm-demonstrations and cost-benefit analysis",
+            "description": "On-farm demonstrations can be crucial for enabling innovation uptake in agriculture, as they provide a platform for showcasing and evaluating new practices, but also serve as an effective avenue for peer-to-peer (or farmer to farmer) learning, leading to skill empowerment, higher adoption rates and increased practice change compared to the traditional top-down approaches.",
+            "link": "https://www.euro-access.eu/en/calls/2585/Embracing-innovation-in-agriculture-by-peer-to-peer-learning-via-on-farm-demonstrations-and-cost-benefit-analysis",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Next-Generation AI Agents for Real-World Applications in the Apply AI sectors (Partnership in AI, Data and Robotics)",
+            "description": "Next-generation AI agents are autonomous systems powered by large AI language models (e.g., large language models or large multimodal models), that can plan, utilize tools and perform actions autonomously to achieve specified goals based on high-level instructions. The large AI model acts as the agent's \"brain,\" capable of interpreting instructions, generating plans, and using tools. This capability enables agents to autonomously plan and adapt behaviour in real-time to accomplish complex, multi-step tasks. AI Agents hold significant promise in numerous applications areas such as data analytics and coding.",
+            "link": "https://www.euro-access.eu/en/calls/2586/Next-Generation-AI-Agents-for-Real-World-Applications-in-the-Apply-AI-sectors-Partnership-in-AI-Data-and-Robotics",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Boosting data availability and AI solutions in food for consumers and food service professionals",
+            "description": "The decisions taken by consumers and food service professionals when they purchase, prepare and preserve food impact their productivity as well as the sustainability of food systems, and dietary health. AI solutions offer opportunities to assist consumers and food service professionals in these decisions. To maximise the impact of these AI solutions it is necessary to increase their uptake as well as the availability and quality of the data on which they rely.",
+            "link": "https://www.euro-access.eu/en/calls/2587/Boosting-data-availability-and-AI-solutions-in-food-for-consumers-and-food-service-professionals",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Apply AI: Next-Generation Agile and Intelligent Robotics Platforms for Industrial and Service Applications (Partnership in AI, Data and Robotics)",
+            "description": "Dynamic real-world environments require a new generation of agile, cost-effective, and intelligent, and modular robot platforms able to interact in safe and effective manner with humans across diverse industrial and service applications. These systems should be easily reconfigurable and adaptable, enabling deployment in real-time, high-performance operational contexts with minimal integration effort.",
+            "link": "https://www.euro-access.eu/en/calls/2588/Apply-AI-Next-Generation-Agile-and-Intelligent-Robotics-Platforms-for-Industrial-and-Service-Applications-Partnership-in-AI-Data-and-Robotics",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Supporting All-Atlantic Ocean Research and Innovation Alliance",
+            "description": "Tackling ocean and coastal challenges for the long term requires creating new knowledge, community acceptance and engagement, difficult decisions and strategic investments. This requires cooperation across generations, cultures, geographies and sectors.",
+            "link": "https://www.euro-access.eu/en/calls/2590/Supporting-All-Atlantic-Ocean-Research-and-Innovation-Alliance",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Increasing knowledge flows to practice within AKIS via EU thematic knowledge hubs",
+            "description": "There is a growing need to disseminate practical knowledge on challenges and opportunities for agriculture, forestry and rural areas stemming from both scientific-research and practical experience, and to link it to relevant actors through enhanced thematic collaboration between researchers, advisors and farmers.",
+            "link": "https://www.euro-access.eu/en/calls/2591/Increasing-knowledge-flows-to-practice-within-AKIS-via-EU-thematic-knowledge-hubs",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "A services and business incubator for geospatial open-source developments",
+            "description": "Open-source geospatial software ecosystems form a critical digital infrastructure for climate services, agriculture, biodiversity, environmental monitoring, and beyond. While Europe is home to world-class developers and software assets used globally and presenting the backbone to the modern geospatial sector (e.g. GDAL, QGIS, Pangeo stack, etc), their long-term sustainability remains challenged by fragmented, voluntary support, low visibility in funding and investment channels, and limited access to business knowledge and opportunity tailored to open-source development models.",
+            "link": "https://www.euro-access.eu/en/calls/2592/A-services-and-business-incubator-for-geospatial-open-source-developments",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Empowering the UN Decade of Ocean Science for Sustainable Development",
+            "description": "The United Nations Decade of Ocean Science for Sustainable Development (2021–2030) aims at mobilising the global scientific community, policymakers, industry, and civil society to advance ocean science and generate knowledge that supports the sustainable management of the ocean. The initiative aims to reverse the decline in ocean health and ensure that ocean science can fully support countries in achieving the 2030 Agenda for Sustainable Development.",
+            "link": "https://www.euro-access.eu/en/calls/2593/Empowering-the-UN-Decade-of-Ocean-Science-for-Sustainable-Development",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Improving analytical capacity and understanding of social drivers in agriculture to better assess social sustainability in the sector",
+            "description": "Knowledge gaps exist between agricultural policy priorities and data infrastructure to evaluate social sustainability issues, particularly regarding farmers. Often social issues are addressed by various policy instruments from different policy areas, but there are inconsistencies, for example in the way that target groups are identified and measured in the statistics collected at European level.",
+            "link": "https://www.euro-access.eu/en/calls/2594/Improving-analytical-capacity-and-understanding-of-social-drivers-in-agriculture-to-better-assess-social-sustainability-in-the-sector",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "New or enhanced Innovative Advanced Materials (IAM) enabled sensing functionality",
+            "description": "The development of innovative advanced material (IAM)–based sensing technologies with improved performance and reduced energy and environmental impact, strengthening competitive European value chains is to be adressed. Especially multifunctional sensing surfaces and miniaturised, integrable sensor demonstrators for applications such as environmental monitoring, industrial safety, health monitoring, and next-generation smart sensing should be part of the proposal.",
+            "link": "https://www.euro-access.eu/en/calls/2595/New-or-enhanced-Innovative-Advanced-Materials-IAM-enabled-sensing-functionality",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Coordinated European contribution to the WMO Global Greenhouse Gas Watch and its international governance",
+            "description": "The World Meteorological Organization (WMO) established in 2023 a new global greenhouse gas monitoring initiative that aims to support WMO Members in climate change mitigation actions undertaken to implement the Paris Agreement. The WMO Global Greenhouse Gas Watch (G3W) will fill critical information gaps and provide an integrated, operational framework that brings under one roof all space-based and surface-based observing systems, as well as modelling and data assimilation capabilities in relation to greenhouse gas monitoring. G3W plays a key supporting role to the UNFCCC and the Paris Agreement.",
+            "link": "https://www.euro-access.eu/en/calls/2596/Coordinated-European-contribution-to-the-WMO-Global-Greenhouse-Gas-Watch-and-its-international-governance",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Interconnect Earth Observation research for addressing environmental policies",
+            "description": "This call topic provides an Earth Observation Science Service as a dedicated tool to systematically insert the best EO science into EU climate and environmental policymaking valorising last mile policy applications building on core services provided through Copernicus.",
+            "link": "https://www.euro-access.eu/en/calls/2597/Interconnect-Earth-Observation-research-for-addressing-environmental-policies",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Boosting sustainable competitiveness in rural areas through innovation",
+            "description": "The projects under this topic are relevant to the EU policies related to the long-term vision for EU’s rural areas, the vision for agriculture and food and its objective to foster fair living and working conditions in vibrant rural areas, climate objectives, as well as the competitiveness compass which, among its three core areas for action, aims at closing the innovation gap for the EU to boost its competitiveness.",
+            "link": "https://www.euro-access.eu/en/calls/2598/Boosting-sustainable-competitiveness-in-rural-areas-through-innovation",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
             "deadline": "2026-04-14",
             "title": "Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa (FNSSA)",
             "description": "Plant pests affecting crops in the field and/or harvests during storage are an important burden to food security, contributing to significant food losses in Africa. These can also affect internal markets and trade. It is thus crucial to tackle the impact of plant pests in an integrated manner, while ensuring this is done through technologies and practices fostering agricultural sustainability, resilience to climate change and safeguarding biodiversity.",
@@ -1959,6 +2049,24 @@
             "title": "Sustainable and healthy diets based on health status and socio-economic risk factors of ageing population",
             "description": "The topic \"Sustainable and healthy diets based on health status and socio-economic risk factors of ageing population\" is relevant to the EU policies related to ageing such as the Green Paper on Ageing adopted on 27 January 2021, the Commission Communication on Demographic change in Europe: a toolbox for action, Principle 18 of the European Pillar of Social rights on long-term care and the R&I Food 2030 framework.",
             "link": "https://www.euro-access.eu/en/calls/2604/Sustainable-and-healthy-diets-based-on-health-status-and-socio-economic-risk-factors-of-ageing-population",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Towards the water infrastructures of the future",
+            "description": "With the effect of climate change as well as the emergence of new threats from chemical, biological, human and cyber origins, it is necessary to develop and test a set of tools to ensure that water and sanitation provision is resilient now and for the future, building on the solutions that emerged in the sector or adapted from other sectors.",
+            "link": "https://www.euro-access.eu/en/calls/2605/Towards-the-water-infrastructures-of-the-future",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry",
+            "description": "Agriculture and forestry are among the sectors most directly impacted by climate change, while also playing important roles in its mitigation, through greenhouse gas emissions, their reduction and carbon removals from the atmosphere. These roles are addressed in horizontal EU climate policies such as the Regulations on Land Use, Land Use Change and Forestry (LULUCF) and on Effort-sharing or the forthcoming Climate Adaptation Plan, as well as in sectoral policies, most notably the Common Agricultural Policy (CAP) with a host of relevant rules and voluntary measures.",
+            "link": "https://www.euro-access.eu/en/calls/2606/Towards-more-effective-fair-and-coherent-policies-for-climate-change-mitigation-and-adaptation-in-agriculture-and-forestry",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
             }
@@ -2033,6 +2141,366 @@
             "link": "https://www.euro-access.eu/en/calls/2614/Developing-innovative-phytosanitary-treatments-for-regulated-plant-pests-to-support-safe-international-trade",
             "custom": {
                 "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-21",
+            "title": "Thematic Networks of Excellence for AI in Science – Agriculture and Environmental Pollution (RAISE pilot)",
+            "description": "The aim of this topic is to establish a network of excellent labs across Europe, dedicated to collaborative research using AI in strategic and promising scientific areas or domains, piloting RAISE and aligning research efforts.",
+            "link": "https://www.euro-access.eu/en/calls/2615/Thematic-Networks-of-Excellence-for-AI-in-Science--Agriculture-and-Environmental-Pollution-RAISE-pilot",
+            "custom": {
+                "Funding Program": "Horizon Europe"
+            }
+        },
+        {
+            "deadline": "2026-04-21",
+            "title": "Thematic Networks of Excellence for AI in Science (RAISE pilot)",
+            "description": "The aim of this topic is to establish networks of excellent labs across Europe, dedicated to collaborative research using AI in strategic and promising scientific areas or domains, piloting RAISE and aligning research efforts.",
+            "link": "https://www.euro-access.eu/en/calls/2616/Thematic-Networks-of-Excellence-for-AI-in-Science-RAISE-pilot",
+            "custom": {
+                "Funding Program": "Horizon Europe"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Apply AI: Robotics for Manufacturing: Advancing Core Skills through Technical Challenges (Partnership in AI, Data and Robotics)",
+            "description": "The Apply AI Strategy highlights the need to accelerate the uptake of AI-powered robotics through sectoral pipelines that connect research and deployment. This call aims to accelerate the uptake of AI-powered robotics in manufacturing by developing advanced, transferable robotics skills based on robotics foundation models.",
+            "link": "https://www.euro-access.eu/en/calls/2617/Apply-AI-Robotics-for-Manufacturing-Advancing-Core-Skills-through-Technical-Challenges-Partnership-in-AI-Data-and-Robotics",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Efficient and compliant access to and use of data (AI, Data and Robotics partnership)",
+            "description": "The scope of this topic is to support the deployment of secure, interoperable, and scalable data management systems, ensuring seamless cross-sector data integration, automation of key processes, and compliance with EU frameworks.",
+            "link": "https://www.euro-access.eu/en/calls/2618/Efficient-and-compliant-access-to-and-use-of-data-AI-Data-and-Robotics-partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Large-Scale Photonic Quantum Computing Platform Technologies",
+            "description": "The European Commission wants to establish a strategic European initiative to develop scalable, modular and interoperable photonic quantum computing platforms, addressing key technical bottlenecks such as deterministic photonic entanglement and the lack of an integrated, standardised control stack.",
+            "link": "https://www.euro-access.eu/en/calls/2619/Large-Scale-Photonic-Quantum-Computing-Platform-Technologies",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Web 4.0 architectural framework and Open Internet Stack applications for virtual worlds",
+            "description": "The emergence of European Web 4.0 and Virtual Worlds solutions by supporting open, interoperable, and secure standards, components, and applications built on Open Source technologies is to be stimulated. Proposals must address either a human-centric Web 4.0 architectural framework or mature, decentralised applications, both designed for trust, sovereignty, interoperability, and compliance with EU regulations. Strong emphasis is placed on cross-platform interoperability, immersive and extended-reality capabilities, advanced identity management, and easy deployment across European ecosystems.",
+            "link": "https://www.euro-access.eu/en/calls/2620/Web-40-architectural-framework-and-Open-Internet-Stack-applications-for-virtual-worlds",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Standards for Quantum Technologies",
+            "description": "The development and uptake of European and international standards for quantum technologies, strengthening interoperability, reliability, and trust while reinforcing Europe’s leadership in global quantum standardisation is one key objective of the European Commission. The delivery of concrete pre-normative standards and technical specifications across quantum computing, communication, and sensing, with strong involvement of European industry, especially SMEs and start-ups, in bodies such as ISO/IEC, ITU-T, and ETSI is important.",
+            "link": "https://www.euro-access.eu/en/calls/2621/Standards-for-Quantum-Technologies",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Apply AI: Pilot of the “Science for AI” Pillar of RAISE (“Resource for AI science in Europe”)",
+            "description": "Ensuring Europe's technological sovereignty in AI requires reinforcing and leveraging Europe's strengths, particularly its world-class AI research community.",
+            "link": "https://www.euro-access.eu/en/calls/2622/Apply-AI-Pilot-of-the-Science-for-AI-Pillar-of-RAISE-Resource-for-AI-science-in-Europe",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Challenge-Driven GenAI4EU Booster in Apply AI prioritised sectors (AI/Data/Robotics Partnership)",
+            "description": "Generative AI (GenAI) promises to transform most industry sectors. This challenge-driven initiative aims to boost both Europe’s developer community and the adoption of powerful trustworthy generative AI solutions in the strategic sectors of aerospace, pharma/drugs and telecommunication networks, key for their competitiveness.",
+            "link": "https://www.euro-access.eu/en/calls/2623/Challenge-Driven-GenAI4EU-Booster-in-Apply-AI-prioritised-sectors-AIDataRobotics-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Grand Challenge on Quantum Sensors for Inertial Navigation",
+            "description": "The Grand Challenge on Quantum Sensors for Inertial Navigation aims to advance the development of quantum-enabled navigation systems for use in GNSS-denied or contested environments. Q-INS combines quantum sensors with classical inertial measurement subsystems to deliver reliable, resilient, and sovereign positioning capabilities. The topic supports the EU’s ambition to strengthen technological sovereignty in strategic navigation infrastructures, aligned with the objectives of the STEP and the Digital Decade.",
+            "link": "https://www.euro-access.eu/en/calls/2624/Grand-Challenge-on-Quantum-Sensors-for-Inertial-Navigation",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Developing and demonstrating core technologies for Virtual Worlds and Web 4.0 (Virtual worlds Partnership)",
+            "description": "The objective is to advance next-generation Virtual Worlds by developing highly immersive, interactive XR technologies that tightly integrate Virtual Worlds and Web 4.0. The development should focus on realistic, human-centric experiences with low latency, multi-modal interaction, haptics, and dynamic adaptation to users and environments, supported by generative AI and advanced asset and scene creation.",
+            "link": "https://www.euro-access.eu/en/calls/2625/Developing-and-demonstrating-core-technologies-for-Virtual-Worlds-and-Web-40-Virtual-worlds-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Advanced Local Digital Twins using AI for Early Warning and Preparedness",
+            "description": "The development of open AI models that strengthen flood preparedness and urban resilience by enabling proactive, data-driven decision-making before disasters occur, is an important objective of the European Commission. Projects will enhance Local Digital Twins with advanced AI, hydrological and hydraulic modelling to improve prediction, simulation, and impact assessment of urban and riverine flooding under climate change scenarios.",
+            "link": "https://www.euro-access.eu/en/calls/2626/Advanced-Local-Digital-Twins-using-AI-for-Early-Warning-and-Preparedness",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Networking and Future Photonics Strategy (Photonics Partnership)",
+            "description": "The European Commission wants to ensure continued strategic coordination of the European photonics ecosystem through transparent governance and bottom-up development of a shared Strategic Research and Innovation Agenda (SRIA). It aims to strengthen engagement across industry, academia, national platforms and end-user sectors, while improving alignment between regional, national and EU R&I priorities.",
+            "link": "https://www.euro-access.eu/en/calls/2627/Networking-and-Future-Photonics-Strategy-Photonics-Partnership",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Fostering 2-Dimensional Materials (2DM) based emerging and enabling technologies",
+            "description": "The European Commission wants to maximise the impact of EU-funded research and innovation in graphene and other two-dimensional materials (2DM)-based emerging and enabling technologies. It aims to reinforce the European 2DM R&I community by fostering collaboration and synergies among EU-funded projects, including the Graphene Flagship, and related stakeholders.",
+            "link": "https://www.euro-access.eu/en/calls/2628/Fostering-2-Dimensional-Materials-2DM-based-emerging-and-enabling-technologies",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Open Internet Stack Sovereign Solutions",
+            "description": "It is important to build a broad portfolio of mature European open-source solutions organised under the Open Internet Stack framework, addressing both supply and demand across Europe’s diverse digital ecosystem. It focuses on interoperable, standards-based and decentralised technologies—such as networking, sovereign operating systems, and open-source productivity and software supply-chain tools—that are easy to deploy and scalable across sectors.",
+            "link": "https://www.euro-access.eu/en/calls/2629/Open-Internet-Stack-Sovereign-Solutions",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Open Internet Stack Support for Scale",
+            "description": "The Open Internet Stack Support for Scale call aims to establish a European hub for cataloguing, validating, and scaling Open Internet Stack open-source components.",
+            "link": "https://www.euro-access.eu/en/calls/2630/Open-Internet-Stack-Support-for-Scale",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Strengthening the cooperation of semiconductor-intensive EU regions",
+            "description": "The European Commission wants to strengthen cooperation among semiconductor-intensive European regions and their industrial clusters, in close collaboration with regional governments. It supports actions that want to map regional semiconductor ecosystems across the full value chain, identify common needs, and contribute to regional smart specialisation strategies in semiconductors, including electronic and photonic chips.",
+            "link": "https://www.euro-access.eu/en/calls/2631/Strengthening-the-cooperation-of-semiconductor-intensive-EU-regions",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 4 - Digital, Industry and Space"
+            }
+        },
+        {
+            "deadline": "2026-03-10",
+            "title": "Supporting further alignment with the EU acquis for food safety, veterinary, and phytosanitary policies",
+            "description": "To ensure the full transposition of the acquis communautaire and its progressive implementation by well-structured and trained administration aiming to secure a high level of public health, animal health, animal welfare and plant health at the national and EU level.",
+            "link": "https://www.euro-access.eu/en/calls/2632/Supporting-further-alignment-with-the-EU-acquis-for-food-safety-veterinary-and-phytosanitary-policies",
+            "custom": {
+                "Funding Program": "Instrument for Pre-accession Assistance"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Projects to Support Maritime Spatial Planning (MSP)",
+            "description": "This call is intended to fund projects to develop innovative responses to tackle specific challenges that EU Members States might encounter when putting into effect, monitoring and/or revising their maritime spatial plans. Many of these challenges are common to coastal Member States. There is thus a shared interest in developing innovative responses that can apply within a sea basin and/or across sea basins.",
+            "link": "https://www.euro-access.eu/en/calls/2633/Projects-to-Support-Maritime-Spatial-Planning-MSP",
+            "custom": {
+                "Funding Program": "European Maritime, Fisheries and Aquaculture Fund"
+            }
+        },
+        {
+            "deadline": "2026-04-21",
+            "title": "Technical Assistance for Disaster Risk Management",
+            "description": "The action “Technical Assistance for Disaster Risk Management” (hereinafter: “Track 1”) provides national disaster risk management authorities of eligible countries with financial support for the development of strategic disaster risk management actions. National disaster risk management authorities are best placed to identify priorities and gaps that the UCPM and other programmes (national, EU, international) can help address in their countries.",
+            "link": "https://www.euro-access.eu/en/calls/2641/Technical-Assistance-for-Disaster-Risk-Management",
+            "custom": {
+                "Funding Program": "Union Civil Protection Mechanism Funds"
+            }
+        },
+        {
+            "deadline": "2026-02-15",
+            "title": "Interreg SE-NO: 9th Call for Proposals",
+            "description": "The aim of the Interreg Sweden-Norway 2021-2027 program is to promote a smarter, greener, more social and stronger border region and thus support the sustainable development and transition to an attractive border region without border barriers.",
+            "link": "https://www.euro-access.eu/en/calls/2634/Interreg-SE-NO-9th-Call-for-Proposals",
+            "custom": {
+                "Funding Program": "Interreg Sweden-Norway"
+            }
+        },
+        {
+            "deadline": "2026-02-13",
+            "title": "Interreg Öresund-Kattegat-Skagerrak: Application round 2026:1",
+            "description": "Projects wishing to apply for funding must select an action area (Innovation and Entrepreneurship, Green Transition, Transport and Mobility or Borderless Labor Market). Within the Innovation and Entrepreneur Entrepreneurship input area, projects must target companies and promote the market-oriented development of products, services and processes in companies. In addition, projects that focus on defense, preparedness and security issues are particularly encouraged.",
+            "link": "https://www.euro-access.eu/en/calls/2635/Interreg-Oeresund-Kattegat-Skagerrak-Application-round-20261",
+            "custom": {
+                "Funding Program": "Interreg Öresund-Kattegat-Skagerrak"
+            }
+        },
+        {
+            "deadline": "2026-02-18",
+            "title": "Agroecology Partnership - 3rd Call",
+            "description": "This call focuses on two key pillars of the agroecological transition: the genetic dimension and the social dimension. The first topic addresses genetic diversity and variability in crops and livestock, with the aim of laying the foundations for increasing the availability of species, varieties, and breeds that will support the development of agroecological farming systems. The second topic addresses the social challenges of today’s agriculture, with a particular focus on farmers' motivation, skills, and knowledge and the role of stakeholders in encouraging their engagement in the agroecological transition.",
+            "link": "https://www.euro-access.eu/en/calls/2636/Agroecology-Partnership-3rd-Call",
+            "custom": {
+                "Funding Program": "Horizon Europe"
+            }
+        },
+        {
+            "deadline": "2026-03-03",
+            "title": "Interreg AT-HU: Call for standard projects - cut-off date March 2026 for small-scale and regular projects",
+            "description": "The Interreg VI-A Austria-Hungary Programme is open for standard project applications in all four priorities, in every specific objective of the programme.",
+            "link": "https://www.euro-access.eu/en/calls/2638/Interreg-AT-HU-Call-for-standard-projects-cut-off-date-March-2026-for-small-scale-and-regular-projects",
+            "custom": {
+                "Funding Program": "Interreg Austria-Hungary"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Interreg AT-CZ: Call - cut-off date March 2026",
+            "description": "As a part of the European cohesion policy, the Interreg Programme Austria-Czech Republic aims to support sustainable cross-border cooperation and to contribute to the improvement of economic, social and territorial integration.",
+            "link": "https://www.euro-access.eu/en/calls/2637/Interreg-AT-CZ-Call-cut-off-date-March-2026",
+            "custom": {
+                "Funding Program": "Interreg Austria-Czechia"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
+            "title": "Support for social dialogue",
+            "description": "This call aims at contributing to the promotion of social dialogue at cross-industry and sectoral level, developing European social dialogue, and building and strengthening the capacity of social partner organisations (both in Member States and candidate countries).",
+            "link": "https://www.euro-access.eu/en/calls/2640/Support-for-social-dialogue",
+            "custom": {
+                "Funding Program": "Social Prerogative and Specific Competencies Lines"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increasing the consumption of fresh fruit and vegetables in the internal market",
+            "description": "Information provision and promotion programmes aiming at increasing the consumption of fresh fruit and vegetables in the internal market in the context of balanced and healthy dietary practices.",
+            "link": "https://www.euro-access.eu/en/calls/2642/Increasing-the-consumption-of-fresh-fruit-and-vegetables-in-the-internal-market",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Organic products under the Union quality scheme OR Increasing the awareness of Union sustainable agriculture and animal welfare in third countries",
+            "description": "Information provision and promotion programmes concerning the organic products under the Union quality scheme referred to in Article 5(4), point (b), of Regulation (EU) No 1144/2014 in third countries.",
+            "link": "https://www.euro-access.eu/en/calls/2643/Organic-products-under-the-Union-quality-scheme-OR-Increasing-the-awareness-of-Union-sustainable-agriculture-and-animal-welfare-in-third-countries",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Information provision and promotion programmes targeting third countries",
+            "description": "Information provision and promotion programmes targeting third countries.",
+            "link": "https://www.euro-access.eu/en/calls/2644/Information-provision-and-promotion-programmes-targeting-third-countries",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increase the awareness and recognition of the Union quality scheme on organic production",
+            "description": "Information provision and promotion programmes aiming at increasing the awareness and recognition of Union quality scheme on organic production method referred to in Article 5(4), point (b), of Regulation (EU) No 1144/2014.",
+            "link": "https://www.euro-access.eu/en/calls/2645/Increase-the-awareness-and-recognition-of-the-Union-quality-scheme-on-organic-production",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Highlighting the specific features of agricultural methods in the Union",
+            "description": "Information provision and promotion programmes aiming at highlighting the specific features of agricultural methods in the Union and the characteristics of European agricultural and food products, and quality schemes referred to in Article 5(4), point (d) of Regulation (EU) No 1144/2014.",
+            "link": "https://www.euro-access.eu/en/calls/2646/Highlighting-the-specific-features-of-agricultural-methods-in-the-Union",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increasing the consumption of fresh fruit and vegetables in the internal market",
+            "description": "Information and promotion programmes aiming at increasing the consumption of fresh fruit and vegetables in the internal market in the context of balanced and healthy dietary practices. Products eligible under this topic are those listed in Part IX and fresh bananas in Part XI of Annex I to Regulation (EU) No 1308/2013.",
+            "link": "https://www.euro-access.eu/en/calls/2647/Increasing-the-consumption-of-fresh-fruit-and-vegetables-in-the-internal-market",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increasing the awareness and recognition of Union quality schemes",
+            "description": "Information provision and promotion programmes aiming at increasing the awareness and recognition of Union quality schemes as referred to in Article 5(4), points (a) and (c), of Regulation (EU) No 1144/2014.",
+            "link": "https://www.euro-access.eu/en/calls/2648/Increasing-the-awareness-and-recognition-of-Union-quality-schemes",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Awarness of Union sustainable agriculture and animal welfare",
+            "description": "The objective is to highlight the sustainability of Union agriculture, stressing its beneficial role for the climate, the environment and animal welfare.",
+            "link": "https://www.euro-access.eu/en/calls/2649/Awarness-of-Union-sustainable-agriculture-and-animal-welfare",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increasing the awareness of Union sustainable agriculture and animal welfare",
+            "description": "Information provision and promotion programmes aiming at increasing the awareness of Union sustainable agriculture and animal welfare.",
+            "link": "https://www.euro-access.eu/en/calls/2650/Increasing-the-awareness-of-Union-sustainable-agriculture-and-animal-welfare",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Information provision and promotion programmes targeting any third countries",
+            "description": "The objectives of these programmes shall comply with the general and specific objectives set out and the aims listed in Articles 2 and 3, respectively, of Regulation (EU) No 1144/2014.",
+            "link": "https://www.euro-access.eu/en/calls/2651/Information-provision-and-promotion-programmes-targeting-any-third-countries",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increasing the awareness and recognition of Union quality schemes OR Highlighting the specific features of agricultural methods in the Union",
+            "description": "Information provision and promotion programmes aiming at increasing the awareness and recognition of Union quality schemes mentioned in Article 5(4), points (a) and (c), of Regulation (EU) No 1144/2014.",
+            "link": "https://www.euro-access.eu/en/calls/2652/Increasing-the-awareness-and-recognition-of-Union-quality-schemes-OR-Highlighting-the-specific-features-of-agricultural-methods-in-the-Union",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Increase the awareness and recognition of the Union quality scheme on organic production",
+            "description": "Information provision and promotion programmes aiming at increasing the awareness and recognition of Union quality scheme on organic production method as defined in Article 5(4), point (b), of Regulation (EU) No 1144/2014.",
+            "link": "https://www.euro-access.eu/en/calls/2653/Increase-the-awareness-and-recognition-of-the-Union-quality-scheme-on-organic-production",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-04-23",
+            "title": "Organic products OR Increasing the awareness of Union sustainable agriculture and animal welfare in any third countries",
+            "description": "Information provision and promotion programmes concerning the organic products under Union quality scheme referred to in Article 5(4), point (b), of Regulation (EU) No 1144/2014 in any third countries.",
+            "link": "https://www.euro-access.eu/en/calls/2654/Organic-products-OR-Increasing-the-awareness-of-Union-sustainable-agriculture-and-animal-welfare-in-any-third-countries",
+            "custom": {
+                "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-05-19",
+            "title": "Full Scale Exercises",
+            "description": "The specific objective of the KAPP-EX call is to improve civil protection preparedness and response to all kinds of natural or human-induced disasters inside the Member States by providing a testing environment and a learning opportunity for all actors involved in civil protection assistance interventions through a full-scale field exercise at several levels.",
+            "link": "https://www.euro-access.eu/en/calls/2656/Full-Scale-Exercises",
+            "custom": {
+                "Funding Program": "Union Civil Protection Mechanism Funds"
             }
         }
     ]

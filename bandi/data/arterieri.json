@@ -1,18 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-22 07:15:24",
+    "scraping_timestamp": "2026-01-25 11:56:16",
     "data": [
-        {
-            "deadline": "2026-01-24",
-            "title": "Premio Impresa Ambiente 2026: aperte le candidature per la XIII edizione",
-            "description": "Il premio valuta innovazione e sostenibilità in processi, prodotti e servizi aziendali",
-            "link": "https://first.art-er.it/news/premio-impresa-ambiente-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2026-01-25",
             "title": "Aperte le candidature per l’EUDIS Business Accelerator – Cohort #2",
@@ -519,6 +507,18 @@
         },
         {
             "deadline": "2026-03-12",
+            "title": "EIT Urban Mobility apre il bando RAPTOR 2026 per start-up e PMI",
+            "description": "È aperta la RAPTOR Open Call nell’ambito del Business Plan 2026–2028 di EIT Urban Mobility, con contributi fino a 60.000 euro per soluzioni innovative di mobilità urbana",
+            "link": "https://first.art-er.it/news/aperto-il-bando-raptor-2026-start-e-pmi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 900.000"
+            }
+        },
+        {
+            "deadline": "2026-03-12",
             "title": "Ampliare la partecipazione e rafforzare lo Spazio Europeo della Ricerca: il bando \"Enhancing the European R&I system\" 2026 di Horizon Europe",
             "description": "Il bando ha un budget complessivo di 52 milioni di euro e contiene 8 topic con scadenza 12 marzo 2026",
             "link": "https://first.art-er.it/news/bando-enhancing-european-ri-system-2026-di-heu",
@@ -554,6 +554,18 @@
             }
         },
         {
+            "deadline": "2026-03-15",
+            "title": "DIGI4ECO: lanciato un nuovo bando per la digitalizzazione dati marini",
+            "description": "Un nuovo bando a cascata promuove la digitalizzazione e la standardizzazione di dati biologici, ambientali e socio-ecologici per potenziare il Digital Twin of the Ocean",
+            "link": "https://first.art-er.it/news/bando-digi4eco-2026",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 260.000"
+            }
+        },
+        {
             "deadline": "2026-03-19",
             "title": "Innovazione interregionale: nuove opportunità di capacity building per le regioni meno sviluppate",
             "description": "L'obiettivo è rafforzare la competitività e preparare gli ecosistemi locali a futuri investimenti interregionali",
@@ -578,14 +590,74 @@
             }
         },
         {
+            "deadline": "2026-03-23",
+            "title": "Aperto il bando LLM-BRIDGE per rafforzare l’incubazione europea nella Generative AI",
+            "description": "Un’unica call europea per selezionare un incubatore capace di guidare la crescita di startup early-stage nel settore della Generative AI",
+            "link": "https://first.art-er.it/news/bando-llm-bridge-incubatori-genai",
+            "custom": {
+                "Topics": "Artificial Intelligence, Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 60.000"
+            }
+        },
+        {
             "deadline": "2026-03-24",
-            "title": "EuroHPC JU: annunciati nuovi bandi per un benchmark sul supercalcolo europeo",
+            "title": "EuroHPC JU: i bandi per un benchmark sul supercalcolo europeo",
             "description": "Le call hanno l’obiettivo condiviso di sostenere lo sviluppo di un ecosistema HPC e quantistico più efficiente, sostenibile e integrato",
             "link": "https://first.art-er.it/news/ue-investe-nei-benchmark-supercalcolo-e-quantistica",
             "custom": {
                 "Topics": "Artificial Intelligence, Quantum",
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-26",
+            "title": "CASSINI Challenges: al via la nuova edizione a sostegno di soluzioni che utilizzano tecnologie spaziali",
+            "description": "L’iniziativa CASSINI Challenges mira ad accelerare la trasformazione di idee ad alto contenuto tecnologico in prodotti di mercato, rafforzando la competitività industriale",
+            "link": "https://first.art-er.it/news/spazio-e-soluzioni-innovative-nuove-cassini-challenges",
+            "custom": {
+                "Topics": "Start-up in Europa",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 100.000 per progetto"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Clima, energia, mobilità: aperto il bando BATTERIES and ENERGY del Cluster 5 di Horizon Europe",
+            "description": "La Commissione Europea ha aperto un nuovo bando dedicato alle batterie nell'ambito del Programma di Lavoro 2026-2027 di Horizon Europe",
+            "link": "https://first.art-er.it/news/clima-energia-mobilita-bando-batteries-and-energy",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "176.70 milioni di €"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Missions: i bandi Cross-cutting di Horizon Europe",
+            "description": "Aperti 3 topic per finanziare progetti per attività trasversali nell'ambito delle Mission di Horizon Europe",
+            "link": "https://first.art-er.it/news/missions-i-bandi-cross-cutting-di-horizon-europe",
+            "custom": {
+                "Topics": "Deep tech",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "11 milioni di €"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "CERIC-ERIC nuovo bando per l'accesso a infrastrutture di ricerca",
+            "description": "Disponibili più di 60 strumenti e 2 laboratori nei campi dei materiali, dei biomateriali e delle nanotecnologie per ricercatori di tutto il mondo",
+            "link": "https://first.art-er.it/news/call-proposals-di-ceric-eric-1",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "N/A"
             }
         },
@@ -711,6 +783,18 @@
         },
         {
             "deadline": "2026-04-15",
+            "title": "Clean Hydrogen Partnership: online il bando 2026",
+            "description": "Nell'ambito della partnership europea Clean Hydrogen, finanziamenti Horizon Europe per sostenere la ricerca e l’innovazione sulle tecnologie dell’idrogeno lungo la catena del valore",
+            "link": "https://first.art-er.it/news/clean-hydrogen-partnership-online-il-bando-2026",
+            "custom": {
+                "Topics": "Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 105.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-15",
             "title": "Food, Bioeconomy, Natural Resources, Agriculture and Environment: aperto il bando \"Call 03 - single stage (2026)\" di Horizon Europe",
             "description": "La call HORIZON-CL6-2026-03 è contenuta nel WP Food, Bioeconomy, Natural Resources, Agriculture and Environment 2025 di Horizone Europe e include 10 topic",
             "link": "https://first.art-er.it/news/food-bando-cluster-6-call-03-single-stage-2026",
@@ -767,6 +851,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-04-21",
+            "title": "Contratti di sviluppo: Investimenti per sostenibilità processi produttivi",
+            "description": "Il PNRR sostiene gli investimenti privati per la produzione di energia da fonte rinnovabile per l’autoconsumo e la trasformazione sostenibile dei processi produttivi",
+            "link": "https://first.art-er.it/news/contratti-di-sviluppo-investimenti-sostenibilita-processi-produttivi",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "€ 350.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-21",
+            "title": "Contratti di sviluppo “Net zero, Rinnovabili e Batterie”",
+            "description": "La misura PNRR sostiene gli investimenti privati per il rafforzamento delle catene di produzione dei dispositivi utili per la transizione ecologica",
+            "link": "https://first.art-er.it/news/contratti-di-sviluppo-net-zero-rinnovabili-e-batterie",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "A sportello",
+                "Stanziamento": "€ 1.739.000.000"
             }
         },
         {
@@ -866,6 +974,18 @@
             }
         },
         {
+            "deadline": "2026-06-15",
+            "title": "Droni: al via il bando ECDI per le PMI innovative europee",
+            "description": "Il consorzio ECDI lancia un bando da 50.000 euro per sostenere la digitalizzazione e l'internazionalizzazione delle eccellenze europee nel campo dei droni",
+            "link": "https://first.art-er.it/news/droni-bando-ecdi-le-pmi-innovative-europee",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 1.250.000"
+            }
+        },
+        {
             "deadline": "2026-06-17",
             "title": "EUP OHAMR: lanciato il bando per nuove terapie contro la resistenza antimicrobica",
             "description": "L'obiettivo del bando è di migliorare i tassi di successo dei trattamenti per pazienti, animali o piante",
@@ -875,6 +995,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 31.000.000"
+            }
+        },
+        {
+            "deadline": "2026-06-25",
+            "title": "Al via un nuovo premio per premiare le comunità energetiche",
+            "description": "L'iniziativa sostiene le comunità energetiche che sviluppano modelli innovativi di governance e gestione delle energie rinnovabili",
+            "link": "https://first.art-er.it/news/premio-le-comunita-energetiche-e-innovazione-verde",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.000.000"
             }
         },
         {
@@ -998,6 +1130,18 @@
             }
         },
         {
+            "deadline": "2026-08-20",
+            "title": "BE READY: al via nel 2026 il primo bando transnazionale europeo sulla preparazione alle pandemie",
+            "description": "L’obiettivo della call è quello di rafforzare la preparazione alle emergenze sanitarie causate da malattie infettive emergenti",
+            "link": "https://first.art-er.it/news/be-ready-al-nel-2026-il-primo-bando-transnazionale-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 16.400.000"
+            }
+        },
+        {
             "deadline": "2026-09-15",
             "title": "Horizon Europe 2026: pubblicate le Industry Calls del Cluster 4",
             "description": "570 milioni di euro disponibili per progetti di ricerca e innovazione su materiali avanzati, materie prime, tecnologie abilitanti digitali ed emergenti",
@@ -1023,6 +1167,18 @@
         },
         {
             "deadline": "2026-09-17",
+            "title": "Aperto il bando ERC Proof of Concept 2026",
+            "description": "Il programma dell'European Research Council sostiene il passaggio dalla ricerca di frontiera all’innovazione con finanziamenti dedicati",
+            "link": "https://first.art-er.it/news/erc-proof-concept-2026-aperto-il-bando",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "€ 150.000"
+            }
+        },
+        {
+            "deadline": "2026-09-17",
             "title": "Global Health EDCTP3: i nuovi bandi per affrontare le sfide sanitarie globali",
             "description": "Le proposte selezionate contribuiranno al miglioramento della salute globale e al rafforzamento delle capacità di ricerca in Africa",
             "link": "https://first.art-er.it/news/salute-africa-focus-su-salute-e-cooperazione-0",
@@ -1031,6 +1187,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-09-22",
+            "title": "CBE JU: in arrivo la call 2026 su bioeconomia circolare e soluzioni bio-based",
+            "description": "Oltre 170 milioni di euro per progetti di ricerca, innovazione e dimostrazione",
+            "link": "https://first.art-er.it/news/cbe-ju-arrivo-la-call-2026-su-bioeconomia-circolare-e-soluzioni-bio-based",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 170.700.000"
             }
         },
         {
@@ -1079,6 +1247,42 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 4.473.000.000"
+            }
+        },
+        {
+            "deadline": "2026-10-08",
+            "title": "Clima, energia, mobilità: aperti i bandi CLIMATE del Cluster 5 di Horizon Europe",
+            "description": "La Commissione Europea ha aperto due nuovi bandi dedicati al clima nell'ambito del Programma di Lavoro 2026-2027 di Horizon Europe",
+            "link": "https://first.art-er.it/news/clima-energia-mobilita-bandi-climate",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "82 milioni di € (HORIZON-CL5-2026-07) e 45 milioni di € (HORIZON-CL5-2026-08-Two-Stage)"
+            }
+        },
+        {
+            "deadline": "2026-10-08",
+            "title": "Clima, energia, mobilità: aperti i bandi MOBILITY del Cluster 5 di Horizon Europe",
+            "description": "La Commissione Europea ha aperto due nuovi bandi dedicati alla mobilità nell'ambito del Programma di Lavoro 2026-2027 di Horizon Europe",
+            "link": "https://first.art-er.it/news/clima-energia-mobilita-bandi-mobility",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "138 milioni di € (HORIZON-CL5-2026-05) e 22.50 milioni di € (HORIZON-CL5-2026-06-Two-Stage)"
+            }
+        },
+        {
+            "deadline": "2026-10-20",
+            "title": "Clima, energia, mobilità: aperto il bando ENERGY del Cluster 5 di Horizon Europe",
+            "description": "La Commissione Europea ha aperto un nuovo bando nel settore energetico nell'ambito del Programma di Lavoro 2026-2027 di Horizon Europe",
+            "link": "https://first.art-er.it/news/clima-energia-mobilita-bando-energy",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "23.50 milioni di €"
             }
         },
         {
@@ -1371,7 +1575,7 @@
         },
         {
             "deadline": "",
-            "title": "MIMIT: aprirà a maggio il bando per progetti di R&D in ambito STEP da realizzare nel Mezzogiorno",
+            "title": "MIMIT per il Mezzogiorno: progetti R&D in ambito Tecnologie critiche ed emergenti (STEP)",
             "description": "Il bando sosterrà lo sviluppo di tecnologie critiche ed emergenti attraverso l’adozione di soluzioni tecnologicamente avanzate",
             "link": "https://first.art-er.it/news/sostegno-alla-ricerca-pmi-nelle-regioni-del-sud-0",
             "custom": {
@@ -1431,18 +1635,6 @@
         },
         {
             "deadline": "",
-            "title": "Sostenibilità processi produttivi: aperto lo sportello per contratti di sviluppo",
-            "description": "Il PNRR sostiene gli investimenti privati per la produzione di energia da fonte rinnovabile per l’autoconsumo e la trasformazione sostenibile dei processi produttivi",
-            "link": "https://first.art-er.it/news/sostenibilita-processi-produttivi-aperto-lo-sportello-contratti-di-sviluppo",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "€ 350.000.000"
-            }
-        },
-        {
-            "deadline": "",
             "title": "MIMIT: al via un nuovo bando per progetti di ricerca e sviluppo delle imprese del Mezzogiorno",
             "description": "I progetti devono riguardare attività di ricerca industriale e sviluppo sperimentale di rilevanza strategica per il sistema produttivo, coerentemente con la Strategia nazionale di specializzazione intelligente",
             "link": "https://first.art-er.it/news/bando-mimit-progetti-innovativi-nel-mezzogiorno-0",
@@ -1451,18 +1643,6 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "A sportello",
                 "Stanziamento": "€ 470.000.000"
-            }
-        },
-        {
-            "deadline": "",
-            "title": "Nuovo bando per contratti di sviluppo “Net zero, Rinnovabili e Batterie”",
-            "description": "La misura PNRR sostiene gli investimenti privati per il rafforzamento delle catene di produzione dei dispositivi utili per la transizione ecologica",
-            "link": "https://first.art-er.it/news/contratti-di-sviluppo-net-zero-rinnovabili-e-batterie",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "A sportello",
-                "Stanziamento": "€ 1.739.000.000"
             }
         },
         {
