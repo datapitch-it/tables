@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2026-01-25 12:02:33",
+    "scraping_timestamp": "2026-01-28 17:15:01",
     "data": [
+        {
+            "deadline": "2026-11-12 16:00",
+            "title": "NUOVA IMPRESA - PICCOLI COMUNI E FRAZIONI 2026",
+            "description": "Regione Lombardia attiva per l'anno 2026 il bando “Nuova Impresa - Piccoli Comuni e Frazioni 2026” finalizzato a sostenere l’apertura di nuove attività di commercio al dettaglio in sede fissa di prodotti alimentari e generi di prima necessità nei piccoli comuni e nelle frazioni di tutti i comuni lombardi, attraverso l’erogazione di contributi sui costi connessi all’avvio di una nuova impresa ovvero di una unità locale di imprese già esistenti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-avvio-impresa/nuova-impresa-piccoli-comuni-frazioni-2026-RLO12025051423",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2026-02-20 12:00",
             "title": "Iscrizione alle prove attitudinali per accompagnatori di media montagna - anno 2026",
@@ -126,18 +138,6 @@
             "title": "Interventi per il sostegno di allievi con disabilità frequentanti i percorsi triennali/quadriennali/IV anno (IeFP) - a.f. 2025/2026. FSE+ 2021-2027",
             "description": "Il finanziamento, a valere sulle risorse del FSE+ 2021-2027, copre i costi del personale specializzato che opera in affiancamento alle attività ordinarie di aula, laboratorio e alternanza nell’ambito di progetti personalizzati.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/diritto-dovere-istruzione/interventi-sostegno-allievi-disabilit-frequentanti-percorsi-triennali-quadriennali-quarto-anno-iefp-f-2025-2026-RLW12025047744",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-28 16:28",
-            "title": "Richiesta dell’RTI – Salvadori Felice & C s.r.l., Salvadori Felice s.r.l., di movimentazione e asportazione materiale alluvionale alla foce del torrente Vantone in Comune di Idro (Bs) – Avviso istanza di parte per la concessione di estrazione materiale litoide.",
-            "description": "R.D. 523/1904 – D.G.R. 21 dicembre 2020 n. XI/4122. \nRichiesta dell’RTI – Salvadori Felice & C s.r.l., Salvadori Felice s.r.l., di movimentazione e asportazione materiale alluvionale alla foce del torrente Vantone in Comune di Idro (Bs) – Avviso istanza di parte per la concessione di estrazione materiale litoide.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/parchi-aree-protette/movimentazione-asportazione-materiale-litoide-RLV12026051683",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -798,18 +798,6 @@
             "title": "Esperienze formative all'estero per studenti dei Percorsi IeFP ed IFTS della Lombardia - Anni Formativi 2025/2026 e 2026/2027",
             "description": "Regione Lombardia sostiene progetti di mobilità internazionale, attraverso esperienze formative all’estero e il rafforzamento di reti di collaborazione e scambio tra Enti.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/esperienze-formative-estero-studenti-percorsi-iefp-ed-ifts-lombardia-anni-formativi-2025-2026-2026-2027-RLW12025047803",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Investimenti – Linea Microimprese 2025",
-            "description": "La dotazione finanziaria del bando è esaurita, le domande presentate saranno collocate in lista d’attesa sino al raggiungimento della percentuale massima del 10% dell’importo della dotazione originaria e potranno accedere alla fase istruttoria solo qualora si rendessero disponibili, in esito alle istruttorie completate, le necessarie risorse.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-attivita-imprenditoriali/investimenti-linea-microimprese-2025-RLO12025049763",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -3231,21 +3219,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "NUOVA IMPRESA - PICCOLI COMUNI E FRAZIONI 2026",
-            "description": "Regione Lombardia attiva per l'anno 2026 il bando “Nuova Impresa - Piccoli Comuni e Frazioni 2026” finalizzato a sostenere l’apertura di nuove attività di commercio al dettaglio in sede fissa di prodotti alimentari e generi di prima necessità nei piccoli comuni e nelle frazioni di tutti i comuni lombardi, attraverso l’erogazione di contributi sui costi connessi all’avvio di una nuova impresa ovvero di una unità locale di imprese già esistenti.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/attivita-produttive-commercio/sostegno-avvio-impresa/nuova-impresa-piccoli-comuni-frazioni-2026-RLO12025051423",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "N/A",
-            "title": "Dote Unica Lavoro Persone con Disabilità- Città metropolitana di Milano",
-            "description": "Il programma si articola in due linee di intervento:\n1) DULD - Dote Inserimento lavorativo: mira a favorire l'occupazione e ad accompagnare le persone con disabilità nell'inserimento e nel reinserimento lavorativo. Tale tipologia di dote si suddivide in due obiettivi: Obiettivo inserimento lavorativo e Obiettivo autoimprenditorialità.\n\n2) DULD - Dote Mantenimento lavorativo: ha come obiettivo il supporto alla persona con disabilità, ai sensi della Legge 68/1999, per favorire la conservazione dell'occupazione e del posto di lavoro.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-unica-lavoro-persone-disabilit-citt-metropolitana-milano-PR_MI_42025049899",
+            "title": "INVITO ALLA PRESENTAZIONE DI PROGETTI CULTURALI ANNO 2026 – SOGGETTI PARTECIPATI IN AMBITO CULTURALE AI SENSI DELL’ARTICOLO 8 DELLA L.R. 25/2016",
+            "description": "La Regione concede contributi per il sostegno di progetti e iniziative, relativamente ai soggetti partecipati in ambito culturale dalla Regione Lombardia, ai sensi dell'articolo 8 della legge regionale n. 25/2016.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/istituti-luoghi-culturali/invito-presentazione-progetti-culturali-anno-2026-soggetti-partecipati-ambito-culturale-sensi-articolo-8-l-r-25-2016-RLL12025051183",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -3303,9 +3279,9 @@
         },
         {
             "deadline": "N/A",
-            "title": "INVITO ALLA PRESENTAZIONE DI PROGETTI CULTURALI ANNO 2026 – SOGGETTI PARTECIPATI IN AMBITO CULTURALE AI SENSI DELL’ARTICOLO 8 DELLA L.R. 25/2016",
-            "description": "La Regione concede contributi per il sostegno di progetti e iniziative, relativamente ai soggetti partecipati in ambito culturale dalla Regione Lombardia, ai sensi dell'articolo 8 della legge regionale n. 25/2016.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/istituti-luoghi-culturali/invito-presentazione-progetti-culturali-anno-2026-soggetti-partecipati-ambito-culturale-sensi-articolo-8-l-r-25-2016-RLL12025051183",
+            "title": "Dote Unica Lavoro Persone con Disabilità- Città metropolitana di Milano",
+            "description": "Il programma si articola in due linee di intervento:\n1) DULD - Dote Inserimento lavorativo: mira a favorire l'occupazione e ad accompagnare le persone con disabilità nell'inserimento e nel reinserimento lavorativo. Tale tipologia di dote si suddivide in due obiettivi: Obiettivo inserimento lavorativo e Obiettivo autoimprenditorialità.\n\n2) DULD - Dote Mantenimento lavorativo: ha come obiettivo il supporto alla persona con disabilità, ai sensi della Legge 68/1999, per favorire la conservazione dell'occupazione e del posto di lavoro.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-unica-lavoro-persone-disabilit-citt-metropolitana-milano-PR_MI_42025049899",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

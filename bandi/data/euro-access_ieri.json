@@ -1,15 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-25 12:01:42",
+    "scraping_timestamp": "2026-01-28 17:14:20",
     "data": [
-        {
-            "deadline": "2026-01-27",
-            "title": "Erasmus Charter for Higher Education - 5th cut-off date",
-            "description": "This Call aims at accrediting recognised Higher Education Institutions located in eligible countries, which have operational capacity to take part in Erasmus+ Programme’s activities, such as learning mobility of individuals and/or cooperation for innovation and good practices.",
-            "link": "https://www.euro-access.eu/en/calls/135/Erasmus-Charter-for-Higher-Education-5th-cut-off-date",
-            "custom": {
-                "Funding Program": "Erasmus+"
-            }
-        },
         {
             "deadline": "2027-01-26",
             "title": "Erasmus Charter for Higher Education - 6th cut-off date",
@@ -425,30 +416,12 @@
             }
         },
         {
-            "deadline": "2026-01-27",
-            "title": "Standalone projects - 1st cut-off date",
-            "description": "This topic targets projects addressing serious social, economic and environmental challenges deriving from the transition towards the EU’s 2030 climate and energy targets and the EU’s 2050 objective of climate neutrality, for the benefit of the EU territories identified in the Territorial Just Transition Plans. The projects must also qualify for a loan by the EIB (or one of its financial intermediaries).",
-            "link": "https://www.euro-access.eu/en/calls/2412/Standalone-projects-1st-cut-off-date",
-            "custom": {
-                "Funding Program": "Just Transition Mechanism"
-            }
-        },
-        {
             "deadline": "2026-01-29",
             "title": "Circulation of European literary works",
             "description": "This action supports projects that translate, publish, distribute, and promote European works of fiction.",
             "link": "https://www.euro-access.eu/en/calls/2410/Circulation-of-European-literary-works",
             "custom": {
                 "Funding Program": "Creative Europe - Culture Strand"
-            }
-        },
-        {
-            "deadline": "2026-01-27",
-            "title": "Framework Loans - 1st cut-off date",
-            "description": "This topic targets projects linked to a framework loan to address serious social, economic and environmental challenges deriving from the transition towards the EU’s 2030 climate and energy targets and the EU’s 2050 objective of climate neutrality, for the benefit of the EU territories identified in the Territorial Just Transition Plans. The projects must be linked to an EIB framework loan. Framework loans by other banks or EIB financial intermediaries (including EIB Intermediated Framework Loans or Multi-Beneficiary Intermediated Loans) cannot benefit from PSLF funding under this topic.",
-            "link": "https://www.euro-access.eu/en/calls/2413/Framework-Loans-1st-cut-off-date",
-            "custom": {
-                "Funding Program": "Just Transition Mechanism"
             }
         },
         {
@@ -1115,15 +1088,6 @@
             "link": "https://www.euro-access.eu/en/calls/2496/Cross-Regional",
             "custom": {
                 "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-01-26",
-            "title": "1st Call for Proposals under Cross-border Programme Serbia – Montenegro 2021-2027",
-            "description": "In line with the objectives specified in the programme document, the global objective of this call for proposals is: to promote good neighbourly relations, foster Union integration and contribute to social, economic and territorial development of the programme cross-border area by improving social and cultural inclusion and health and by developing sustainable tourism.",
-            "link": "https://www.euro-access.eu/en/calls/2497/1st-Call-for-Proposals-under-Cross-border-Programme-Serbia--Montenegro-2021-2027",
-            "custom": {
-                "Funding Program": "Interreg CBC Serbia-Montenegro"
             }
         },
         {
@@ -2492,6 +2456,15 @@
             "link": "https://www.euro-access.eu/en/calls/2654/Organic-products-OR-Increasing-the-awareness-of-Union-sustainable-agriculture-and-animal-welfare-in-any-third-countries",
             "custom": {
                 "Funding Program": "Promotion of Agricultural Products"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Advancing Social Cohesion in the Face of Polarized Public Discourse",
+            "description": "The overall objective of this pilot project is to advance social cohesion and democratic resilience across the European Union by addressing the growing risks of online political polarisation. In an era when social media has become a primary channel for political debate, it is essential to develop a neutral, scientifically robust methodology for analysing discourse that respects freedom of expression while identifying harmful manipulation and polarising trends.",
+            "link": "https://www.euro-access.eu/en/calls/2655/Advancing-Social-Cohesion-in-the-Face-of-Polarized-Public-Discourse",
+            "custom": {
+                "Funding Program": "Pilot Projects and Preparatory Actions (PPPAs)"
             }
         },
         {
