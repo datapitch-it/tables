@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-02-01 07:00:30",
+    "scraping_timestamp": "2026-02-03 18:11:39",
     "data": [
         {
             "deadline": "2027-01-26",
@@ -335,42 +335,6 @@
             }
         },
         {
-            "deadline": "2026-02-02",
-            "title": "Interreg Northern Periphery and Arctic - 6th call for main projects",
-            "description": "The Interreg Northern Periphery and Arctic (NPA) programme is a funding initiative supported by the European Union and non-EU participating countries. The programme's main objective is to promote cooperation among communities in the northernmost parts of Europe and North Atlantic territories to address common challenges and opportunities. The call is open for all priorities.",
-            "link": "https://www.euro-access.eu/en/calls/2402/Interreg-Northern-Periphery-and-Arctic-6th-call-for-main-projects",
-            "custom": {
-                "Funding Program": "Interreg Northern Periphery and Arctic"
-            }
-        },
-        {
-            "deadline": "2026-02-02",
-            "title": "Interreg Northern Periphery and Arctic - 6th call for small-scale capacity building projects",
-            "description": "Das Interreg-Programm Nördliche Peripherie und Arktis (NPA) ist eine Finanzierungsinitiative, die von der Europäischen Union und den teilnehmenden Nicht-EU-Ländern unterstützt wird. Das Hauptziel des Programms ist die Förderung der Zusammenarbeit zwischen den Gemeinden in den nördlichsten Teilen Europas und den nordatlantischen Gebieten, um gemeinsame Herausforderungen und Chancen anzugehen. Die Aufforderung zur Einreichung von Vorschlägen gilt für kleine Projekte zum Aufbau von Kapazitäten in der Priorität 3.",
-            "link": "https://www.euro-access.eu/en/calls/2403/Interreg-Northern-Periphery-and-Arctic-6th-call-for-small-scale-capacity-building-projects",
-            "custom": {
-                "Funding Program": "Interreg Northern Periphery and Arctic"
-            }
-        },
-        {
-            "deadline": "2026-02-02",
-            "title": "Interreg SN-CZ 2026 - 2nd cut-off date",
-            "description": "The Interreg Saxony - Czech Republic 2021-2027 programme supports cooperation projects that contribute to the further economic, ecological and social development of the common border area.",
-            "link": "https://www.euro-access.eu/en/calls/2406/Interreg-SN-CZ-2026-2nd-cut-off-date",
-            "custom": {
-                "Funding Program": "Interreg Saxony-Czech Republic"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Interreg BY-CZ Call - 8th cut-off date",
-            "description": "The programme INTERREG Bavaria-Czechia 2021-2027 supports cross-border cooperation between Bavaria and the Czech Republic. Funding is provided for innovative Bavarian-Czech projects that contribute to the dismantling of barriers, mutual understanding and networking among citizens and at the same time to improving the quality of life.",
-            "link": "https://www.euro-access.eu/en/calls/2407/Interreg-BY-CZ-Call-8th-cut-off-date",
-            "custom": {
-                "Funding Program": "Interreg Bavaria-Czech Republic"
-            }
-        },
-        {
             "deadline": "2026-02-28",
             "title": "Interreg Bavaria-Austria: Medium, small and p2p projects",
             "description": "The INTERREG VI-A Program Bavaria - Austria 2021-2027 pursues the strategy of an innovative, sustainable economy, a resilient environment, sustainable tourism as well as integrated regional development - embedded in a joint cross-border INTERREG governance.",
@@ -674,78 +638,6 @@
             "link": "https://www.euro-access.eu/en/calls/2454/Erasmus-Mundus-Joint-Masters",
             "custom": {
                 "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Network on External Policy EU-INDIA",
-            "description": "Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners research findings, content of courses and experiences, products (studies, articles, etc.). Each network will establish a tool allowing the partners to share their academic works and run peer review exercises, also commenting on the posted documents. The coordinator of the network will regularly make a selection of the most innovative and interesting results to be provided to the Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2457/Jean-Monnet-Network-on-External-Policy-EU-INDIA",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Networks in other fields of education and training",
-            "description": "Networks of schools and Vocational education and training institutions (VETs), ISCED 1 – 4, and/or higher education Institutions providing Teacher Training /Education should serve the purpose of giving an international aspect to the new Jean Monnet strand and allow exchange of good practices as well as experiencing co-teaching within a group of countries.",
-            "link": "https://www.euro-access.eu/en/calls/2458/Jean-Monnet-Networks-in-other-fields-of-education-and-training",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Actions for other fields of Education and Training: Learning EU",
-            "description": "Learning EU initiatives will support schools & Vocational education and training institutions (VETs), ISCED 1 – 4, enabling them to provide specific content on EU based subjects (democracy, EU history, how the EU works, cultural diversity – among others). Activities should be taught during the school year and could include project weeks, study visits, and other immersive activities.",
-            "link": "https://www.euro-access.eu/en/calls/2459/Jean-Monnet-Actions-for-other-fields-of-Education-and-Training-Learning-EU",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Actions for other fields of Education and Training: Teacher Training",
-            "description": "Higher Education Institutions or Teacher Training Institutes/Agencies will organise activities under this action enabling teachers in schools and Vocational Education and Training (VET) providers to develop new skills, to teach and engage on EU matters, thus empowering them through a better understanding of the EU and its functioning.",
-            "link": "https://www.euro-access.eu/en/calls/2460/Jean-Monnet-Actions-for-other-fields-of-Education-and-Training-Teacher-Training",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Network on Internal Policy: A resilient Single Market to boost EU competitiveness",
-            "description": "Large thematic networks in Higher Education (indicatively one network on internal EU issues and one network on foreign policy issues addressing specific priorities will be supported this year) will have as primary objective to collect, share and discuss among the partners research findings, content of courses and experiences, products (studies, articles, etc.). Each network will establish a tool allowing the partners to share their academic works and run peer review exercises, also commenting on the posted documents. The coordinator of the network will regularly make a selection of the most innovative and interesting results to be provided to the Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2461/Jean-Monnet-Network-on-Internal-Policy-A-resilient-Single-Market-to-boost-EU-competitiveness",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Actions in the field of Higher Education: Modules",
-            "description": "Modules are short teaching programmes or courses in the field of European Union studies at offered at a higher education institution. Each Module has a minimum duration of 40 teaching hours per academic year for a duration of three years. Modules may concentrate on one particular discipline in European studies or be multidisciplinary in approach and therefore call upon the academic input of several professors and experts. They can also take the form of short specialised or summer programmes.",
-            "link": "https://www.euro-access.eu/en/calls/2462/Jean-Monnet-Actions-in-the-field-of-Higher-Education-Modules",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Actions in the field of Higher Education: Chairs",
-            "description": "Chairs are teaching posts with a specialisation in European Union studies for university professors for a duration of three years. A Jean Monnet Chair is held by only one professor, who provides the minimum of 90 teaching hours per academic year. The Chair may also have a team to support and enhance the activities of the Chair, including the provision of additional teaching hours.",
-            "link": "https://www.euro-access.eu/en/calls/2463/Jean-Monnet-Actions-in-the-field-of-Higher-Education-Chairs",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
-            }
-        },
-        {
-            "deadline": "2026-02-03",
-            "title": "Jean Monnet Actions in the field of Higher Education: Centers of Excellence",
-            "description": "Jean Monnet Centres of Excellence are focal points of competence and knowledge on European Union subjects. They should gather the expertise and competences of high-level experts aiming to at develop synergies between the various disciplines and resources in European studies as well as at creating joint transnational activities, they also ensure openness to civil society. Jean Monnet Centres of Excellence have a major role in reaching out to students from faculties not normally dealing with European Union issues as well as to policy makers, civil servants, organised civil society and the general public at large.",
-            "link": "https://www.euro-access.eu/en/calls/2464/Jean-Monnet-Actions-in-the-field-of-Higher-Education-Centers-of-Excellence",
-            "custom": {
-                "Funding Program": "Erasmus+ - Jean Monnet Actions"
             }
         },
         {

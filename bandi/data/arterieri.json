@@ -1,78 +1,6 @@
 {
-    "scraping_timestamp": "2026-01-28 17:09:34",
+    "scraping_timestamp": "2026-02-01 06:56:20",
     "data": [
-        {
-            "deadline": "2026-01-29",
-            "title": "Il progetto Open Horizons lancia la seconda open call per startup deep-tech",
-            "description": "Il termine ultimo per partecipare al bando di Open Horizons è fissato al 29 gennaio 2026",
-            "link": "https://first.art-er.it/news/il-progetto-open-horizons-lancia-la-seconda-open-call-startup-deep-tech",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding, Deep tech, Gender equality",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 400.000"
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "EOSC Gravity: aperta la call per selezionare valutatori esperti di Open Science",
-            "description": "Candidature aperte fino al 10 gennaio 2025 per esperti in ricerca, innovazione, dati e infrastrutture nell’ambito della scienza aperta",
-            "link": "https://first.art-er.it/news/eosc-gravity-cerca-esperti-valutare-i-progetti",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "Al via il bando 2025 per rafforzare lo sviluppo delle startup innovative in Emilia-Romagna",
-            "description": "Il bando 2025 sostiene startup innovative con contributi fino al 60% per progetti ad alto contenuto tecnologico e strategico",
-            "link": "https://first.art-er.it/news/sostegno-alle-startup-innovative-aperto-il-bando-rer",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 5.000.000"
-            }
-        },
-        {
-            "deadline": "2026-01-30",
-            "title": "ECHOES: pubblicato il bando dedicato alle istituzioni culturali europee che investono nel digitale",
-            "description": "L'open call del programma ECHOES, aperta dall'11 novembre 2025 al 30 gennaio 2026, intende sostenere la digitalizzazione del patrimonio culturale europeo",
-            "link": "https://first.art-er.it/news/nuova-open-call-il-patrimonio-culturale-digitale",
-            "custom": {
-                "Topics": "Cascade funding, Industrie creative",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 29.800 per progetto"
-            }
-        },
-        {
-            "deadline": "2026-01-31",
-            "title": "SESAR JU apre le candidature per nuovi membri associati",
-            "description": "Aperto l'invito a manifestare interesse per entrare nel partenariato europeo che guida l’innovazione nella gestione del traffico aereo",
-            "link": "https://first.art-er.it/news/sesar-ju-apre-le-candidature-nuovi-membri-associati",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-01-31",
-            "title": "L’Università di Parma apre le candidature per MSCA@UNIPR BOOTCAMP 2026",
-            "description": "Selezione internazionale per 25 post-doc che prepareranno la loro proposta MSCA-PF con formazione e supporto dedicato",
-            "link": "https://first.art-er.it/news/mscaunipr-bootcamp-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Italia",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2026-02-01",
             "title": "Climate-Smart Forestry: finanziamenti per progetti pilota con il coinvolgimento di cittadini e stakeholder",
@@ -230,6 +158,18 @@
             }
         },
         {
+            "deadline": "2026-02-13",
+            "title": "Premio MICS Futuro Made in Italy: al via la Call 4 Circular Startup",
+            "description": "Startup e spinoff universitari protagonisti della transizione circolare nel Made in Italy",
+            "link": "https://first.art-er.it/news/premio-mics-futuro-made-italy-sulla-circolarita",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
             "deadline": "2026-02-15",
             "title": "Opportunità di finanziamento per innovazioni digitali di PMI in Emilia-Romagna",
             "description": "Ancora per poco tempo disponibili i servizi di ER2Digit per supportare le PMI dell'Emilia-Romagna ad accedere alle opportunità di finanziamento europee",
@@ -375,6 +315,18 @@
         },
         {
             "deadline": "2026-02-28",
+            "title": "Ravenna: al via programma per rafforzare innovazione e competitività nel turismo e nella cultura",
+            "description": "Un percorso di innovation assessment aiuterà le imprese a crescere in chiave sostenibile",
+            "link": "https://first.art-er.it/news/innovazione-e-sostenibilita-il-turismo-e-la-cultura",
+            "custom": {
+                "Topics": "Industrie creative",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-02-28",
             "title": "ClimAccelerator 2026: al via il bando a sostegno di acceleratori e incubatori per l’innovazione climatica",
             "description": "Il programma è promosso da Climate KIC per rafforzare acceleratori e consorzi globali e promuovere la neutralità climatica",
             "link": "https://first.art-er.it/news/climaccelerator-bando-organizzazioni-il-clima",
@@ -455,6 +407,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 300.000"
+            }
+        },
+        {
+            "deadline": "2026-03-10",
+            "title": "Antartide: pubblicato il bando a sostegno di progetti di ricerca scientifica per lo studio dei sistemi ambientali",
+            "description": "E' aperto un nuovo bando a sostegno della ricerca antartica che finanzia attività in stazione e progetti su piattaforme internazionali",
+            "link": "https://first.art-er.it/news/ricerca-antartide-bando-da-26-milioni-di-euro",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 2.600.000"
             }
         },
         {
@@ -542,6 +506,42 @@
             }
         },
         {
+            "deadline": "2026-03-17",
+            "title": "SPIN - Rise 2026: nuovo bando per trasformare la ricerca in impresa e promuovere la digitalizzazione europea",
+            "description": "28DIGITAL lancia un bando per sostenere l'imprenditorialità scientifica, al fine di potenziare la competitività e la sovranità digitale europea",
+            "link": "https://first.art-er.it/news/bando-spin-rise-2026-su-imprenditorialita-scientifica",
+            "custom": {
+                "Topics": "Difesa UE, Transizione sostenibile",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 340.000"
+            }
+        },
+        {
+            "deadline": "2026-03-19",
+            "title": "Eurostars: nuovo bando per progetti di R&S collaborativi",
+            "description": "Finanziamenti per PMI innovative e partner di ricerca in progetti collaborativi internazionali di ricerca e sviluppo",
+            "link": "https://first.art-er.it/news/bando-eurostars-call-progetti-rs-2026",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-03-19",
+            "title": "Climate-Neutral and Smart Cities: aperto il bando per sostenere le città climaticamente neutre",
+            "description": "Il bando, dedicato alle città selezionate dalla Commissione europea nell’ambito della Missione sulle città climaticamente neutre, finanzia interventi su energia e mobilità",
+            "link": "https://first.art-er.it/news/al-il-bando-climate-neutral-and-smart-cities",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 11.849.400"
+            }
+        },
+        {
             "deadline": "2026-03-19",
             "title": "Innovazione interregionale: nuove opportunità di capacity building per le regioni meno sviluppate",
             "description": "L'obiettivo è rafforzare la competitività e preparare gli ecosistemi locali a futuri investimenti interregionali",
@@ -563,6 +563,18 @@
                 "Area Classification": "N/A",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 1.700.000"
+            }
+        },
+        {
+            "deadline": "2026-03-23",
+            "title": "EIT Urban Mobility lancia il bando “Startup Ecosystem Agent” 2026–2028",
+            "description": "Sostegno a sei hub strategici in Europa per accelerare startup della mobilità sostenibile, attrarre investimenti e rafforzare il deal flow europeo",
+            "link": "https://first.art-er.it/news/eit-urban-mobility-bando-startup-ecosystem-agent",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 2.115.000"
             }
         },
         {
@@ -590,6 +602,18 @@
             }
         },
         {
+            "deadline": "2026-03-25",
+            "title": "EDF MaJoR: aperto un bando a cascata per PMI e start-up nel settore difesa",
+            "description": "Il nuovo bando mira a sostenere PMI e ricerca nello sviluppo di tecnologie avanzate per sicurezza e difesa",
+            "link": "https://first.art-er.it/news/bando-innovazione-tecnologica-nel-settore-difesa",
+            "custom": {
+                "Topics": "Cascade funding, Difesa UE",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "fino a € 60.000 per progetto"
+            }
+        },
+        {
             "deadline": "2026-03-26",
             "title": "CASSINI Challenges: al via la nuova edizione a sostegno di soluzioni che utilizzano tecnologie spaziali",
             "description": "L’iniziativa CASSINI Challenges mira ad accelerare la trasformazione di idee ad alto contenuto tecnologico in prodotti di mercato, rafforzando la competitività industriale",
@@ -599,6 +623,30 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 100.000 per progetto"
+            }
+        },
+        {
+            "deadline": "2026-03-29",
+            "title": "Progetto SECURE: 5 milioni di euro per rafforzare la cybersecurity delle PMI europee",
+            "description": "Finanziamenti per supportare le micro, piccole e medie imprese nella conformità alla normativa europea sulla cybersecurity e per la resilienza digitale",
+            "link": "https://first.art-er.it/news/secure-bando-la-cybersecurity-delle-pmi-europee",
+            "custom": {
+                "Topics": "Cascade funding, Start-up in Europa",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 5.000.000"
+            }
+        },
+        {
+            "deadline": "2026-03-31",
+            "title": "Al via WIPO Global Awards, i premi per imprese che valorizzano la proprietà intellettuale",
+            "description": "L’obiettivo è valorizzare modelli di impresa capaci di trasformare l’innovazione in crescita sostenibile e impatto concreto sui territori",
+            "link": "https://first.art-er.it/news/aperti-wipo-global-awards-sulla-proprieta-intellettuale",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1139,6 +1187,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 600.000.000"
+            }
+        },
+        {
+            "deadline": "2026-09-16",
+            "title": "EUPAHW: aperto il secondo bando a sostegno di sistemi di allevamento e acquacoltura più sostenibili",
+            "description": "L'obiettivo è rafforzare ricerca e innovazione su welfare animale e prevenzione delle malattie, con il coinvolgimento di 19 Paesi",
+            "link": "https://first.art-er.it/news/eupahw-aperto-il-secondo-bando",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "A due fasi",
+                "Stanziamento": "N/A"
             }
         },
         {
