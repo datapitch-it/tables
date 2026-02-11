@@ -1,102 +1,6 @@
 {
-    "scraping_timestamp": "2026-02-03 18:07:30",
+    "scraping_timestamp": "2026-02-11 15:39:59",
     "data": [
-        {
-            "deadline": "2026-02-04",
-            "title": "Al via la open call per innovazione e sicurezza delle infrastrutture urbane",
-            "description": "Il programma iCOSHELLs finanzia PMI e innovatori per sperimentare tecnologie di protezione urbana nei living lab europei",
-            "link": "https://first.art-er.it/news/open-call-sicurezza-e-resilienza-delle-citta",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 900.000"
-            }
-        },
-        {
-            "deadline": "2026-02-04",
-            "title": "Progetto ARISE: aperta una nuova call per l’innovazione nella robotica collaborativa",
-            "description": "Il bando punta a sostenere progetti nell'ambito della robotica collaborativa e dell’interazione uomo-macchina",
-            "link": "https://first.art-er.it/news/aperta-la-seconda-open-call-di-arise-sulla-robotica",
-            "custom": {
-                "Topics": "Artificial Intelligence, Cascade funding, Deep tech",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 2.600.000"
-            }
-        },
-        {
-            "deadline": "2026-02-04",
-            "title": "Connettività avanzata: pubblicato il secondo bando ENVELOPE per progetti sperimentali",
-            "description": "Imprese e centri di ricerca potranno candidare progetti sperimentali di mobilità connessa e reti oltre il 5G",
-            "link": "https://first.art-er.it/news/envelope-aperto-il-2deg-bando-la-mobilita-connessa",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 1.350.000"
-            }
-        },
-        {
-            "deadline": "2026-02-05",
-            "title": "Tecnologie energetiche sostenibili: al via la seconda Joint Call Africa-UE",
-            "description": "La partnership UE-Africa LEAP-SE ha l'obiettivo di sviluppare energia sostenibile come fonte di energia per il continente africano",
-            "link": "https://first.art-er.it/news/aperto-il-bando-leap-se-energia-sostenibile",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "A due fasi",
-                "Stanziamento": "€ 14.529.000"
-            }
-        },
-        {
-            "deadline": "2026-02-05",
-            "title": "CEF Energy: al via il 5° bando per progetti transfrontalieri di energia rinnovabile",
-            "description": "Le candidature per ottenere lo status di progetti transfrontalieri (CB RES) nell'ambito del programma CEF Energy andranno presentare entro il 5 febbraio 2026",
-            "link": "https://first.art-er.it/news/cef-energy-bando-progetti-di-energia-rinnovabile",
-            "custom": {
-                "Topics": "Blue Economy, Transizione sostenibile",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-02-09",
-            "title": "Aperto il secondo bando INCiTiS-FOOD di innovazione circolare per la sicurezza alimentare urbana",
-            "description": "Il progetto INCiTiS-FOOD mira a trasformare i sistemi alimentari locali intervenendo su quattro dimensioni chiave della food and nutrition security",
-            "link": "https://first.art-er.it/news/aperto-il-secondo-bando-incitis-food",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 60.000"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "EIT Urban Mobility apre il Flagship Accelerator Open Call 2026",
-            "description": "Aperto il bando per selezionare il soggetto incaricato di progettare e gestire il programma di accelerazione dedicato a startup early-stage della mobilità urbana",
-            "link": "https://first.art-er.it/news/flagship-accelerator-eit-urban-mobility-2026",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-02-11",
-            "title": "Europe’s Rail: aperta una nuova call per accelerare l’innovazione ferroviaria",
-            "description": "Europe’s Rail Joint Undertaking (EU-Rail) ha lanciato la Call for Proposals 2025-02, che resterà aperta fino all'11 febbraio 2026 con un budget complessivo di 245 milioni di euro",
-            "link": "https://first.art-er.it/news/europes-rail-bando-su-innovazione-ferroviaria",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2026-02-12",
             "title": "Aperta la seconda WE-RISE Open Call per startup femminili",
@@ -303,6 +207,18 @@
         },
         {
             "deadline": "2026-03-03",
+            "title": "Brava Innovation Hub: open call per startup e imprese femminili",
+            "description": "Nuovo programma di accelerazione del Ministero delle Imprese e del Made in Italy per imprese a leadership femminile",
+            "link": "https://first.art-er.it/news/brava-innovation-hub-bando-startup-e-imprese-femminili",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 40.000"
+            }
+        },
+        {
+            "deadline": "2026-03-03",
             "title": "Aperti i nuovi bandi di Digital Europe per la transizione digitale",
             "description": "Sul Funding and Tenders Portal dell'Unione europea il 4 novembre 2025 si sono aperti i nuovi bandi del programma Digital Europe",
             "link": "https://first.art-er.it/news/digital-europe-i-nuovi-bandi-2025",
@@ -435,8 +351,8 @@
         },
         {
             "deadline": "2026-03-12",
-            "title": "CEF Energy: bando da 150 milioni di euro per progetti transfrontalieri sulle energie da fonti rinnovabili",
-            "description": "CINEA apre dal 5 febbraio al 12 marzo 2026 un bando da 150 milioni di euro per la cooperazione energetica transfrontaliera e l’adozione di energie da fonti innovabili in UE",
+            "title": "CEF Energy: aperto il bando da 150 milioni di euro per progetti transfrontalieri sulle energie da fonti rinnovabili",
+            "description": "Aperto fino al 12 marzo 2026 un bando da 150 milioni di euro per la cooperazione energetica transfrontaliera e l’adozione di energie da fonti innovabili in UE",
             "link": "https://first.art-er.it/news/cef-energy-un-bando-sullenergia-da-fonti-rinnovabili",
             "custom": {
                 "Topics": "Transizione sostenibile",
@@ -592,7 +508,7 @@
         {
             "deadline": "2026-03-29",
             "title": "Progetto SECURE: 5 milioni di euro per rafforzare la cybersecurity delle PMI europee",
-            "description": "Finanziamenti per supportare le micro, piccole e medie imprese nella conformità alla normativa europea sulla cybersecurity e per la resilienza digitale",
+            "description": "Finanziamenti per supportare le PMI nella conformità alla normativa europea sulla cybersecurity e per la resilienza digitale",
             "link": "https://first.art-er.it/news/secure-bando-la-cybersecurity-delle-pmi-europee",
             "custom": {
                 "Topics": "Cascade funding, Start-up in Europa",
@@ -683,6 +599,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 50.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-01",
+            "title": "Next Generation Internet: pubblicati tre nuovi bandi per il futuro digitale europeo",
+            "description": "Le open call dei progetti Next Generation Internet finanziano PMI, ricercatori e comunità per sviluppare tecnologie digitali aperte, sicure e orientate all’interesse pubblico",
+            "link": "https://first.art-er.it/news/tre-nuovi-bandi-ngi-un-internet-aperto-e-sicuro",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "Per ogni progetto, tra € 5.000 e € 50.000"
             }
         },
         {
@@ -903,6 +831,30 @@
         },
         {
             "deadline": "2026-04-29",
+            "title": "Aperto il bando europeo per soluzioni europee di lanciatori spaziali",
+            "description": "Un’opportunità per sviluppare tecnologie rivoluzionarie a supporto dell’accesso allo spazio e dell’autonomia strategica dell’Unione",
+            "link": "https://first.art-er.it/news/spazio-il-bando-progetti-innovativi-sui-lanciatori",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-29",
+            "title": "Aperte le call 2026 della Smart Networks and Services Joint Undertaking",
+            "description": "Disponibili 22 milioni di euro per progetti di ricerca e innovazione su tecnologie 5G e 6G nell’ambito di Horizon Europe",
+            "link": "https://first.art-er.it/news/partnership-europea-sns-ju-aperti-i-bandi-2026",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 22.000.000"
+            }
+        },
+        {
+            "deadline": "2026-04-29",
             "title": "Innovative Health Initiative: pubblicata la call 11 a sostegno di progetti di ricerca",
             "description": "Cinque topic strategici per rafforzare la ricerca europea in medicina di precisione, intelligenza artificiale e nuove terapie, con scadenza per la prima fase il 9 ottobre 2025",
             "link": "https://first.art-er.it/news/ihi-call-11",
@@ -911,6 +863,54 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A due fasi",
                 "Stanziamento": "€ 120.000.000"
+            }
+        },
+        {
+            "deadline": "2026-05-06",
+            "title": "CEF: nuovo bando per rafforzare la sicurezza e la riparazione dei cavi sottomarini europei",
+            "description": "Il bando sostiene la riparazione rapida per infrastrutture critiche nel Mar Baltico, destinati a enti pubblici con mandato di emergenza",
+            "link": "https://first.art-er.it/news/emergenze-digitali-e-cavi-sottomarini-nuovo-bando-ue",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 20.000.000"
+            }
+        },
+        {
+            "deadline": "2026-05-07",
+            "title": "Europe’s Rail: bando da 6.1 milioni di euro per promuovere un trasporto ferroviario sostenibile",
+            "description": "Europe’s Rail Joint Undertaking (EU-Rail) ha lanciato la Call for Proposals 2026-01, che resterà aperta fino al 7 maggio 2026 con un budget complessivo di 6.1 milioni di euro",
+            "link": "https://first.art-er.it/news/europes-rail-bando-su-innovazione-ferroviaria-0",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "6.1 milioni di euro"
+            }
+        },
+        {
+            "deadline": "2026-05-07",
+            "title": "Chips JU 2026: aperte le call R&I su componenti e sistemi elettronici",
+            "description": "Tre opportunità di finanziamento nell’ambito Chips Joint Undertaking per rafforzare l’autonomia strategica europea nei sistemi e componenti elettronici",
+            "link": "https://first.art-er.it/news/le-call-2026-di-chips-ju-la-ricerca-e-linnovazione",
+            "custom": {
+                "Topics": "Artificial Intelligence",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "2026-05-12",
+            "title": "Bando 2026 EIC Pathfinder Open di Horizon Europe: supporto per la ricerca o lo sviluppo di tecnologie emergenti",
+            "description": "Il bando offre sostegno ai team di ricerca per l'esplorazione di idee audaci per tecnologie radicalmente innovative",
+            "link": "https://first.art-er.it/news/bando-2026-eic-pathfinder-open-di-horizon-europe",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 166.000.000"
             }
         },
         {
@@ -923,6 +923,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 4.000.000"
+            }
+        },
+        {
+            "deadline": "2026-05-29",
+            "title": "BlueActionAA – Transition Agenda Call 1: un milione di euro per la transizione blu nell’Atlantico e nell’Artico",
+            "description": "Finanziamenti fino a 100.000 euro per sviluppare agende strategiche",
+            "link": "https://first.art-er.it/news/blueactionaa-transition-agenda-call-1",
+            "custom": {
+                "Topics": "Cascade funding",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "€ 1.000.000"
             }
         },
         {
@@ -1079,6 +1091,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "Singola",
                 "Stanziamento": "€ 26.000.000"
+            }
+        },
+        {
+            "deadline": "2026-07-21",
+            "title": "Call4INNOVIT 2026: accelerazione per startup e PMI italiane verso la Silicon Valley",
+            "description": "L'iniziativa del Centro di Innovazione Italiano di San Francisco vuole accelerare lo sviluppo internazionale delle imprese italiane",
+            "link": "https://first.art-er.it/news/aperta-la-call4innovit-2026-accelerazione-dimpresa",
+            "custom": {
+                "Topics": "Blue Economy, Transizione sostenibile",
+                "Area Classification": "Italia",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
             }
         },
         {
@@ -1247,6 +1271,18 @@
                 "Area Classification": "Unione Europea",
                 "Tipologia Scadenza": "A scadenza multipla",
                 "Stanziamento": "€ 4.473.000.000"
+            }
+        },
+        {
+            "deadline": "2026-10-08",
+            "title": "Missions: al via i bandi 2026 di Horizon Europe",
+            "description": "Aperti 5 nuovi bandi dedicati alle cinque Missioni di Horizon Europe per sostenere la loro attuazione anche in sinergia con altri strumenti di Horizon Europe e altri finanziamenti",
+            "link": "https://first.art-er.it/news/missions-le-call-2026-di-horizon-europe",
+            "custom": {
+                "Topics": "",
+                "Area Classification": "Unione Europea",
+                "Tipologia Scadenza": "Singola",
+                "Stanziamento": "N/A"
             }
         },
         {

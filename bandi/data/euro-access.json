@@ -1,5 +1,5 @@
 {
-    "scraping_timestamp": "2026-02-03 18:11:39",
+    "scraping_timestamp": "2026-02-11 15:44:04",
     "data": [
         {
             "deadline": "2027-01-26",
@@ -357,24 +357,6 @@
             "title": "NEWS - Media Literacy",
             "description": "The objective of the call is to encourage innovative cross-border media literacy projects and practices across Europe among various population segments, addressing the challenges of a continuously changing digital media landscape.",
             "link": "https://www.euro-access.eu/en/calls/2418/NEWS-Media-Literacy",
-            "custom": {
-                "Funding Program": "Creative Europe - Cross-Sectoral Strand"
-            }
-        },
-        {
-            "deadline": "2026-02-04",
-            "title": "Pluralism",
-            "description": "The European news media sectors play a crucial and valuable role in Europe. Yet, they are facing multiple challenges. Partially as a result of the digital shift, with readers shifting to online sources and traditional news outlets losing advertising revenues, the economic sustainability of professional journalism has come under pressure. Many media at the local level as well as those putting their public interest mission before profits, have had to close down, weakening media pluralism and posing risks for the good functioning of democracy.",
-            "link": "https://www.euro-access.eu/en/calls/2419/Pluralism",
-            "custom": {
-                "Funding Program": "Creative Europe - Cross-Sectoral Strand"
-            }
-        },
-        {
-            "deadline": "2026-02-04",
-            "title": "Collaborations",
-            "description": "The European news media sectors play a crucial and valuable role in Europe. Yet, they are facing multiple challenges. Partially as a result of the digital shift, with readers shifting to online sources and traditional news outlets losing advertising revenues, the economic sustainability of professional journalism has come under pressure. Many media at the local level as well as those putting their public interest mission before profits, have had to close down, weakening media pluralism and posing risks for the good functioning of democracy.",
-            "link": "https://www.euro-access.eu/en/calls/2420/Collaborations",
             "custom": {
                 "Funding Program": "Creative Europe - Cross-Sectoral Strand"
             }
@@ -749,78 +731,6 @@
             }
         },
         {
-            "deadline": "2026-02-10",
-            "title": "Sub-Saharan Africa",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2477/Sub-Saharan-Africa",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Western Balkans",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2478/Western-Balkans",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Pacific",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2479/Pacific",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Neighbourhood East",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2480/Neighbourhood-East",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Caribbean",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2481/Caribbean",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Latin America",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2482/Latin-America",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "South Mediterranean",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2483/South-Mediterranean",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Central Asia",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2484/Central-Asia",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
             "deadline": "2026-03-10",
             "title": "Alliances for Sectoral Cooperation on Skills (implementing the ‘Blueprint')",
             "description": "Alliances for Innovation aim to strengthen Europe’s innovation capacity by boosting innovation through cooperation and flow of knowledge among higher education, vocational education and training (both initial and continuous), and the broader socio-economic environment, including research. They also aim to boost the provision of new skills and address skills mismatches by designing and creating new curricula for higher education (HE) and vocational education and training (VET), supporting the development of a sense of initiative and entrepreneurial mind-sets in the EU.",
@@ -897,33 +807,6 @@
             "title": "Capacity Building in the field of Youth in Sub-Saharan Africa",
             "description": "Capacity-building in the field of youth projects are international cooperation projects based on multilateral partnerships between organisations active in the field of youth in the EU and countries associated to the Programme, on the one hand, and in third countries not associated to the Programme, on the other hand. For the latter, this topic targets exclusively countries in Region 9 (Sub Saharan Africa). Projects aim at supporting international cooperation in the field of youth and non-formal learning, as a driver of sustainable socio-economic development and well-being among youth organisations and young people.",
             "link": "https://www.euro-access.eu/en/calls/2493/Capacity-Building-in-the-field-of-Youth-in-Sub-Saharan-Africa",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Asia",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2494/Asia",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Middle East",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2495/Middle-East",
-            "custom": {
-                "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
-            }
-        },
-        {
-            "deadline": "2026-02-10",
-            "title": "Cross-Regional",
-            "description": "The Capacity Building in Higher Education (CBHE) funds international higher-education partnerships that strengthen universities and systems in eligible third countries not associated to the Programme. Aligned with the Sustainable Development Goals (SDGs) and the Paris Agreement, it supports quality, modernisation, and responsiveness in higher education to address socio-economic recovery and global challenges. The action is expected to contribute to the overarching priorities pre-defined by the European Commission.",
-            "link": "https://www.euro-access.eu/en/calls/2496/Cross-Regional",
             "custom": {
                 "Funding Program": "Erasmus+ - Key Action 2 – Cooperation among Organisations and Institutions"
             }
@@ -2312,6 +2195,123 @@
             "link": "https://www.euro-access.eu/en/calls/2656/Full-Scale-Exercises",
             "custom": {
                 "Funding Program": "Union Civil Protection Mechanism Funds"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Open topic: Uncovering the causes of specific species’ rapid decline and exploring actionable solutions",
+            "description": "This call seeks projects addressing the decline of common and widespread species by identifying underlying drivers, testing innovative conservation solutions, and supporting future upscaling and long-term monitoring, in support of the EU Biodiversity Strategy for 2030 and the Kunming–Montreal Global Biodiversity Framework.",
+            "link": "https://www.euro-access.eu/en/calls/2667/Open-topic-Uncovering-the-causes-of-specific-species-rapid-decline-and-exploring-actionable-solutions",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal",
+            "description": "This call seeks proposals that implement and demonstrate circular systemic solutions enabling urban manufacturers to increase resource efficiency and adopt clean, sustainable and circular business practices. Projects should support the clean industrial transition in urban contexts through improved knowledge sharing, digital tools, and multi-actor collaboration, contributing to EU climate, circularity, zero-pollution and biodiversity objectives in line with the Clean Industrial Deal and the Circular Cities and Regions Initiative.",
+            "link": "https://www.euro-access.eu/en/calls/2668/Open-topic-Using-the-Circular-Cities-and-Regions-Initiative-to-strengthen-urban-manufacturing-in-support-of-the-Clean-Industrial-Deal",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic)",
+            "description": "This call seeks proposals that deploy and upscale circular systemic solutions at city and regional level to increase circularity, reduce greenhouse gas emissions and environmental pollution, and support biodiversity preservation. Projects should establish living labs to co-create, test and optimise place-based solutions, strengthen collaboration among public authorities, industry, research and citizens, and enable replication and upscaling across European cities and regions in support of the Circular Cities and Regions Initiative.",
+            "link": "https://www.euro-access.eu/en/calls/2669/Deploying-circular-systemic-solutions-through-living-labs-in-cities-and-regions-Circular-Cities-and-Regions-Initiative-topic",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Decontaminate and bioremediate aquatic pollution",
+            "description": "This call seeks proposals that develop and demonstrate effective solutions—particularly based on life sciences and biotechnology—to bioremediate and decontaminate polluted aquatic ecosystems. Projects should improve monitoring and management of contaminants of emerging concern, such as PFAS, antimicrobial substances and microplastics, and advance understanding of their impacts and interlinkages across marine, surface and groundwater systems to strengthen ecosystem resilience.",
+            "link": "https://www.euro-access.eu/en/calls/2670/Decontaminate-and-bioremediate-aquatic-pollution",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Living labs for co-creating solutions for the restoration of ecosystems",
+            "description": "The EU biodiversity strategy for 2030 defines nature restoration objectives in line with target 2 of the Kunming-Montreal Global Biodiversity Framework. The EU Nature Restoration Regulation provides that Member States shall put in place effective and area-based restoration measures. Living labs have the potential to empower a green transition towards nature restoration and climate change mitigation and adaptation by developing solutions in a co-creative manner and involving actors in real life settings to achieve large-scale impact and foster collaboration between sectors and communities.",
+            "link": "https://www.euro-access.eu/en/calls/2671/Living-labs-for-co-creating-solutions-for-the-restoration-of-ecosystems",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Unlocking the potential of citizen action for nature protection and restoration",
+            "description": "The EU biodiversity strategy for 2030 acknowledges that protecting and restoring nature will need more than regulation alone and will notably require action by citizens. This topic intends to support citizens willing to take directly part in nature protection and restoration.",
+            "link": "https://www.euro-access.eu/en/calls/2672/Unlocking-the-potential-of-citizen-action-for-nature-protection-and-restoration",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-16",
+            "title": "Mainstreaming and scaling-up evidence-based Nature-Based Solutions towards a nature positive and climate-resilient economy",
+            "description": "Proposals should thrive to equip policymakers and practitioners with robust evidence, knowledge and practice on Nature-based Solutions (NbS). When implemented at scale, and following a credible design and  implementation approach thriving for ecosystem integrity and connectivity, NbS can deliver significant benefits and reduced costs.",
+            "link": "https://www.euro-access.eu/en/calls/2673/Mainstreaming-and-scaling-up-evidence-based-Nature-Based-Solutions-towards-a-nature-positive-and-climate-resilient-economy",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Open topic: Boosting organic farming for a competitive, sustainable and resilient farming sector",
+            "description": "This call seeks projects that address remaining research and innovation needs of the organic farming sector by developing and demonstrating safe, viable, and cost-effective innovations across diverse pedo-climatic conditions. Projects should strengthen the competitiveness, sustainability, and resilience of organic farming systems through multi-actor collaboration, knowledge exchange, and upscaling, while providing science-based evidence to support EU organic, agricultural, biodiversity, climate, and zero-pollution policies.",
+            "link": "https://www.euro-access.eu/en/calls/2682/Open-topic-Boosting-organic-farming-for-a-competitive-sustainable-and-resilient-farming-sector",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-14",
+            "title": "Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors",
+            "description": "This call seeks projects that develop, test, and scale innovative farming practices and technologies to improve the efficient and sustainable use of agricultural production factors. Projects should support the green transition towards biodiversity-friendly agriculture, strengthen the competitiveness and long-term sustainability of EU farming systems, and enable uptake through viable business models, multi-actor engagement, and effective dissemination.",
+            "link": "https://www.euro-access.eu/en/calls/2684/Open-topic-Improving-the-competitiveness-of-the-agricultural-sector-by-enhancing-the-efficient-and-sustainable-use-of-agricultural-production-factors",
+            "custom": {
+                "Funding Program": "Horizon Europe: Cluster 6 - Food, Bioeconomy, Natural Resources, Agriculture and Environment"
+            }
+        },
+        {
+            "deadline": "2026-04-28",
+            "title": "Supporting work-life balance, equal share of care responsibilities, family-friendly policies among employers and the value of care sector jobs",
+            "description": "This topic is one of the 4 priorities of the call for proposals for EU action grants to promote gender equality under the Citizens, Equality, Rights and Value Programme (CERV), supporting, advancing and implementing comprehensive policies to promote women’s full enjoyment of rights, gender equality, including work-life balance, equal pay between women and men, women’s empowerment and gender mainstreaming. This call adresses the following topic: Supporting work-life balance, equal share of care responsibilities, family-friendly policies among employers and the value of care sector jobs.",
+            "link": "https://www.euro-access.eu/en/calls/2717/Supporting-work-life-balance-equal-share-of-care-responsibilities-family-friendly-policies-among-employers-and-the-value-of-care-sector-jobs",
+            "custom": {
+                "Funding Program": "Citizens, Equality, Rights and Values programme"
+            }
+        },
+        {
+            "deadline": "2026-04-28",
+            "title": "Tackling gender stereotypes in media and advertising",
+            "description": "This topic is one of the 4 priorities of the call for proposals for EU action grants to promote gender equality under the Citizens, Equality, Rights and Value Programme (CERV), supporting, advancing and implementing comprehensive policies to promote women’s full enjoyment of rights, gender equality, including work-life balance, equal pay between women and men, women’s empowerment and gender mainstreaming. This call adresses the following topic: Tackling ender stereotypes in media and advertising.",
+            "link": "https://www.euro-access.eu/en/calls/2718/Tackling-gender-stereotypes-in-media-and-advertising",
+            "custom": {
+                "Funding Program": "Citizens, Equality, Rights and Values programme"
+            }
+        },
+        {
+            "deadline": "2026-04-28",
+            "title": "Supporting equal participation and representation of women and men in economic and political decision-making",
+            "description": "This topic is one of the 4 priorities of the call for proposals for EU action grants to promote gender equality under the Citizens, Equality, Rights and Value Programme (CERV), supporting, advancing and implementing comprehensive policies to promote women’s full enjoyment of rights, gender equality, including work-life balance, equal pay between women and men, women’s empowerment and gender mainstreaming. This call adresses the following topic: Supporting equal participation and representation of women and men in economic and political decision-making.",
+            "link": "https://www.euro-access.eu/en/calls/2719/Supporting-equal-participation-and-representation-of-women-and-men-in-economic-and-political-decision-making",
+            "custom": {
+                "Funding Program": "Citizens, Equality, Rights and Values programme"
+            }
+        },
+        {
+            "deadline": "2026-04-28",
+            "title": "Promoting and supporting the implementation of the provisions of the Pay Transparency Directive and respect of equal pay for equal work and work of equal value",
+            "description": "This topic is one of the 4 priorities of the call for proposals for EU action grants to promote gender equality under the Citizens, Equality, Rights and Value Programme (CERV), supporting, advancing and implementing comprehensive policies to promote women’s full enjoyment of rights, gender equality, including work-life balance, equal pay between women and men, women’s empowerment and gender mainstreaming. This call adresses the following topic: Promoting and supporting the implementation of the provisions of the Pay Transparency Directive and respect of equal pay for equal work and work of equal value.",
+            "link": "https://www.euro-access.eu/en/calls/2720/Promoting-and-supporting-the-implementation-of-the-provisions-of-the-Pay-Transparency-Directive-and-respect-of-equal-pay-for-equal-work-and-work-of-equal-value",
+            "custom": {
+                "Funding Program": "Citizens, Equality, Rights and Values programme"
             }
         }
     ]

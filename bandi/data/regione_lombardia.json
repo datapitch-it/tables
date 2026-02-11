@@ -1,6 +1,18 @@
 {
-    "scraping_timestamp": "2026-02-03 18:12:22",
+    "scraping_timestamp": "2026-02-11 15:44:54",
     "data": [
+        {
+            "deadline": "2026-02-26 16:00",
+            "title": "INVITO ALLA PRESENTAZIONE DI PROGETTI CULTURALI ANNO 2026 – SOGGETTI PARTECIPATI IN AMBITO CULTURALE AI SENSI DELL’ARTICOLO 8 DELLA L.R. 25/2016",
+            "description": "La Regione concede contributi per il sostegno di progetti e iniziative, relativamente ai soggetti partecipati in ambito culturale dalla Regione Lombardia, ai sensi dell'articolo 8 della legge regionale n. 25/2016.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/istituti-luoghi-culturali/invito-presentazione-progetti-culturali-anno-2026-soggetti-partecipati-ambito-culturale-sensi-articolo-8-l-r-25-2016-RLL12025051183",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
         {
             "deadline": "2026-04-30 12:00",
             "title": "Repository per le Scuole dell’Infanzia paritarie non comunali (anno 2026)",
@@ -98,7 +110,7 @@
             }
         },
         {
-            "deadline": "2026-02-06 17:00",
+            "deadline": "2026-02-13 17:00",
             "title": "Schede di Rilevazione Borse di Studio - DSU A.A. 2025-2026",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/schede-rilevazione-borse-studio-dsu-2025-2026-RLF12026051763",
@@ -158,18 +170,6 @@
             }
         },
         {
-            "deadline": "2026-02-05 16:00",
-            "title": "Bando a sostegno di iniziative di promozione educativa culturale realizzate da soggetti riconosciuti di rilevanza regionale per il quadriennio 2025-2028 - Contributi anno 2026",
-            "description": "Per il 2026, Regione Lombardia ha stanziato  300mila euro per iniziative di promozione educativa culturale realizzate da soggetti riconosciuti di rilevanza regionale per il quadriennio 2025-2028, individuati con decreto n. 216 del 13 gennaio 2026.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/bando-sostegno-iniziative-promozione-educativa-culturale-realizzate-soggetti-riconosciuti-rilevanza-regionale-quadriennio-2025-2028-contributi-anno-2026-RLL12025051343",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
             "deadline": "2026-04-23 17:00",
             "title": "Interventi per il sostegno di allievi con disabilità frequentanti i percorsi triennali/quadriennali/IV anno (IeFP) - a.f. 2025/2026. FSE+ 2021-2027",
             "description": "Il finanziamento, a valere sulle risorse del FSE+ 2021-2027, copre i costi del personale specializzato che opera in affiancamento alle attività ordinarie di aula, laboratorio e alternanza nell’ambito di progetti personalizzati.",
@@ -198,30 +198,6 @@
             "title": "Bando per la presentazione delle richieste di voucher formativo aziendale sulla linea competenze per la transizione industriale e la sostenibilita’ delle imprese",
             "description": "Bando per la presentazione delle richieste di voucher formativo aziendale sulla linea competenze per la transizione industriale e la sostenibilita’ delle imprese.\nLa riapertura dello sportello è fissata per martedì 8 gennaio 2026, dalle 10.00.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/formazione-professionale/bando-presentazione-richieste-voucher-formativo-aziendale-linea-competenze-transizione-industriale-sostenibilita-imprese-RLO12023033524",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-02-06 12:00",
-            "title": "ENTI ASSOCIATI- DOTAZIONI TECNICO STRUMENTALI, INSTALLAZIONE IMPIANTI, VEICOLI PER POLIZIA LOCALE 2026",
-            "description": "Bando per l’assegnazione di cofinanziamenti a favore degli Enti Locali per le funzioni di polizia locale, per l’acquisto di dotazioni tecnico strumentali, installazione impianti, rinnovo e incremento del parco veicoli, destinati alla polizia locale - Anno 2026 (l.r. 6/2015, artt. 8 e 25). D.d.s. 10 ottobre 2025 - n. 14094",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/sicurezza-stradale-urbana/enti-associati-dotazioni-tecnico-strumentali-installazione-impianti-veicoli-polizia-locale-2026-RLY12025051324",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-02-06 12:00",
-            "title": "ENTI SINGOLI, PROVINCE ED ENTI PARCO- DOTAZIONI TECNICO STRUMENTALI, INSTALLAZIONE IMPIANTI, VEICOLI PER POLIZIA LOCALE  2026",
-            "description": "Bando per l’assegnazione di cofinanziamenti a favore degli Enti Locali per le funzioni di polizia locale, per l’acquisto di dotazioni tecnico strumentali, installazione impianti, rinnovo e incremento del parco veicoli, destinati alla polizia locale - Anno 2026  (l.r. 6/2015, artt. 8 e 25). D.d.s. 10 ottobre 2025 - n. 14094",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sicurezza/sicurezza-stradale-urbana/enti-singoli-province-ed-enti-parco-dotazioni-tecnico-strumentali-installazione-impianti-veicoli-polizia-locale-2026-RLY12025051323",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -1050,18 +1026,6 @@
             "title": "Dote Impresa Collocamento Mirato Asse II - Provincia di Monza e Brianza",
             "description": "N/A",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/lavoro-occupazione/dote-impresa-collocamento-mirato-asse-ii-PR_MB_42025049616",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "N/A",
-                "Tipologia Scadenza": "N/A",
-                "Stanziamento": "N/A"
-            }
-        },
-        {
-            "deadline": "2026-02-06 16:00",
-            "title": "Monitoraggio Contributi di Gestione DSU -2024",
-            "description": "Comunicazione dati relativi alla gestione dei servizi per il diritto allo studio universitario destinato alla generalità degli studenti LR 33/2004 Annualità 2024.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/istruzione-formazione-lavoro/istruzione-superiore/monitoraggio-contributi-gestione-dsu-2024-RLF12025050024",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -3195,9 +3159,33 @@
         },
         {
             "deadline": "N/A",
-            "title": "INVITO ALLA PRESENTAZIONE DI PROGETTI CULTURALI ANNO 2026 – SOGGETTI PARTECIPATI IN AMBITO CULTURALE AI SENSI DELL’ARTICOLO 8 DELLA L.R. 25/2016",
-            "description": "La Regione concede contributi per il sostegno di progetti e iniziative, relativamente ai soggetti partecipati in ambito culturale dalla Regione Lombardia, ai sensi dell'articolo 8 della legge regionale n. 25/2016.",
-            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/istituti-luoghi-culturali/invito-presentazione-progetti-culturali-anno-2026-soggetti-partecipati-ambito-culturale-sensi-articolo-8-l-r-25-2016-RLL12025051183",
+            "title": "NIDI GRATIS PLUS - 2025/26 - Rendicontazione da parte dei Comuni",
+            "description": "Misura Nidi gratis plus 2025/2026. Prima finestra di rendicontazione dal 12 febbraio 2026 h.12.00 al 3 marzo 2026 h.12. 00, durante la quale i Comuni potranno rendicontare le mensilità di settembre, ottobre, novembre, dicembre 2025.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/comunita-diritti/sostegno-famiglia/nidi-gratis-plus-2025-26-anticipo-comuni-RLD12025045643",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Iscrizione all’Elenco regionale dei Rifugi Alpinistici e dei Rifugi Escursionistici",
+            "description": "I rifugi, non ancora iscritti all’Elenco regionale dei Rifugi Alpinistici e Rifugi Escursionistici, possono presentare istanza di iscrizione. Sono esclusi da tale adempimento i gestori che hanno già presentato la domanda in precedenza salvo il caso in cui debbano segnalare variazioni dei dati già inseriti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/amministrazione-territorio/promozione-territorio/iscrizione-elenco-regionale-rifugi-alpinistici-rifugi-escursionistici-ERSAFA1052020014263",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "PSN/PAC 2023-2027 “Insediamento giovani agricoltori” - Sviluppo Rurale/bando 2026",
+            "description": "INTERVENTO SRE01. Dotazione finanziaria di € 2.000.000,00. Domande dal 16 febbraio 2026 al 30 aprile 2026. Possono partecipare: titolare di una impresa agricola individuale; legale rappresentante di una società agricola di persone, di capitali o cooperativa.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-insediamento-giovani-agricoltori-sviluppo-rurale-bando-2026-RLM12026052310",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -3222,6 +3210,30 @@
             "title": "STUDI LEGALI/RIVALSE - DENUNCE SINISTRI CON FAUNA SELVATICA: richieste di risarcimento (e/o rivalse) per danni ai veicoli e/o lesioni a seguito sinistri con fauna selvatica riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali",
             "description": "Procedura riservata a studi legali, società di gestione sinistri, compagnie assicuratrici, Enti previdenziali per la presentazione di richieste di risarcimento danni e/o lesioni subiti sul territorio lombardo a seguito di sinistri di veicoli con fauna selvatica. \nPer le richieste di privati cittadini o imprese intestatarie del veicolo è disponibile la procedura RLA12023031363 (info e link nella sezione “Chi può partecipare”)",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/richieste-risarcimento-rivalse-danni-veicoli-lesioni-seguito-sinistri-fauna-selvatica-procedura-riservata-studi-legali-societ-gestione-sinistri-compagnie-assicuratrici-enti-previdenziali-RLA12025048663",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Dote Sport 2025 - Anno sportivo 2025/2026",
+            "description": "Dote Sport è un'iniziativa pensata per aiutare i nuclei familiari in condizioni economiche meno favorevoli ad avvicinare i propri figli allo sport. \nPresentazione della domanda dalle 10.00 del 18 febbraio 2026 entro e non oltre le ore 12.00 del 18 marzo 2026.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/sport-turismo/pratica-sport/bando-dote-sport-2025-anno-sportivo-2025-2026-RLAV2026052287",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Bando per l’individuazione dei soggetti che svolgono attivita’ di rilevanza regionale nel settore dello spettacolo per il triennio 2025-2027 – art. 7 della l.r. 25/2016: invio nuove istanze (biennio 2026-2027) e  attivazione monitoraggio soggetti già riconosciuti",
+            "description": "Sul territorio lombardo operano con continuità e professionalità numerosi soggetti di spettacolo che propongono iniziative culturali di elevato livello qualitativo. Attraverso il riconoscimento di rilevanza regionale Regione Lombardia intende proseguire nella valorizzazione del ruolo di questi soggetti.",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/cultura/attivita-culturali-spettacolo/bando-l-individuazione-soggetti-che-svolgono-attivit-rilevanza-regionale-settore-spettacolo-triennio-2025-2027-art-7-l-r-25-2016-RLL12025043743",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",
@@ -3282,6 +3294,18 @@
             "title": "PSN/PAC 2023-2027 \"Benessere animale\"  - Sviluppo Rurale/bando 2026",
             "description": "INTERVENTO SRA30. Dotazione finanziaria di € 5.000.000,00. Presentazione domande dal 15 marzo al 15 maggio 2026. Possono partecipare: allevatori singoli o associati, enti e altri soggetti di diritto pubblico, titolari di allevamenti.",
             "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/agricoltura-pesca/agricoltura/psn-pac-2023-2027-benessere-animale-anno-2026-sviluppo-rurale-bando-2025-RLM12025050463",
+            "custom": {
+                "Topics": "N/A",
+                "Area Classification": "N/A",
+                "Tipologia Scadenza": "N/A",
+                "Stanziamento": "N/A"
+            }
+        },
+        {
+            "deadline": "N/A",
+            "title": "Bando per l’assegnazione di contributi agli Enti locali per la rimozione di manufatti contenenti amianto da edifici pubblici e la loro sostituzione – Ed. 2026",
+            "description": "Con D.g.r. n. XII/5734 del 09/02/2026 sono stati approvati i \"Criteri per l'assegnazione di contributi agli Enti Locali per la rimozione di manufatti contenenti amianto da edifici pubblici e la loro sostituzione\" prevedendo una dotazione finanziaria pari a €11.500.000,00.\nIl decreto che approverà il bando attuativo sarà pubblicato, in questa pagina, entro i primi di marzo 2026 dove si potrà prendere visione delle caratteristiche specifiche dell'agevolazione e delle modalità di presentazione delle domande, tra cui la data di apertura e chiusura per la presentazione delle stesse.  \nE' possibile prendere visione degli atti approvati nella sezione \"Allegati\" (in fondo alla pagina).",
+            "link": "https://www.bandi.regione.lombardia.it/servizi/servizio/bandi/dettaglio/ambiente-energia/rifiuti-economia-circolare/bando-l-assegnazione-contributi-enti-locali-rimozione-manufatti-contenenti-amianto-edifici-pubblici-loro-sostituzione-ed-2026-RLT12026052304",
             "custom": {
                 "Topics": "N/A",
                 "Area Classification": "N/A",

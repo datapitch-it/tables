@@ -1,42 +1,6 @@
 {
-    "scraping_timestamp": "2026-02-01 06:56:20",
+    "scraping_timestamp": "2026-02-03 18:07:30",
     "data": [
-        {
-            "deadline": "2026-02-01",
-            "title": "Climate-Smart Forestry: finanziamenti per progetti pilota con il coinvolgimento di cittadini e stakeholder",
-            "description": "L’obiettivo è rafforzare la capacità delle foreste europee di reagire agli impatti della crisi climatica",
-            "link": "https://first.art-er.it/news/coinvolgimento-civico-e-foreste-aperto-nuovo-bando-0",
-            "custom": {
-                "Topics": "Cascade funding",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "€ 750.000"
-            }
-        },
-        {
-            "deadline": "2026-02-01",
-            "title": "Next Generation Internet: tre nuovi bandi per un ecosistema digitale aperto e inclusivo",
-            "description": "Nell'ambito dei progetti di Next Generation Internet della Commissione europea sono aperte, fino al 1° febbraio 2026, nuove call per soluzioni sul futuro di internet",
-            "link": "https://first.art-er.it/news/ngi-innovazione-digitale-internet-del-futuro",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "Fino a 50.000 € a progetto"
-            }
-        },
-        {
-            "deadline": "2026-02-02",
-            "title": "Call per esperti UE su ricerca e innovazione nell'automotive",
-            "description": "La Commissione seleziona esperti per supportare le future politiche",
-            "link": "https://first.art-er.it/news/call-esperti-ue-linnovazione-automotive",
-            "custom": {
-                "Topics": "N/A",
-                "Area Classification": "Unione Europea",
-                "Tipologia Scadenza": "Singola",
-                "Stanziamento": "N/A"
-            }
-        },
         {
             "deadline": "2026-02-04",
             "title": "Al via la open call per innovazione e sicurezza delle infrastrutture urbane",
